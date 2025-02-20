@@ -56,6 +56,33 @@ random packages
 sys package is requred
 
 
+
+python Animation.py 00 to run the simulation
+
+***Running Parameter Sweeps (Bash Script) ****
+
+chmod +x parameter.sweeps.sh
+./parameter.sweeps.sh
+
+
+-------   Runs multiple simulations with different population settings and stores results in simulation_output.csv.
+
+
+
+📊 Key Features & Functionality
+✅ OOP Design: Implements classes for Humans, Vampires, and Items (Food, Water, Garlic).
+✅ Randomized Movement: Humans move 4 spaces, Vampires move 8 spaces.
+✅ Health Dynamics:
+
+Humans gain/lose health based on interactions.
+Vampires can infect humans.
+Food, Water, and Garlic impact human health.
+✅ Data Logging: Saves initial and final counts to simulation_output.csv.
+✅ Parameter Sweep Automation: Bash script runs multiple simulations for analysis.
+
+
+
+
 # 
 # Aurthor 
 #        Dhrubo Jouti Das Troyee
