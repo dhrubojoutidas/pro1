@@ -11,6 +11,7 @@ This repository contains my submission for **Exercise 2** in **ISEN1000 - Introd
 ## 📂 **Repository Structure**  
 
 ISEN_E2_Tri3.pdf ---- Contains the question
+ISEN_Ex_2_ALL_Code file  --contains coding for all  specific task
 📁 **1. Agile Project Management**  
 - 📜 `Exercise Submission 2_Trimester 3_ 2023.pdf.pdf` - Task dependencies, AON graph, Critical Path Method (CPM), PERT Chart, Kanban Board.  
 - **Topics Covered**:  
@@ -19,7 +20,7 @@ ISEN_E2_Tri3.pdf ---- Contains the question
   - Responsibilities of Scrum Master, Product Owner & Development Team  
 
 📁 **2. Functional & Non-Functional Requirements**  
-- 📜 `requirements_analysis.pdf` - Stakeholders, User Stories, Use Case Diagrams, Reliability Metrics.  
+- 📜  - Stakeholders, User Stories, Use Case Diagrams, Reliability Metrics.  
 - **Key Sections**:  
   - Online Weather Update & Rental Booking Applications  
   - System Reliability Metrics (MTTF, MTBF, ROCOF)  
@@ -48,7 +49,7 @@ ISEN_E2_Tri3.pdf ---- Contains the question
   - Implemented modular programming principles  
 
 📁 **5. Ethics & Professionalism in Software Engineering**  
-- 📜 `ethics_analysis.pdf` - Case studies on ethical concerns in software development  
+- 📜  - Case studies on ethical concerns in software development  
 - **Case Studies**:  
   - **Online Flight Tracking Software (Flightradar24)**
   - **Video Calling Software** - Project Management Failures & Delays  
