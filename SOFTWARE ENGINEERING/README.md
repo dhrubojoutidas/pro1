@@ -10,8 +10,9 @@ This repository contains my submission for **Exercise 2** in **ISEN1000 - Introd
 
 ## 📂 **Repository Structure**  
 
+ISEN_E2_Tri3.pdf ---- Contains the question
 📁 **1. Agile Project Management**  
-- 📜 `project_management.pdf` - Task dependencies, AON graph, Critical Path Method (CPM), PERT Chart, Kanban Board.  
+- 📜 `Exercise Submission 2_Trimester 3_ 2023.pdf.pdf` - Task dependencies, AON graph, Critical Path Method (CPM), PERT Chart, Kanban Board.  
 - **Topics Covered**:  
   - Sprint Backlog Adjustments  
   - Burn-up Charts for Progress Tracking  
