@@ -4,4 +4,6 @@
 🔧 Skills: Python, C, SQL, Unix, Git  
 🚀 Looking for IT support & networking internships  
 
-🔗 Connect with me on 
+🔗 Connect with me on  Linkedin   www.linkedin.com/in/troyee-dhrubo-43ab83351
+
+
