@@ -21,15 +21,12 @@ Timestamp.
 Temperature & gas levels (if fire risk is detected).
 GPS-Based Location Tracking: NEO-6M GPS module provides accurate latitude/longitude for rescue teams.
 
-Cloud Integration with Firebase:
-
-1. Stores real-time sensor data
-
-2. Triggers Cloud Functions
-
-3. Maintains accident history logs
-
-4. Ensures secure HTTPS communication
+**Cloud Integration with Firebase:
+**
+1. Stores real-time sensor data.
+2. Triggers Cloud Functions.
+3. Maintains accident history logs.
+4. Ensures secure HTTPS communication.
 
 Web Dashboard (Live Monitoring):
 Built with HTML, CSS, JavaScript, Chart.js, showing:
