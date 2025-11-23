@@ -19,7 +19,7 @@ This project is a real-time IoT accident detection and alert system that uses mu
  4. Temperature & gas levels (if fire risk is detected).
  5. GPS-Based Location Tracking: NEO-6M GPS module provides accurate latitude/longitude for rescue teams.
 
-**Cloud Integration with Firebase:**
+**- Cloud Integration with Firebase:**
 
 1. Stores real-time sensor data.
 2. Triggers Cloud Functions.
