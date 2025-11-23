@@ -34,13 +34,9 @@ Built with HTML, CSS, JavaScript, Chart.js, showing:
 3. Accident event logs.
 4. Status updates.
 
-**- False-Alarm Prevention:**
+**- False-Alarm Prevention:** Includes a 10-second cancel button to stop alerts if the user is safe.
 
-Includes a 10-second cancel button to stop alerts if the user is safe.
-
-**- Scalable Architecture:** 
-
-Can be extended to ambulance notification, hospital routing, or insurance reporting.
+**- Scalable Architecture:** Can be extended to ambulance notification, hospital routing, or insurance reporting.
 
 **🧩 Hardware Components**
 
