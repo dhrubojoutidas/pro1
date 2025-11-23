@@ -35,8 +35,8 @@ Built with HTML, CSS, JavaScript, Chart.js, showing:
 2. Map visualization.
 3. Accident event logs.
 4. Status updates.
-**
-False-Alarm Prevention:**
+
+**False-Alarm Prevention:**
 Includes a 10-second cancel button to stop alerts if the user is safe.
 
 **Scalable Architecture:**
@@ -56,36 +56,26 @@ Can be extended to ambulance notification, hospital routing, or insurance report
 
 **🧠 Software/Tech Stack**
 
-Firmware: Arduino C/C++
+1. Firmware: Arduino C/C++.
+2. Cloud: Firebase Firestore, Cloud Functions.
+3. APIs: Twilio SMS, Google Maps/Geocoding.
+4. Frontend: HTML, CSS, JavaScript, Chart.js.
+5. Communication: HTTP/HTTPS, JSON
 
-Cloud: Firebase Firestore, Cloud Functions
+**📸 System Workflow**
 
-APIs: Twilio SMS, Google Maps/Geocoding
+1. Sensors continuously monitor acceleration, vibration, alcohol level, temperature, and gas.
+2. If an accident is detected:
 
-Frontend: HTML, CSS, JavaScript, Chart.js
+ - System starts a 10-second safety countdown.
+ - If not cancelled, data is pushed to Firebase.
 
-Communication: HTTP/HTTPS, JSON
+3. Firebase Cloud Function triggers a Twilio SMS alert.
+4. Dashboard displays accident location + sensor data history.
 
-📸 System Workflow
+**🎯 Project Outcomes**
 
-Sensors continuously monitor acceleration, vibration, alcohol level, temperature, and gas.
-
-If an accident is detected:
-
-System starts a 10-second safety countdown.
-
-If not cancelled, data is pushed to Firebase.
-
-Firebase Cloud Function triggers a Twilio SMS alert.
-
-Dashboard displays accident location + sensor data history.
-
-🎯 Project Outcomes
-
-Reduced emergency response time
-
-Accurate and reliable detection using sensor fusion
-
-Secure cloud communication
-
-Real-time monitoring and historic data visualization
+1. Reduced emergency response time.
+2. Accurate and reliable detection using sensor fusion.
+3. Secure cloud communication.
+4. Real-time monitoring and historic data visualization
