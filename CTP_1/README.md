@@ -28,44 +28,33 @@ GPS-Based Location Tracking: NEO-6M GPS module provides accurate latitude/longit
 3. Maintains accident history logs.
 4. Ensures secure HTTPS communication.
 
-Web Dashboard (Live Monitoring):
+**Web Dashboard (Live Monitoring):**
 Built with HTML, CSS, JavaScript, Chart.js, showing:
 
-1. Live sensor readings
-
-2. Map visualization
-
-3. Accident event logs
-
-4. Status updates
-
-False-Alarm Prevention:
+1. Live sensor readings.
+2. Map visualization.
+3. Accident event logs.
+4. Status updates.
+**
+False-Alarm Prevention:**
 Includes a 10-second cancel button to stop alerts if the user is safe.
 
-Scalable Architecture:
+**Scalable Architecture:**
 Can be extended to ambulance notification, hospital routing, or insurance reporting.
 
-🧩 Hardware Components
+**🧩 Hardware Components**
 
-Arduino MKR WiFi 1010
+1. Arduino MKR WiFi 1010.
+2. MPU6050 accelerometer.
+3. SW-420 vibration sensor.
+4. MQ-2 gas sensor.
+5. MQ-3 alcohol sensor.
+6. DHT11 temperature & humidity.
+7. GPS NEO-6M module.
+8. Buzzer + OLED Display.
+9. Twilio + Firebase Cloud Services.
 
-MPU6050 accelerometer
-
-SW-420 vibration sensor
-
-MQ-2 gas sensor
-
-MQ-3 alcohol sensor
-
-DHT11 temperature & humidity
-
-GPS NEO-6M module
-
-Buzzer + OLED Display
-
-Twilio + Firebase Cloud Services
-
-🧠 Software/Tech Stack
+**🧠 Software/Tech Stack**
 
 Firmware: Arduino C/C++
 
