@@ -9,7 +9,9 @@ This project is a real-time IoT accident detection and alert system that uses mu
 
 **🔥 Key Features**
 
- - **Accident Detection (Real-Time):** Uses MPU6050 accelerometer + SW-420 vibration sensor to detect sudden impacts or crashes.
+ **- Accident**
+** -  Detection (Real-Time):**
+ -  Uses MPU6050 accelerometer + SW-420 vibration sensor to detect sudden impacts or crashes.
 
 **Automatic Emergency Alerts:**
  Sends SMS alerts instantly using Twilio API, including:
