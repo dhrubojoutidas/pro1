@@ -6,6 +6,8 @@ _Arduino MKR WiFi 1010 • Firebase • Twilio SMS • Google Maps API_
 
 This project is a real-time IoT accident detection and alert system that uses multiple sensors to detect emergencies and automatically notify family members or medical services. It integrates embedded hardware, cloud automation, and web visualization—making it a complete end-to-end IoT solution.
 
+
+
 🔥 Key Features
 
 Accident Detection (Real-Time):
