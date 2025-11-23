@@ -9,19 +9,15 @@ This project is a real-time IoT accident detection and alert system that uses mu
 
 **🔥 Key Features**
 
- **- Accident**
+ **- Accident Detection (Real-Time):**  Uses MPU6050 accelerometer + SW-420 vibration sensor to detect sudden impacts or crashes.
  
-**- Detection (Real-Time):**
- -  Uses MPU6050 accelerometer + SW-420 vibration sensor to detect sudden impacts or crashes.
+**- Automatic Emergency Alerts:**  Sends SMS alerts instantly using Twilio API, including:
 
-**Automatic Emergency Alerts:**
- Sends SMS alerts instantly using Twilio API, including:
-
-GPS coordinates of location.
-Accident severity.
-Timestamp.
-Temperature & gas levels (if fire risk is detected).
-GPS-Based Location Tracking: NEO-6M GPS module provides accurate latitude/longitude for rescue teams.
+ 1. GPS coordinates of location.
+ 2. Accident severity.
+ 3. Timestamp.
+ 4. Temperature & gas levels (if fire risk is detected).
+ 5. GPS-Based Location Tracking: NEO-6M GPS module provides accurate latitude/longitude for rescue teams.
 
 **Cloud Integration with Firebase:**
 
