@@ -12,7 +12,7 @@ This project is a real-time IoT accident detection and alert system that uses mu
  - **Accident Detection (Real-Time):** Uses MPU6050 accelerometer + SW-420 vibration sensor to detect sudden impacts or crashes.
 
 **  Automatic Emergency Alerts:** 
-Sends SMS alerts instantly using Twilio API, including:
+ Sends SMS alerts instantly using Twilio API, including:
 
 GPS coordinates of location.
 Accident severity.
@@ -36,9 +36,11 @@ Built with HTML, CSS, JavaScript, Chart.js, showing:
 4. Status updates.
 
 **False-Alarm Prevention:**
+
 Includes a 10-second cancel button to stop alerts if the user is safe.
 
-**Scalable Architecture:**
+**Scalable Architecture:** 
+
 Can be extended to ambulance notification, hospital routing, or insurance reporting.
 
 **🧩 Hardware Components**
