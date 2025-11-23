@@ -23,7 +23,7 @@ GPS-Based Location Tracking: NEO-6M GPS module provides accurate latitude/longit
 
 Cloud Integration with Firebase:
 
-1Stores real-time sensor data
+1. Stores real-time sensor data
 
 Triggers Cloud Functions
 
