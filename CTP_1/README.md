@@ -25,22 +25,22 @@ Cloud Integration with Firebase:
 
 1. Stores real-time sensor data
 
-Triggers Cloud Functions
+2. Triggers Cloud Functions
 
-Maintains accident history logs
+3. Maintains accident history logs
 
-Ensures secure HTTPS communication
+4. Ensures secure HTTPS communication
 
 Web Dashboard (Live Monitoring):
 Built with HTML, CSS, JavaScript, Chart.js, showing:
 
-Live sensor readings
+1. Live sensor readings
 
-Map visualization
+2. Map visualization
 
-Accident event logs
+3. Accident event logs
 
-Status updates
+4. Status updates
 
 False-Alarm Prevention:
 Includes a 10-second cancel button to stop alerts if the user is safe.
