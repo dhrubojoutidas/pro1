@@ -1,5 +1,3 @@
-
-✔️ dbs_olympic_dataset --  contains some both SQL & py files to run the code 
 # 🏅 Olympic Games Data Project
 
 Hi, welcome to my project!  
