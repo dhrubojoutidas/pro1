@@ -1,16 +1,3 @@
-### Hi, I'm Troyee 👋  
-🎓 3rd -year student at Curtin University (Computer Systems & Networking)  
-💻 Passionate about IT, Networking and System Programming  
-🔧 Skills: Python, C, SQL, Unix, Git  
-🚀 Looking for IT support & networking internships  
-
-🔗 Connect with me on  Linkedin   www.linkedin.com/in/troyee-dhrubo-43ab83351
-
-
-all my work is HERE!!!
-📋 Repositories   ----      https://github.com/dhrubojoutidas/pro1
-
-
 # 📘 Dhrubo Jouti Das – Academic Portfolio
 ### Computer Systems & Networking | IT Support | Cybersecurity
 
