@@ -65,6 +65,7 @@ Each folder contains:
 **System Admin:** Windows Server • Linux • LDAP • SMB • FTP  
 **Security:** CyberOps • SIEM • Threat Detection  
 **Programming:** Python • C • SQL • Bash (AWK, SED, GREP)
+
 **Tools:** Packet Tracer • VMware • VS Code • Wireshark • Logisim  • Arduino IDE 
 
 ---
