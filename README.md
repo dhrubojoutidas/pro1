@@ -119,12 +119,12 @@ Each folder contains:
 ## 🎖️ Certifications
 
 [![CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](YOUR-CYBEROPS-VERIFICATION-LINK)
+
 [![Network Security](https://img.shields.io/badge/Cisco-Network_Security-blue?logo=cisco)](YOUR-NETSEC-VERIFICATION-LINK)
+
 [![ITN](https://img.shields.io/badge/CCNA-Introduction_to_Networks-blue?logo=cisco)](YOUR-ITN-VERIFICATION-LINK)
+
 [![SRWE](https://img.shields.io/badge/CCNA-Switching,_Routing_&_Wireless_Essentials-blue?logo=cisco)](YOUR-SRWE-VERIFICATION-LINK)
-[![Enterprise Networking, Security & Automation](https://img.shields.io/badge/CCNA-ENSA-blue?logo=cisco)](YOUR-ENSA-VERIFICATION-LINK)
-
-
 
 [![ENSA](https://img.shields.io/badge/CCNA-Enterprise_Networking,_Security_&_Automation-blue?logo=cisco)](YOUR-ENSA-VERIFICATION-LINK)
 
