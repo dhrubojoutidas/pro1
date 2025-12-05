@@ -194,8 +194,6 @@ Each folder contains:
 Weekdays – Part-time  
 Weekends – Fully Available  
 
-**References:** Available upon request
 
 ---
 
-Would you like me to generate this as a GitHub page or help you paste it into your repo? I can also create README templates for each unit folder next.
