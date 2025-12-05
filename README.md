@@ -118,17 +118,10 @@ Each folder contains:
 
 ## 🎖️ Certifications
 
-[![CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/YOUR-CYBEROPS-LINK)  
-[![Network Security](https://img.shields.io/badge/Cisco-Network_Security-blue?logo=cisco)](https://www.credly.com/badges/YOUR-NETSEC-LINK)  
-[![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue?logo=cisco)](https://www.credly.com/badges/YOUR-CCNA-LINK)
-
 [![CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](YOUR-CYBEROPS-VERIFICATION-LINK)
-
 [![Network Security](https://img.shields.io/badge/Cisco-Network_Security-blue?logo=cisco)](YOUR-NETSEC-VERIFICATION-LINK)
-
 [![ITN](https://img.shields.io/badge/CCNA-Introduction_to_Networks-blue?logo=cisco)](YOUR-ITN-VERIFICATION-LINK)
-[![SRWE](https://img.shields.io/badge/CCNA-SRWE-blue?logo=cisco)](YOUR-SRWE-VERIFICATION-LINK)
-
+[![SRWE](https://img.shields.io/badge/CCNA-Switching,_Routing_&_Wireless_Essentials-blue?logo=cisco)](YOUR-SRWE-VERIFICATION-LINK)
 [![Enterprise Networking, Security & Automation](https://img.shields.io/badge/CCNA-ENSA-blue?logo=cisco)](YOUR-ENSA-VERIFICATION-LINK)
 
 
