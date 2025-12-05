@@ -5,8 +5,7 @@
 📞 0481 576 404  
 ✉️ dhrubod513@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](
-www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351
- www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)  
+www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)  
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)]( https://github.com/dhrubojoutidas/pro1 )
 
  www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351
