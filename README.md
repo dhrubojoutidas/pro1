@@ -17,7 +17,7 @@ all my work is HERE!!!
 📍 Cannington, WA  
 📞 0481 576 404  
 ✉️ dhrubod513@gmail.com  
-🔗 LinkedIn: linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351  
+🔗 LinkedIn: www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351
 🔗 GitHub: github.com/dhrubojoutidas  
 
 ---
