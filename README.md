@@ -1,5 +1,5 @@
 # 📘 Dhrubo Jouti Das – Academic Portfolio
-### Computer Systems & Networking | IT Support | Cybersecurity
+### Computer Systems & Networking | IT Support | Cybersecurity |Embedded Systems
 
 📍 Cannington, WA  
 📞 0481 576 404  
@@ -7,15 +7,9 @@
 🔗 LinkedIn: www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351
 🔗 GitHub:  https://github.com/dhrubojoutidas/pro1 
 
-## 📘 **Dhrubo Jouti Das – Academic Portfolio**
-
-### *Final-year Computer Systems & Networking Student | IT Support | Cybersecurity | Embedded Systems*
-
-📍 Cannington, WA  
-📞 0481 576 404  
-✉️ dhrubod513@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)  
-[![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)](https://github.com/dhrubojoutidas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](
+ www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)  
+[![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)]( https://github.com/dhrubojoutidas/pro1 )
 
 ---
 
