@@ -12,7 +12,7 @@ GitHub :https://github.com/dhrubojoutidas/pro1
 ---
 
 ## 🎓 About This Portfolio
-This repository contains all major assignments, labs, and projects completed during my Diploma (Curtin College) and Bachelor of Technology in Computer Systems & Networking (Curtin University).
+This repository contains all  assignments, labs, and projects completed during my Diploma (Curtin College) and Bachelor of Technology in Computer Systems & Networking (Curtin University).
 
 It demonstrates hands-on experience in:
 
