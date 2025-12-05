@@ -147,12 +147,6 @@ Awesome, Dhrubo — let’s make your GitHub portfolio README **look sharp, clic
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)  
 ![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnubash&logoColor=white)
 
-### 🧰 Tools  
-![Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)  
-![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
-![Logisim](https://img.shields.io/badge/-Logisim-FFCC00?logo=logic&logoColor=black)
 
 ---
 
