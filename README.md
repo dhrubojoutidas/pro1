@@ -69,6 +69,9 @@ Each folder contains:
 **Tools:** Packet Tracer • VMware • VS Code • Wireshark • Logisim  • Arduino IDE 
 
 
+[![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
+
+[![Cisco CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/YOUR-CERT-ID)
 
 
 ## 🛠️ Tools & Technologies
