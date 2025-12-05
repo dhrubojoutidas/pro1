@@ -124,6 +124,14 @@ Each folder contains:
 
 [![Network Security](https://img.shields.io/badge/Cisco-Network_Security-blue?logo=cisco)](YOUR-NETSEC-VERIFICATION-LINK)
 
+[![ITN](https://img.shields.io/badge/CCNA-Introduction_to_Networks-blue?logo=cisco)](YOUR-ITN-VERIFICATION-LINK)
+[![SRWE](https://img.shields.io/badge/CCNA-SRWE-blue?logo=cisco)](YOUR-SRWE-VERIFICATION-LINK)
+
+[![ENSA](https://img.shields.io/badge/CCNA-ENSA-blue?logo=cisco)](YOUR-ENSA-VERIFICATION-LINK)
+
+
+
+
 
 ---
 
