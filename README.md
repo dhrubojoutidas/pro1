@@ -39,23 +39,23 @@ Each folder contains:
 
 ## 🚀 Highlighted Projects
 
-### **IoT Accident Detection System**
+### 🛠️ IoT Accident Detection System  
 - Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
-- Firebase Cloud Functions + Twilio API for SMS alerts
-- Real-time dashboard with  HTML/CSS/ & Chart.js  
+- Firebase Cloud Functions + Twilio API for SMS alerts  
+- Real-time dashboard with Chart.js  
 - Sensor fusion + false-positive reduction logic  
 
-### **Tank Shooter Game (C)**
+### 🎮 Tank Shooter Game (C)  
 - 2D shooter  
 - Collision detection  
 - Game loop logic  
 
-### **SQL Olympics Data Analysis**
+### 📊 SQL Olympics Data Analysis  
 - Query optimisation  
 - Reporting  
 - Data modelling  
 
-### **Python Automation**
+### 🐍 Python Automation  
 - File handling  
 - Data processing  
 - Calculations  
@@ -162,30 +162,7 @@ Awesome, Dhrubo — let’s make your GitHub portfolio README **look sharp, clic
 
 ---
 
-## 🚀 Projects
 
-### 🛠️ IoT Accident Detection System  
-- Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
-- Firebase Cloud Functions + Twilio API for SMS alerts  
-- Real-time dashboard with Chart.js  
-- Sensor fusion + false-positive reduction logic  
-
-### 🎮 Tank Shooter Game (C)  
-- 2D shooter  
-- Collision detection  
-- Game loop logic  
-
-### 📊 SQL Olympics Data Analysis  
-- Query optimisation  
-- Reporting  
-- Data modelling  
-
-### 🐍 Python Automation  
-- File handling  
-- Data processing  
-- Calculations  
-
----
 
 ## 📂 Coursework Portfolio
 
