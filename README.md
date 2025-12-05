@@ -84,6 +84,8 @@ Each folder contains:
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00979D?logo=arduino&logoColor=white)
+
 
 ---
 
