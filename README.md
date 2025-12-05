@@ -18,7 +18,7 @@ all my work is HERE!!!
 📞 0481 576 404  
 ✉️ dhrubod513@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351
-🔗 GitHub: github.com/dhrubojoutidas  
+🔗 GitHub:  https://github.com/dhrubojoutidas/pro1 
 
 ---
 
