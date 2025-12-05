@@ -131,19 +131,10 @@ Each folder contains:
 ---
 
 ## 📬 Contact
-Available for part-time IT Support roles.  
-Weekdays: Part-time  
-Weekends: Fully available  
 
-
-
-Awesome, Dhrubo — let’s make your GitHub portfolio README **look sharp, clickable, and recruiter-ready**. Here's the **polished version** with:
-
-- ✅ Clickable certification badges  
-- ✅ Tool icons that look like real logos  
-- ✅ Clean layout with emojis  
-- ✅ LinkedIn and GitHub buttons  
-- ✅ Collapsible sections for neatness  
+**Availability:**  
+Weekdays – Part-time  
+Weekends – Fully Available  
 
 ---
 
@@ -187,11 +178,7 @@ Each folder contains:
 
 ---
 
-## 📬 Contact
 
-**Availability:**  
-Weekdays – Part-time  
-Weekends – Fully Available  
 
 
 ---
