@@ -120,7 +120,7 @@ Each folder contains:
 
 [![CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/5bfceb3a-1b9d-4bcd-9fdd-65cd1f0ab715)
 
-[![Network Security](https://img.shields.io/badge/Cisco-Network_Security-blue?logo=cisco)](YOUR-NETSEC-VERIFICATION-LINK)
+[![Network Security](https://img.shields.io/badge/Cisco-Network_Security-blue?lo**Issued:** Oct 2025go=cisco)](YOUR-NETSEC-VERIFICATION-LINK)
 
 [![ITN](https://img.shields.io/badge/CCNA-Introduction_to_Networks-blue?logo=cisco)](YOUR-ITN-VERIFICATION-LINK)
 
