@@ -1,3 +1,5 @@
+
+
 # 📘 Dhrubo Jouti Das – Academic Portfolio
 ### Computer Systems & Networking | IT Support | Cybersecurity |Embedded Systems
 
@@ -131,6 +133,7 @@ Each folder contains:
 
 
 
+[![ENSA](https://img.shields.io/badge/CCNA-Enterprise_Networking,_Security_&_Automation-blue?logo=cisco)](YOUR-ENSA-VERIFICATION-LINK)
 
 
 ---
