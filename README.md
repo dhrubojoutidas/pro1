@@ -38,9 +38,9 @@ Each folder contains:
 ## 🚀 Highlighted Projects
 
 ### **IoT Accident Detection System**
-- Arduino MKR WiFi 1010 + sensors  
-- Firebase Cloud Functions + Twilio API  
-- Real-time dashboard with Chart.js  
+- Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
+- Firebase Cloud Functions + Twilio API for SMS alerts
+- Real-time dashboard with  HTML/CSS/ & Chart.js  
 - Sensor fusion + false-positive reduction logic  
 
 ### **Tank Shooter Game (C)**
@@ -64,8 +64,8 @@ Each folder contains:
 **Networking:** VLANs • Routing • DHCP • NAT • Network Security  
 **System Admin:** Windows Server • Linux • LDAP • SMB • FTP  
 **Security:** CyberOps • SIEM • Threat Detection  
-**Programming:** Python • C • SQL • Bash  
-**Tools:** Packet Tracer • VMware • VS Code • Wireshark • Logisim  
+**Programming:** Python • C • SQL • Bash (AWK, SED, GREP)
+**Tools:** Packet Tracer • VMware • VS Code • Wireshark • Logisim  • Arduino IDE 
 
 ---
 
