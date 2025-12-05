@@ -115,10 +115,11 @@ Each folder contains:
 
 ---
 
-## 🎓 Certifications
-- Cisco CyberOps Associate  
-- Cisco Network Security  
-- CCNA (3 modules)  
+## 🎖️ Certifications
+
+[![CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/YOUR-CYBEROPS-LINK)  
+[![Network Security](https://img.shields.io/badge/Cisco-Network_Security-blue?logo=cisco)](https://www.credly.com/badges/YOUR-NETSEC-LINK)  
+[![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue?logo=cisco)](https://www.credly.com/badges/YOUR-CCNA-LINK)
 
 ---
 
@@ -135,17 +136,6 @@ Each folder contains:
 Weekdays – Part-time  
 Weekends – Fully Available  
 
----
-
-
-
-
-
-## 🎖️ Certifications
-
-[![CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/YOUR-CYBEROPS-LINK)  
-[![Network Security](https://img.shields.io/badge/Cisco-Network_Security-blue?logo=cisco)](https://www.credly.com/badges/YOUR-NETSEC-LINK)  
-[![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue?logo=cisco)](https://www.credly.com/badges/YOUR-CCNA-LINK)
 
 ---
 
