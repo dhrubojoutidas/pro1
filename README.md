@@ -127,7 +127,7 @@ Each folder contains:
 [![ITN](https://img.shields.io/badge/CCNA-Introduction_to_Networks-blue?logo=cisco)](YOUR-ITN-VERIFICATION-LINK)
 [![SRWE](https://img.shields.io/badge/CCNA-SRWE-blue?logo=cisco)](YOUR-SRWE-VERIFICATION-LINK)
 
-[![ENSA](https://img.shields.io/badge/CCNA-ENSA-blue?logo=cisco)](YOUR-ENSA-VERIFICATION-LINK)
+[![ENSA Enterprise Networking, Security & Automation ](https://img.shields.io/badge/CCNA-ENSA-blue?logo=cisco)](YOUR-ENSA-VERIFICATION-LINK)
 
 
 
