@@ -8,7 +8,7 @@
   www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)]( https://github.com/dhrubojoutidas/pro1 )
 
- www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351
+ 
 ---
 
 ## 🎓 About This Portfolio
