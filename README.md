@@ -126,17 +126,7 @@ Awesome, Dhrubo — let’s make your GitHub portfolio README **look sharp, clic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)  
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)](https://github.com/dhrubojoutidas)
 
----
 
-## 📑 Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Certifications](#certifications)
-- [Projects](#projects)
-- [Coursework Portfolio](#coursework-portfolio)
-- [Contact](#contact)
-
----
 
 ## 👨‍💻 About Me
 
