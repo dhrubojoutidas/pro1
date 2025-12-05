@@ -24,3 +24,67 @@ It demonstrates hands-on experience in:
 ---
 
 ## 🧭 Repository Structure
+
+
+Each folder contains:
+- ✅ Assignments  
+- ✅ Lab sheets  
+- ✅ Source code  
+- ✅ Reports  
+- ✅ Documentation  
+
+---
+
+## 🚀 Highlighted Projects
+
+### **IoT Accident Detection System**
+- Arduino MKR WiFi 1010 + sensors  
+- Firebase Cloud Functions + Twilio API  
+- Real-time dashboard with Chart.js  
+- Sensor fusion + false-positive reduction logic  
+
+### **Tank Shooter Game (C)**
+- 2D shooter  
+- Collision detection  
+- Game loop logic  
+
+### **SQL Olympics Data Analysis**
+- Query optimisation  
+- Reporting  
+- Data modelling  
+
+### **Python Automation**
+- File handling  
+- Data processing  
+- Calculations  
+
+---
+
+## 🛠️ Technical Skills
+**Networking:** VLANs • Routing • DHCP • NAT • Network Security  
+**System Admin:** Windows Server • Linux • LDAP • SMB • FTP  
+**Security:** CyberOps • SIEM • Threat Detection  
+**Programming:** Python • C • SQL • Bash  
+**Tools:** Packet Tracer • VMware • VS Code • Wireshark • Logisim  
+
+---
+
+## 🎓 Certifications
+- Cisco CyberOps Associate  
+- Cisco Network Security  
+- CCNA (3 modules)  
+
+---
+
+## 💼 Work Experience
+- Customer Service – Bentley Spices  
+- Kitchen Hand – TGI Fridays  
+- Sales Assistant – Shwapno  
+
+---
+
+## 📬 Contact
+Available for part-time IT Support roles.  
+Weekdays: Part-time  
+Weekends: Fully available  
+
