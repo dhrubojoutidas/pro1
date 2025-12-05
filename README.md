@@ -120,6 +120,11 @@ Each folder contains:
 [![Network Security](https://img.shields.io/badge/Cisco-Network_Security-blue?logo=cisco)](https://www.credly.com/badges/YOUR-NETSEC-LINK)  
 [![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue?logo=cisco)](https://www.credly.com/badges/YOUR-CCNA-LINK)
 
+[![CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](YOUR-CYBEROPS-VERIFICATION-LINK)
+
+[![Network Security](https://img.shields.io/badge/Cisco-Network_Security-blue?logo=cisco)](YOUR-NETSEC-VERIFICATION-LINK)
+
+
 ---
 
 ## 💼 Work Experience
