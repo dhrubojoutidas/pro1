@@ -25,8 +25,7 @@ It demonstrates hands-on experience in:
 
 ---
 
-## 🧭 Repository Structure
-
+## 📂 Coursework Portfolio
 
 Each folder contains:
 - ✅ Assignments  
@@ -142,8 +141,6 @@ Weekends – Fully Available
 
 
 
-
-
 ## 🎖️ Certifications
 
 [![CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/YOUR-CYBEROPS-LINK)  
@@ -154,27 +151,7 @@ Weekends – Fully Available
 
 
 
-## 📂 Coursework Portfolio
 
-<details>
-<summary><strong>View Full Structure</strong></summary>
-
-```
-Curtin-College/
-Uni-2nd-Year-Sem1/
-Uni-2nd-Year-Sem2/
-Uni-3rd-Year-Sem1/
-Uni-3rd-Year-Sem2/
-```
-
-Each folder contains:
-- ✅ Assignments  
-- ✅ Lab sheets  
-- ✅ Source code  
-- ✅ Reports  
-- ✅ Documentation  
-
-</details>
 
 ---
 
