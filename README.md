@@ -71,6 +71,30 @@ Each folder contains:
 
 
 
+## 🛠️ Skills
+
+### 🧠 Networking  
+![Cisco](https://img.shields.io/badge/-Routing_&_Switching-1BA0D7?logo=cisco&logoColor=white)  
+![DHCP](https://img.shields.io/badge/-DHCP-yellow?logo=dhcp&logoColor=black)  
+![NAT](https://img.shields.io/badge/-NAT-blue?logo=nat&logoColor=white)
+
+### 🖥️ System Administration  
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+![LDAP](https://img.shields.io/badge/-LDAP-0A0A0A?logo=ldap&logoColor=white)
+
+### 🔐 Security  
+![CyberOps](https://img.shields.io/badge/-CyberOps_Associate-blue?logo=cisco&logoColor=white)  
+![SIEM](https://img.shields.io/badge/-SIEM-FF5733?logo=security&logoColor=white)
+
+### 💻 Programming & Scripting  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)  
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)  
+![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnubash&logoColor=white)
+
+
+---
 
 
 [![Cisco CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/YOUR-CERT-ID)
@@ -125,30 +149,6 @@ Awesome, Dhrubo — let’s make your GitHub portfolio README **look sharp, clic
 
 
 
-## 🛠️ Skills
-
-### 🧠 Networking  
-![Cisco](https://img.shields.io/badge/-Routing_&_Switching-1BA0D7?logo=cisco&logoColor=white)  
-![DHCP](https://img.shields.io/badge/-DHCP-yellow?logo=dhcp&logoColor=black)  
-![NAT](https://img.shields.io/badge/-NAT-blue?logo=nat&logoColor=white)
-
-### 🖥️ System Administration  
-![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
-![LDAP](https://img.shields.io/badge/-LDAP-0A0A0A?logo=ldap&logoColor=white)
-
-### 🔐 Security  
-![CyberOps](https://img.shields.io/badge/-CyberOps_Associate-blue?logo=cisco&logoColor=white)  
-![SIEM](https://img.shields.io/badge/-SIEM-FF5733?logo=security&logoColor=white)
-
-### 💻 Programming & Scripting  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)  
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)  
-![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnubash&logoColor=white)
-
-
----
 
 ## 🎖️ Certifications
 
