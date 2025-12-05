@@ -78,14 +78,36 @@ Each folder contains:
 ![DHCP](https://img.shields.io/badge/-DHCP-yellow?logo=dhcp&logoColor=black)  
 ![NAT](https://img.shields.io/badge/-NAT-blue?logo=nat&logoColor=white)
 
+🌐 Networking
+![VLANs](https://img.shields.io/badge/-VLANs-1BA0D7?logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/-Routing-0052CC?logo=router&logoColor=white)
+![DHCP](https://img.shields.io/badge/-DHCP-F7DF1E?logo=dhcp&logoColor=black)
+![NAT](https://img.shields.io/badge/-NAT-0A66C2?logo=network&logoColor=white)
+![Network Security](https://img.shields.io/badge/-Network_Security-FF5733?logo=security&logoColor=white)
+
+
 ### 🖥️ System Administration  
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
 ![LDAP](https://img.shields.io/badge/-LDAP-0A0A0A?logo=ldap&logoColor=white)
 
+
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![LDAP](https://img.shields.io/badge/-LDAP-0A0A0A?logo=ldap&logoColor=white)
+![SMB](https://img.shields.io/badge/-SMB-2C5BB4?logo=files&logoColor=white)
+![FTP](https://img.shields.io/badge/-FTP-4CAF50?logo=server&logoColor=white)
+
+
+
 ### 🔐 Security  
 ![CyberOps](https://img.shields.io/badge/-CyberOps_Associate-blue?logo=cisco&logoColor=white)  
 ![SIEM](https://img.shields.io/badge/-SIEM-FF5733?logo=security&logoColor=white)
+
+![CyberOps](https://img.shields.io/badge/-CyberOps_Associate-1BA0D7?logo=cisco&logoColor=white)
+![SIEM](https://img.shields.io/badge/-SIEM-FF5733?logo=security&logoColor=white)
+![Threat Detection](https://img.shields.io/badge/-Threat_Detection-900C3F?logo=shield&logoColor=white)
+
 
 ### 💻 Programming & Scripting  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
@@ -93,6 +115,13 @@ Each folder contains:
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)  
 ![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnubash&logoColor=white)
 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnubash&logoColor=white)
+![AWK](https://img.shields.io/badge/-AWK-000000?logo=terminal&logoColor=white)
+![SED](https://img.shields.io/badge/-SED-333333?logo=terminal&logoColor=white)
+![GREP](https://img.shields.io/badge/-GREP-555555?logo=terminal&logoColor=white)
 
 ---
 
