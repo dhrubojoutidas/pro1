@@ -99,7 +99,7 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 ### **🎥 3. Progress Video Links (Hosted Externally)**
 - Video 1 – *[https://www.youtube.com/watch?v=J7sw8ByrYvY ]*  
 - Video 2 – *[https://youtu.be/AZTAg46qQPI]*  
-- Video 3 – *[Link]*
+- Video 3 – *[https://youtu.be/5J_tcFpxorA]*
 
 
 ---
