@@ -1,12 +1,16 @@
 
 
-# 📘 Dhrubo Jouti Das – Academic Portfolio
+# 👨‍💻 Dhrubo Jouti Das – Academic Portfolio
 ### Computer Systems & Networking | IT Support | Cybersecurity |Embedded Systems
 
 📍 Cannington, WA  
-📞 0481 576 404  
+
+📞 0481 576 404 
+
 ✉️ dhrubod513@gmail.com  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
+
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)](https://github.com/dhrubojoutidas)
 
 # 📩 Contact & Profiles
@@ -16,16 +20,8 @@
 - **Email:** *(your Curtin email)*  
 
 
- # 👨‍💻 Engineering Portfolio – Curtin University  
-### **Sowmittra Barua (Dhrubo Troyee)**  
-### Bachelor of Engineering (Computer Systems) – Year 3
 
-Welcome to my official academic engineering portfolio.  
-This repository acts as a **central hub** for all my major university assignments, lab work, projects, and technical documentation across more than **20+ units** completed so far.
 
-My goal is to present my work in a clean and professional way so recruiters, lecturers, or collaborators can quickly view my engineering experience without going through every folder manually.
-
----
 
 ## 🎓 About This Portfolio
 This repository contains all  assignments, labs, and projects completed during my Diploma (Curtin College) and Bachelor of Technology in Computer Systems & Networking (Curtin University).
@@ -38,21 +34,11 @@ It demonstrates hands-on experience in:
 - Programming (Python, C, SQL, Bash)
 - Embedded Systems & IoT
 - Data Analysis & Automation
-
-
-## 📘 About This Portfolio
-
-This portfolio contains:
-
-- Full engineering projects  
-- Lab reports  
-- Circuit designs  
+   Circuit designs  
 - IoT implementations  
 - Software assignments  
 - Technical presentations  
-- Research reports  
-- Embedded system code & prototypes  
-
+  
 Each unit has its own dedicated folder with a detailed README explaining exactly what was done.
 
 ---
@@ -204,27 +190,11 @@ Each folder contains:
 
 ---
 
-## 📬 Contact
+## 📩 Contact
 
 **Availability:**  
 Weekdays – Part-time  
 Weekends – Fully Available  
-
-
----
-
-
-
-
-
-
----
-
-
-
----
-
-
 
 
 ---
