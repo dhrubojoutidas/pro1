@@ -107,6 +107,22 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 - Video 3 – *[https://youtu.be/5J_tcFpxorA]*
 
 
+
+
+## 📝 Deliverables
+### 1. Progress Report
+- [Computer Technology Project 1 Report](report/Computer%20Technology%20Project_1_22663281_Troyee.pdf)
+
+### 2. Presentation Slides
+- [Proposal Presentation](presentations/CTP1_Project_IDEA_1st_pptx)
+- [Design & Progress Presentation](presentations/CTP1_Equipment%20List_2nd_pptx)
+- [Final Results Presentation](presentations/CTP1_Project_Logic_3rd_PPTX)
+
+### 3. Progress Videos
+- [Video 1 – Google Drive Link](https://drive.google.com/yourlink)
+- [Video 2 – Google Drive Link](https://drive.google.com/yourlink)
+- [Video 3 – Google Drive Link](https://drive.google.com/yourlink)
+
 ---
 
 ## 📅 **Timeline**
