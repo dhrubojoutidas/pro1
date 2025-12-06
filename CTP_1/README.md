@@ -150,13 +150,8 @@ This project is a real-time IoT accident detection and alert system that uses mu
 
 
 
-# 🚗 IoT-Based Accident Detection & Emergency Alert System
-!Arduino
-!Firebase
-!Twilio
-!License
 
----
+
 
 ## 📘 **Curtin University | CMPE3002 – Computer Technology Project 1 (CTP1)**
 **Semester 2, 2025**
@@ -164,6 +159,11 @@ This project is a real-time IoT accident detection and alert system that uses mu
 ---
 
 ## 🚀 **Project Overview**
+
+
+# 🚗 IoT-Based Accident Detection & Emergency Alert System
+
+**Arduino MKR WiFi 1010 • Firebase • Twilio SMS • Google Maps API**
 This project is a real-time **IoT Accident Detection & Emergency Alert System** that uses multiple sensors to detect crashes and automatically notify family members or emergency services. It integrates **embedded hardware, cloud automation, and web visualization**, making it a complete end-to-end IoT solution.
 
 ---
