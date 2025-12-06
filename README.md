@@ -9,7 +9,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)](https://github.com/dhrubojoutidas)
 
- 
+# 📩 Contact & Profiles
+
+- **LinkedIn:** *(add link)*  
+- **GitHub:** github.com/yourusername  
+- **Email:** *(your Curtin email)*  
+
+
+ # 👨‍💻 Engineering Portfolio – Curtin University  
+### **Sowmittra Barua (Dhrubo Troyee)**  
+### Bachelor of Engineering (Computer Systems) – Year 3
+
+Welcome to my official academic engineering portfolio.  
+This repository acts as a **central hub** for all my major university assignments, lab work, projects, and technical documentation across more than **20+ units** completed so far.
+
+My goal is to present my work in a clean and professional way so recruiters, lecturers, or collaborators can quickly view my engineering experience without going through every folder manually.
+
 ---
 
 ## 🎓 About This Portfolio
@@ -23,6 +38,42 @@ It demonstrates hands-on experience in:
 - Programming (Python, C, SQL, Bash)
 - Embedded Systems & IoT
 - Data Analysis & Automation
+
+
+## 📘 About This Portfolio
+
+This portfolio contains:
+
+- Full engineering projects  
+- Lab reports  
+- Circuit designs  
+- IoT implementations  
+- Software assignments  
+- Technical presentations  
+- Research reports  
+- Embedded system code & prototypes  
+
+Each unit has its own dedicated folder with a detailed README explaining exactly what was done.
+
+---
+
+# 🗂️ **Unit Index (Click to View Work)**
+
+Below is a structured list of my university units.  
+Click any unit to open its project folder.
+
+### **Semester 2, 2025**
+- 👉 **[CMPE3002 – Computer Technology Project 1 (CTP1)](./CTP1/README.md)**  
+- 👉 **[CMPE3003 – Computer Technology Project 2 (CTP2)](./CTP2/README.md)** *(if you add later)*  
+- 👉 **[CMPE2003 – Microcomputer Systems](./CMPE2003/README.md)**  
+- 👉 **[ELEN2002 – Transmission & Interface Design](./ELEN2002/README.md)**  
+- 👉 **[CMPE2001 – Digital Electronics](./CMPE2001/README.md)**  
+- 👉 **[CMPE2002 – Embedded Systems](./CMPE2002/README.md)**  
+- 👉 **[COMP1002 – Data Structures & Algorithms](./COMP1002/README.md)**  
+- 👉 **[COMP2000 – C Programming](./COMP2000/README.md)**  
+- 👉 **[COMP3000 – Operating Systems](./COMP3000/README.md)**  
+- 👉 **[INFO2005 – Databases](./INFO2005/README.md)**  
+
 
 ---
 
@@ -67,6 +118,21 @@ Each folder contains:
 
 
 ## 🛠️ Skills
+
+
+
+# 🎯 Skills Demonstrated Across Projects
+
+### **🛠 Technical Skills**
+- Embedded Systems (MSP430, Arduino, ESP32, ARM)  
+- IoT Development  
+- Sensor Integration  
+- C, C++, Python, Assembly  
+- Networking (UDP/TCP, LoRaWAN, SDN)  
+- Cloud Platforms (Firestore, AWS, Blynk)  
+- Circuit Design & Simulation (Fritzing, Logisim)  
+- PCB design  
+- Git & Version Control  
 
 ### 🌐 Networking  
 ![VLANs](https://img.shields.io/badge/-VLANs-1BA0D7?logo=cisco&logoColor=white)
@@ -151,109 +217,20 @@ Weekends – Fully Available
 
 
 
-# 👨‍💻 Engineering Portfolio – Curtin University  
-### **Sowmittra Barua (Dhrubo Troyee)**  
-### Bachelor of Engineering (Computer Systems) – Year 3
-
-Welcome to my official academic engineering portfolio.  
-This repository acts as a **central hub** for all my major university assignments, lab work, projects, and technical documentation across more than **20+ units** completed so far.
-
-My goal is to present my work in a clean and professional way so recruiters, lecturers, or collaborators can quickly view my engineering experience without going through every folder manually.
 
 ---
 
-## 📘 About This Portfolio
 
-This portfolio contains:
-
-- Full engineering projects  
-- Lab reports  
-- Circuit designs  
-- IoT implementations  
-- Software assignments  
-- Technical presentations  
-- Research reports  
-- Embedded system code & prototypes  
-
-Each unit has its own dedicated folder with a detailed README explaining exactly what was done.
 
 ---
 
-# 🗂️ **Unit Index (Click to View Work)**
 
-Below is a structured list of my university units.  
-Click any unit to open its project folder.
 
-### **Semester 2, 2025**
-- 👉 **[CMPE3002 – Computer Technology Project 1 (CTP1)](./CTP1/README.md)**  
-- 👉 **[CMPE3003 – Computer Technology Project 2 (CTP2)](./CTP2/README.md)** *(if you add later)*  
-- 👉 **[CMPE2003 – Microcomputer Systems](./CMPE2003/README.md)**  
-- 👉 **[ELEN2002 – Transmission & Interface Design](./ELEN2002/README.md)**  
-- 👉 **[CMPE2001 – Digital Electronics](./CMPE2001/README.md)**  
-- 👉 **[CMPE2002 – Embedded Systems](./CMPE2002/README.md)**  
-- 👉 **[COMP1002 – Data Structures & Algorithms](./COMP1002/README.md)**  
-- 👉 **[COMP2000 – C Programming](./COMP2000/README.md)**  
-- 👉 **[COMP3000 – Operating Systems](./COMP3000/README.md)**  
-- 👉 **[INFO2005 – Databases](./INFO2005/README.md)**  
-
-*(You can add more units anytime — this list can grow as your degree progresses.)*
 
 ---
 
-# 🎯 Skills Demonstrated Across Projects
-
-### **🛠 Technical Skills**
-- Embedded Systems (MSP430, Arduino, ESP32, ARM)  
-- IoT Development  
-- Sensor Integration  
-- C, C++, Python, Assembly  
-- Networking (UDP/TCP, LoRaWAN, SDN)  
-- Cloud Platforms (Firestore, AWS, Blynk)  
-- Circuit Design & Simulation (Fritzing, Logisim)  
-- PCB design  
-- Git & Version Control  
-
-### **📊 Engineering Skills**
-- Requirements analysis  
-- System design & architecture  
-- Technical documentation (IEEE style)  
-- Report writing  
-- Prototyping  
-- Testing & evaluation  
-- Project management  
 
 ---
 
-# 📩 Contact & Profiles
-
-- **LinkedIn:** *(add link)*  
-- **GitHub:** github.com/yourusername  
-- **Email:** *(your Curtin email)*  
-
----
-
-## ⭐ Purpose of This Repository
-
-This is a **central engineering portfolio** designed for:
-
-- Recruiters  
-- Lecturers  
-- Industry supervisors  
-- Future collaborators  
-
-It provides a clear overview of my academic and technical journey.
-
----
-
-# 📁 Navigation
-
-Each unit folder contains:
-- A detailed README  
-- Assignment files  
-- Code, diagrams, and documentation  
-- PDFs of reports  
-- Slides + video links  
-
-Click any unit above to explore more.
 
 
