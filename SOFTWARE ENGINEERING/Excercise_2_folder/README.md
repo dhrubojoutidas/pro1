@@ -22,14 +22,16 @@ This repository contains all works developed for Exercise Submission 2, demonstr
 - Git version control workflows
 
 ---
+
     
-## 📂 **Repository Structure**
+#📂 **Repository Structure**
 
+- ISEN_E2_Tri3.pdf                # Assessment question file
+- ISEN_Ex_2_ALL_Code/             # All Python code for Q3 & Q4
+- Exercise Submission 2_Trimester 3_ 2023.pdf.pdf --- Report Document
+- README.md                       # Project overview (this file)
 
-ISEN_E2_Tri3.pdf                # Assessment question file
-ISEN_Ex_2_ALL_Code/             # All Python code for Q3 & Q4
-Exercise Submission 2_Trimester 3_ 2023.pdf.pdf --- Report Document
-README.md                       # Project overview (this file)
+---
 
 **Q1_Planning/**
 
