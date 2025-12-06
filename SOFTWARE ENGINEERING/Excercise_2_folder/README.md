@@ -10,6 +10,51 @@ This repository contains my submission for **Exercise 2** in **ISEN1000 - Introd
 
 ## 📂 **Repository Structure**  
 
+/90028995_Exercise2_ISE/
+│
+├── README.md
+│
+├── Q1_Planning/
+│   ├── AON_Diagram.pdf
+│   ├── ES_EF_LS_LF_Table.pdf
+│   ├── Critical_Path_Analysis.pdf
+│   ├── PERT_Calculations.pdf
+│   ├── Burnup_Chart.pdf
+│   └── Kanban_Board.png
+│
+├── Q2_Requirements/
+│   ├── Stakeholders_Actors.pdf
+│   ├── User_Stories.pdf
+│   ├── Use_Cases.pdf
+│   ├── Use_Case_Diagram.png
+│   ├── Reliability_Metrics.pdf
+│   └── Usability_Requirements.pdf
+│
+├── Q3_UnitTesting/
+│   ├── Production_Code/
+│   │   ├── Q3PartA.py
+│   │   ├── Q3PartB.py
+│   │   └── Q3PartC.py
+│   ├── Tests/
+│   │   ├── test_partA.py
+│   │   ├── test_partB.py
+│   │   └── test_partC.py
+│   ├── Test_Designs.pdf
+│   └── Test_Screenshots/
+│
+├── Q4_Modularity/
+│   ├── Modularity_Issues_Table.pdf
+│   ├── Flag_Issue_Analysis.pdf
+│   ├── Original_Code/
+│   │   └── Q4.py
+│   └── Refactored_Code/
+│       └── newQ4.py
+│
+└── Q5_Ethics/
+    ├── Ethics_A.pdf
+    ├── Ethics_B.pdf
+    └── Ethics_C.pdf
+
 ISEN_E2_Tri3.pdf ---- Contains the question
 ISEN_Ex_2_ALL_Code file  --contains coding for all  specific task
 📁 **1. Agile Project Management**  
