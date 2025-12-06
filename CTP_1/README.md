@@ -75,24 +75,14 @@ This project is a real-time IoT accident detection and alert system that uses mu
 
 ---
 
-## 🧠 Software / Tech Stack
-
-- **Firmware:** Arduino C/C++  
-- **Cloud:** Firebase Firestore, Cloud Functions  
-- **APIs:** Twilio SMS, Google Maps/Geocoding  
-- **Frontend:** HTML, CSS, JavaScript, Chart.js  
-- **Communication:** HTTP/HTTPS, JSON  
-
----
+##  🛠 Tools, Technologies & Methods
 
 
----
-
-# 🛠 Tools, Technologies & Methods
-
-- Arduino / ESP32 / Microcontroller  
-- Python / C / Embedded C  
-- Firestore / MQTT / LoRaWAN  
+- **Firmware:** Arduino C/C++   
+- **Cloud:** Firebase Firestore /  Cloud Functions  
+- **APIs:** Twilio SMS /  Google Maps/Geocoding  
+- **Frontend:** HTML /  CSS /  JavaScript /  Chart.js  
+- **Communication:** HTTP/HTTPS/ JSON  
 - Circuit diagrams  
 - Project management documentation  
 - IEEE-style referencing  
