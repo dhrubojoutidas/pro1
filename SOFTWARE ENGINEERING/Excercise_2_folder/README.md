@@ -5,8 +5,6 @@
 **Trimester:** 3, 2023  
 **Repository:**  studentID_Exercise2_ISE
 
-This repository contains my submission for **Exercise 2** in **ISEN1000 - Introduction to Software Engineering**. The submission includes topics related to **Agile Project Management, Functional & Non-Functional Requirements, Unit Testing, Modularity, Ethics & Professionalism, and Version Control using Git**.  
-
 
   ---
 # 📌 Overview
@@ -26,17 +24,24 @@ This repository contains all works developed for Exercise Submission 2, demonstr
     
 ## 📂 **Repository Structure**
 
-ISEN_E2_Tri3.pdf ---- Contains the question
-ISEN_Ex_2_ALL_Code file  --contains coding for all  specific task
-Exercise Submission 2_Trimester 3_ 2023.pdf.pdf --- Report
+
+ISEN_E2_Tri3.pdf                # Assessment question file
+ISEN_Ex_2_ALL_Code/             # All Python code for Q3 & Q4
+Exercise Submission 2_Trimester 3_ 2023.pdf.pdf --- Report Document
+README.md                       # Project overview (this file)
 
 **Q1_Planning/**
-- AON_Diagram.pdf  
-- ES_EF_LS_LF_Table.pdf  
-- Critical_Path_Analysis.pdf  
-- PERT_Calculations.pdf  
-- Burnup_Chart.pdf  
-- Kanban_Board.png  
+
+- Task Dependencies & Missing Dependencies Table
+- AON Graph (13‑node network)
+- Early Start (ES), Early Finish (EF), Late Start (LS), Late Finish (LF)
+-  Slack Time Identification
+-  Critical Path Method (CPM)
+-  PERT Chart & Expected Duration Calculation
+-  Burn‑up Chart Interpretation
+-  Kanban Board (Two Scenarios)
+-  Scrum Backlog Adjustment for New Tasks (N, O, P)
+-  Roles & Responsibilities of Scrum Master, Product Owner & Dev Team
 
 **Q2_Requirements/**
 - Stakeholders_Actors.pdf  
@@ -62,6 +67,23 @@ Exercise Submission 2_Trimester 3_ 2023.pdf.pdf --- Report
 - Ethics_A.pdf  
 - Ethics_B.pdf  
 - Ethics_C.pdf  
+
+--  Agile project management
+-- AON/PERT scheduling  & critical path analysis
+-Requirements engineering
+-UML modelling
+-Unit testing (black‑box, white‑box, BVA)
+-Python test automation
+-Code modularity analysis & refactoring
+-Professional documentation
+-Git version control workflows
+
+Agile Project Management,
+Functional & Non-Functional Requirements, 
+Unit Testing,
+Modularity,
+Ethics & Professionalism,
+and Version Control using Git**.  
 
 
 #✅ Key Skills Demonstrated
