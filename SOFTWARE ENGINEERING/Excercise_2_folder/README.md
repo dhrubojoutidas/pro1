@@ -8,7 +8,7 @@
 This repository contains my submission for **Exercise 2** in **ISEN1000 - Introduction to Software Engineering**. The submission includes topics related to **Agile Project Management, Functional & Non-Functional Requirements, Unit Testing, Modularity, Ethics & Professionalism, and Version Control using Git**.  
 
 
-  
+  ---
 # 📌 Overview
 This repository contains all works developed for Exercise Submission 2, demonstrating skills in:
 
@@ -22,6 +22,7 @@ This repository contains all works developed for Exercise Submission 2, demonstr
 -Professional documentation
 -Git version control workflows
 
+---
     
 ## 📂 **Repository Structure**
 
