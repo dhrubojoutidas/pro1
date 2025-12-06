@@ -1,13 +1,13 @@
 # 📘 CMPE3002 – Computer Technology Project 1 (CTP1)
 ### Curtin University | Semester 2, 2025
 
-
-
 ---
 
 # 🚗 IoT-Based Accident Detection & Emergency Alert System
 
 **Arduino MKR WiFi 1010 • Firebase • Twilio SMS • Google Maps API**
+
+---
 
 ## 🚀 **Project Overview**
 
@@ -15,9 +15,6 @@
 This project is a real-time **IoT Accident Detection & Emergency Alert System** that uses multiple sensors to detect crashes and automatically notify family members or emergency services. It integrates **embedded hardware, cloud automation, and web visualization**, making it a complete end-to-end IoT solution.
 
 ---
-
-
-
 
 ## 🔥 **Key Features**
 - ✅ **Accident Detection (Real-Time):** Detects sudden impacts using MPU6050 accelerometer & SW-420 vibration sensor.
@@ -44,8 +41,6 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 
 ---
 
-
-
 ## 🧩 Hardware Components
 
 - Arduino MKR WiFi 1010  
@@ -59,8 +54,6 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 
 ---
 
-
-
 ##  🛠 Tools, Technologies & Methods
 
 - **Firmware:** Arduino C/C++   
@@ -73,7 +66,6 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 - IEEE-style referencing  
 
 ---
-
 
 ## 📸 System Workflow
 
@@ -96,7 +88,6 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 
 ---
 
----
 ### **📄 1. Progress Report**
 - `/report/progress_report.pdf`
 
@@ -120,22 +111,3 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 - Week 13 – Final Video + Report  
 
 ---
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
