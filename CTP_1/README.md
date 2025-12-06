@@ -90,3 +90,64 @@ This project is a real-time IoT accident detection and alert system that uses mu
 
 
 
+
+# 📘 CMPE3002 – Computer Technology Project 1 (CTP1)
+### Curtin University | Semester 2, 2025
+
+This folder contains all major tasks, reports, and media required for CTP1.
+
+---
+
+# 🚀 Project Title
+**_Add Your Project Name Here_**
+
+---
+
+# 📝 Deliverables Included
+
+### **📄 1. Progress Report**
+- `/report/progress_report.pdf`
+
+### **📊 2. Presentation Slides**
+- Presentation 1 (Proposal) – *[Click to open]*  
+- Presentation 2 (Design & Progress) – *[Click]*  
+- Presentation 3 (Final Results) – *[Click]*  
+
+### **🎥 3. Progress Video Links (Hosted Externally)**
+- Video 1 – *[Google Drive / YouTube link]*  
+- Video 2 – *[Link]*  
+- Video 3 – *[Link]*  
+
+---
+
+# 🧠 Summary of the Project
+
+Briefly explain what your project is about:
+
+> This project focuses on researching, designing, prototyping, and testing a technological solution addressing a real-world engineering problem. The project moves through requirement gathering, design decisions, prototyping, implementation, evaluation, and reflection.
+
+---
+
+# 🛠 Tools, Technologies & Methods
+
+- Arduino / ESP32 / Microcontroller  
+- Python / C / Embedded C  
+- Firestore / MQTT / LoRaWAN  
+- Circuit diagrams  
+- Project management documentation  
+- IEEE-style referencing  
+
+---
+
+# 📅 Timeline (as per CMPE3002 unit outline)
+
+- Week 5 – Video 1  
+- Week 10 – Video 2  
+- Week 13 – Video 3 + Progress Report  
+
+---
+
+# 🧩 Folder Structure
+
+
+
