@@ -76,7 +76,8 @@ Each folder contains:
 
 ## 🚀 Highlighted Projects
 
-### 🛠️ IoT Accident Detection System  
+### 🛠️ [IOT Project IoT Accident Detection System ](./CTP_1/README.md)
+
 - Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
 - Firebase Cloud Functions + Twilio API for SMS alerts  
 - Real-time dashboard with Chart.js  
