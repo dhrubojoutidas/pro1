@@ -88,23 +88,9 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 
 ---
 
-### **📄 1. Progress Report**
-
--  *[CTP_1/Computer Technology Project 1_22663281_Troyee.pdf]*
-
--  
-### 1. Progress Report
 
 
-### **📊 2. Presentation Slides**
-- Presentation 1 (Proposal) – *[Click to open]*  
-- Presentation 2 (Design & Progress) – *[Click]*  
-- Presentation 3 (Final Results) – *[Click]*  
 
-### **🎥 3. Progress Video Links (Hosted Externally)**
-- Video 1 – *[https://www.youtube.com/watch?v=J7sw8ByrYvY ]*  
-- Video 2 – *[https://youtu.be/AZTAg46qQPI]*  
-- Video 3 – *[https://youtu.be/5J_tcFpxorA]*
 
 
 
@@ -113,16 +99,21 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 ### 1. Progress Report
 - [Computer Technology Project 1 Report](re   )
 
+  -  *[CTP_1/Computer Technology Project 1_22663281_Troyee.pdf]*
+
+
 ### 2. Presentation Slides
-- [Proposal Presentation_1](          )
-- [Design & Progress Presentation_2 ( CTP_1/CTP1_Equipment List__2nd_pptx.pdf) ]
-- [Final Results Presentation_3](CTP1_Project_Logic_3rd_PPTX.pdf) 
+ - [Proposal Presentation_1](presentations/CTP1_Project_IDEA_1st_pptx)
+- [Design & Progress Presentation_2](CTP_1_Equipment List__2nd_     )
+- [Final Results Presentation_3](CTP1_Project_Logic_3rd_PPTX.pdf)
 
 ### 3. Progress Videos
 - [Video 1 – Google Drive Link](https://drive.google.com/yourlink)
 - [Video 2 – Google Drive Link](https://drive.google.com/yourlink)
-- [Video 3 – Google Drive Link](https://drive.google.com/yourlink)
-
+- [Video 3 – Google Drive Link](https://drive.google.com/yourlink )
+- Video 1 – *[https://www.youtube.com/watch?v=J7sw8ByrYvY ]*  
+- Video 2 – *[https://youtu.be/AZTAg46qQPI]*  
+- Video 3 – *[https://youtu.be/5J_tcFpxorA]*
 ---
 
 ## 📅 **Timeline**
