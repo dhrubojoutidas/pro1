@@ -12,8 +12,8 @@ This repository contains my submission for **Exercise 2** in **ISEN1000 - Introd
 # 📌 Overview
 This repository contains all works developed for Exercise Submission 2, demonstrating skills in:
 
--Agile project management
--AON/PERT scheduling  & critical path analysis
+--Agile project management
+-- AON/PERT scheduling  & critical path analysis
 -Requirements engineering
 -UML modelling
 -Unit testing (black‑box, white‑box, BVA)
