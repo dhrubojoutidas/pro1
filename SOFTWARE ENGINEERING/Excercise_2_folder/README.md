@@ -1,21 +1,33 @@
-# 🖥️ ISEN1000 - Exercise Submission 2  
-**Author:** Troyee  
+# 🖥️ Exercise Submission 2 – Software Engineering Project 
+**Author:** Dhrubo Troyee  
 **Course:** ISEN1000 - Introduction to Software Engineering  
 **Institution:** Curtin University  
 **Trimester:** 3, 2023  
+**Repository:**  studentID_Exercise2_ISE
 
 This repository contains my submission for **Exercise 2** in **ISEN1000 - Introduction to Software Engineering**. The submission includes topics related to **Agile Project Management, Functional & Non-Functional Requirements, Unit Testing, Modularity, Ethics & Professionalism, and Version Control using Git**.  
 
 
+  
+# 📌 Overview
+This repository contains all works developed for Exercise Submission 2, demonstrating skills in:
 
-## 📂 **Repository Structure**  
+-Agile project management
+-AON/PERT scheduling  & critical path analysis
+-Requirements engineering
+-UML modelling
+-Unit testing (black‑box, white‑box, BVA)
+-Python test automation
+-Code modularity analysis & refactoring
+-Professional documentation
+-Git version control workflows
 
+    
+## 📂 **Repository Structure**
 
-
-    ## 📁 Repository Structure
-
-**/90028995_Exercise2_ISE/**
-- **README.md**
+ISEN_E2_Tri3.pdf ---- Contains the question
+ISEN_Ex_2_ALL_Code file  --contains coding for all  specific task
+Exercise Submission 2_Trimester 3_ 2023.pdf.pdf --- Report
 
 **Q1_Planning/**
 - AON_Diagram.pdf  
@@ -51,8 +63,8 @@ This repository contains my submission for **Exercise 2** in **ISEN1000 - Introd
 - Ethics_C.pdf  
 
 
-ISEN_E2_Tri3.pdf ---- Contains the question
-ISEN_Ex_2_ALL_Code file  --contains coding for all  specific task
+#✅ Key Skills Demonstrated
+
 📁 **1. Agile Project Management**  
 - 📜 `Exercise Submission 2_Trimester 3_ 2023.pdf.pdf` - Task dependencies, AON graph, Critical Path Method (CPM), PERT Chart, Kanban Board.  
 - **Topics Covered**:  
@@ -110,4 +122,12 @@ ISEN_Ex_2_ALL_Code file  --contains coding for all  specific task
   git add .
   git commit -m "Initial commit for Exercise 2"
   git push -u origin development
+
+# **🛠 Tools & Technologies Used** 
+
+-Python 3 (VMWare Linux environment)
+-unittest (Python testing framework)
+-Draw.io(diagrams)
+-VS Code (development)
+-Git (version control)
 
