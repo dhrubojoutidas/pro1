@@ -10,15 +10,16 @@
 # 📌 Overview
 This repository contains all works developed for Exercise Submission 2, demonstrating skills in:
 
---  Agile project management
--- AON/PERT scheduling  & critical path analysis
--Requirements engineering
--UML modelling
--Unit testing (black‑box, white‑box, BVA)
--Python test automation
--Code modularity analysis & refactoring
--Professional documentation
--Git version control workflows
+
+- Agile project management
+- AON/PERT scheduling  & critical path analysis
+- Requirements engineering
+- UML modelling
+- Unit testing (black‑box, white‑box, BVA)
+- Python test automation
+- Code modularity analysis & refactoring
+- Professional documentation
+- Git version control workflows
 
 ---
     
