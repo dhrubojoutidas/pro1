@@ -144,9 +144,9 @@ This project is a real-time IoT accident detection and alert system that uses mu
 
 # 📅 Timeline
 
-- Week 5 – Video 1  
-- Week 10 – Video 2  
-- Week 13 – Video 3 + Progress Report  
+- Week 5 – Progress  Video 1  
+- Week 10 –  Progress Video 2  
+- Week 13 –  Progress Video 3 + Progress Report  
 
 ---
 
