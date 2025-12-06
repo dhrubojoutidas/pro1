@@ -85,6 +85,19 @@ This project is a real-time IoT accident detection and alert system that uses mu
 
 ---
 
+
+---
+
+# 🛠 Tools, Technologies & Methods
+
+- Arduino / ESP32 / Microcontroller  
+- Python / C / Embedded C  
+- Firestore / MQTT / LoRaWAN  
+- Circuit diagrams  
+- Project management documentation  
+- IEEE-style referencing  
+
+---
 ## 📸 System Workflow
 
 1. Sensors continuously monitor acceleration, vibration, alcohol level, temperature, and gas.
@@ -109,7 +122,6 @@ This project is a real-time IoT accident detection and alert system that uses mu
 
 
 
-
 # 📝 Deliverables Included
 
 ### **📄 1. Progress Report**
@@ -127,34 +139,16 @@ This project is a real-time IoT accident detection and alert system that uses mu
 
 ---
 
-# 🧠 Summary of the Project
 
-Briefly explain what your project is about:
 
-> This project focuses on researching, designing, prototyping, and testing a technological solution addressing a real-world engineering problem. The project moves through requirement gathering, design decisions, prototyping, implementation, evaluation, and reflection.
 
----
-
-# 🛠 Tools, Technologies & Methods
-
-- Arduino / ESP32 / Microcontroller  
-- Python / C / Embedded C  
-- Firestore / MQTT / LoRaWAN  
-- Circuit diagrams  
-- Project management documentation  
-- IEEE-style referencing  
-
----
-
-# 📅 Timeline (as per CMPE3002 unit outline)
+# 📅 Timeline
 
 - Week 5 – Video 1  
 - Week 10 – Video 2  
 - Week 13 – Video 3 + Progress Report  
 
 ---
-
-# 🧩 Folder Structure
 
 
 
