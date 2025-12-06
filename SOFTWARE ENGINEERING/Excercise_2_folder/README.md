@@ -45,14 +45,29 @@ This repository contains all works developed for Exercise Submission 2, demonstr
 -  Kanban Board (Two Scenarios)
 -  Scrum Backlog Adjustment for New Tasks (N, O, P)
 -  Roles & Responsibilities of Scrum Master, Product Owner & Dev Team
+  
 
-**Q2_Requirements/**
+**Q2_Functional & Non‑Functional Requirements/**
+
+- Covers two applications:
+- ✅ Mobile Weather Update App
+- ✅ Rental Accommodation Booking App
+- Includes:
+- Stakeholder Identification
+- Actor Identification (Human & Non‑Human)
+- User Stories (Multiple per actor)
+- Written Use Cases (with extensions)
+- UML Use Case Diagram
+- Reliability Metrics (MTTF, MTBF, ROCOF, Availability)
+
+✅ Usability Requirements
 - Stakeholders_Actors.pdf  
 - User_Stories.pdf  
 - Use_Cases.pdf  
 - Use_Case_Diagram.png  
 - Reliability_Metrics.pdf  
-- Usability_Requirements.pdf  
+- Usability_Requirements.pdf
+- 
 
 **Q3_UnitTesting/**
 - Production_Code/ Q3PartA.py , Q3PartB.py , Q3PartC.py 
