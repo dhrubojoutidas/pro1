@@ -89,7 +89,8 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 ---
 
 ### **📄 1. Progress Report**
-- `/report/progress_report.pdf`
+
+- CTP_1/Computer Technology Project 1_22663281_Troyee.pdf
 
 ### **📊 2. Presentation Slides**
 - Presentation 1 (Proposal) – *[Click to open]*  
