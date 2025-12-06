@@ -116,7 +116,7 @@ CTP_1/CTP1_Project_Logic_3rd_PPTX.pdf
 ### 2. Presentation Slides
 - [Proposal Presentation_1](presentations/CTP1_Project_IDEA_1st_pptx)
 - [Design & Progress Presentation_2](presentations/CTP1_Equipment%20List_2nd_pptx)
-- [Final Results Presentation_3](presentations/CTP1_Project_Logic_3rd_PPTX.pdf) 
+- [Final Results Presentation_3](CTP1_Project_Logic_3rd_PPTX.pdf) 
 
 ### 3. Progress Videos
 - [Video 1 – Google Drive Link](https://drive.google.com/yourlink)
