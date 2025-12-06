@@ -1,8 +1,9 @@
-
 # 📘 CMPE3002 – Computer Technology Project 1 (CTP1)
 ### Curtin University | Semester 2, 2025
 
 
+
+---
 
 # 🚗 IoT-Based Accident Detection & Emergency Alert System
 
@@ -41,8 +42,9 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 - ✅ **Scalable Architecture:**  Easily extendable to ambulance notification, hospital routing, or insurance reporting..
 
 
-
 ---
+
+
 
 ## 🧩 Hardware Components
 
@@ -92,6 +94,7 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 - ✅ Real-time monitoring & historical data visualization  
 
 
+---
 
 ---
 ### **📄 1. Progress Report**
@@ -106,6 +109,7 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 - Video 1 – *[Google Drive / YouTube link]*  
 - Video 2 – *[Link]*  
 - Video 3 – *[Link]*
+
 
 ---
 
