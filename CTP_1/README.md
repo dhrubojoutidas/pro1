@@ -108,9 +108,10 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 - [Final Results Presentation_3](CTP1_Project_Logic_3rd_PPTX.pdf)
 
 ### 3. Progress Videos
-- [Video 1 – Google Drive Link](https://drive.google.com/yourlink)
-- [Video 2 – Google Drive Link](https://drive.google.com/yourlink)
-- [Video 3 – Google Drive Link](https://drive.google.com/yourlink )
+- [Video 1 – ]( https://www.youtube.com/watch?v=J7sw8ByrYvY)
+- 
+- [Video 2 –]( https://youtu.be/AZTAg46qQPI)
+- [Video 3 – ](https://youtu.be/5J_tcFpxorA)
 - Video 1 – *[https://www.youtube.com/watch?v=J7sw8ByrYvY ]*  
 - Video 2 – *[https://youtu.be/AZTAg46qQPI]*  
 - Video 3 – *[https://youtu.be/5J_tcFpxorA]*
