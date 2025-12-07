@@ -169,4 +169,10 @@ Branching, commit discipline, repository organisation.
 - `unittest` (Python testing framework)  
 - Draw.io (diagrams)  
 - VS Code (development)  
-- Git (version control)  
+- Git (version control)
+- 
+
+## 🎯  
+This submission reflects my hands-on understanding of software engineering principles, from planning and testing to ethical reasoning and modular design. The repository is structured to be both academically complete and recruiter-friendly.
+
+Thank you for reviewing my work!
