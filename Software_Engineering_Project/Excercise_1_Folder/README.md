@@ -1,11 +1,3 @@
-
-Absolutely, Dhrubo — I can turn this entire Exercise 1 submission into a **clean, professional, GitHub‑ready README.md**.  
-I’ll keep it polished, structured, and recruiter‑friendly while still matching academic expectations.
-
-Here’s a complete README.md you can copy straight into your repo:
-
----
-
 # 🛫 SkyFly Airline Reservation System — Requirements & Planning  
 **ISEN1000 – Introduction to Software Engineering**  
 **Exercise 1 – Requirement Analysis & Project Planning**  
