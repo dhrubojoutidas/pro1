@@ -12,8 +12,10 @@
 ## 📌 Overview  
 This project demonstrates practical software engineering skills through:
  
-- [Repository Structure](#-repository-structure)
-- [Q1 – Planning & Agile Project Management](#-q1_planning--agile-project-management)  
+
+- [Q1 – Planning & Agile Project Management](#-q1_planning--agile-project-management)
+- [Q1 – Planning & Agile Project Management](#q1-planning--agile-project-management)
+
 - [Q2 – Functional & Non-Functional Requirements](#-q2--functional--non-functional-requirements)
 - [Q3 – Unit Testing (Python)](#-q3--unit-testing-python)  
 - [Q4 – Code Modularity & Refactoring](#-q4--code-modularity--refactoring)  
