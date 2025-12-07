@@ -75,14 +75,14 @@ Deliverables:
   
 ### ✅ Q3PartB – Boundary Value Analysis (BVA)  
 - **Production file:** [Q3PartB.py](Excercise_2_all_code/Q3PartB.py)
-
 - **Test file:** [`testQ3PartB.py`](Excercise_2_all_code/testQ3PartB.py)
-
 - Function: `El_COVID(age)`  
 - Tests age-based eligibility logic.
 
 
 ### ✅ Q3PartC – White‑Box Testing (Median Function)  
+- **Production file:** [Q3PartC.py](Excercise_2_all_code/Q3PartC.py)
+- **Test file:** [`testQ3PartC.py`](Excercise_2_all_code/testQ3PartC.py)
 - **Production file:** [`Q3PartC.py`](Q3PartC.py)  
 - **Test file:** [`testQ3PartC.py`](testQ3PartC.py)
 -  Median-of-three logic tested for all internal paths.
