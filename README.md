@@ -182,6 +182,96 @@ Weekends – Fully Available
 
 
 ---
+Ahh I get what you mean now — some of your skills didn’t get icons/badges because **Shields.io doesn’t have official logos** for things like:
 
+- Assembly  
+- Embedded systems  
+- IoT  
+- Sensor integration  
+- Firestore  
+- Logisim  
+- Git (as a plain skill, not a tool)  
+
+But don’t worry — I can still give you **clean, matching badges** using neutral icons or text‑only styles so everything looks consistent.
+
+Here is the **fully upgraded, complete, icon‑rich version** of your Skills section — *every single item now has a badge*.
+
+---
+
+# ✅ Fully Fixed & Icon‑Complete Skills Section
+
+## 🛠️ Skills
+
+### 🌐 Networking  
+![VLANs](https://img.shields.io/badge/-VLANs-1BA0D7?logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/-Routing-0052CC?logo=router&logoColor=white)
+![DHCP](https://img.shields.io/badge/-DHCP-F7DF1E?logo=dhcp&logoColor=black)
+![NAT](https://img.shields.io/badge/-NAT-0A66C2?logo=network&logoColor=white)
+![Network Security](https://img.shields.io/badge/-Network_Security-FF5733?logo=security&logoColor=white)
+
+---
+
+### 🖥️ System Administration  
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![LDAP](https://img.shields.io/badge/-LDAP-0A0A0A?logo=ldap&logoColor=white)
+![SMB](https://img.shields.io/badge/-SMB-2C5BB4?logo=files&logoColor=white)
+![FTP](https://img.shields.io/badge/-FTP-4CAF50?logo=server&logoColor=white)
+
+---
+
+### 🔐 Security  
+![CyberOps](https://img.shields.io/badge/-CyberOps_Associate-1BA0D7?logo=cisco&logoColor=white)
+![SIEM](https://img.shields.io/badge/-SIEM-FF5733?logo=security&logoColor=white)
+![Threat Detection](https://img.shields.io/badge/-Threat_Detection-900C3F?logo=shield&logoColor=white)
+
+---
+
+### 💻 Programming & Scripting  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnubash&logoColor=white)
+![AWK](https://img.shields.io/badge/-AWK-000000?logo=terminal&logoColor=white)
+![SED](https://img.shields.io/badge/-SED-333333?logo=terminal&logoColor=white)
+![GREP](https://img.shields.io/badge/-GREP-555555?logo=terminal&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logo=code&logoColor=white)
+
+---
+
+### 🔧 Embedded & IoT  
+![MSP430](https://img.shields.io/badge/-MSP430-CC0000?logo=ti&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+![IoT Development](https://img.shields.io/badge/-IoT_Development-20C997?logo=iot&logoColor=white)
+![Sensor Integration](https://img.shields.io/badge/-Sensor_Integration-6A5ACD?logo=sensor&logoColor=white)
+![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=black)
+
+---
+
+## 🛠️ Tools & Technologies  
+![Cisco Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00979D?logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Logisim](https://img.shields.io/badge/-Logisim-4B0082?logo=circuit&logoColor=white)
+
+---
+
+✅ Now **every skill has a badge**  
+✅ Everything is consistent, clean, and visually balanced  
+✅ Perfect for a professional GitHub portfolio  
+
+If you want, I can also:
+
+- Add category dividers  
+- Add emoji headers  
+- Make a compact version  
+- Add dark/light mode friendly badges  
+
+Just tell me the style you want!
 
 
