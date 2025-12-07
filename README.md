@@ -2,7 +2,8 @@
 # 👨‍💻 Dhrubo Jouti Das – Academic & Technical  Portfolio
 ###  Computer Systems & Networking (3rd year) | IT Support | Cybersecurity | Embedded Systems
 
-###  Computer Systems & Networking (3rd year) | IT Support | Cybersecurity | Embedded Systems
+### ***Computer Systems & Networking (3rd year) | IT Support | Cybersecurity | Embedded Systems***
+
 
 📍 Cannington, WA 
 📞 0481 576 404 
