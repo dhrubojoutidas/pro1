@@ -1,5 +1,5 @@
 
-# 🖥️ Software Engineering Project 2  
+# 🖥️ Software Engineering  Project 2  -Testing, Modularity & Agile
 **Author:** Dhrubo Troyee  
 **Course:** ISEN1000 – Introduction to Software Engineering  
 **Institution:** Curtin University  
