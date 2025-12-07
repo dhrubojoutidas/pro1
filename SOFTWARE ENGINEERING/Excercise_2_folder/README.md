@@ -1,25 +1,5 @@
-# 🖥️  Software Engineering Project 2
-**Author:** Dhrubo Troyee  
-**Course:** ISEN1000 - Introduction to Software Engineering  
-**Institution:** Curtin University  
-**Trimester:** 3, 2023  
-**Repository:**  `studentID_Exercise2_ISE`
 
----
 
-## 📌 Overview  
-This repository contains all work completed for **Exercise Submission 2**, demonstrating practical skills across:
-
-- Agile project management  
-- Requirements engineering  
-- UML modelling  
-- python Unit testing (black‑box, white‑box, BVA)  
-- Code modularity analysis & refactoring  
-- Professional documentation  
-- Git version control
-- The goal of this project was to apply core software engineering principles through documentation, analysis, and hands‑on coding.
-
----
 
 ## 📑 Table of Contents  
 - [Repository Structure](#-repository-structure)  
@@ -41,46 +21,9 @@ This repository contains all work completed for **Exercise Submission 2**, demon
 
 ---
 
-## 📝 Q1_Planning & Agile Project Management  
-
-- Task Dependencies & Missing Dependencies Table
-- AON Graph (13‑node network)
-- Early Start (ES), Early Finish (EF), Late Start (LS), Late Finish (LF)
--  Slack Time Identification
--  Critical Path Method (CPM)
--  PERT Chart & Expected Duration Calculation
--  Burn‑up Chart Interpretation
--  Kanban Board (Two Scenarios)
--  Scrum Backlog Adjustment for New Tasks (N, O, P)
--  Roles & Responsibilities of Scrum Master, Product Owner & Dev Team
-
-**Skills Demonstrated:**  
-Agile planning, scheduling, forecasting, workflow modelling.
-    
----
-
-
-## 📝 Q2 – Functional & Non‑Functional Requirements  
-
-Applications analysed:
-- ✅ Mobile Weather Update App  
-- ✅ Rental Accommodation Booking App  
-
-Includes:
-
-- Stakeholder & Actor Identification (Human & Non‑Human)  
-- User Stories (per actor)  
-- Written Use Cases (with extensions)  
-- UML Use Case Diagram  
-- Reliability Metrics (MTTF, MTBF, ROCOF, Availability)  
-- Usability Requirements  
-
-**Skills Demonstrated:**  
-Requirements engineering, UML, system analysis.
 
 
 
----
 
 ## 📝 Q3 – Unit Testing (Python )  
 
@@ -148,49 +91,8 @@ Requirements engineering, UML, system analysis.
 
 ---
 
-## 📝 **Q4.py — Identified Modularity Issues**
-
-- Excessive global variables  
-- Weak cohesion  
-- Tight coupling  
-- Flag‑based logic issues
-- Repeated logic  
-- Poor function structure
 
 
- 
-## **newQ4.py — Refactored Modular Version**
-Improvements:
-- Removed  global variables  
-- Clear function parameters  & return values  
-- Improved naming  
-- Separated responsibilities  
-- A structured main program
-
-**Skills Demonstrated:**  
-Refactoring, modular programming, code quality improvement.
-
----
-
-## 📝 Q5 – Ethics & Professionalism  
-
-📜Three detailed case studies📜:
-
-1. **Online Flight Tracking Software (Flightradar24)**  
-   - Planning failures → safety risks  
-   - Incorrect data → collisions, financial loss  
-
-2. **Video Calling Software**  
-   - Project management failures → delays, privacy issues  
-
-3. **Stock Market Application**  
-   - Security failures → financial harm, data breaches  
-
-
-**Skills Demonstrated:**  
-Ethical reasoning, professional responsibility.
-
----
 
 
 ### Test Execution Environment
@@ -273,33 +175,27 @@ This repository contains my full submission for **Exercise 2**, demonstrating pr
 
 The goal of this project was to apply core software engineering principles through documentation, analysis, and hands‑on coding.
 
----
-
-## 📂 Repository Structure  
-| Folder / File | Description |
-|---------------|-------------|
-| **Q1/** | Agile planning, AON/PERT, CPM, Kanban, burn‑up chart |
-| **Q2/** | Functional & non‑functional requirements, use cases, UML |
-| **Q3/** | Python production code + unit tests |
-| **Q4/** | Modularity analysis + refactored code |
-| **Q5/** | Ethics & professionalism case studies |
-| **README.md** | Project documentation |
 
 ---
+
+
 
 ## 📝 Q1 – Planning & Agile Project Management  
 Key deliverables include:
 
+-Task Dependencies & Missing Dependencies Table
 - AON network diagram (13 nodes)  
 - ES/EF/LS/LF calculations  
-- Slack time & critical path  
+- Slack time & critical path  Method (CPM)
 - PERT expected duration  
 - Burn‑up chart interpretation  
 - Kanban board (two scenarios)  
-- Scrum backlog updates for new tasks  
+- Scrum backlog updates for new tasks  (N,O,P)
 - Roles of Scrum Master, Product Owner & Dev Team  
 
-**Skills:** Agile thinking, scheduling, workflow modelling.
+**Skills:** Agile planing, scheduling, workflow modelling.
+
+
 
 ---
 
@@ -307,11 +203,11 @@ Key deliverables include:
 Analysed two applications:
 
 - ✅ Weather Update App  
-- ✅ Rental Accommodation App  
+- ✅ Rental Accommodation Booking  App  
 
 Deliverables:
 
-- Stakeholders & actors  
+- Stakeholders & actors  (Human , Non-Human)
 - User stories  
 - Written use cases  
 - UML use case diagram  
@@ -319,6 +215,7 @@ Deliverables:
 - Usability requirements  
 
 **Skills:** Requirements engineering, UML, system analysis.
+
 
 ---
 
@@ -357,7 +254,7 @@ Runs all tests for Q3A, Q3B, and Q3C in one script.
 
 ---
 
-## 🧩 Q4 – Code Modularity & Refactoring  
+## 📝 Q4 – Code Modularity & Refactoring  
 
 ### ✅ Q4.py – Original Code (Issues Identified)  
 Problems analysed:  
@@ -374,19 +271,33 @@ Improvements:
 - Clear parameters & return values  
 - Better naming  
 - Separated responsibilities  
-- Cleaner main program  
+-  A structured  main program  
 
 **Skills:** Refactoring, modular design, code quality improvement.
 
+
+
 ---
 
-## 🧭 Q5 – Ethics & Professionalism  
-Three case studies analysing:  
-- Safety risks in flight‑tracking software  
-- Privacy issues in video‑calling apps  
-- Security failures in stock‑market applications  
 
+
+## 📝 Q5 – Ethics & Professionalism  
+
+📜Three detailed case studies📜:
+
+1. **Online Flight Tracking Software (Flightradar24)**  
+   - Planning failures → safety risks  
+   - Incorrect data → collisions, financial loss  
+
+2. **Video Calling Software**  
+   - Project management failures → delays, privacy issues  
+
+3. **Stock Market Application**  
+   - Security failures → financial harm, data breaches
+     
 **Skills:** Ethical reasoning, professional responsibility.
+
+
 
 ---
 
