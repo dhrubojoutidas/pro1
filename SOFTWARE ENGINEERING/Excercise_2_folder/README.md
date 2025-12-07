@@ -185,14 +185,17 @@ git push -u origin development
 ---
 
 ## ▶️ Running the Tests
+```sh
 python3 -m unittest
-
+```
 
 Or run individual test files:
-
+```sh
 python3 testQ3PartA.py
 python3 testQ3PartB.py
 python3 testQ3PartC.py
+```
+
 
 ---
 ## 🎯  Final Note
