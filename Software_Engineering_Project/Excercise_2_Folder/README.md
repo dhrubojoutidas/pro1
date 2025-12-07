@@ -89,8 +89,7 @@ Deliverables:
 ### 🟦 Combined Test Runner
 
 *  Runs all tests for Q3PartA, Q3PartB, and Q3PartC in one script :
-  → [`Unittesting.py`](path/to/Unittesting.py)
-- **Test file:** [`Unittesting.py`](Excercise_2_all_code/Unittesting.py)
+  → [`Unittesting.py`](Excercise_2_all_code/Unittesting.py)
 ---
 
 
