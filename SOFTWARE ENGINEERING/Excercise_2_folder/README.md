@@ -31,7 +31,7 @@ This repository contains all work completed for **Exercise Submission 2**, demon
 
 ---
 
-## 📝 Q1_Planning & Agile Project Managemen  
+## 📝 Q1_Planning & Agile Project Management  
 
 - Task Dependencies & Missing Dependencies Table
 - AON Graph (13‑node network)
@@ -108,7 +108,7 @@ Test design, Python unittest, debugging, validation.
 - Poor separation of concerns  
 - Flag‑based logic issues  
 
-### 📝 Refactored Code (newQ4.py)  
+###  Refactored Code (newQ4.py)  
 - Removed global variables  
 - Improved function signatures  
 - Reduced coupling  
@@ -123,7 +123,7 @@ Refactoring, modular programming, code quality improvement.
 
 ## 📝 Q5 – Ethics & Professionalism  
 
-Three detailed case studies:
+📜Three detailed case studies📜:
 
 1. **Online Flight Tracking Software (Flightradar24)**  
    - Planning failures → safety risks  
