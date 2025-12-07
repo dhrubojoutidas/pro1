@@ -30,6 +30,13 @@ The project demonstrates skills in:
 | [`Exercise1_question.pdf`](Exercise1_question.pdf) | Original assessment brief |
 | `diagrams/` | AON, PERT, UML, Use Case diagrams |
 ---
+### 📊 Project Scheduling Diagrams
+
+- ![SkyFly AON Network Diagram](diagrams/SkyFly_AON_Network_Diagram.png)  
+  *Activity-on-Node (AON) Network Diagram*
+
+- ![SkyFly Critical Path CPM](diagrams/SkyFly_Critical_Path_CPM.png)  
+  *Critical Path Method (CPM) Diagram*
 
 
 ## ✅ 1. Planning & Scheduling
@@ -57,7 +64,6 @@ A detailed WBS was created to break the SkyFly system into manageable components
 * **Estimated project duration: 54 weeks**
 * **PERT expected duration: 52.13 weeks**
 
-📷 (Optional but recommended): Export your AON diagram as PNG and link here:
 
 ---
 
@@ -92,7 +98,8 @@ Each use case includes:
 
  ### **UML Use Case Diagram**  
 A complete UML diagram shows all actors and system interactions.
-
+- ![SkyFly Critical Path CPM](diagrams/SkyFly_Critical_Path_CPM.png)  
+  *Critical Path Method (CPM) Diagram*
 
 ---
 
