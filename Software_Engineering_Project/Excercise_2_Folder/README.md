@@ -65,21 +65,19 @@ Deliverables:
 
 ---
 
-
 ## 📝 Q3 – Unit Testing (Python)
 
 ### ✅ Q3PartA – Equivalence Partitioning (Black‑Box)  
 - **Production file:** [Q3PartA.py](Excercise_2_all_code/Q3PartA.py)
-- **Test file:** [`testQ3PartA.py`](Software_Engineering_Project/Excercise_2_Folder/Excercise_2_all_code/testQ3PartA.py)
-- /Excercise_2_all_code/Q3PartA.pytestQ3PartA.py)
-- [ testQ3PartA.py](Excercise_2_all_code/testQ3PartA.py)
-
+- **Test file:** [ testQ3PartA.py](Excercise_2_all_code/testQ3PartA.py)
 - Tests: 8 EP‑based cases validating valid/invalid partitions for a mean-calculation function.
 
   
 ### ✅ Q3PartB – Boundary Value Analysis (BVA)  
-- **Production file:** [`Q3PartB.py`](Q3PartB.py)  
-- **Test file:** [`testQ3PartB.py`](testQ3PartB.py)  
+- **Production file:** [Q3PartB.py](Excercise_2_all_code/Q3PartB.py)
+
+- **Test file:** [`testQ3PartB.py`](Excercise_2_all_code/testQ3PartB.py)
+
 - Function: `El_COVID(age)`  
 - Tests age-based eligibility logic.
 
