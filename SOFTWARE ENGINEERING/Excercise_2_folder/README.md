@@ -5,13 +5,13 @@
 **Institution:** Curtin University  
 **Trimester:** 3, 2023  
 
----
 
 ## 📌 Overview  
-This repository contains my full submission for **Exercise 2**, demonstrating practical skills across:
+This project demonstrates practical software engineering skills through:
 
 
-- [Repository Structure](#-repository-structure)  
+ 
+- [Repository Structure](#-repository-structure)
 - [Q1 – Planning & Agile Project Management](#-q1_planning--agile-project-management)  
 - [Q2 – Functional & Non-Functional Requirements](#-q2--functional--non-functional-requirements)
 - [Q3 – Unit Testing (Python)](#-q3--unit-testing-python)  
@@ -21,15 +21,33 @@ This repository contains my full submission for **Exercise 2**, demonstrating pr
 - [Tools & Technologies Used](#-tools--technologies-used)
 - [## ▶️ Running the Tests](## ▶️ Running the Tests)
 
-The goal of this project was to apply core software engineering principles through documentation, analysis, and hands‑on coding.
 
----
 
-### 📂 **Repository Structure**
-- [Assessment question file](presentations/CTP1_Project_IDEA_1st_pptx)
-- [All Python code for Q3 & Q4]( CTP_1/CTP1_Equipment_List_2nd_pptx.pdf  )
-- [README.md](CTP1_Project_Logic_3rd_PPTX.pdf)
-- [Report Document](CTP1_Project_Logic_3rd_PPTX.pdf)
+
+# 💼 Quick Summary (For Recruiters)
+
+This project demonstrates practical software engineering skills through:
+
+* ✔ Agile planning & task modelling
+* ✔ Requirements engineering & UML
+* ✔ Python unit testing (EP, BVA, white-box)
+* ✔ Code refactoring for modularity
+* ✔ Ethical decision-making
+* ✔ Git & version control workflows
+
+### 🔗 Key Files 
+
+* **Mean Function (EP Tests)** → [`Q3PartA.py`](path/to/Q3PartA.py)
+* **COVID Eligibility (BVA Tests)** → [`Q3PartB.py`](path/to/Q3PartB.py)
+* **Median Function (White-Box Tests)** → [`Q3PartC.py`](path/to/Q3PartC.py)
+* **Legacy Code (Original)** → [`Q4.py`](path/to/Q4.py)
+* **Refactored Modular Code** → [`newQ4.py`](path/to/newQ4.py)
+* **Combined Test Runner** → [`Unittesting.py`](path/to/Unittesting.py)
+*  **Assessment question file** (presentations/CTP1_Project_IDEA_1st_pptx)
+
+📄 **Full Academic Report:**
+[`Exercise2_Report.pdf`](path/to/report.pdf)
+
 
 ---
 
@@ -200,64 +218,9 @@ Here is your final **professional README.md** 👇
 
 ---
 
-# 🖥️ Software Engineering Project 2 — Testing, Modularity & Agile
 
-**Author:** Dhrubo Troyee
-**Course:** ISEN1000 – Introduction to Software Engineering
-**Institution:** Curtin University
-**Trimester:** 3, 2023
 
----
 
-# 💼 Quick Summary (For Recruiters)
-
-This project demonstrates practical software engineering skills through:
-
-* ✔ Agile planning & task modelling
-* ✔ Requirements engineering & UML
-* ✔ Python unit testing (EP, BVA, white-box)
-* ✔ Code refactoring for modularity
-* ✔ Ethical decision-making
-* ✔ Git & version control workflows
-
-### 🔗 Key Files (Click to View)
-
-* **Mean Function (EP Tests)** → [`Q3PartA.py`](path/to/Q3PartA.py)
-* **COVID Eligibility (BVA Tests)** → [`Q3PartB.py`](path/to/Q3PartB.py)
-* **Median Function (White-Box Tests)** → [`Q3PartC.py`](path/to/Q3PartC.py)
-* **Legacy Code (Original)** → [`Q4.py`](path/to/Q4.py)
-* **Refactored Modular Code** → [`newQ4.py`](path/to/newQ4.py)
-* **Combined Test Runner** → [`Unittesting.py`](path/to/Unittesting.py)
-
-📄 **Full Academic Report:**
-[`Exercise2_Report.pdf`](path/to/report.pdf)
-
----
-
-# 📁 Repository Structure
-
-```
-📦 SoftwareEngineeringProject2
-│
-├── Q3PartA.py
-├── Q3PartB.py
-├── Q3PartC.py
-├── testQ3PartA.py
-├── testQ3PartB.py
-├── testQ3PartC.py
-│
-├── Q4.py           (Original code – analysed)
-├── newQ4.py        (Refactored version)
-│
-├── Unittesting.py  (Runs all tests)
-│
-├── docs/
-│   └── Exercise2_Report.pdf
-│
-└── README.md
-```
-
----
 
 # 📝 Q1 – Planning & Agile Project Management
 
