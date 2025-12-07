@@ -42,21 +42,21 @@ Each unit has its own dedicated folder with a detailed README explaining exactly
 - Real-time dashboard with Chart.js  
 - Sensor fusion + false-positive reduction logic  
 
-
 ---
 
 ### ✈️ [SkyFly Airline Reservation System – Requirement Analysis & Project Planning ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
-- Full requirement analysis for airline reservation and seat‑management system  
-- Work Breakdown Structure (WBS) outlining all major system components  
-- AON network diagram with task dependencies and durations  
-- Critical Path Method (CPM) analysis with ES, EF, LS, LF, and slack calculations  
-- PERT estimation for expected project duration  
-- Identification of key system actors (passenger, admin, crew, database, payment gateway)  
-- 10+ user stories + 4 detailed use cases  
-- UML use case diagram  
-- Non‑functional requirements: usability, performance, reliability  
-- Git branching strategy for  version control  
+A complete analysis and planning project for an airline reservation and seat-management system, including:
+
+* Work Breakdown Structure (WBS)
+* AON network diagram & task dependencies
+* Critical Path Method (CPM) with ES/EF/LS/LF/slack
+* PERT estimation of project duration
+* Identification of key system actors (passenger, admin, crew, database, payment gateway)
+* 10+ user stories & 4 detailed use cases
+* UML use case diagram
+* Non-functional requirements (usability, performance, reliability)
+* Git branching strategy for structured version control
 
 ---
 
