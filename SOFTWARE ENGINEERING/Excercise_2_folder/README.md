@@ -10,28 +10,17 @@
 ## 📌 Overview  
 This repository contains my full submission for **Exercise 2**, demonstrating practical skills across:
 
-- Agile project management  
-- Requirements engineering  
-- UML modelling  
-- Python unit testing (EP, BVA, white‑box)  
-- Code modularity analysis & refactoring  
-- Ethical reasoning  
-- Git version control  
 
-The goal of this project was to apply core software engineering principles through documentation, analysis, and hands‑on coding.
-
----
-
-
-## 📑 Table of Contents  
 - [Repository Structure](#-repository-structure)  
 - [Q1 – Planning & Agile Project Management](#-q1_planning--agile-project-management)  
 - [Q2 – Functional & Non-Functional Requirements](#-q2--functional--non-functional-requirements)
 - [Q3 – Unit Testing (Python)](#-q3--unit-testing-python)  
 - [Q4 – Code Modularity & Refactoring](#-q4--code-modularity--refactoring)  
 - [Q5 – Ethics & Professionalism](#-q5--ethics--professionalism)  
-- [Git Version Control & Workflow](#-git-version-control--workflow)  
+- [Git Version Control ](#-git-version-control--workflow)  
 - [Tools & Technologies Used](#-tools--technologies-used)  
+
+The goal of this project was to apply core software engineering principles through documentation, analysis, and hands‑on coding.
 
 ---
 
