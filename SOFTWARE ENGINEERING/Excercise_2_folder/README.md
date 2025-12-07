@@ -8,8 +8,6 @@
 
 ## 📌 Overview  
 This project demonstrates practical software engineering skills through:
-
-
  
 - [Repository Structure](#-repository-structure)
 - [Q1 – Planning & Agile Project Management](#-q1_planning--agile-project-management)  
@@ -19,34 +17,11 @@ This project demonstrates practical software engineering skills through:
 - [Q5 – Ethics & Professionalism](#-q5--ethics--professionalism)  
 - [Git Version Control ](#-git-version-control--workflow)  
 - [Tools & Technologies Used](#-tools--technologies-used)
-- [## ▶️ Running the Tests](## ▶️ Running the Tests)
-
-
-
-
-# 💼 Quick Summary (For Recruiters)
-
-This project demonstrates practical software engineering skills through:
-
-* ✔ Agile planning & task modelling
-* ✔ Requirements engineering & UML
-* ✔ Python unit testing (EP, BVA, white-box)
-* ✔ Code refactoring for modularity
-* ✔ Ethical decision-making
-* ✔ Git & version control workflows
-
-### 🔗 Key Files 
-
-* **Mean Function (EP Tests)** → [`Q3PartA.py`](path/to/Q3PartA.py)
-* **COVID Eligibility (BVA Tests)** → [`Q3PartB.py`](path/to/Q3PartB.py)
-* **Median Function (White-Box Tests)** → [`Q3PartC.py`](path/to/Q3PartC.py)
-* **Legacy Code (Original)** → [`Q4.py`](path/to/Q4.py)
-* **Refactored Modular Code** → [`newQ4.py`](path/to/newQ4.py)
-* **Combined Test Runner** → [`Unittesting.py`](path/to/Unittesting.py)
-*  **Assessment question file** (presentations/CTP1_Project_IDEA_1st_pptx)
+- [Running the Tests)
 
 📄 **Full Academic Report:**
 [`Exercise2_Report.pdf`](path/to/report.pdf)
+[**Assessment question file**] (./)
 
 
 ---
