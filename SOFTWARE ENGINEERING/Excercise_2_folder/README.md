@@ -11,15 +11,14 @@
 This repository contains all work completed for **Exercise Submission 2**, demonstrating practical skills across:
 
 - Agile project management  
-- AON/PERT scheduling & critical path analysis  
 - Requirements engineering  
 - UML modelling  
-- Unit testing (black‑box, white‑box, BVA)  
-- Python test automation  
+- python Unit testing (black‑box, white‑box, BVA)  
 - Code modularity analysis & refactoring  
 - Professional documentation  
-- Git version control workflows  
+- Git version control 
 
+The goal of this project was to apply core software engineering principles through documentation, analysis, and hands‑on coding.
 ---
 
 ## 📑 Table of Contents  
