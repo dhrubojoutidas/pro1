@@ -94,6 +94,7 @@ Deliverables:
 
 
 ## 📝 Q4 – Code Modularity & Refactoring  
+[`Q4.py`](Excercise_2_all_code/Q4.py)
 
 ### ✅ Q4.py – Production  Code (Issues Identified)    
 - Global variables  
