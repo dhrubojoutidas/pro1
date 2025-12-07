@@ -78,10 +78,26 @@ Each folder contains:
 
 ### 🛠️ [IOT  Accident Detection System  ](./CTP_1/README.md)
 
+
 - Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
 - Firebase Cloud Functions + Twilio API for SMS alerts  
 - Real-time dashboard with Chart.js  
 - Sensor fusion + false-positive reduction logic  
+
+
+---
+
+## 👉[Software Engineering Project 2 — Highlight ](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
+A structured academic project focused on **testing, modularity, and Agile practices**.
+Includes full documentation, unit‑tested Python modules, and a complete breakdown of planning and development processes.
+
+**Key skills demonstrated:**  
+- ✅ Agile project planning & task breakdown  
+- ✅ Modular Python design  
+- ✅ Unit testing (PyTest)  
+- ✅ Documentation & reporting  
+- ✅ Version control with GitHub  
+
 
 ### 🎮 Tank Shooter Game (C)  
 - 2D shooter  
