@@ -1,16 +1,15 @@
 
-
 # 👨‍💻 Dhrubo Jouti Das – Academic Portfolio
-### Computer Systems & Networking | IT Support | Cybersecurity |Embedded Systems
+###  Computer Systems & Networking (3rd year) | IT Support | Cybersecurity | Embedded Systems
 
 📍 Cannington, WA 
 📞 0481 576 404 
 ✉️ dhrubod513@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
-
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)](https://github.com/dhrubojoutidas)
 
+---
 
 
 ## 🎓 About This Portfolio
@@ -164,9 +163,9 @@ A complete analysis and planning project for an airline reservation and seat-man
 ---
 
 ## 💼 Work Experience
-- Customer Service – Bentley Spices  
-- Kitchen Hand – TGI Fridays  
-- Sales Assistant – Shwapno  
+- Customer Service – Bentley Spices (2023 – 2025)
+- Kitchen Hand – TGI Fridays (2022 – 2023)
+- Sales Assistant – Shwapno (2020 – 2021)
 
 ---
 
@@ -175,7 +174,6 @@ A complete analysis and planning project for an airline reservation and seat-man
 **Availability:**  
 Weekdays – Part-time  
 Weekends – Fully Available  
-
 
 ---
 
