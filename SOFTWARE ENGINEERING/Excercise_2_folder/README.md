@@ -60,6 +60,8 @@ Agile planning, scheduling, forecasting, workflow modelling.
     
 ---
 
+
+
 ## 📝 Q2 – Functional & Non‑Functional Requirements  
 
 Applications analysed:
@@ -80,11 +82,11 @@ Includes:
 **Skills Demonstrated:**  
 Requirements engineering, UML modelling, system analysis.
 
+
+
 ---
 
 ## 📝 Q3 – Unit Testing (Black Box,  BVA, White Box)  
-
----
 
 ### ✅ Q3PartA – Equivalence Partitioning  (Black-Box) 
 - **Production file:** [`Q3PartA.py`](Q3PartA.py)  
@@ -96,6 +98,7 @@ Requirements engineering, UML modelling, system analysis.
 **Test file:** [`testQ3PartA.py`](testQ3PartA.py)  
   - Black-box tests using **Equivalence Partitioning (EP)**  
   - Contains **8 unit test cases** covering valid and invalid input partitions for `funmean()`  
+
 
 ---
 
@@ -120,7 +123,6 @@ Requirements engineering, UML modelling, system analysis.
 ---
 
 ### ✅ Q3PartC – White‑Box Testing  (Median Function)
-
 - **Production file:** [`Q3PartC.py`](Q3PartC.py)  
 - **Function:** Computes the **median of three numbers**.  
 - **Focus:**  
@@ -137,11 +139,10 @@ Requirements engineering, UML modelling, system analysis.
     - Invalid input handling  
     - All internal decision paths in the median logic  
 
-
 ---
 
 
-### ✅ Combined Test Runner
+### 🟦 Combined Test Runner
 
 - **File:** [`Unittesting.py`](Unittesting.py)  
 - **Purpose:**  A consolidated script that runs all unit tests together:
@@ -149,28 +150,7 @@ Requirements engineering, UML modelling, system analysis.
   - COVID eligibility tests (Q3PartB)  
   - Median function tests (Q3PartC)  
 
----
 
-
-
-**Skills demonstrated:**  
-- Test case design (**EP, BVA, white-box**)  
-- Python `unittest` framework  
-- Debugging and validation of logic  
-- Handling edge cases and input errors  
-
----
-
-### ✅ Test Execution Environment
-All tests executed in the **VMWare Linux environment** as required.
-
----
-
-**Skills Demonstrated:**  
-- Test case design (**EP, BVA, white-box**)  
-- Python `unittest` framework  
-- Debugging and validation of logic  
-- Handling edge cases and input errors  
 
 ---
 
@@ -220,6 +200,21 @@ Refactoring, modular programming, code quality improvement.
 **Skills Demonstrated:**  
 Ethical reasoning, risk analysis, professional responsibility.
 
+
+---
+
+
+
+### Test Execution Environment
+All tests executed in the **VMWare Linux environment** as required.
+
+---
+
+**Skills Demonstrated:**  
+- Test case design (**EP, BVA, white-box**)  
+- Python `unittest` framework  
+- Debugging and validation of logic  
+- Handling edge cases and input errors
 
 ---
 
