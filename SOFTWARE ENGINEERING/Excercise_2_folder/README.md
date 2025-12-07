@@ -178,7 +178,7 @@ A consolidated script that runs:
 
 ---
 
-## 📝 **Q4.py — Identified Modularity Issues 
+## 📝 **Q4.py — Identified Modularity Issues **
 
 - Excessive global variables  
 - Weak cohesion  
