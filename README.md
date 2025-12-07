@@ -1,5 +1,5 @@
 
-# 👨‍💻 Dhrubo Jouti Das – Academic Portfolio
+# 👨‍💻 Dhrubo Jouti Das – Academic & Technical  Portfolio
 ###  Computer Systems & Networking (3rd year) | IT Support | Cybersecurity | Embedded Systems
 
 📍 Cannington, WA 
@@ -23,7 +23,7 @@ It demonstrates hands-on experience in:
 - Programming (Python, C, SQL, Bash)
 - Embedded Systems & IoT
 - Data Analysis & Automation
-   Circuit designs  
+- Circuit designs  
 - IoT implementations  
 - Software assignments  
 - Technical presentations  
@@ -43,7 +43,7 @@ It demonstrates hands-on experience in:
 ---
 
 ### ✈️ [SkyFly Airline Reservation System – Requirement Analysis & Project Planning ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
-
+📁 Folder: Exercise_1
 A complete analysis and planning project for an airline reservation and seat-management system, including:
 
 * Work Breakdown Structure (WBS)
@@ -55,9 +55,9 @@ A complete analysis and planning project for an airline reservation and seat-man
 * UML use case diagram
 * Non-functional requirements (usability, performance, reliability)
 * Git branching strategy for structured version control
-
-
+  
 ---
+
 
 
 ### 🖥️ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
