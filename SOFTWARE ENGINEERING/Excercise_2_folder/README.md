@@ -29,7 +29,7 @@ This repository contains all works developed for Exercise Submission 2, demonstr
 ### 📂 **Repository Structure**
 - [Assessment question file](presentations/CTP1_Project_IDEA_1st_pptx)
 - [All Python code for Q3 & Q4]( CTP_1/CTP1_Equipment_List_2nd_pptx.pdf  )
-- [README.md Report Document](CTP1_Project_Logic_3rd_PPTX.pdf)
+- [README.md](CTP1_Project_Logic_3rd_PPTX.pdf)
 - [Report Document](CTP1_Project_Logic_3rd_PPTX.pdf)
 
 ---
