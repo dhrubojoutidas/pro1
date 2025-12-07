@@ -5,7 +5,6 @@
 **Institution:** Curtin University  
 **Trimester:** 3, 2023  
 
-
 ---
 
 ## 📌 Project Overview
@@ -19,29 +18,7 @@ This repository contains **Exercise Submission 1**, focusing on:
 * Critical path calculation
 * Non-functional requirement specification
 * Git version control planning
-
 The system analysed is an airline reservation system called **SkyFly**.
-
----
-
-## 📄 Assessment Files
-
-| File                                               | Description                           |
-| -------------------------------------------------- | ------------------------------------- |
-| [`Exercise1_Report.docx`](Exercise1_Report.docx)   | Full written submission               |
-| [`Exercise1_question.pdf`](Exercise1_question.pdf) | Original assessment brief             |
-| `/diagrams`                                        | Contains UML, AON, PERT, CPM diagrams |
-
-
-### **AON Network Diagram**
-
-![SkyFly AON Network Diagram](diagrams/SkyFly_AON_Network_Diagram.png)
-
-### **Critical Path (CPM) Diagram**
-
-![SkyFly Critical Path CPM](diagrams/SkyFly_Critical_Path_CPM.png)
-
-Absolutely, Dhrubo — here’s a clean, clickable version of your **Assessment Files** section in Markdown, just like the image you showed:
 
 ---
 
@@ -58,9 +35,6 @@ Absolutely, Dhrubo — here’s a clean, clickable version of your **Assessment 
 | [`README.md`](README.md) | Project overview and documentation |
 
 ---
-
-
-
 
 
 ## ✅ 1. Planning & Scheduling
