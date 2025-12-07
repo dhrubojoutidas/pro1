@@ -152,7 +152,138 @@ Refactoring, modular programming, code quality improvement.
 Ethical reasoning, risk analysis, professional responsibility.
 
 
+
+
+
+
+
+
+Absolutely — I’ll turn that entire explanation into a **clean, professional, recruiter‑friendly README.md** section.  
+This will look polished on GitHub and clearly show what each file represents in your assignment.
+
+Here it is:
+
 ---
+
+# ✅ Exercise Submission 2 — File Overview & Documentation
+
+This repository contains all Python source files and unit tests for **Exercise Submission 2**, covering **Question 3 (Software Testing)** and **Question 4 (Modularity & Refactoring)**.  
+The goal of this README is to help markers and recruiters quickly understand the purpose of each file and how it relates to the assignment requirements.
+
+---
+
+# 🟦 Question 3 — Unit Testing (Black Box, White Box, BVA)
+
+## **Q3PartA.py — Production Code (Mean Function)**
+Implements the function `funmean(num1, num2, num3, num4)` used for **Equivalence Partitioning (EP)** in Question 3A.
+
+Logic tested:
+- If `num1 > num2` **and** `num3 >= num4` → return the mean  
+- Otherwise → return `-1`
+
+---
+
+## **testQ3PartA.py — Black Box Tests (EP)**
+Contains **8 unit test cases** designed using **Equivalence Partitioning** to validate the behaviour of `funmean()`.
+
+---
+
+## **Q3PartB.py — Production Code (COVID Eligibility)**
+Implements the function `El_COVID(age)` used for **Boundary Value Analysis (BVA)** in Question 3B.
+
+The function returns eligibility messages based on age ranges.
+
+---
+
+## **testQ3PartB.py — Boundary Value Tests (BVA)**
+Includes test cases covering all critical age boundaries:
+- Negative ages  
+- 0–5  
+- 6–12  
+- 13–16  
+- 17–25  
+- 26–45  
+- 46–60  
+- 61–85  
+- Above 85  
+
+---
+
+## **Q3PartC.py — Production Code (Median Function)**
+Original code for computing the **median of three numbers**.  
+Used for **white-box testing**, including:
+- Path coverage  
+- Input validation  
+- Error handling  
+- Patching user input  
+
+---
+
+## **testQ3PartC.py — White Box Tests**
+Covers all internal paths of the median function, including:
+- Valid inputs  
+- Equal values  
+- Negative numbers  
+- Invalid input handling  
+- Branch/path coverage  
+
+---
+
+## **Unittesting.py — Combined Test Runner (Optional)**
+A consolidated script that runs:
+- All mean tests  
+- All COVID eligibility tests  
+- All median tests  
+
+Useful for demonstration, but not required by the assignment.
+
+---
+
+# 🟪 Question 4 — Modularity & Refactoring
+
+## **Q4.py — Original Code (Poor Modularity)**
+This is the lecturer‑provided code containing intentional modularity issues:
+- Excessive global variables  
+- Weak cohesion  
+- Tight coupling  
+- Flag misuse  
+- Repeated logic  
+- Poor function structure  
+
+Used for analysis in **Q4A** and **Q4B**.
+
+---
+
+## **newQ4.py — Refactored Modular Version**
+Your improved version of Q4.py, rewritten to demonstrate **good modularity**:
+- No global variables  
+- Clear function parameters  
+- Clean return values  
+- Improved naming  
+- Separated responsibilities  
+- A structured main program  
+
+This file satisfies **Q4C** (refactoring task).
+
+---
+
+# 🔥 Summary Table
+
+| File Name          | Purpose                               | Related Question       |
+| ------------------ | ------------------------------------- | ---------------------- |
+| **Q3PartA.py**     | Production code for mean function     | Q3A                    |
+| **testQ3PartA.py** | Black-box tests (EP)                  | Q3A                    |
+| **Q3PartB.py**     | Production code for COVID eligibility | Q3B                    |
+| **testQ3PartB.py** | Boundary value tests                  | Q3B                    |
+| **Q3PartC.py**     | Production median code                | Q3C                    |
+| **testQ3PartC.py** | White-box tests                       | Q3C                    |
+| **Unittesting.py** | Combined test suite (optional)        | Q3                     |
+| **Q4.py**          | Original code with modularity issues  | Q4A / Q4B              |
+| **newQ4.py**       | Refactored modular version            | Q4C                    |
+
+---
+
+
 
 ## ✅ Git Version Control & Workflow  
 
@@ -182,9 +313,7 @@ Branching, commit discipline, repository organisation.
 - `unittest` (Python testing framework)  
 - Draw.io (diagrams)  
 - VS Code (development)  
-- Git (version control)
-- 
-
+- Git (version control)  
 ## 🎯  Final Note
 This submission reflects my hands-on understanding of software engineering principles, from planning and testing to ethical reasoning and modular design. The repository is structured to be both academically complete and recruiter-friendly.
 
