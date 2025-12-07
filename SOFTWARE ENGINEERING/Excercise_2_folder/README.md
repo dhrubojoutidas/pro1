@@ -115,21 +115,39 @@ Test design, Python unittest, debugging, validation.
 
 ## 📝 Q4 – Code Modularity & Refactoring  
 
-### ✅ Identified Modularity Issues (Q4.py)  
-- Global variable misuse  
-- High coupling  
-- Poor separation of concerns  
-- Flag‑based logic issues  
+## **Q4.py — Identified Modularity Issues 
+
+- Excessive global variables  
+- Weak cohesion  
+- Tight coupling  
+- Flag‑based logic issues
+- Repeated logic  
+- Poor function structure
+
+  Used for analysis in **Q4A** and **Q4B**.
 
 ###  Refactored Code (newQ4.py)  
-- Removed global variables  
-- Improved function signatures  
-- Reduced coupling  
-- Cleaner, modular structure  
-- Verified functionality after refactor  
+## **newQ4.py — Refactored Modular Version**
+Improved version of Q4.py, rewritten to demonstrate **good modularity**:
+- Removed  global variables  
+- Clear function parameters  
+- Clean return values  
+- Improved naming  
+- Separated responsibilities  
+- A structured main program  
+
+This file satisfies **Q4C** (refactoring task).
+
 
 **Skills Demonstrated:**  
 Refactoring, modular programming, code quality improvement.
+
+
+
+
+
+
+
 
 
 ---
@@ -158,19 +176,7 @@ Ethical reasoning, risk analysis, professional responsibility.
 
 
 
-Absolutely — I’ll turn that entire explanation into a **clean, professional, recruiter‑friendly README.md** section.  
-This will look polished on GitHub and clearly show what each file represents in your assignment.
 
-Here it is:
-
----
-
-# ✅ Exercise Submission 2 — File Overview & Documentation
-
-This repository contains all Python source files and unit tests for **Exercise Submission 2**, covering **Question 3 (Software Testing)** and **Question 4 (Modularity & Refactoring)**.  
-The goal of this README is to help markers and recruiters quickly understand the purpose of each file and how it relates to the assignment requirements.
-
----
 
 # 🟦 Question 3 — Unit Testing (Black Box, White Box, BVA)
 
@@ -239,48 +245,6 @@ Useful for demonstration, but not required by the assignment.
 
 ---
 
-# 🟪 Question 4 — Modularity & Refactoring
-
-## **Q4.py — Original Code (Poor Modularity)**
-This is the lecturer‑provided code containing intentional modularity issues:
-- Excessive global variables  
-- Weak cohesion  
-- Tight coupling  
-- Flag misuse  
-- Repeated logic  
-- Poor function structure  
-
-Used for analysis in **Q4A** and **Q4B**.
-
----
-
-## **newQ4.py — Refactored Modular Version**
-Your improved version of Q4.py, rewritten to demonstrate **good modularity**:
-- No global variables  
-- Clear function parameters  
-- Clean return values  
-- Improved naming  
-- Separated responsibilities  
-- A structured main program  
-
-This file satisfies **Q4C** (refactoring task).
-
----
-
-# 🔥 Summary Table
-
-| File Name          | Purpose                               | Related Question       |
-| ------------------ | ------------------------------------- | ---------------------- |
-| **Q3PartA.py**     | Production code for mean function     | Q3A                    |
-| **testQ3PartA.py** | Black-box tests (EP)                  | Q3A                    |
-| **Q3PartB.py**     | Production code for COVID eligibility | Q3B                    |
-| **testQ3PartB.py** | Boundary value tests                  | Q3B                    |
-| **Q3PartC.py**     | Production median code                | Q3C                    |
-| **testQ3PartC.py** | White-box tests                       | Q3C                    |
-| **Unittesting.py** | Combined test suite (optional)        | Q3                     |
-| **Q4.py**          | Original code with modularity issues  | Q4A / Q4B              |
-| **newQ4.py**       | Refactored modular version            | Q4C                    |
-
 ---
 
 
@@ -313,7 +277,9 @@ Branching, commit discipline, repository organisation.
 - `unittest` (Python testing framework)  
 - Draw.io (diagrams)  
 - VS Code (development)  
-- Git (version control)  
+- Git (version control)
+
+  
 ## 🎯  Final Note
 This submission reflects my hands-on understanding of software engineering principles, from planning and testing to ethical reasoning and modular design. The repository is structured to be both academically complete and recruiter-friendly.
 
