@@ -16,6 +16,8 @@ This project demonstrates practical software engineering skills through:
 - [Q1 – Planning & Agile Project Management](#-q1_planning--agile-project-management)
 - [Q1 – Planning & Agile Project Management](#q1-planning--agile-project-management)
 - [Q1 – Planning & Agile Project Management](#q1--planning--agile-project-management)
+- [Q1 – Planning & Agile Project Management](#q1---planning--agile-project-management)
+
 
 
 - [Q2 – Functional & Non-Functional Requirements](#-q2--functional--non-functional-requirements)
@@ -34,6 +36,8 @@ This project demonstrates practical software engineering skills through:
 
 
 ---
+
+## Q1 - Planning & Agile Project Management
 
 ## 📝 Q1 – Planning & Agile Project Management  
 Key deliverables include:
