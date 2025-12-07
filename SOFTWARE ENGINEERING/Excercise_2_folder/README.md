@@ -82,10 +82,7 @@ Requirements engineering, UML modelling, system analysis.
 
 ---
 
-
-
-
-## 📝 Q3 – Unit Testing (Black Box, White Box, BVA)  
+## 📝 Q3 – Unit Testing (Black Box,  BVA, White Box)  
 
 ---
 
@@ -102,7 +99,6 @@ Requirements engineering, UML modelling, system analysis.
 
 ---
 
-
 ### ✅ Q3PartB – Boundary Value Analysis (BVA)  
 - **Production file:** [`Q3PartB.py`](Q3PartB.py)  
 - **Function:** `El_COVID(age)`  
@@ -110,7 +106,7 @@ Requirements engineering, UML modelling, system analysis.
 
 - **Test file:** [`testQ3PartB.py`](testQ3PartB.py)  
   - Designed using **Boundary Value Analysis (BVA)**  
-  - Covers key boundaries, including:
+  - Includes test cases covering all critical age boundaries:
     - Negative ages  
     - 0–5  
     - 6–12  
@@ -121,93 +117,43 @@ Requirements engineering, UML modelling, system analysis.
     - 61–85  
     - Above 85  
 
-## **Q3PartB.py — Production Code (COVID Eligibility)**
-Implements the function `El_COVID(age)` used for **Boundary Value Analysis (BVA)** in Question 3B.
-
-The function returns eligibility messages based on age ranges.
-
 ---
 
-## **testQ3PartB.py — Boundary Value Tests (BVA)**
-Includes test cases covering all critical age boundaries:
-- Negative ages  
-- 0–5  
-- 6–12  
-- 13–16  
-- 17–25  
-- 26–45  
-- 46–60  
-- 61–85  
-- Above 85  
-
----
-
----
-
-### ✅ Q3PartC – White‑Box Testing  (Median Function
-
+### ✅ Q3PartC – White‑Box Testing  (Median Function)
 
 - **Production file:** [`Q3PartC.py`](Q3PartC.py)  
 - **Function:** Computes the **median of three numbers**.  
 - **Focus:**  
   - White-box testing  
-  - Path and branch coverage  
-  - Input validation and error handling  
+  - Path / branch coverage  
+  - Input validation  
   - Simulated user input (patched in tests)
 
 - **Test file:** [`testQ3PartC.py`](testQ3PartC.py)  
   - White-box unit tests covering:
     - Valid numeric inputs  
-    - All values equal  
-    - Negative values  
+    - Equal values   
+    - Negative numbers 
     - Invalid input handling  
     - All internal decision paths in the median logic  
 
 
-
-## **Q3PartC.py — Production Code (Median Function)**
-Original code for computing the **median of three numbers**.  
-Used for **white-box testing**, including:
-- Path coverage  
-- Input validation  
-- Error handling  
-- Patching user input  
-
 ---
 
-## **testQ3PartC.py — White Box Tests**
-Covers all internal paths of the median function, including:
-- Valid inputs  
-- Equal values  
-- Negative numbers  
-- Invalid input handling  
-- Branch/path coverage  
-
----
-
-
-
-
-
-
-
----
+### ✅ Unittesting.py — Combined Test Runner**
 
 ### ✅ Combined Test Runner
 
 - **File:** [`Unittesting.py`](Unittesting.py)  
-- **Purpose:** Runs all unit tests together:
+- **Purpose:**  A consolidated script that runs all unit tests together:
   - Mean function tests (Q3PartA)  
   - COVID eligibility tests (Q3PartB)  
   - Median function tests (Q3PartC)  
 
-This script is useful as a **single entry point** to demonstrate the complete test suite.
 
 ---
 
-### ✅ Test Execution Environment
 
-All tests were executed in the **VMWare Linux environment**, following the assignment requirements.
 
 **Skills demonstrated:**  
 - Test case design (**EP, BVA, white-box**)  
@@ -217,22 +163,26 @@ All tests were executed in the **VMWare Linux environment**, following the assig
 
 ---
 
+### ✅ Test Execution Environment
 
 
 
-
-### ✅ Unittesting.py — Combined Test Runner**
-A consolidated script that runs:
-- All mean tests  
-- All COVID eligibility tests  
-- All median tests  
-
-
-### ✅ Test Execution Screenshots  
+### ✅ Test Execution  
 All tests executed in the **VMWare Linux environment** as required.
 
+---
+
 **Skills Demonstrated:**  
-Test design, Python unittest, debugging, validation.
+
+
+
+
+
+**Skills demonstrated:**  
+- Test case design (**EP, BVA, white-box**)  
+- Python `unittest` framework  
+- Debugging and validation of logic  
+- Handling edge cases and input errors  
 
 ---
 
