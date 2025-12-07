@@ -29,8 +29,7 @@ The system analysed is an airline reservation system called **SkyFly**.
 | [`Excercise1.docx`](Excercise1.docx) | Full written submission |
 | [`Exercise1_question.pdf`](Exercise1_question.pdf) | Original assessment brief |
 [SkyFly AON Network Diagram](SkyFly_AON_Network_Diagram.png.jpg)
-
-| [`SkyFly_AON_Network_Diagram.png`](SkyFly_AON_Network_Diagram.png) | AON Network Diagram |
+| [`SkyFly_AON_Network_Diagram.png`](SkyFly_AON_Network_Diagram.png.jpg) | AON Network Diagram |
 | [`SkyFly_Critical_Path_CPM.jpg`](SkyFly_Critical_Path_CPM.jpg) | Critical Path Method (CPM) Diagram |
 | [`UML case diagram.jpg`](UML%20case%20diagram.jpg) | UML Use Case Diagram |
 | [`ex1 version control.txt`](ex1%20version%20control.txt) | Git version control plan |
