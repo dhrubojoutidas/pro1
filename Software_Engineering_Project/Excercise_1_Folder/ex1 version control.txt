@@ -1,0 +1,174 @@
+dhrub@TROYEE MINGW64 ~/OneDrive/Desktop/Todo/pro1 (KK)
+$ git log --branches --graph
+* commit eef645997bb39a9bc8dd78758c71096f6e1f2d66 (HH)
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 18:40:21 2023 +0800
+|
+|      NFR is done
+|
+* commit 3487f816747d216d929dadc42a6481202bde93de (HEAD -> KK, master)
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 18:37:53 2023 +0800
+|
+|     use case diagram is ready
+|
+* commit eccc7b25848c2699a54974d546d05ebb0a5456e0 (origin/master, origin/HEAD)
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:39:33 2023 +0800
+|
+|      Excercise1.docx is deleted
+|
+* commit 4a37454c5fbdc5524cfe50b9e03d32cd0165c0df
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:37:44 2023 +0800
+|
+|      Excercise1.docx is renamed ex1.docx
+|
+* commit dde8aa542fbf1ed148adf781005bc1269c9c588c
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:27:25 2023 +0800
+|
+|      calculating project expected time is done using PERT
+|
+* commit e3d6c3ce5181faa43fc04efbed811c4cefb08f32
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:26:12 2023 +0800
+|
+|      CRITICAL PATH METHODS IN PROJECT MANAGEMENT is done
+|
+* commit a170bc8c27b0d66cec5f7b7b9464d42a788b34d2
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:25:12 2023 +0800
+|
+|       Draw Activity on Node graph
+|
+* commit 1fb99fc868108a0a6e1ef0d4e5eb1cc8b6fc8dd7
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:23:41 2023 +0800
+|
+|      complete tasktable using dependencies, Time
+|
+* commit e6a79ffea670ef6851f6f259b9df2641300b35b1
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:22:10 2023 +0800
+|
+|      started doing  planning WBS for the software system  called Skyfly
+|
+* commit 1417ddd084cf48b550b31715031936a8021f3b43
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+:
+* commit eef645997bb39a9bc8dd78758c71096f6e1f2d66 (HH)
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 18:40:21 2023 +0800
+|
+|      NFR is done
+|
+* commit 3487f816747d216d929dadc42a6481202bde93de (HEAD -> KK, master)
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 18:37:53 2023 +0800
+|
+|     use case diagram is ready
+|
+* commit eccc7b25848c2699a54974d546d05ebb0a5456e0 (origin/master, origin/HEAD)
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:39:33 2023 +0800
+|
+|      Excercise1.docx is deleted
+|
+* commit 4a37454c5fbdc5524cfe50b9e03d32cd0165c0df
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:37:44 2023 +0800
+|
+|      Excercise1.docx is renamed ex1.docx
+|
+* commit dde8aa542fbf1ed148adf781005bc1269c9c588c
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:27:25 2023 +0800
+|
+|      calculating project expected time is done using PERT
+|
+* commit e3d6c3ce5181faa43fc04efbed811c4cefb08f32
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:26:12 2023 +0800
+|
+|      CRITICAL PATH METHODS IN PROJECT MANAGEMENT is done
+|
+* commit a170bc8c27b0d66cec5f7b7b9464d42a788b34d2
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:25:12 2023 +0800
+|
+|       Draw Activity on Node graph
+|
+* commit 1fb99fc868108a0a6e1ef0d4e5eb1cc8b6fc8dd7
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:23:41 2023 +0800
+|
+|      complete tasktable using dependencies, Time
+|
+* commit e6a79ffea670ef6851f6f259b9df2641300b35b1
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:22:10 2023 +0800
+|
+|      started doing  planning WBS for the software system  called Skyfly
+|
+* commit 1417ddd084cf48b550b31715031936a8021f3b43
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+:...skipping...
+* commit eef645997bb39a9bc8dd78758c71096f6e1f2d66 (HH)
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 18:40:21 2023 +0800
+|
+|      NFR is done
+|
+* commit 3487f816747d216d929dadc42a6481202bde93de (HEAD -> KK, master)
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 18:37:53 2023 +0800
+|
+|     use case diagram is ready
+|
+* commit eccc7b25848c2699a54974d546d05ebb0a5456e0 (origin/master, origin/HEAD)
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:39:33 2023 +0800
+|
+|      Excercise1.docx is deleted
+|
+* commit 4a37454c5fbdc5524cfe50b9e03d32cd0165c0df
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:37:44 2023 +0800
+|
+|      Excercise1.docx is renamed ex1.docx
+|
+* commit dde8aa542fbf1ed148adf781005bc1269c9c588c
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:27:25 2023 +0800
+|
+|      calculating project expected time is done using PERT
+|
+* commit e3d6c3ce5181faa43fc04efbed811c4cefb08f32
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:26:12 2023 +0800
+|
+|      CRITICAL PATH METHODS IN PROJECT MANAGEMENT is done
+|
+* commit a170bc8c27b0d66cec5f7b7b9464d42a788b34d2
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:25:12 2023 +0800
+|
+|       Draw Activity on Node graph
+|
+* commit 1fb99fc868108a0a6e1ef0d4e5eb1cc8b6fc8dd7
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:23:41 2023 +0800
+|
+|      complete tasktable using dependencies, Time
+|
+* commit e6a79ffea670ef6851f6f259b9df2641300b35b1
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:22:10 2023 +0800
+|
+|      started doing  planning WBS for the software system  called Skyfly
+|
+* commit 1417ddd084cf48b550b31715031936a8021f3b43
+| Author: dhrubojoutidas <dhrubotroyee20@gmail.com>
+| Date:   Wed Nov 22 17:20:17 2023 +0800
+:
