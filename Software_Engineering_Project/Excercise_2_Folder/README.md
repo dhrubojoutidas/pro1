@@ -37,7 +37,7 @@ This project demonstrates practical software engineering skills through:
 
 ---
 
-##📝 Q1 - Planning & Agile Project Management
+## 📝Q1 - Planning & Agile Project Management
 
 ## 📝 Q1 – Planning & Agile Project Management  
 Key deliverables include:
