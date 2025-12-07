@@ -2,11 +2,14 @@
 # 👨‍💻 Dhrubo Jouti Das – Academic & Technical  Portfolio
 ###  Computer Systems & Networking (3rd year) | IT Support | Cybersecurity | Embedded Systems
 
+###  Computer Systems & Networking (3rd year) | IT Support | Cybersecurity | Embedded Systems
+
 📍 Cannington, WA 
 📞 0481 576 404 
 ✉️ dhrubod513@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
+
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)](https://github.com/dhrubojoutidas)
 
 ---
@@ -43,7 +46,7 @@ It demonstrates hands-on experience in:
 ---
 
 ### ✈️ [SkyFly Airline Reservation System – Requirement Analysis & Project Planning ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
-📁 Folder: Exercise_1
+
 A complete analysis and planning project for an airline reservation and seat-management system, including:
 
 * Work Breakdown Structure (WBS)
