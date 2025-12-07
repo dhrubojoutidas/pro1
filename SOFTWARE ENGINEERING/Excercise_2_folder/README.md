@@ -18,7 +18,8 @@ This repository contains my full submission for **Exercise 2**, demonstrating pr
 - [Q4 – Code Modularity & Refactoring](#-q4--code-modularity--refactoring)  
 - [Q5 – Ethics & Professionalism](#-q5--ethics--professionalism)  
 - [Git Version Control ](#-git-version-control--workflow)  
-- [Tools & Technologies Used](#-tools--technologies-used)  
+- [Tools & Technologies Used](#-tools--technologies-used)
+- [## ▶️ Running the Tests](## ▶️ Running the Tests)
 
 The goal of this project was to apply core software engineering principles through documentation, analysis, and hands‑on coding.
 
