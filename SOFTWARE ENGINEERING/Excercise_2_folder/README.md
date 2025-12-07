@@ -88,6 +88,59 @@ This repository contains all works developed for Exercise Submission 2, demonstr
 
 
 
+**Q4_Code Modularity & Refactoring/**
+
+- ✅ Identified Modularity Issues (Q4.py)
+- Global variable misuse
+- High coupling
+- Poor separation of concerns
+- Flag‑based logic issues
+  
+- ✅ Refactored Code (newQ4.py)
+- Removed global variables
+- Improved function signatures
+- Reduced coupling
+- Cleaner, modular structure
+- Verified functionality after refactor
+
+
+
+✅ 5. Ethics & Professionalism
+
+
+Three detailed case studies:
+
+Online Flight Tracking Software (Flightradar24)
+
+Planning failures → safety risks
+
+Incorrect data → collisions, financial loss
+
+Video Calling Software
+
+Project management failures → delays, privacy issues
+
+Stock Market Application
+
+Security failures → financial harm, data breaches
+
+
+
+✅ 6. Git Version Control & Workflow
+
+✅ Branching Strategy
+main → stable branch
+development → active work
+feature-* → new features & fixes
+
+✅ Commands Used
+
+git init
+git checkout -b development
+git add .
+git commit -m "Initial commit for Exercise 2"
+git push -u origin development
+
 # **🛠 Tools & Technologies Used** 
 
 -Python 3 (VMWare Linux environment)
