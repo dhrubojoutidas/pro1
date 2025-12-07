@@ -1,9 +1,10 @@
 # ✈️ SkyFly Airline Reservation System – Requirement Analysis & Project Planning
 
-**Author:** Dhrubo Troyee
-**Course:** ISEN1000 – Introduction to Software Engineering (Exercise 1)
+-- **Author:** Dhrubo Troyee
+--**Course:** ISEN1000 – Introduction to Software Engineering (Exercise 1)
 **Institution:** Curtin University
 **Trimester:** 3, 2023
+--
 
 ---
 
