@@ -30,11 +30,7 @@ This project demonstrates practical software engineering skills through:
 
 ### 📄 Full Academic Report:
 
-- [`Exercise_2_Report.docx`](Software_Engineering_Project/Excercise_2_Folder/Exercise_2_Report.docx)
-- [`Exercise_2_question.pdf`](Software_Engineering_Project/Excercise_2_Folder/Exercise_2_question.pdf)
-- [`All coding files`](Software_Engineering_Project/Excercise_2_Folder/Excercise_2_all_code/)
-
-[`Exercise_2_Report.docx`](Software_Engineering_Project/Exercise_2_Folder/Exercise_2_Report.docx)
+- [Exercise_2_question.pdf](Software_Engineering_Project/Excercise_2_Folder/Exercise_2_question.pdf)
 
 ---
 
