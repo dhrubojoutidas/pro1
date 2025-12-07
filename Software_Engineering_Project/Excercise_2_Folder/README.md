@@ -45,6 +45,7 @@ Key deliverables include:
 - Roles of Scrum Master, Product Owner & Dev Team  
 
 **Skills:** Agile planing, scheduling, workflow modelling.
+<img width="1173" height="737" alt="image" src="https://github.com/user-attachments/assets/07649569-1510-48d6-a467-fc3cbd13e172" />
 
 ---
 
