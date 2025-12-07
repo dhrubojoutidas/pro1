@@ -22,6 +22,18 @@ This repository contains all work completed for **Exercise Submission 2**, demon
 
 ---
 
+---
+
+## 📑 Table of Contents  
+- [Repository Structure](#-repository-structure)  
+- [Q1 – Planning & Agile Project Management](#-q1_planning--agile-project-management)  
+- [Q2 – Functional & Non-Functional Requirements](#-q2--functional--non-functional-requirements) - [Q3 – Unit Testing (Python)](#-q3--unit-testing-python)  
+- [Q4 – Code Modularity & Refactoring](#-q4--code-modularity--refactoring)  
+- [Q5 – Ethics & Professionalism](#-q5--ethics--professionalism)  
+- [Git Version Control & Workflow](#-git-version-control--workflow)  
+- [Tools & Technologies Used](#-tools--technologies-used)  
+
+---
 
 ### 📂 **Repository Structure**
 - [Assessment question file](presentations/CTP1_Project_IDEA_1st_pptx)
