@@ -104,11 +104,7 @@ Each use case contains:
 * Main flow
 * Extensions
 
-### **[`UML Use Case Diagram**
 ### **[`UML case diagram.jpg`](UML%20case%20diagram.jpg)***
-
-![SkyFly UML Diagrams](diagrams/SkyFly_UML_Use_Case.png)
-
 
 ---
 
