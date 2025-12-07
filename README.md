@@ -28,8 +28,7 @@ It demonstrates hands-on experience in:
 - IoT implementations  
 - Software assignments  
 - Technical presentations  
-  
-Each unit has its own dedicated folder with a detailed README explaining exactly what was done.
+
 
 ---
 
@@ -86,27 +85,8 @@ A complete analysis and planning project for an airline reservation and seat-man
 - Calculations  
 
 ---
-
-
-
-
-
 ## 🛠️ Skills
 
-
-
-# 🎯 Skills Demonstrated Across Projects
-
-### **🛠 Technical Skills**
-- Embedded Systems (MSP430, Arduino, ESP32, ARM)  
-- IoT Development  
-- Sensor Integration  
-- C, C++, Python, Assembly  
-- Networking (UDP/TCP, LoRaWAN, SDN)  
-- Cloud Platforms (Firestore, AWS, Blynk)  
-- Circuit Design & Simulation (Fritzing, Logisim)  
-- PCB design  
-- Git & Version Control  
 
 ### 🌐 Networking  
 ![VLANs](https://img.shields.io/badge/-VLANs-1BA0D7?logo=cisco&logoColor=white)
@@ -140,7 +120,12 @@ A complete analysis and planning project for an airline reservation and seat-man
 ![AWK](https://img.shields.io/badge/-AWK-000000?logo=terminal&logoColor=white)
 ![SED](https://img.shields.io/badge/-SED-333333?logo=terminal&logoColor=white)
 ![GREP](https://img.shields.io/badge/-GREP-555555?logo=terminal&logoColor=white)
+asambly
 
+- Embedded Systems (MSP430, Arduino,)  
+- IoT Development  
+- Sensor Integration  
+firestore cloud platfrom
 ---
 
 ## 🛠️ Tools & Technologies
@@ -152,8 +137,85 @@ A complete analysis and planning project for an airline reservation and seat-man
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00979D?logo=arduino&logoColor=white)
+- Git & Version Control
+- Circuit Design & Simulation ( Logisim)  
+- 
 
 
+000
+Absolutely, Dhrubo — I’ve cleaned it up, fixed the formatting, corrected spelling, added missing badges, and made everything consistent and professional. Here’s the polished version you can paste directly into your README:
+
+---
+
+## 🛠️ Skills
+
+### 🌐 Networking  
+![VLANs](https://img.shields.io/badge/-VLANs-1BA0D7?logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/-Routing-0052CC?logo=router&logoColor=white)
+![DHCP](https://img.shields.io/badge/-DHCP-F7DF1E?logo=dhcp&logoColor=black)
+![NAT](https://img.shields.io/badge/-NAT-0A66C2?logo=network&logoColor=white)
+![Network Security](https://img.shields.io/badge/-Network_Security-FF5733?logo=security&logoColor=white)
+
+---
+
+### 🖥️ System Administration  
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![LDAP](https://img.shields.io/badge/-LDAP-0A0A0A?logo=ldap&logoColor=white)
+![SMB](https://img.shields.io/badge/-SMB-2C5BB4?logo=files&logoColor=white)
+![FTP](https://img.shields.io/badge/-FTP-4CAF50?logo=server&logoColor=white)
+
+---
+
+### 🔐 Security  
+![CyberOps](https://img.shields.io/badge/-CyberOps_Associate-1BA0D7?logo=cisco&logoColor=white)
+![SIEM](https://img.shields.io/badge/-SIEM-FF5733?logo=security&logoColor=white)
+![Threat Detection](https://img.shields.io/badge/-Threat_Detection-900C3F?logo=shield&logoColor=white)
+
+---
+
+### 💻 Programming & Scripting  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnubash&logoColor=white)
+![AWK](https://img.shields.io/badge/-AWK-000000?logo=terminal&logoColor=white)
+![SED](https://img.shields.io/badge/-SED-333333?logo=terminal&logoColor=white)
+![GREP](https://img.shields.io/badge/-GREP-555555?logo=terminal&logoColor=white)
+
+- Assembly (Basic)  
+- Embedded Systems (MSP430, Arduino)  
+- IoT Development  
+- Sensor Integration  
+- Firestore Cloud Platform  
+
+---
+
+## 🛠️ Tools & Technologies  
+
+![Cisco Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00979D?logo=arduino&logoColor=white)
+
+- Git & Version Control  
+- Circuit Design & Simulation (Logisim)  
+
+---
+
+If you want, I can also:
+
+✅ Add icons for Embedded Systems / IoT  
+✅ Create a collapsible section  
+✅ Add a “Tech Stack Summary” badge row  
+✅ Make it match your portfolio theme  
+
+Just tell me the vibe you want!
+
+  
 ---
 
 ## 🎖️ Certifications
