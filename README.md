@@ -87,7 +87,7 @@ Each folder contains:
 
 ---
 
-## 👉[Software Engineering Project 2 — Highlight ](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
+## 🖥️ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 A structured academic project focused on **testing, modularity, and Agile practices**.
 Includes full documentation, unit‑tested Python modules, and a complete breakdown of planning and development processes.
 
