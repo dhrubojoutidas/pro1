@@ -22,9 +22,10 @@ This project demonstrates practical software engineering skills through:
 
 
 📄 **Full Academic Report:**
--[`Exercise2_Report.docx`](Exercise_2_Report.docx )
--[`All coding File`](Excercise_2_all_code)
--[`Exercise_2_question.pdf`](Exercise_2_question.pdf)
+
+- [`Exercise2_Report.docx`](Exercise_2_Report.docx )
+- [`All coding File`](Excercise_2_all_code)
+- [`Exercise_2_question.pdf`](Exercise_2_question.pdf)
 
 
 ## 📝Q1 - Planning & Agile Project Management
