@@ -185,5 +185,229 @@ python3 testQ3PartC.py
 ## 🎯  Final Note
 This submission reflects my hands-on understanding of software engineering principles, from planning and testing to ethical reasoning and modular design. The repository is structured to be both academically complete and recruiter-friendly.
 
+
+
+
+Got it — you want me to **write the final polished `README.md`** *right now*, even without knowing your exact folder structure.
+
+So I will create a **clean, recruiter-friendly + academic-friendly README**, and I will **leave the clickable link paths in a format you can easily replace** later.
+
+👉 All you need to do is replace:
+`path/to/file` with your real folder names.
+
+Here is your final **professional README.md** 👇
+(You can copy-paste directly into GitHub.)
+
+---
+
+# 🖥️ Software Engineering Project 2 — Testing, Modularity & Agile
+
+**Author:** Dhrubo Troyee
+**Course:** ISEN1000 – Introduction to Software Engineering
+**Institution:** Curtin University
+**Trimester:** 3, 2023
+
+---
+
+# 💼 Quick Summary (For Recruiters)
+
+This project demonstrates practical software engineering skills through:
+
+* ✔ Agile planning & task modelling
+* ✔ Requirements engineering & UML
+* ✔ Python unit testing (EP, BVA, white-box)
+* ✔ Code refactoring for modularity
+* ✔ Ethical decision-making
+* ✔ Git & version control workflows
+
+### 🔗 Key Files (Click to View)
+
+* **Mean Function (EP Tests)** → [`Q3PartA.py`](path/to/Q3PartA.py)
+* **COVID Eligibility (BVA Tests)** → [`Q3PartB.py`](path/to/Q3PartB.py)
+* **Median Function (White-Box Tests)** → [`Q3PartC.py`](path/to/Q3PartC.py)
+* **Legacy Code (Original)** → [`Q4.py`](path/to/Q4.py)
+* **Refactored Modular Code** → [`newQ4.py`](path/to/newQ4.py)
+* **Combined Test Runner** → [`Unittesting.py`](path/to/Unittesting.py)
+
+📄 **Full Academic Report:**
+[`Exercise2_Report.pdf`](path/to/report.pdf)
+
+---
+
+# 📁 Repository Structure
+
+```
+📦 SoftwareEngineeringProject2
+│
+├── Q3PartA.py
+├── Q3PartB.py
+├── Q3PartC.py
+├── testQ3PartA.py
+├── testQ3PartB.py
+├── testQ3PartC.py
+│
+├── Q4.py           (Original code – analysed)
+├── newQ4.py        (Refactored version)
+│
+├── Unittesting.py  (Runs all tests)
+│
+├── docs/
+│   └── Exercise2_Report.pdf
+│
+└── README.md
+```
+
+---
+
+# 📝 Q1 – Planning & Agile Project Management
+
+Key deliverables included:
+
+* Task dependency table
+* 13-node AON network
+* ES/EF/LS/LF calculations
+* Slack time identification
+* Critical Path Method (CPM)
+* PERT expected duration
+* Burn-up chart interpretation
+* Kanban board (two scenarios)
+* Updated Scrum backlog for new tasks (N, O, P)
+* Roles of Scrum Master, PO, Dev Team
+
+**Skills:** Agile planning, workflow modelling, engineering scheduling.
+
+---
+
+# 📝 Q2 – Functional & Non-Functional Requirements
+
+Applications analysed:
+
+* ✔ Weather Update App
+* ✔ Rental Accommodation Booking App
+
+Deliverables:
+
+* Stakeholders & actors (human & system)
+* User stories
+* Structured use cases
+* UML use case diagram
+* Reliability metrics (MTTF, MTBF, ROCOF, availability)
+* Usability metrics
+
+**Skills:** Requirements engineering, UML, system modelling.
+
+---
+
+# 📝 Q3 – Unit Testing (Python)
+
+### ✔ Q3PartA – Equivalence Partitioning (EP)
+
+* **File:** [`Q3PartA.py`](path/to/Q3PartA.py)
+* Tests input partitions for a mean-calculation function.
+* **Test file:** [`testQ3PartA.py`](path/to/testQ3PartA.py)
+
+---
+
+### ✔ Q3PartB – Boundary Value Analysis (BVA)
+
+* **File:** [`Q3PartB.py`](path/to/Q3PartB.py)
+* Tests age-based eligibility logic.
+* **Test file:** [`testQ3PartB.py`](path/to/testQ3PartB.py)
+
+---
+
+### ✔ Q3PartC – White-Box Testing
+
+* **File:** [`Q3PartC.py`](path/to/Q3PartC.py)
+* Median-of-three logic tested for all internal paths.
+* **Test file:** [`testQ3PartC.py`](path/to/testQ3PartC.py)
+
+---
+
+### 🟦 Combined Test Runner
+
+* Runs all test suites together:
+  → [`Unittesting.py`](path/to/Unittesting.py)
+
+---
+
+## 📝 Q4 – Code Modularity & Refactoring
+
+### ❌ Q4.py – Issues Identified
+
+* Global variables
+* Tight coupling
+* Low cohesion
+* Repeated code
+* Mixed responsibilities
+* Hard to test
+
+### ✔ newQ4.py – Refactored Version
+
+* Clean modular functions
+* No global variables
+* Clear parameter passing
+* Structured main logic
+* Improved readability & maintainability
+
+---
+
+# 📝 Q5 – Ethics & Professionalism
+
+Three software-related ethical case studies:
+
+1. **Flight tracking system – safety & reliability issues**
+2. **Video call system – privacy impacts**
+3. **Stock market application – security & financial risks**
+
+**Skills:** Ethical analysis, professional responsibility.
+
+---
+
+# ⛓ Git Version Control
+
+* Proper branching workflow
+* Feature branches (`feature-*`)
+* Clean commit history
+
+Basic commands used:
+
+```sh
+git init
+git checkout -b development
+git add .
+git commit -m "Initial commit"
+git push -u origin development
+```
+
+---
+
+# ▶️ Running the Tests
+
+Run all:
+
+```sh
+python3 -m unittest
+```
+
+Run specific tests:
+
+```sh
+python3 testQ3PartA.py
+python3 testQ3PartB.py
+python3 testQ3PartC.py
+```
+
+---
+
+# 🎯 Final Note
+
+This project demonstrates core software engineering competencies across planning, analysis, testing, refactoring, and professional practice.
+The repository is structured for **easy navigation**, whether you're a recruiter or an academic reviewer.
+
+Thank you for viewing my work!
+
+
+
 Thank you for reviewing my work!
 
