@@ -197,8 +197,6 @@ Refactoring, modular programming, code quality improvement.
 3. **Stock Market Application**  
    - Security failures → financial harm, data breaches  
 
-**Skills Demonstrated:**  
-Ethical reasoning, risk analysis, professional responsibility.
 
 
 ---
@@ -234,9 +232,6 @@ git commit -m "Initial commit for Exercise 2"
 git push -u origin development
 ```
 
-
-**Skills Demonstrated:**  
-Branching, commit discipline, repository organisation.
 
 
 ---
