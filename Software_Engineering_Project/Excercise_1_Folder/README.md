@@ -146,7 +146,7 @@ Each use case contains:
 3. Commit changes and merge into `development` regularly
 4. Merge `development` → `main` after final review and testing
 
-
+ [`ex1 version control.txt`](ex1%20version%20control.txt)
 ---
 
 # 🎯 Final Notes
