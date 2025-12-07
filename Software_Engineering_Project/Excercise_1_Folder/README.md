@@ -1,175 +1,3 @@
-
-# ✈️ SkyFly Airline Reservation System – Requirement Analysis & Project Planning
--**Author:** Dhrubo Troyee
--**Course:** ISEN1000 – Introduction to Software Engineering, Exerise_1
--**Institution:** Curtin University
--**Trimester:** 3, 2023
-
----
-
-## 📌 Project Overview
-
-This repository contains **Exercise Submission 1**, focused on **software requirement analysis**, **project planning**, and **version control strategy** for an airline reservation system called **SkyFly**.
-
-The project demonstrates skills in:
-
-* Requirements engineering
-* Actor + user story modelling
-* UML use case diagrams
-* AON/PERT project scheduling
-* Critical path identification
-* Non-functional requirement specification
-* Git version control planning
-
-
-## 📄 Assessment Files  
-| File | Description |
-|------|-------------|
-| [`Exercise1_Report.docx`](Exercise1_Report.docx) | Full written submission |
-| [`Exercise1_question.pdf`](Exercise1_question.pdf) | Original assessment brief |
-| `diagrams/` | AON, PERT, UML, Use Case diagrams |
----
-### 📊 Project Scheduling Diagrams
-
-- ![SkyFly AON Network Diagram](diagrams/SkyFly_AON_Network_Diagram.png)  
-  *Activity-on-Node (AON) Network Diagram*
-
-- ![SkyFly Critical Path CPM](diagrams/SkyFly_Critical_Path_CPM.png)  
-  *Critical Path Method (CPM) Diagram*
-
-
-## ✅ 1. Planning & Scheduling
-
-### **Work Breakdown Structure (WBS)**  
-A detailed WBS was created to break the SkyFly system into manageable components, including:  
-- User management  
-- Passenger information handling  
-- Flight search & scheduling  
-- Seat allocation  
-- Ticketing & cancellation  
-- Payment & billing  
-- Notifications & updates  
-- Reservation enquiries  
-- Technical support  
-
-
-
-## 🔗 AON Diagram, Critical Path & PERT
-
-* Fully drawn **Activity-on-Node (AON)** diagram
-* **Dependencies & durations**
-* ** ES, EF, LS, LF, and Slack calculations**
-* **Critical Path identification**
-* **Estimated project duration: 54 weeks**
-* **PERT expected duration: 52.13 weeks**
-
-
----
-
-## ✅ 2. Functional Requirement Analysis
-
-### **Actors Identified**
-- Passengers  
-- Pilots / Crew  
-- Front Desk Representatives  
-- Admin / Management Staff  
-- Database System  
-- Payment Gateway Service
-
-### **User Stories (10+)**
-
-Includes stories from the perspective of passengers, agents, admins, database, and payment systems.
-
-### **Use Cases**
-Four detailed use cases were developed, including:  
-- Managing seating arrangements  
-- Processing refunds  
-- Accessing passenger details  
-- Downloading boarding passes  
-
-Each use case includes:  
-✅ Goal  
-✅ Actors  
-✅ Preconditions  
-✅ Triggers  
-✅ Flow of Events  
-✅ Extensions  
-
- ### **UML Use Case Diagram**  
-A complete UML diagram shows all actors and system interactions.
-- ![SkyFly Critical Path CPM](diagrams/SkyFly_Critical_Path_CPM.png)  
-  *Critical Path Method (CPM) Diagram*
-
----
-
-## ⚙️ 3. Non‑Functional Requirements
-
-### **Usability Requirements**
-- User‑friendly interface  
-- Quick access to flight information  
-- Accessibility features (screen reader, multi‑language support)
-
-### **Performance Requirements**
-- Payment processing < 4 seconds  
-- Page load < 4 seconds  
-- System handles high user volume  
-
-### **Reliability Requirements**
-- 99.99% availability for user registration  
--  Backup and error-handling mechanisms
--  Ticket printing failure < 0.1%
-
-
-
----
-
-
-
-## 🌿 5. Version Control Strategy (Git)
-
-### **Branches**
-
-| Branch        | Purpose                               |
-| ------------- | ------------------------------------- |
-| `main`        | Stable, final version                 |
-| `development` | Latest updates, weekly merges                     |
-| `feature-*`   | Individual features from user stories |
-
-
-
-### **Workflow Summary**
-
-* Create `main` + `development` on Day 1
-* Create feature branches for major milestones
-* Merge to `development` weekly or after tasks completed
-* Merge `development` → `main` after final review
-
----
-
-
-
-## 🎯 Final Notes
-
-This submission demonstrates industry-aligned skills in:
-
-* Requirements gathering
-* Project planning and estimation
-* Use case + UML modelling
-* Version control strategy
-
----
-
-
-
-
-
-Absolutely — I will **polish, correct, align, and professionally format** your README.md so it looks clean and recruiter-friendly, and all sections flow correctly.
-
-Here is your **fully formatted, corrected, professional README.md** ↓
-(You can copy–paste directly into GitHub.)
-
----
-
 # ✈️ SkyFly Airline Reservation System – Requirement Analysis & Project Planning
 
 **Author:** Dhrubo Troyee
@@ -203,11 +31,6 @@ The system analysed is an airline reservation system called **SkyFly**.
 | [`Exercise1_question.pdf`](Exercise1_question.pdf) | Original assessment brief             |
 | `/diagrams`                                        | Contains UML, AON, PERT, CPM diagrams |
 
----
-
-## 📊 Project Scheduling Diagrams
-
-> *(Optional: Remove images if you haven’t uploaded them yet — the links won’t break the README.)*
 
 ### **AON Network Diagram**
 
@@ -219,21 +42,23 @@ The system analysed is an airline reservation system called **SkyFly**.
 
 ---
 
-# ✅ 1. Planning & Scheduling
 
-### **Work Breakdown Structure (WBS)**
 
-The project was divided into structured components, including:
+## ✅ 1. Planning & Scheduling
 
-* User account management
-* Passenger profile handling
-* Flight search & scheduling
-* Seat allocation
-* Ticket booking & cancellation
-* Payment processing
-* Notification & updates
-* Reservation enquiries
-* Technical support
+### **Work Breakdown Structure (WBS)**  
+A detailed WBS was created to break the SkyFly system into manageable components, including:  
+- User management  
+- Passenger information handling  
+- Flight search & scheduling  
+- Seat allocation  
+- Ticketing & cancellation  
+- Payment & billing  
+- Notifications & updates  
+- Reservation enquiries  
+- Technical support  
+
+---
 
 ### **AON, PERT & Critical Path Analysis**
 
@@ -247,6 +72,7 @@ The submission includes:
 * **PERT expected duration: 52.13 weeks**
 
 ---
+
 
 # ✅ 2. Functional Requirement Analysis
 
@@ -285,33 +111,29 @@ Each use case contains:
 * Main flow
 * Extensions
 
----
-
 ### **UML Use Case Diagram**
 
 ![SkyFly UML Diagrams](diagrams/SkyFly_UML_Use_Case.png)
 
+
 ---
 
-# ⚙️ 3. Non-Functional Requirements
+## ⚙️ 3. Non‑Functional Requirements
 
-### **Usability**
+### **Usability Requirements**
+- User‑friendly interface  
+- Quick access to flight information  
+- Accessibility features (screen reader, multi‑language support)
 
-* Intuitive and user-friendly interface
-* Accessible design (multi-language, screen reader support)
-* Easy access to flight information
+### **Performance Requirements**
+- Payment processing < 4 seconds  
+- Page load < 4 seconds  
+- System handles high user volume  
 
-### **Performance**
-
-* Payment processing < **4 seconds**
-* Page load < **4 seconds**
-* System supports high traffic periods
-
-### **Reliability**
-
-* **99.99%** availability for registration and booking
-* Backup + recovery mechanisms
-* Ticket printing error rate < **0.1%**
+### **Reliability Requirements**
+- 99.99% availability for user registration  
+-  Backup and error-handling mechanisms
+-  Ticket printing failure < 0.1%
 
 ---
 
@@ -334,6 +156,7 @@ Each use case contains:
 3. Commit changes and merge into `development` regularly
 4. Merge `development` → `main` after final review and testing
 
+
 ---
 
 # 🎯 Final Notes
@@ -347,15 +170,10 @@ This project demonstrates strong foundational skills in:
 * Software documentation
 * Professional Git workflow
 
-This repository is structured to be clear for **both academic review** and **recruiter inspection**.
-
 ---
 
-If you want, I can also:
 
-✅ Add badges (Python, GitHub, Documentation, etc.)
-✅ Add collapsible sections
-✅ Write a shorter recruiter-focused summary
-✅ Format links automatically once you upload diagram files
 
-Just tell me **“Add badges”** or **“Make a recruiter summary”**.
+
+
+
