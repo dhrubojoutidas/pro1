@@ -28,10 +28,8 @@ This project demonstrates practical software engineering skills through:
 
 
 ### 📄 Full Academic Report:
-[📄 Exercise_2_question.pdf](Exercise_2_question.pdf)
+[Exercise_2_question.pdf](Exercise_2_question.pdf)
 
-Exercise_2_question.pdf
----
 
 ## 📝Q1 - Planning & Agile Project Management
 Key deliverables include:
