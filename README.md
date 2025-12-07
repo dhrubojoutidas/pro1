@@ -86,9 +86,9 @@ Each folder contains:
 
 ---
 
-✈️ [SkyFly Airline Reservation System – Requirement Analysis & Project Planning ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+### ✈️ [SkyFly Airline Reservation System – Requirement Analysis & Project Planning ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
-- Complete requirement analysis for an airline reservation and seat‑management system  
+- Full requirement analysis for airline reservation and seat‑management system  
 - Work Breakdown Structure (WBS) outlining all major system components  
 - AON network diagram with task dependencies and durations  
 - Critical Path Method (CPM) analysis with ES, EF, LS, LF, and slack calculations  
@@ -97,7 +97,7 @@ Each folder contains:
 - 10+ user stories + 4 detailed use cases  
 - UML use case diagram  
 - Non‑functional requirements: usability, performance, reliability  
-- Git branching and version control strategy for structured development  
+- Git branching strategy for  version control  
 
 ---
 
