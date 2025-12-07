@@ -140,16 +140,10 @@ Improvements:
 
 📜Three detailed case studies📜:
 
-1. **Online Flight Tracking Software (Flightradar24)**  
-   - Planning failures → safety risks  
-   - Incorrect data → collisions, financial loss  
-
-2. **Video Calling Software**  
-   - Project management failures → delays, privacy issues  
-
-3. **Stock Market Application**  
-   - Security failures → financial harm, data breaches
-     
+1. safety risks  in **Online Flight Tracking Software (Flightradar24)**  
+2. privacy issues  in **Video Calling Software**  
+3. Security failures in **Stock Market Application**
+   
 **Skills:** Ethical reasoning, professional responsibility.
 
 ---
