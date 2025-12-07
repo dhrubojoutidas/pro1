@@ -24,12 +24,13 @@ This repository contains all works developed for Exercise Submission 2, demonstr
 ---
 
     
-#📂 **Repository Structure**
 
-- ISEN_E2_Tri3.pdf                # Assessment question file
-- ISEN_Ex_2_ALL_Code/             # All Python code for Q3 & Q4
-- Exercise Submission 2_Trimester 3_ 2023.pdf.pdf --- Report Document
-- README.md                       # Project overview (this file)
+
+### 📂 **Repository Structure**
+- [Assessment question file](presentations/CTP1_Project_IDEA_1st_pptx)
+- [All Python code for Q3 & Q4]( CTP_1/CTP1_Equipment_List_2nd_pptx.pdf  )
+- [README.md Report Document](CTP1_Project_Logic_3rd_PPTX.pdf)
+- [Report Document](CTP1_Project_Logic_3rd_PPTX.pdf)
 
 ---
 
