@@ -69,7 +69,8 @@ Deliverables:
 ## 📝 Q3 – Unit Testing (Python)
 
 ### ✅ Q3PartA – Equivalence Partitioning (Black‑Box)  
-- **Production file:** [`Q3PartA.py`](Q3PartA.py)  
+- **Production file:** [`Q3PartA.py`]([Q3PartA.py](Excercise_2_all_code/Q3PartA.py)
+Q3PartA.py)  
 - **Test file:** [`testQ3PartA.py`](/Excercise_2_all_code/Q3PartA.pytestQ3PartA.py)  
 - Tests: 8 EP‑based cases validating valid/invalid partitions for a mean-calculation function.
 
