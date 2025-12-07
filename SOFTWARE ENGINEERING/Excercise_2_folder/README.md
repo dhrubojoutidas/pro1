@@ -140,7 +140,6 @@ Requirements engineering, UML modelling, system analysis.
 
 ---
 
-### ✅ Unittesting.py — Combined Test Runner**
 
 ### ✅ Combined Test Runner
 
@@ -149,7 +148,6 @@ Requirements engineering, UML modelling, system analysis.
   - Mean function tests (Q3PartA)  
   - COVID eligibility tests (Q3PartB)  
   - Median function tests (Q3PartC)  
-
 
 ---
 
@@ -164,21 +162,11 @@ Requirements engineering, UML modelling, system analysis.
 ---
 
 ### ✅ Test Execution Environment
-
-
-
-### ✅ Test Execution  
 All tests executed in the **VMWare Linux environment** as required.
 
 ---
 
 **Skills Demonstrated:**  
-
-
-
-
-
-**Skills demonstrated:**  
 - Test case design (**EP, BVA, white-box**)  
 - Python `unittest` framework  
 - Debugging and validation of logic  
