@@ -17,7 +17,7 @@ This repository contains all work completed for **Exercise Submission 2**, demon
 - Code modularity analysis & refactoring  
 - Professional documentation  
 - Git version control
-The goal of this project was to apply core software engineering principles through documentation, analysis, and hands‑on coding.
+- The goal of this project was to apply core software engineering principles through documentation, analysis, and hands‑on coding.
 
 ---
 
@@ -60,18 +60,15 @@ Agile planning, scheduling, forecasting, workflow modelling.
 ---
 
 
-
 ## 📝 Q2 – Functional & Non‑Functional Requirements  
 
 Applications analysed:
-
 - ✅ Mobile Weather Update App  
 - ✅ Rental Accommodation Booking App  
 
 Includes:
 
-- Stakeholder Identification  
-- Actor Identification (Human & Non‑Human)  
+- Stakeholder & Actor Identification (Human & Non‑Human)  
 - User Stories (per actor)  
 - Written Use Cases (with extensions)  
 - UML Use Case Diagram  
@@ -79,13 +76,13 @@ Includes:
 - Usability Requirements  
 
 **Skills Demonstrated:**  
-Requirements engineering, UML modelling, system analysis.
+Requirements engineering, UML, system analysis.
 
 
 
 ---
 
-## 📝 Q3 – Unit Testing (Black Box,  BVA, White Box)  
+## 📝 Q3 – Unit Testing (Python )  
 
 ### ✅ Q3PartA – Equivalence Partitioning  (Black-Box) 
 - **Production file:** [`Q3PartA.py`](Q3PartA.py)  
@@ -144,12 +141,10 @@ Requirements engineering, UML modelling, system analysis.
 ### 🟦 Combined Test Runner
 
 - **File:** [`Unittesting.py`](Unittesting.py)  
-- **Purpose:**  A consolidated script that runs all unit tests together:
+- **Purpose:**  A script that runs all unit tests together:
   - Mean function tests (Q3PartA)  
   - COVID eligibility tests (Q3PartB)  
   - Median function tests (Q3PartC)  
-
-
 
 ---
 
@@ -161,24 +156,19 @@ Requirements engineering, UML modelling, system analysis.
 - Flag‑based logic issues
 - Repeated logic  
 - Poor function structure
-Used for analysis in **Q4A** and **Q4B**.
+
 
  
 ## **newQ4.py — Refactored Modular Version**
-Improved version of Q4.py, rewritten to demonstrate **good modularity**:
+Improvements:
 - Removed  global variables  
-- Clear function parameters  
-- Clean return values  
+- Clear function parameters  & return values  
 - Improved naming  
 - Separated responsibilities  
 - A structured main program
-This file satisfies **Q4C** (refactoring task).
-
 
 **Skills Demonstrated:**  
 Refactoring, modular programming, code quality improvement.
-
-
 
 ---
 
@@ -197,21 +187,15 @@ Refactoring, modular programming, code quality improvement.
    - Security failures → financial harm, data breaches  
 
 
+**Skills Demonstrated:**  
+Ethical reasoning, professional responsibility.
 
 ---
-
 
 
 ### Test Execution Environment
 All tests executed in the **VMWare Linux environment** as required.
 
----
-
-**Skills Demonstrated:**  
-- Test case design (**EP, BVA, white-box**)  
-- Python `unittest` framework  
-- Debugging and validation of logic  
-- Handling edge cases and input errors
 
 ---
 
