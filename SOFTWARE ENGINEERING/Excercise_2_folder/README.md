@@ -84,7 +84,7 @@ Requirements engineering, UML modelling, system analysis.
 ---
 
 
-## 📝 Q3 – Unit Testing (Python)  
+## 📝 Q3 – Unit Testing (Black Box, White Box, BVA)  
 
 ### ✅ Q3PartA – Equivalence Partitioning  
 - Function: Mean of four numbers  
@@ -112,8 +112,6 @@ Test design, Python unittest, debugging, validation.
 
 
 
-
-# 🟦 Question 3 — Unit Testing (Black Box, White Box, BVA)
 
 ## **Q3PartA.py — Production Code (Mean Function)**
 Implements the function `funmean(num1, num2, num3, num4)` used for **Equivalence Partitioning (EP)** in Question 3A.
@@ -177,9 +175,10 @@ A consolidated script that runs:
 - All median tests  
 
 
+
 ---
 
-## 📝  **Q4.py — Identified Modularity Issues 
+## 📝 **Q4.py — Identified Modularity Issues 
 
 - Excessive global variables  
 - Weak cohesion  
@@ -187,7 +186,8 @@ A consolidated script that runs:
 - Flag‑based logic issues
 - Repeated logic  
 - Poor function structure
- Used for analysis in **Q4A** and **Q4B**.
+Used for analysis in **Q4A** and **Q4B**.
+
  
 ## **newQ4.py — Refactored Modular Version**
 Improved version of Q4.py, rewritten to demonstrate **good modularity**:
@@ -196,7 +196,7 @@ Improved version of Q4.py, rewritten to demonstrate **good modularity**:
 - Clean return values  
 - Improved naming  
 - Separated responsibilities  
-- A structured main program  
+- A structured main program
 This file satisfies **Q4C** (refactoring task).
 
 
@@ -225,12 +225,9 @@ Refactoring, modular programming, code quality improvement.
 Ethical reasoning, risk analysis, professional responsibility.
 
 
-
 ---
 
-
-
-## ✅ Git Version Control & Workflow  
+## 📌 Git Version Control & Workflow  
 
 ### ✅ Branching Strategy  
 - `main` → stable branch  
@@ -250,6 +247,7 @@ git push -u origin development
 **Skills Demonstrated:**  
 Branching, commit discipline, repository organisation.
 
+
 ---
 
 ## 🛠 Tools & Technologies Used  
@@ -257,10 +255,13 @@ Branching, commit discipline, repository organisation.
 - Python 3 (VMWare Linux environment)  
 - `unittest` (Python testing framework)  
 - Draw.io (diagrams)  
-- VS Code (development)  
+- VS Code (development)
 - Git (version control)
-
   
+---
+
+
+
 ## 🎯  Final Note
 This submission reflects my hands-on understanding of software engineering principles, from planning and testing to ethical reasoning and modular design. The repository is structured to be both academically complete and recruiter-friendly.
 
