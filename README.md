@@ -34,7 +34,7 @@ It demonstrates hands-on experience in:
 
 ## 🚀 Highlighted Projects
 
-### 🛠️ [IOT  Accident Detection System  ](./CTP_1/README.md)
+### 🛜 [IOT  Accident Detection System  ](./CTP_1/README.md)
 
 - Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
 - Firebase Cloud Functions + Twilio API for SMS alerts  
@@ -124,7 +124,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 ---
 
-### 🔧 Embedded & IoT  
+### 🛜 Embedded & IoT  
 ![MSP430](https://img.shields.io/badge/-MSP430-CC0000?logo=ti&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 ![IoT Development](https://img.shields.io/badge/-IoT_Development-20C997?logo=iot&logoColor=white)
@@ -132,6 +132,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 ![Firestore Cloud Platform](https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=black)
 
 ---
+
 
 ## 🛠️ Tools & Technologies  
 ![Cisco Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
