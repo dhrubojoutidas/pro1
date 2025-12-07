@@ -1,5 +1,5 @@
 
-# 🖥️ Software Engineering Project 2 – Exercise Submission 2  
+# 🖥️ Software Engineering Project 2  
 **Author:** Dhrubo Troyee  
 **Course:** ISEN1000 – Introduction to Software Engineering  
 **Institution:** Curtin University  
@@ -20,10 +20,7 @@ This repository contains my full submission for **Exercise 2**, demonstrating pr
 
 The goal of this project was to apply core software engineering principles through documentation, analysis, and hands‑on coding.
 
-
 ---
-
-
 
 
 ## 📑 Table of Contents  
@@ -46,8 +43,6 @@ The goal of this project was to apply core software engineering principles throu
 
 ---
 
-
-
 ## 📝 Q1 – Planning & Agile Project Management  
 Key deliverables include:
 
@@ -62,7 +57,6 @@ Key deliverables include:
 - Roles of Scrum Master, Product Owner & Dev Team  
 
 **Skills:** Agile planing, scheduling, workflow modelling.
-
 
 
 ---
@@ -84,10 +78,9 @@ Deliverables:
 
 **Skills:** Requirements engineering, UML, system analysis.
 
-
 ---
 
-## 🧪 Q3 – Unit Testing (Python)
+## 📝 Q3 – Unit Testing (Python)
 
 ### ✅ Q3PartA – Equivalence Partitioning (Black‑Box)  
 - **Production file:** [`Q3PartA.py`](Q3PartA.py)  
@@ -113,75 +106,6 @@ Deliverables:
   - Input validation  
   - Error handling  
   - Simulated user input  
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 📝 Q3 – Unit Testing (Python )  
-
-### ✅ Q3PartA – Equivalence Partitioning  (Black-Box) 
-- **Production file:** [`Q3PartA.py`](Q3PartA.py)  
-- **Function:** `funmean(num1, num2, num3, num4)`  
-- **Purpose:** Computes the mean of four numbers only when:
-  - `num1 > num2` **and** `num3 >= num4` → returns the mean  
-  - otherwise → returns `-1`  
-
-**Test file:** [`testQ3PartA.py`](testQ3PartA.py)  
-  - Black-box tests using **Equivalence Partitioning (EP)**  
-  - Contains **8 unit test cases** covering valid and invalid input partitions for `funmean()`  
-
-
----
-
-### ✅ Q3PartB – Boundary Value Analysis (BVA)  
-- **Production file:** [`Q3PartB.py`](Q3PartB.py)  
-- **Function:** `El_COVID(age)`  
-- **Purpose:** Determines COVID vaccine eligibility messages based on age groups.
-
-- **Test file:** [`testQ3PartB.py`](testQ3PartB.py)  
-  - Designed using **Boundary Value Analysis (BVA)**  
-  - Includes test cases covering all critical age boundaries:
-    - Negative ages  
-    - 0–5  
-    - 6–12  
-    - 13–16  
-    - 17–25  
-    - 26–45  
-    - 46–60  
-    - 61–85  
-    - Above 85  
-
----
-
-### ✅ Q3PartC – White‑Box Testing  (Median Function)
-- **Production file:** [`Q3PartC.py`](Q3PartC.py)  
-- **Function:** Computes the **median of three numbers**.  
-- **Focus:**  
-  - White-box testing  
-  - Path / branch coverage  
-  - Input validation  
-  - Simulated user input (patched in tests)
-
-- **Test file:** [`testQ3PartC.py`](testQ3PartC.py)  
-  - White-box unit tests covering:
-    - Valid numeric inputs  
-    - Equal values   
-    - Negative numbers 
-    - Invalid input handling  
-    - All internal decision paths in the median logic  
-
 ---
  
 ### 🟦 Combined Test Runner  
@@ -211,11 +135,7 @@ Improvements:
 
 **Skills:** Refactoring, modular design, code quality improvement.
 
-
-
 ---
-
-
 
 ## 📝 Q5 – Ethics & Professionalism  
 
@@ -233,11 +153,7 @@ Improvements:
      
 **Skills:** Ethical reasoning, professional responsibility.
 
-
-
 ---
-
-
 
 
 ## 📌 Git Version Control & Workflow  
@@ -267,7 +183,6 @@ git push -u origin development
 - VS Code (development)
 - Git & GitHub (version control)
   
-
 ---
 
 ## 🎯  Final Note
