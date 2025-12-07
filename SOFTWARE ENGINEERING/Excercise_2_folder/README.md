@@ -16,9 +16,9 @@ This repository contains all work completed for **Exercise Submission 2**, demon
 - python Unit testing (black‑box, white‑box, BVA)  
 - Code modularity analysis & refactoring  
 - Professional documentation  
-- Git version control 
-
+- Git version control
 The goal of this project was to apply core software engineering principles through documentation, analysis, and hands‑on coding.
+
 ---
 
 ## 📑 Table of Contents  
