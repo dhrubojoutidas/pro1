@@ -3,23 +3,13 @@
 # 👨‍💻 Dhrubo Jouti Das – Academic Portfolio
 ### Computer Systems & Networking | IT Support | Cybersecurity |Embedded Systems
 
-📍 Cannington, WA  
-
+📍 Cannington, WA 
 📞 0481 576 404 
-
 ✉️ dhrubod513@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
 
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)](https://github.com/dhrubojoutidas)
-
-# 📩 Contact & Profiles
-
-- **LinkedIn:** *(add link)*  
-- **GitHub:** github.com/yourusername  
-- **Email:** *(your Curtin email)*  
-
-
 
 
 
@@ -40,37 +30,6 @@ It demonstrates hands-on experience in:
 - Technical presentations  
   
 Each unit has its own dedicated folder with a detailed README explaining exactly what was done.
-
----
-
-# 🗂️ **Unit Index (Click to View Work)**
-
-Below is a structured list of my university units.  
-Click any unit to open its project folder.
-
-### **Semester 2, 2025**
-- 👉 **[CMPE3002 – Computer Technology Project 1 (CTP1)](./CTP1/README.md)**  
-- 👉 **[CMPE3003 – Computer Technology Project 2 (CTP2)](./CTP2/README.md)** *(if you add later)*  
-- 👉 **[CMPE2003 – Microcomputer Systems](./CMPE2003/README.md)**  
-- 👉 **[ELEN2002 – Transmission & Interface Design](./ELEN2002/README.md)**  
-- 👉 **[CMPE2001 – Digital Electronics](./CMPE2001/README.md)**  
-- 👉 **[CMPE2002 – Embedded Systems](./CMPE2002/README.md)**  
-- 👉 **[COMP1002 – Data Structures & Algorithms](./COMP1002/README.md)**  
-- 👉 **[COMP2000 – C Programming](./COMP2000/README.md)**  
-- 👉 **[COMP3000 – Operating Systems](./COMP3000/README.md)**  
-- 👉 **[INFO2005 – Databases](./INFO2005/README.md)**  
-
-
----
-
-## 📂 Coursework Portfolio
-
-Each folder contains:
-- ✅ Assignments  
-- ✅ Lab sheets  
-- ✅ Source code  
-- ✅ Reports  
-- ✅ Documentation  
 
 ---
 
@@ -107,8 +66,9 @@ Each folder contains:
 - ✅ Modular Python design  
 - ✅ Unit testing (PyTest)  
 - ✅ Documentation & reporting  
-- ✅ Version control with GitHub  
-
+- ✅ Version control with GitHub
+  
+---
 
 ### 🎮 Tank Shooter Game (C)  
 - 2D shooter  
