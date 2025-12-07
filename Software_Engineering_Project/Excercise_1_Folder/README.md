@@ -6,6 +6,22 @@
 **Trimester:** 3, 2023
 --
 
+
+Here you go, Dhrubo — clean, professional, and perfectly formatted for GitHub.  
+I fixed the spacing, removed the stray dashes, aligned everything, and made it visually consistent.
+
+---
+
+# ✈️ SkyFly Airline Reservation System – Requirement Analysis & Project Planning
+
+**Author:** Dhrubo Troyee  
+**Course:** ISEN1000 – Introduction to Software Engineering (Exercise 1)  
+**Institution:** Curtin University  
+**Trimester:** 3, 2023  
+
+---
+
+If you want, I can also style it with icons, add a header banner, or create a table‑of‑contents section.
 ---
 
 ## 📌 Project Overview
