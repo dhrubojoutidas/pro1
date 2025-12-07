@@ -25,6 +25,8 @@ This project demonstrates practical software engineering skills through:
 [`Exercise2_Report.pdf`](path/to/report.pdf)
 [`Assessment question file`](path/to/report.pdf)
 [`All coding File`](path/to/report.pdf)
+[📄 Exercise_2_question.pdf](Excercise_2_Folder/Exercise_2_question.pdf)
+
 
 ### 📄 Full Academic Report:
 
