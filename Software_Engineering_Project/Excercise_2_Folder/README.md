@@ -83,8 +83,6 @@ Deliverables:
 ### ✅ Q3PartC – White‑Box Testing (Median Function)  
 - **Production file:** [Q3PartC.py](Excercise_2_all_code/Q3PartC.py)
 - **Test file:** [`testQ3PartC.py`](Excercise_2_all_code/testQ3PartC.py)
-- **Production file:** [`Q3PartC.py`](Q3PartC.py)  
-- **Test file:** [`testQ3PartC.py`](testQ3PartC.py)
 -  Median-of-three logic tested for all internal paths.
      
 
@@ -92,7 +90,7 @@ Deliverables:
 
 *  Runs all tests for Q3PartA, Q3PartB, and Q3PartC in one script :
   → [`Unittesting.py`](path/to/Unittesting.py)
-
+- **Test file:** [`Unittesting.py`](Excercise_2_all_code/Unittesting.py)
 ---
 
 
