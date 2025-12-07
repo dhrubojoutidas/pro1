@@ -184,6 +184,17 @@ git push -u origin development
   
 ---
 
+## ▶️ Running the Tests
+python3 -m unittest
+
+
+Or run individual test files:
+
+python3 testQ3PartA.py
+python3 testQ3PartB.py
+python3 testQ3PartC.py
+
+---
 ## 🎯  Final Note
 This submission reflects my hands-on understanding of software engineering principles, from planning and testing to ethical reasoning and modular design. The repository is structured to be both academically complete and recruiter-friendly.
 
