@@ -22,8 +22,6 @@ This repository contains all work completed for **Exercise Submission 2**, demon
 
 ---
 
----
-
 ## 📑 Table of Contents  
 - [Repository Structure](#-repository-structure)  
 - [Q1 – Planning & Agile Project Management](#-q1_planning--agile-project-management)  
@@ -111,69 +109,6 @@ All tests executed in the **VMWare Linux environment** as required.
 **Skills Demonstrated:**  
 Test design, Python unittest, debugging, validation.
 
----
-
-## 📝 Q4 – Code Modularity & Refactoring  
-
-## **Q4.py — Identified Modularity Issues 
-
-- Excessive global variables  
-- Weak cohesion  
-- Tight coupling  
-- Flag‑based logic issues
-- Repeated logic  
-- Poor function structure
-
-  Used for analysis in **Q4A** and **Q4B**.
-
-###  Refactored Code (newQ4.py)  
-## **newQ4.py — Refactored Modular Version**
-Improved version of Q4.py, rewritten to demonstrate **good modularity**:
-- Removed  global variables  
-- Clear function parameters  
-- Clean return values  
-- Improved naming  
-- Separated responsibilities  
-- A structured main program  
-
-This file satisfies **Q4C** (refactoring task).
-
-
-**Skills Demonstrated:**  
-Refactoring, modular programming, code quality improvement.
-
-
-
-
-
-
-
-
-
----
-
-## 📝 Q5 – Ethics & Professionalism  
-
-📜Three detailed case studies📜:
-
-1. **Online Flight Tracking Software (Flightradar24)**  
-   - Planning failures → safety risks  
-   - Incorrect data → collisions, financial loss  
-
-2. **Video Calling Software**  
-   - Project management failures → delays, privacy issues  
-
-3. **Stock Market Application**  
-   - Security failures → financial harm, data breaches  
-
-**Skills Demonstrated:**  
-Ethical reasoning, risk analysis, professional responsibility.
-
-
-
-
-
-
 
 
 
@@ -241,9 +176,55 @@ A consolidated script that runs:
 - All COVID eligibility tests  
 - All median tests  
 
-Useful for demonstration, but not required by the assignment.
 
 ---
+
+## 📝  **Q4.py — Identified Modularity Issues 
+
+- Excessive global variables  
+- Weak cohesion  
+- Tight coupling  
+- Flag‑based logic issues
+- Repeated logic  
+- Poor function structure
+ Used for analysis in **Q4A** and **Q4B**.
+ 
+## **newQ4.py — Refactored Modular Version**
+Improved version of Q4.py, rewritten to demonstrate **good modularity**:
+- Removed  global variables  
+- Clear function parameters  
+- Clean return values  
+- Improved naming  
+- Separated responsibilities  
+- A structured main program  
+This file satisfies **Q4C** (refactoring task).
+
+
+**Skills Demonstrated:**  
+Refactoring, modular programming, code quality improvement.
+
+
+
+---
+
+## 📝 Q5 – Ethics & Professionalism  
+
+📜Three detailed case studies📜:
+
+1. **Online Flight Tracking Software (Flightradar24)**  
+   - Planning failures → safety risks  
+   - Incorrect data → collisions, financial loss  
+
+2. **Video Calling Software**  
+   - Project management failures → delays, privacy issues  
+
+3. **Stock Market Application**  
+   - Security failures → financial harm, data breaches  
+
+**Skills Demonstrated:**  
+Ethical reasoning, risk analysis, professional responsibility.
+
+
 
 ---
 
