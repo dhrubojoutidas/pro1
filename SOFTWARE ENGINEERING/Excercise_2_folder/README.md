@@ -105,9 +105,8 @@ Deliverables:
   - Path/branch coverage  
   - Input validation  
   - Error handling  
-  - Simulated user input  
----
- 
+  - Simulated user input
+     
 ### 🟦 Combined Test Runner  
 - **File:** [`Unittesting.py`](Unittesting.py)  
 Runs all tests for Q3PartA, Q3PartB, and Q3PartC in one script.
