@@ -103,6 +103,13 @@ Requirements engineering, UML modelling, system analysis.
 - Input/output simulation  
 - Error handling tests (`TestQ3PartC.py`)
 
+### ✅ Unittesting.py — Combined Test Runner**
+A consolidated script that runs:
+- All mean tests  
+- All COVID eligibility tests  
+- All median tests  
+
+
 ### ✅ Test Execution Screenshots  
 All tests executed in the **VMWare Linux environment** as required.
 
@@ -168,17 +175,105 @@ Covers all internal paths of the median function, including:
 
 ---
 
-## **Unittesting.py — Combined Test Runner (Optional)**
-A consolidated script that runs:
-- All mean tests  
-- All COVID eligibility tests  
-- All median tests  
 
 
+
+9999999999
+Here’s a cleaned-up, formatted, recruiter-friendly section you can drop straight into your `README.md`.  
+I’ve fixed the formatting, removed duplication, and made all Python files clickable (assuming they sit in the repo root).
 
 ---
 
-## 📝 **Q4.py — Identified Modularity Issues **
+## 📝 Q3 – Unit Testing (Black Box, White Box, BVA)
+
+This section contains all production and test code for **Question 3**, demonstrating different software testing techniques in Python: **Equivalence Partitioning**, **Boundary Value Analysis**, and **White-box Testing**.
+
+---
+
+### ✅ Q3PartA – Equivalence Partitioning (Black-box)
+
+- **Production file:** [`Q3PartA.py`](Q3PartA.py)  
+- **Function:** `funmean(num1, num2, num3, num4)`  
+- **Purpose:** Computes the mean of four numbers only when:
+  - `num1 > num2` **and** `num3 >= num4` → returns the mean  
+  - otherwise → returns `-1`  
+
+- **Test file:** [`testQ3PartA.py`](testQ3PartA.py)  
+  - Black-box tests using **Equivalence Partitioning (EP)**  
+  - Contains **8 unit test cases** covering valid and invalid input partitions for `funmean()`  
+
+---
+
+### ✅ Q3PartB – Boundary Value Analysis (BVA)
+
+- **Production file:** [`Q3PartB.py`](Q3PartB.py)  
+- **Function:** `El_COVID(age)`  
+- **Purpose:** Determines COVID vaccine eligibility messages based on age groups.
+
+- **Test file:** [`testQ3PartB.py`](testQ3PartB.py)  
+  - Designed using **Boundary Value Analysis (BVA)**  
+  - Covers key boundaries, including:
+    - Negative ages  
+    - 0–5  
+    - 6–12  
+    - 13–16  
+    - 17–25  
+    - 26–45  
+    - 46–60  
+    - 61–85  
+    - Above 85  
+
+---
+
+### ✅ Q3PartC – White-box Testing (Median Function)
+
+- **Production file:** [`Q3PartC.py`](Q3PartC.py)  
+- **Function:** Computes the **median of three numbers**.  
+- **Focus:**  
+  - White-box testing  
+  - Path and branch coverage  
+  - Input validation and error handling  
+  - Simulated user input (patched in tests)
+
+- **Test file:** [`testQ3PartC.py`](testQ3PartC.py)  
+  - White-box unit tests covering:
+    - Valid numeric inputs  
+    - All values equal  
+    - Negative values  
+    - Invalid input handling  
+    - All internal decision paths in the median logic  
+
+---
+
+### ✅ Combined Test Runner
+
+- **File:** [`Unittesting.py`](Unittesting.py)  
+- **Purpose:** Runs all unit tests together:
+  - Mean function tests (Q3PartA)  
+  - COVID eligibility tests (Q3PartB)  
+  - Median function tests (Q3PartC)  
+
+This script is useful as a **single entry point** to demonstrate the complete test suite.
+
+---
+
+### ✅ Test Execution Environment
+
+All tests were executed in the **VMWare Linux environment**, following the assignment requirements.
+
+**Skills demonstrated:**  
+- Test case design (**EP, BVA, white-box**)  
+- Python `unittest` framework  
+- Debugging and validation of logic  
+- Handling edge cases and input errors  
+
+---
+
+If you want, next step I can add a short “How to run tests” block with the exact `python -m unittest` commands for recruiters.
+
+---
+
+## 📝 **Q4.py — Identified Modularity Issues**
 
 - Excessive global variables  
 - Weak cohesion  
