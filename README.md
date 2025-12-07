@@ -1,7 +1,5 @@
 
 # 👨‍💻 Dhrubo Jouti Das – Academic & Technical  Portfolio
-###  Computer Systems & Networking (3rd year) | IT Support | Cybersecurity | Embedded Systems
-
 ### ***Computer Systems & Networking (3rd year) | IT Support | Cybersecurity | Embedded Systems***
 
 
