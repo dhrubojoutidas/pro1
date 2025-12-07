@@ -5,6 +5,7 @@
 **Institution:** Curtin University  
 **Trimester:** 3, 2023  
 
+---
 
 ## 📌 Overview  
 This project demonstrates practical software engineering skills through:
@@ -17,11 +18,12 @@ This project demonstrates practical software engineering skills through:
 - [Q5 – Ethics & Professionalism](#-q5--ethics--professionalism)  
 - [Git Version Control ](#-git-version-control--workflow)  
 - [Tools & Technologies Used](#-tools--technologies-used)
-- [Running the Tests)
+- [Running the Tests](#-tools--technologies-used)
+
 
 📄 **Full Academic Report:**
 [`Exercise2_Report.pdf`](path/to/report.pdf)
-[**Assessment question file**] (./)
+[`Assessment question file`](path/to/report.pdf)
 
 
 ---
@@ -71,7 +73,7 @@ Deliverables:
 - Tests: 8 EP‑based cases validating valid/invalid partitions for a mean-calculation function.
 
 
----
+
 
   
 ### ✅ Q3PartB – Boundary Value Analysis (BVA)  
@@ -79,8 +81,6 @@ Deliverables:
 - **Test file:** [`testQ3PartB.py`](testQ3PartB.py)  
 - Function: `El_COVID(age)`  
 - Tests age-based eligibility logic.
-
----
 
 
 
@@ -148,7 +148,6 @@ git add .
 git commit -m "Initial commit for Exercise 2"
 git push -u origin development
 ```
-
 
 ---
 
