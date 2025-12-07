@@ -8,12 +8,9 @@
 
 ---
 
-
 ## 📌 Overview  
 This project demonstrates practical software engineering skills through:
  
-
-
 - [Q1 – Planning & Agile Project Management](#q1---planning--agile-project-management)
 - [Q2 – Functional & Non-Functional Requirements](#-q2--functional--non-functional-requirements)
 - [Q3 – Unit Testing (Python)](#-q3--unit-testing-python)  
@@ -28,7 +25,6 @@ This project demonstrates practical software engineering skills through:
 [`Exercise2_Report.pdf`](path/to/report.pdf)
 [`Assessment question file`](path/to/report.pdf)
 [`All coding File`](path/to/report.pdf)
-
 
 ---
 
@@ -78,15 +74,12 @@ Deliverables:
 - Tests: 8 EP‑based cases validating valid/invalid partitions for a mean-calculation function.
 
 
-
-
   
 ### ✅ Q3PartB – Boundary Value Analysis (BVA)  
 - **Production file:** [`Q3PartB.py`](Q3PartB.py)  
 - **Test file:** [`testQ3PartB.py`](testQ3PartB.py)  
 - Function: `El_COVID(age)`  
 - Tests age-based eligibility logic.
-
 
 
 ### ✅ Q3PartC – White‑Box Testing (Median Function)  
@@ -99,7 +92,6 @@ Deliverables:
 
 *  Runs all tests for Q3PartA, Q3PartB, and Q3PartC in one script :
   → [`Unittesting.py`](path/to/Unittesting.py)
-
 
 ---
 
@@ -121,7 +113,6 @@ Deliverables:
 - Better naming  
 - Improved readability & maintainability  
 - Structured main logic
-
 
 ---
 
@@ -153,7 +144,6 @@ git add .
 git commit -m "Initial commit for Exercise 2"
 git push -u origin development
 ```
-
 ---
 
 ## 🛠 Tools & Technologies Used  
@@ -182,5 +172,3 @@ python3 testQ3PartC.py
 ---
 ## 🎯  Final Note
 This project demonstrates core software engineering competencies across planning, analysis, testing, refactoring, and professional practice.
-
-
