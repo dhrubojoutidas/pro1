@@ -104,7 +104,7 @@ Deliverables:
 - Repeated code  
 - Poor structure  
 
-### ✅  [`newQ4.py`](Excercise_2_all_code/newQ4.py) – Refactored Modular Version  
+### ✅ [`newQ4.py`](Excercise_2_all_code/newQ4.py) – Refactored Modular Version  
 - No global variables  
 - Clear parameters & return values  
 - Better naming  
