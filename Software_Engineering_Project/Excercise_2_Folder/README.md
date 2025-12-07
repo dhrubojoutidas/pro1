@@ -96,7 +96,7 @@ Deliverables:
 ## 📝 Q4 – Code Modularity & Refactoring  
 
 
-### ✅ [`Q4.py`](Excercise_2_all_code/Q4.py) Q4.py – Production  Code (Issues Identified)    
+### ✅ [`Q4.py`](Excercise_2_all_code/Q4.py) – Production  Code (Issues Identified)    
 - Global variables  
 - Tight coupling  
 - Low cohesion  
@@ -104,8 +104,7 @@ Deliverables:
 - Repeated code  
 - Poor structure  
 
-
-### ✅ newQ4.py – Refactored Modular Version  
+### ✅  [`newQ4.py`](Excercise_2_all_code/newQ4.py) – Refactored Modular Version  
 - No global variables  
 - Clear parameters & return values  
 - Better naming  
