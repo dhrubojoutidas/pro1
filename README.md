@@ -60,7 +60,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 
 
-### 🖥️ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
+ 🖥️ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 - ✅ Agile project planning & task breakdown  
 - ✅ Modular Python design  
 - ✅ Unit testing (PyTest)  
