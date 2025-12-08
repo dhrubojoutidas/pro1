@@ -14,6 +14,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=1BA0D7&lines=Computer+Systems+%26+Networking;Cybersecurity+Enthusiast;Embedded+Systems+Developer;IT+Support+Technician)](https://git.io/typing-svg)
 
 
+## 📊 GitHub Stats
+![Dhrubo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrubojoutidas&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubojoutidas&layout=compact&theme=tokyonight)
+
+
+## 🧰 Tech Stack
+<img src="https://skillicons.dev/icons?i=python,c,linux,bash,git,arduino,raspberrypi,mysql,aws,azure,cpp" />
+
 ---
 
 
