@@ -141,9 +141,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 
 ## 🛠️ Tools & Technologies  
-![Cisco Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
-![Circuit Design & Simulation (Logisim)](https://img.shields.io/badge/-Logisim-4B0082?logo=circuit&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
+
 
 <!-- Skillicons row 1 -->
 <img src="https://skillicons.dev/icons?i=vscode,linux,windows,arduino,git" />
@@ -151,15 +149,12 @@ A complete analysis and planning project for an airline reservation and seat-man
 <!-- Skillicons row 2 -->
 <img src="https://skillicons.dev/icons?i=html,css,,wireshark,,github" />
 
-<!-- Tools NOT supported by skillicons -->
-<br>
-
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00979D?logo=arduino&logoColor=white)
-![Git & Version Control ](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
+![Circuit Design & Simulation (Logisim)](https://img.shields.io/badge/-Logisim-4B0082?logo=circuit&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 
 ---
 ## 🎖️ Certifications
