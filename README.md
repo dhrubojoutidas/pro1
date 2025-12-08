@@ -12,7 +12,8 @@
 ---
 
 
-🎓 About This Portfolio
+### 🎓 About This Portfolio ###
+
 This repository contains all  assignments, labs, and projects completed during my Diploma (Curtin College) and Bachelor of Technology in Computer Systems & Networking (Curtin University).
 
 It demonstrates hands-on experience in:
@@ -30,9 +31,9 @@ It demonstrates hands-on experience in:
 
 
 ---
- 🚀 Highlighted Projects
+ ### 🚀 Highlighted Projects
 
-### 🛜 [IOT  Accident Detection System  ](./CTP_1/README.md)
+ 🛜 [IOT  Accident Detection System  ](./CTP_1/README.md)
 
 - Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
 - Firebase Cloud Functions + Twilio API for SMS alerts  
@@ -84,7 +85,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 - Calculations  
 
 ---
-🛠️ Skills
+## 🛠️ Skills
 
 
 🌐 Networking  
@@ -133,7 +134,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 ---
 
 
-🛠️ Tools & Technologies  
+## 🛠️ Tools & Technologies  
 ![Cisco Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
@@ -145,7 +146,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 ![Circuit Design & Simulation (Logisim)](https://img.shields.io/badge/-Logisim-4B0082?logo=circuit&logoColor=white)
 
 ---
-🎖️ Certifications
+## 🎖️ Certifications
 
 [![CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/5bfceb3a-1b9d-4bcd-9fdd-65cd1f0ab715)
 
@@ -160,7 +161,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 ---
 
- 💼 Work Experience
+ ## 💼 Work Experience
 - Customer Service – Bentley Spices (2023 – 2025)
 - Kitchen Hand – TGI Fridays (2022 – 2023)
 - Sales Assistant – Shwapno (2020 – 2021)
