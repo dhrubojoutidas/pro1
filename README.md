@@ -163,6 +163,12 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 [![CCNA SRWE](https://img.shields.io/badge/CCNA-Switching_Routing_&_Wireless_Essentials-blue?logo=cisco)](https://www.credly.com/badges/787c3102-9786-45ce-b478-a0e71efb8ea8)
 
+[![CCNA ENSA](https://img.shields.io/badge/CCNA-ENSA_Expertise-red?logo=shield&logoColor=white)](https://www.credly.com/badges/e4db69ac-6695-4e2c-b0f0-9e11c1bb6c81)
+
+
+[![CCNA ITN](https://img.shields.io/badge/CCNA-ITN_Validated-red?logo=shield&logoColor=white)](https://www.credly.com/badges/b6763194-3e84-493c-a942-77f5ebe55488)
+
+
 
 ---
 
