@@ -147,7 +147,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 <img src="https://skillicons.dev/icons?i=vscode,linux,windows,arduino,git" />
 
 <!-- Skillicons row 2 -->
-<img src="https://skillicons.dev/icons?i=html,css,,wireshark,,github" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
