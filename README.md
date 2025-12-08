@@ -1,6 +1,5 @@
 # 👨‍💻 Dhrubo Jouti Das 
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=1BA0D7&lines=Computer+Systems+%26+Networking;Cybersecurity;Embedded+Systems;IT+Support+Technician)](https://git.io/typing-svg)
 
 📍 Cannington, WA 
@@ -151,6 +150,14 @@ A complete analysis and planning project for an airline reservation and seat-man
 ![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00979D?logo=arduino&logoColor=white)
 ![Git & Version Control ](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Circuit Design & Simulation (Logisim)](https://img.shields.io/badge/-Logisim-4B0082?logo=circuit&logoColor=white)
+
+
+## 🧰 Tech Tools
+<img src="https://skillicons.dev/icons?i=cisco,vmware,vscode,wireshark,linux,windows,arduino,git" />
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,bash,powershell,postgres,mysql,github" />
+
+![Logisim](https://img.shields.io/badge/Logisim-4B0082?logo=circuit&logoColor=white)
 
 ---
 ## 🎖️ Certifications
