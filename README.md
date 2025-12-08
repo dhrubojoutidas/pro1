@@ -12,7 +12,7 @@
 ---
 
 
-## 🎓 About This Portfolio
+🎓 About This Portfolio
 This repository contains all  assignments, labs, and projects completed during my Diploma (Curtin College) and Bachelor of Technology in Computer Systems & Networking (Curtin University).
 
 It demonstrates hands-on experience in:
@@ -30,8 +30,7 @@ It demonstrates hands-on experience in:
 
 
 ---
-
-## 🚀 Highlighted Projects
+ 🚀 Highlighted Projects
 
 ### 🛜 [IOT  Accident Detection System  ](./CTP_1/README.md)
 
@@ -42,7 +41,7 @@ It demonstrates hands-on experience in:
 
 ---
 
-### ✈️ [SkyFly Airline Reservation System – Requirement Analysis & Project Planning ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+ ✈️ [SkyFly Airline Reservation System – Requirement Analysis & Project Planning ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
 A complete analysis and planning project for an airline reservation and seat-management system, including:
 
@@ -69,26 +68,26 @@ A complete analysis and planning project for an airline reservation and seat-man
   
 ---
 
-### 🎮 Tank Shooter Game (C)  
+ 🎮 Tank Shooter Game (C)  
 - 2D shooter  
 - Collision detection  
 - Game loop logic  
 
-### 📊 SQL Olympics Data Analysis  
+ 📊 SQL Olympics Data Analysis  
 - Query optimisation  
 - Reporting  
 - Data modelling  
 
-### 🐍 Python Automation  
+ 🐍 Python Automation  
 - File handling  
 - Data processing  
 - Calculations  
 
 ---
-## 🛠️ Skills
+🛠️ Skills
 
 
-### 🌐 Networking  
+🌐 Networking  
 ![VLANs](https://img.shields.io/badge/-VLANs-1BA0D7?logo=cisco&logoColor=white)
 ![Routing](https://img.shields.io/badge/-Routing-0052CC?logo=router&logoColor=white)
 ![DHCP](https://img.shields.io/badge/-DHCP-F7DF1E?logo=dhcp&logoColor=black)
@@ -97,7 +96,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 ---
 
-### 🖥️ System Administration  
+ 🖥️ System Administration  
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![LDAP](https://img.shields.io/badge/-LDAP-0A0A0A?logo=ldap&logoColor=white)
@@ -106,13 +105,13 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 ---
 
-### 🔐 Security  
+🔐 Security  
 ![CyberOps](https://img.shields.io/badge/-CyberOps_Associate-1BA0D7?logo=cisco&logoColor=white)
 ![SIEM](https://img.shields.io/badge/-SIEM-FF5733?logo=security&logoColor=white)
 ![Threat Detection](https://img.shields.io/badge/-Threat_Detection-900C3F?logo=shield&logoColor=white)
 
 ---
-### 💻 Programming & Scripting  
+💻 Programming & Scripting  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
@@ -124,7 +123,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 ---
 
-### 🛜 Embedded & IoT  
+🛜 Embedded & IoT  
 ![MSP430](https://img.shields.io/badge/-MSP430-CC0000?logo=ti&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 ![IoT Development](https://img.shields.io/badge/-IoT_Development-20C997?logo=iot&logoColor=white)
@@ -134,7 +133,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 ---
 
 
-## 🛠️ Tools & Technologies  
+🛠️ Tools & Technologies  
 ![Cisco Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
@@ -146,8 +145,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 ![Circuit Design & Simulation (Logisim)](https://img.shields.io/badge/-Logisim-4B0082?logo=circuit&logoColor=white)
 
 ---
-
-## 🎖️ Certifications
+🎖️ Certifications
 
 [![CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/5bfceb3a-1b9d-4bcd-9fdd-65cd1f0ab715)
 
@@ -162,14 +160,13 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 ---
 
-## 💼 Work Experience
+ 💼 Work Experience
 - Customer Service – Bentley Spices (2023 – 2025)
 - Kitchen Hand – TGI Fridays (2022 – 2023)
 - Sales Assistant – Shwapno (2020 – 2021)
 
 ---
-
-## 📩 Contact
+ 📩 Contact
 
 **Availability:**  
 Weekdays – Part-time  
