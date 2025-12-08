@@ -159,6 +159,21 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 ![Logisim](https://img.shields.io/badge/Logisim-4B0082?logo=circuit&logoColor=white)
 
+## 🧰 Tech Tools
+
+<!-- Skillicons row 1 -->
+<img src="https://skillicons.dev/icons?i=vscode,linux,windows,arduino,git" />
+
+<!-- Skillicons row 2 -->
+<img src="https://skillicons.dev/icons?i=html,css,bash,powershell,wireshark,vmware,github" />
+
+<!-- Tools NOT supported by skillicons -->
+<br>
+
+![Packet Tracer](https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
+![Logisim](https://img.shields.io/badge/Logisim-4B0082?logo=circuit&logoColor=white)
+
+
 ---
 ## 🎖️ Certifications
 
