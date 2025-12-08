@@ -145,11 +145,6 @@ A complete analysis and planning project for an airline reservation and seat-man
 ![Circuit Design & Simulation (Logisim)](https://img.shields.io/badge/-Logisim-4B0082?logo=circuit&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 
-
-
-
-## 🧰 Tech Tools
-
 <!-- Skillicons row 1 -->
 <img src="https://skillicons.dev/icons?i=vscode,linux,windows,arduino,git" />
 
