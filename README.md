@@ -1,5 +1,7 @@
 # 👨‍💻 Dhrubo Jouti Das 
 
+<h1 align="left">👨‍💻 Dhrubo Jouti Das</h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=1BA0D7&lines=Computer+Systems+%26+Networking;Cybersecurity;Embedded+Systems;IT+Support+Technician)](https://git.io/typing-svg)
 
 📍 Cannington, WA 
@@ -13,28 +15,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)]( https://github.com/dhrubojoutidas/pro1/blob/master/README.md)
 
 
-Absolutely! Let's elevate your digital card and give it a more polished, professional look while keeping it visually engaging. Here's a refined version with updated icons, layout suggestions, and a few enhancements:
-
----
-
-### 👨‍💻 **Dhrubo Jouti Das**  
-**Cybersecurity | Computer Systems & Networking | IT Support**
-
----
-
-📍 **Location:** Cannington, WA  
-📞 **Phone:** 0481 576 404  
-📧 **Email:** [dhrubod513@gmail.com](mailto:dhrubod513@gmail.com)  
-🔗 **LinkedIn:** [Dhrubo Jouti Das](https://www.linkedin.com/in/dhrubojoutidas)  
-💻 **GitHub:** [dhrubojoutidas](https://github.com/dhrubojoutidas)
 
 
 
 
 
 
-<h1 align="left">👨‍💻 Dhrubo Jouti Das</h1>
-<h3 align="left">Cybersecurity | Computer Systems & Networking | IT Support</h3>
+
 
 <p align="left">
   📍 Cannington, WA · 📞 0481 576 404 · ✉️ 
