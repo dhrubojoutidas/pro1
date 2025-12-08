@@ -11,6 +11,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)]( https://github.com/dhrubojoutidas/pro1/blob/master/README.md)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=1BA0D7&lines=Computer+Systems+%26+Networking;Cybersecurity+Enthusiast;Embedded+Systems+Developer;IT+Support+Technician)](https://git.io/typing-svg)
 
 
 ---
