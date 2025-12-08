@@ -1,4 +1,4 @@
-# 👨‍💻 Dhrubo Jouti Das – Academic & Technical  Portfolio
+# 👨‍💻 Dhrubo Jouti Das 
 ### ***Computer Systems & Networking (3rd year) | IT Support | Cybersecurity | Embedded Systems***
 
 📍 Cannington, WA 
