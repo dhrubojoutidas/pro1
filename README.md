@@ -15,15 +15,15 @@
 
 
 
-<h1 align="center">👨‍💻 Dhrubo Jouti Das</h1>
-<h3 align="center">Cybersecurity | Computer Systems & Networking | IT Support</h3>
+<h1 align="left">👨‍💻 Dhrubo Jouti Das</h1>
+<h3 align="left">Cybersecurity | Computer Systems & Networking | IT Support</h3>
 
-<p align="center">
+<p align="left">
   📍 Cannington, WA · 📞 0481 576 404 · ✉️ 
   <a href="mailto:dhrubod513@gmail.com">dhrubod513@gmail.com</a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin" />
   </a>
