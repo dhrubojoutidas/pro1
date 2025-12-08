@@ -1,12 +1,10 @@
 # 👨‍💻 Dhrubo Jouti Das 
 
-<h1 align="left">👨‍💻 Dhrubo Jouti Das</h1>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=1BA0D7&lines=Computer+Systems+%26+Networking;Cybersecurity;Embedded+Systems;IT+Support+Technician)](https://git.io/typing-svg)
 
 📍 Cannington, WA 
 
-📞 0481 576 404 
+📞 0481 576 404
 
 ✉️ dhrubod513@gmail.com  
 
@@ -15,29 +13,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)]( https://github.com/dhrubojoutidas/pro1/blob/master/README.md)
 
 
-
-
-
-
-
-
-
-
-<p align="left">
-  📍 Cannington, WA · 📞 0481 576 404 · ✉️ 
-  <a href="mailto:dhrubod513@gmail.com">dhrubod513@gmail.com</a>
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin" />
-  </a>
-  <a href="https://github.com/dhrubojoutidas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github" />
-  </a>
-</p>
-
----
 
 
 ---
