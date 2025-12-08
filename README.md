@@ -151,26 +151,11 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 ---
 ## 🎖️ Certifications
-
-[![CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/5bfceb3a-1b9d-4bcd-9fdd-65cd1f0ab715)
- this link fro netwrok security https://www.credly.com/badges/92e91958-82d5-4ba9-add3-e48b7a2d0882
-
-
-
-
-
-CCCNA introduvtion to netwrok -- https://www.credly.com/badges/b6763194-3e84-493c-a942-77f5ebe55488
-CCNA-Switching,_Routing_&_Wireless_Essentials --- https://www.credly.com/badges/787c3102-9786-45ce-b478-a0e71efb8ea8
- CCNA-Enterprise_Networking,_Security_&_Automation --- https://www.credly.com/badges/e4db69ac-6695-4e2c-b0f0-9e11c1bb6c81
-
-
-## 📜 Certifications
-
-[![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/5bfceb3a-1b9d-4bcd-9fdd-65cd1f0ab715)
-[![Cisco Network Security](https://img.shields.io/badge/Cisco-Network_Security_Associate-blue?logo=cisco)](https://www.credly.com/badges/92e91958-82d5-4ba9-add3-e48b7a2d0882)
-[![CCNA ITN](https://img.shields.io/badge/CCNA-Introduction_to_Networks-blue?logo=cisco)](https://www.credly.com/badges/b6763194-3e84-493c-a942-77f5ebe55488)
-[![CCNA SRWE](https://img.shields.io/badge/CCNA-Switching_Routing_&_Wireless_Essentials-blue?logo=cisco)](https://www.credly.com/badges/787c3102-9786-45ce-b478-a0e71efb8ea8)
-[![CCNA ENSA](https://img.shields.io/badge/CCNA-Enterprise_Networking_Security_&_Automation-blue?logo=cisco)](https://www.credly.com/badges/e4db69ac-6695-4e2c-b0f0-9e11c1bb6c81)
+-[![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/5bfceb3a-1b9d-4bcd-9fdd-65cd1f0ab715)
+-[![Cisco Network Security](https://img.shields.io/badge/Cisco-Network_Security_Associate-blue?logo=cisco)](https://www.credly.com/badges/92e91958-82d5-4ba9-add3-e48b7a2d0882)
+-[![CCNA ITN](https://img.shields.io/badge/CCNA-Introduction_to_Networks-blue?logo=cisco)](https://www.credly.com/badges/b6763194-3e84-493c-a942-77f5ebe55488)
+-[![CCNA SRWE](https://img.shields.io/badge/CCNA-Switching_Routing_&_Wireless_Essentials-blue?logo=cisco)](https://www.credly.com/badges/787c3102-9786-45ce-b478-a0e71efb8ea8)
+-[![CCNA ENSA](https://img.shields.io/badge/CCNA-Enterprise_Networking_Security_&_Automation-blue?logo=cisco)](https://www.credly.com/badges/e4db69ac-6695-4e2c-b0f0-9e11c1bb6c81)
 
 ---
 
