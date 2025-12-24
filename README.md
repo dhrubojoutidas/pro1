@@ -72,7 +72,9 @@ A complete analysis and planning project for an airline reservation and seat-man
 - ✅ Unit testing (PyTest)  
 - ✅ Documentation & reporting  
 - ✅ Version control with GitHub
-  
+
+
+  “As part of my coursework at Curtin College, I engaged in research and writing on topics related to Indigenous Science and STEM, including the role of traditional knowledge in medicine and technology.”
 ---
 
  🎮 Tank Shooter Game (C)  
