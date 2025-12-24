@@ -15,7 +15,10 @@ I created this repository to demonstrate my academic writing, research skills, a
 
 Click below to view each file:
 
-- [Digital Divide Essay](A3_Digital_Divide_scientific_essaypdf)
+- [Digital Divide EssayI](Indigenous_Science_&_ STEM/A3_Digital_Divide_scientific_essay.pdf)
+- [Digital Divide Essay I](Indigenous_Science_%26%20%26%20STEM/A3_Digital_Divide_scientific_essay.pdf)
+
+
 
 
 ## 📂 Contents
