@@ -22,8 +22,10 @@ I created this repository to demonstrate my academic writing, research skills, a
   - Policy recommendations for bridging the gap
 
 ### 2. **[Indigenous Medicine Argument Plan](Argument_planner_Medicine.pdf)**
+
 📄 **Argument Planner – Medicine**  
-[Click here to open the PDF](Argument_planner_Medicine).pdf)
+[Click here to open the PDF](Indigenous_Science_%26%20STEM/Argument_planner_Medicine%29.pdf)
+
 
 - **Topic:** How Indigenous knowledge in Bangladesh can complement modern medicine in curing diseases.
 - **Key Points:**
