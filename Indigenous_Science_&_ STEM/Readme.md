@@ -35,6 +35,12 @@ I created this repository to demonstrate my academic writing, research skills, a
   - Preservation of cultural heritage
   - Evidence-based benefits of plant-based remedies
 
+
+## Assessment Documents
+- 📄 [Digital Divide Scientific Essay](A3_Digital_Divide_scientific_essay.pdf)
+- 📄 [Argument Planner – Medicine](<Argument_planner_Medicine).pdf>)
+- 📄 [Scientific Argument Essay](Scientific_Arguemnt_Essay_.pdf)
+
 ---
 
 ## 🎯 Skills & Learning Outcomes
