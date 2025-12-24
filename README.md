@@ -71,22 +71,16 @@ A complete analysis and planning project for an airline reservation and seat-man
 - ✅ Documentation & reporting  
 - ✅ Version control with GitHub
 
-[Indigenous Science and STEM 
-  “As part of my coursework at Curtin College, I engaged in research and writing on topics related to Indigenous Science and STEM, including the role of traditional knowledge in medicine and technology.”
-
-
   
 ## 📚 Academic Projects
 
-### [Indigenous Science and STEM – Academic Portfolio](Indigenous_Science_&_STat Curtin College, I engaged in research and writing on topics related to **Indigenous Science and STEM**, including the role of traditional knowledge in medicine and technology.  
+📚 [Indigenous Science and STEM – Academic Portfolio](./Indigenous_Science_&
 This project includes:
 - Essays on **Digital Divide** and its impact on Indigenous communities.
 - Argument plans on **Indigenous medicinal knowledge** and its integration with modern science.
 - Scientific essays demonstrating structured academic writing and research skills.
 
 **Skills Highlighted:** Academic writing (TEEL), source evaluation (CRAAP), APA 7th referencing, research techniques, and critical thinking.
-
-👉 [Click hereto explore the full project
 
 ---
 
