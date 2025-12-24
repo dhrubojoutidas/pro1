@@ -21,7 +21,7 @@ I created this repository to demonstrate my academic writing, research skills, a
   - Barriers to telehealth and online learning
   - Policy recommendations for bridging the gap
 
-### 2.**[Indigenous MedicineArgument Planner – Medicine](<Argument_planner_Medicine).pdf>)**
+### 2.**[Argument Planner For Scientific Essay ](<Argument_planner_Medicine).pdf>)**
 - **Topic:** How Indigenous knowledge in Bangladesh can complement modern medicine in curing diseases.
 - **Key Points:**
   - Use of medicinal plants for cost-effective healthcare
