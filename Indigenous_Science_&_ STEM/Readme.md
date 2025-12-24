@@ -28,7 +28,7 @@ I created this repository to demonstrate my academic writing, research skills, a
   - Cultural and religious significance of herbal remedies
   - Traditional healing properties and preparation methods
 
-### 3. **[Scientific Argument Essay](Scientific_Arguemnt_Essay_.pdf) **
+### 3. **[Scientific Argument Essay](Scientific_Arguemnt_Essay_.pdf)**
 - **Topic:** Why Indigenous knowledge should work with modern science to improve healthcare outcomes.
 - **Key Points:**
   - Accessibility and affordability of herbal medicine
