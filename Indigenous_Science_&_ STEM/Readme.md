@@ -10,6 +10,14 @@ I created this repository to demonstrate my academic writing, research skills, a
 
 ---
 
+
+## 📄 Academic Work
+
+Click below to view each file:
+
+- [Digital Divide Essay](A3_Digital_Divide_scientific_essaypdf)
+
+
 ## 📂 Contents
 ### 1. **Digital Divide Essay**
 - **Topic:** The impact of limited internet access on Australian Indigenous communities and its effect on healthcare and education.
