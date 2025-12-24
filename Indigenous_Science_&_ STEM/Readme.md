@@ -18,6 +18,11 @@ Click below to view each file:
 - [Digital Divide EssayI](Indigenous_Science_&_ STEM/A3_Digital_Divide_scientific_essay.pdf)
 - [Digital Divide Essay I](Indigenous_Science_%26%20STEM/A3_Digital_Divide_scientific_essay.pdf)
 
+# Indigenous Science & STEM
+
+## Digital Divide – Scientific Essay
+📄 [A3_Digital_Divide_scientific_essay.pdf](A3_Digital_Divide_scientific_essay.pdf)
+
 
 
 
