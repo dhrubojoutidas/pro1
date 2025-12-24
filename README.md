@@ -72,15 +72,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 - ✅ Version control with GitHub
 
   
-
-Indigenous_Science_&_ STEM/Readme.md
-
-📚 [Indigenous Science and STEM – Essay Writing](./Indigenous_Science_%26%20STEM/Readme.md)
 📚 [Indigenous Science and STEM – Essay Writing](<Indigenous_Science_&_ STEM/Readme.md>)
-
-
-
-
 This project includes:
 - Essays on **Digital Divide** and its impact on Indigenous communities.
 - Argument plans on **Indigenous medicinal knowledge** and its integration with modern science.
