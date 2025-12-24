@@ -75,8 +75,8 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 Indigenous_Science_&_ STEM/Readme.md
 
-📚 [Indigenous Science and STEM – Essay Writing](./Indigenous_Science_%26%20STEM/README.md)
-📚 [Indigenous Science and STEM – Essay Writing](Indigenous_Science_%26%20STEM/README.md)
+📚 [Indigenous Science and STEM – Essay Writing](./Indigenous_Science_%26%20STEM/Readme.md)
+📚 [Indigenous Science and STEM – Essay Writing](Indigenous_Science_%26%20STEM/Readme.md)
 
 
 This project includes:
