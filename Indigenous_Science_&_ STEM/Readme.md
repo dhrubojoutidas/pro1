@@ -37,16 +37,6 @@ I created this repository to demonstrate my academic writing, research skills, a
 ## 🎯 Skills & Learning Outcomes
 Through this coursework, I developed:
 
-
-
-## 🎯 Skills & Learning Outcomes
-Through this coursework, I developed:
-
-
-
-## 🎯 Skills & Learning Outcomes
-Through this coursework, I developed:
-
 - **Academic Writing Frameworks:** Applied TEEL (Topic, Evidence, Explanation, Link) to structure arguments effectively and craft strong thesis statements.
 - **Source Evaluation:** Used the CRAAP method (Currency, Relevance, Authority, Accuracy, Purpose) to assess credibility of research materials.
 - **Referencing & Citation:** Mastered APA 7th and Chicago styles for academic integrity.
@@ -72,5 +62,3 @@ I am passionate about integrating **STEM innovation** with **cultural knowledge*
 
 ---
 
-### ✅ License
-Shared for educational and portfolio purposes under the MIT License.
