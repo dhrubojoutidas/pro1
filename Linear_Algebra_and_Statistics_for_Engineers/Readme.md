@@ -1,5 +1,5 @@
 
-# 📘 MATH1019: Linear Algebra and Statistics for Engineers
+# 📐 MATH1019: Linear Algebra and Statistics for Engineers
 
 This repository contains my work for **Curtin University’s MATH1019** unit, completed in **Semester 2, 2023**. It demonstrates my ability to apply **mathematical modeling, data analysis, and programming** using MATLAB and R—skills highly relevant to IT and data-driven roles.
 
@@ -32,8 +32,8 @@ This unique project combined **origami construction** with **statistical analysi
   - Hypothesis testing at 5% significance  
 - Constructed origami models: Tyrannosaurus, star box, hyperbolic parabola  
 
-📄 View Assignment PDF  
-💻 View Code  
+📄 View Assignment Question PDF  
+💻 View Assignment PDF  
 
 
 ---
