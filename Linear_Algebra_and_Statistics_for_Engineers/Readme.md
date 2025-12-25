@@ -18,8 +18,8 @@ This unit introduces fundamental concepts of **Linear Algebra** and **Statistics
 
 #### FILES:
 
-📄 View Assignment PDF  
-💻 View Code
+📄 View Assignment Question  
+💻 View Assignment PDF 
 
 ---
 
@@ -52,8 +52,8 @@ This unique assignment combined **origami construction** with **statistical anal
   - Hypothesis testing at 5% significance  
 - Constructed origami models: Tyrannosaurus, star box, hyperbolic parabola, etc.  
 
-📄 View Assignment PDF  
-💻 View Code  
+📄 View Assignment Question  
+💻 View Assignment PDF 
 
 ---
 
