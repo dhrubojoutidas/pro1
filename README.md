@@ -85,9 +85,8 @@ This project includes:
 ---
 
 
-### 📘 [MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
+📘[MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
 
-Linear_Algebra_and_Statistics_for_Engineers/Readme.md
 - Applied **linear algebra** and **statistics** to solve engineering problems
 - Featured project: **Origami & Statistics**
   - Measured origami squares and collected real-world data
