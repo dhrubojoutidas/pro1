@@ -34,7 +34,10 @@ This unique project combined **origami construction** with **statistical analysi
 
 📄 [Assignment Question PDF](/Linear_Algebra_and_Statistics_for_Engineers/Statistics _Assignment _question.pdf)
 💻 [Liner_Algebra_Statistics_Assignmnt.pdf](/Linear_Algebra_and_Statistics_for_Engineers/Liner_Algebra_Statistics_Assignmnt.pdf) 
-[Assignment Question PDF](/Linear_Algebra_and_Statistics_for_Engineers/Statistics_Assignment_Question.pdf)
+
+
+[Assignment Question PDF](/Linear_Algebra_and_Statistics_for_Engineers/Statistics%20_Assignment%20_question.pdf)
+
 
 
 
