@@ -35,7 +35,7 @@ This unique project combined **origami construction** with **statistical analysi
 📄 View Assignment Question PDF  
 💻 View Assignment PDF  
 
-
+Linear_Algebra_and_Statistics_for_Engineers/Liner_Algebra_Statistics_Assignmnt.pdf
 ---
 
 ## 🎯 Unit Learning Outcomes
