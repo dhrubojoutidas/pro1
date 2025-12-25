@@ -16,6 +16,11 @@ This unit introduces fundamental concepts of **Linear Algebra** and **Statistics
 - Probability distributions (Binomial, Poisson, Normal)  
 - Confidence intervals and hypothesis testing  
 
+#### FILES:
+
+📄 View Assignment PDF  
+💻 View Code
+
 ---
 
 ## 🎯 Unit Learning Outcomes
