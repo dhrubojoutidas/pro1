@@ -1,12 +1,7 @@
 
 # 📐 MATH1019: Linear Algebra and Statistics for Engineers
 
-This repository contains my work for **Curtin University’s MATH1019** unit, completed in **Semester 2, 2023**. It demonstrates my ability to apply **mathematical modeling, data analysis, and programming** using MATLAB and R—skills highly relevant to IT and data-driven roles.
-
----
-
-## ✅ Unit Description
-This unit introduces fundamental concepts of **Linear Algebra** and **Statistics** for engineering applications. Topics include:
+This repository contains my work for **Curtin University’s MATH1019** unit, completed in **Semester 2, 2023** for engineering applications. Topics include:
 
 ### Linear Algebra:
 - Vectors, lines, and planes in n-dimensional space  
