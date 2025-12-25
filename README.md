@@ -71,6 +71,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 - ✅ Documentation & reporting  
 - ✅ Version control with GitHub
 
+---
   
 📚 [Indigenous Science and STEM – Essay Writing](<Indigenous_Science_&_ STEM/Readme.md>)
 
@@ -81,6 +82,7 @@ This project includes:
 
 **Skills Highlighted:** Academic writing (TEEL), source evaluation (CRAAP), APA 7th referencing, research techniques, and critical thinking.
 
+---
 
 
 ### 📘 MATH1019 – Linear Algebra & Statistics for Engineers
@@ -90,6 +92,7 @@ This project includes:
   - Built histograms, box plots, and performed hypothesis testing
   - Confidence intervals and statistical analysis
 
+---
 ---
 
  🎮 Tank Shooter Game (C)  
