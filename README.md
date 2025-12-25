@@ -73,12 +73,22 @@ A complete analysis and planning project for an airline reservation and seat-man
 
   
 📚 [Indigenous Science and STEM – Essay Writing](<Indigenous_Science_&_ STEM/Readme.md>)
+
 This project includes:
 - Essays on **Digital Divide** and its impact on Indigenous communities.
 - Argument plans on **Indigenous medicinal knowledge** and its integration with modern science.
 - Scientific essays demonstrating structured academic writing and research skills.
 
 **Skills Highlighted:** Academic writing (TEEL), source evaluation (CRAAP), APA 7th referencing, research techniques, and critical thinking.
+
+
+
+### 📘 MATH1019 – Linear Algebra & Statistics for Engineers
+- Applied **linear algebra** and **statistics** to solve engineering problems
+- Featured project: **Origami & Statistics**
+  - Measured origami squares and collected real-world data
+  - Built histograms, box plots, and performed hypothesis testing
+  - Confidence intervals and statistical analysis
 
 ---
 
