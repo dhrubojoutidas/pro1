@@ -1,27 +1,6 @@
-
 # 📘 MATH1019: Linear Algebra and Statistics for Engineers
 
 This repository contains my work for **Curtin University’s MATH1019** unit, completed in **Semester 2, 2023**. It includes lecture notes, code implementations, and a featured **statistics-based origami assignment** that demonstrates data analysis, visualization, and hypothesis testing.
-
----
-
-## 📂 Repository Structure
-```
-
-📁 MATH1019/
-├── README.md
-├── notes/        # Lecture notes & summaries
-├── code/         # MATLAB & R scripts
-└── assignments/
-└── statistics\_origami\_assignment.pdf
-
-````
-
-## ✅ Unit Overview
-**Unit Name:** Linear Algebra and Statistics for Engineers  
-**Unit Code:** MATH1019  
-**University:** Curtin University  
-**Mode:** Internal | Semester 2, 2023  
 
 ### **Unit Description**
 This unit introduces fundamental concepts of **Linear Algebra** and **Statistics** for engineering applications. Topics include:
@@ -36,8 +15,6 @@ This unit introduces fundamental concepts of **Linear Algebra** and **Statistics
 - Descriptive and inferential statistics  
 - Probability distributions (Binomial, Poisson, Normal)  
 - Confidence intervals and hypothesis testing  
-
-📄 Official Unit Outline
 
 ---
 
@@ -56,10 +33,6 @@ On successful completion, students can:
 - **Data Analysis:** Exploratory and inferential statistics  
 - **Programming:** MATLAB and R for computation and visualization  
 - **Critical Thinking:** Designing experiments and validating data credibility  
-
----
-
-
 
 ---
 
