@@ -32,9 +32,11 @@ This unique project combined **origami construction** with **statistical analysi
   - Hypothesis testing at 5% significance  
 - Constructed origami models: Tyrannosaurus, star box, hyperbolic parabola  
 
-📄 View Assignment Question PDF  
-💻 View Assignment PDF  
+📄 [View Assignment Question PDF](/Linear_Algebra_and_Statistics_for_Engineers/Statistics _Assignment _question.pdf)
+💻 [View Assignment PDF](/Linear_Algebra_and_Statistics_for_Engineers/Liner_Algebra_Statistics_Assignmnt.pdf) 
 
+
+Linear_Algebra_and_Statistics_for_Engineers/Statistics _Assignment _question.pdf
 Linear_Algebra_and_Statistics_for_Engineers/Liner_Algebra_Statistics_Assignmnt.pdf
 ---
 
