@@ -1,6 +1,6 @@
 # 👨‍💻 Dhrubo Jouti Das 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=1BA0D7&lines=Computer+Systems+%26+Networking;Cybersecurity;Embedded+Systems;IT+Support+Technician)](https://git.io/typing-svg)
+IT Support Technician |Computer system & networking | Embeded system | Cyber Security 
 
 📍 Cannington, WA 
 
