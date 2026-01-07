@@ -1,6 +1,6 @@
 # 👨‍💻 Dhrubo Jouti Das 
 
-IT Support Technician |Computer system & networking | Embeded system | Cyber Security 
+IT Support Technician | IT Support Intern | Embeded system | Cyber Security | Windows/Linux environments |Cisco | scripting 
 
 📍 Cannington, WA 
 
