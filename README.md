@@ -93,13 +93,11 @@ This project includes:
   - Built histograms, box plots, and performed hypothesis testing
   - Confidence intervals and statistical analysis
 
-## Computer System 200 Unit
 
-📂 **[Computer System 200 – Unit Folder](./Computer_system200_Unit/README.md)**  
+
+📂 [Computer System 200 – Unit Folder](./Computer_system200_Unit/README.md) 
 Includes:
-- 📄 Assignment PDF  
-- 🧩 System architecture diagram (SVG)  
-- 📘 Unit-specific README
+
 
 ---
 ---
