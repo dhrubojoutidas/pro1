@@ -24,8 +24,7 @@ This assignment focuses on proposing and planning a **sustainable engineering pr
 
 The work is split into two parts:
 
-
-- 📘 **[Assignment 1 – Part 1 (Product Concept & Rationale)](./22663281.ASSIGNMNT_Part1_MGM.pdf)**
+-  **[Assignment 1 – Part 1 (Product Concept & Rationale)](./22663281.ASSIGNMNT_Part1_MGM.pdf)**
 - Defined a **commercially viable recycled product**
 - Analysed environmental, social, and economic benefits
 - Explained how waste materials are transformed into a usable product
@@ -39,7 +38,7 @@ The work is split into two parts:
 ---
 
 
-- 📙 **[Assignment 1 – Part 2 (Project Charter & Planning)](./Assignment1_PART2_22663281_MGM.pdf)**
+-  **[Assignment 1 – Part 2 (Project Charter & Planning)](./Assignment1_PART2_22663281_MGM.pdf)**
 - Developed a full **project charter** for scaling production
 - Defined project scope, objectives, deliverables, exclusions, and risks
 - Created:
@@ -106,7 +105,6 @@ The project followed the **full project lifecycle**, from initiation to close-ou
 - 🧩 **[Organisation Structure Diagram](./organization_chart.jpg)**
 ---
 
-## 🧠 Key Takeaways for Recruiters
 
 Across these three assignments, I demonstrated:
 
