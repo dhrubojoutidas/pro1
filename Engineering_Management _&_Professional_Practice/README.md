@@ -20,7 +20,7 @@ Rather than theoretical exercises, these assignments focus on **practical decisi
 ## 📘 Assignment 1 – Sustainable Engineering Project
 **a scalable production system for manufacturing eco-friendly furniture from reclaimed wooden pallet**
 
-- 📄 **[Part 1 – Product Concept & Rationale](./22663281.ASSIGNMNT_Part1_MGM.pdf)**  
+📄 **[Part 1 – Product Concept & Rationale](./22663281.ASSIGNMNT_Part1_MGM.pdf)**  
 - Defined a **commercially viable recycled product**
 - Analysed environmental, social, and economic benefits
 - Explained how waste materials are transformed into a usable product
@@ -31,8 +31,8 @@ Rather than theoretical exercises, these assignments focus on **practical decisi
 - Engineering reasoning & feasibility assessment  
 - Technical writing and research 
 
-  
-- 📄 **[Part 2 – Project Charter & Planning](./Assignment1_PART2_22663281_MGM.pdf)**  
+
+  📄 **[Part 2 – Project Charter & Planning](./Assignment1_PART2_22663281_MGM.pdf)**  
 - Developed a full **project charter** for scaling production
 - Defined project scope, objectives, deliverables, exclusions, and risks
 - Created:
