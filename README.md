@@ -96,10 +96,8 @@ This project includes:
 
 
 ---
-📂 [Computer System 200 – Unit Folder](./Computer_system200_Unit/README.md) 
+🎯 [Computer System 200 – Unit Folder](./Computer_system200_Unit/README.md) 
 Includes:
-## 🎯 Why This Assignment Matters 
-
 This project shows that I can:
 
 - Analyse a business and understand its operational needs  
