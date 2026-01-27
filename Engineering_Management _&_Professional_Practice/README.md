@@ -1,102 +1,4 @@
 
-
- **[ Part 2 (Project Charter & Planning)](./Assignment1_PART2_22663281_MGM.pdf)**
-- Developed a full **project charter** for scaling production
-- Defined project scope, objectives, deliverables, exclusions, and risks
-- Created:
-  - Work Breakdown Structure (WBS)
-  - Indicative schedule and budget
-  - Risk register and mitigation strategies
-  - Milestones and resource allocation
-
-This mirrors how **real engineering projects are approved and executed in industry**.
-
-**Skills demonstrated**
-- Project management fundamentals (scope, cost, time, risk)
-- Systems thinking and production planning
-- Professional engineering documentation
-
-
-
-
-  
-
----
-
-
-
----
-
-## 📗 Assignment 2 – Engineering Communication & Peer Review
-
-### Overview  
-This assignment focused on **communicating engineering ideas clearly and professionally**.
-
-It included:
-- A short **technical video presentation** explaining the project concept and production system
-- A **project diagram** illustrating the manufacturing workflow
-- Providing **structured, constructive feedback** on other engineering projects
-
-**Skills demonstrated**
-- Technical communication
-- Visual explanation of complex systems
-- Critical evaluation and professional feedback
-- Stakeholder-focused presentation skills
-
----
-
-
-### Assignment 3 – Team-Based Engineering Management
-- 📗 **[Assignment 3 – Group Project Report](./MGMT3000%20Assignment%203%20G7%20ESE-1.pdf)**
-  
-### Overview  
-This was a **group-based engineering management project** that simulated working in a professional engineering team.
-
-The assignment required:
-- Forming and managing a project team
-- Assigning roles (Project Manager, Secretary, DTR)
-- Conducting formal meetings with recorded minutes
-- Developing:
-  - Communication management plans
-  - Document control and versioning
-  - Scheduling and progress tracking
-  - Organisational structure and responsibilities
-
-The project followed the **full project lifecycle**, from initiation to close-out.
-
-**Skills demonstrated**
-- Team leadership and collaboration
-- Engineering documentation standards
-- Organisational planning
-- Real-world project coordination
-
-
-## 📂 Supporting Materials
-- 🗂 **[Unit Outline – MGMT3000](./MGMT_OUTLINE.pdf)**
-- 🧩 **[Organisation Structure Diagram](./organization_chart.jpg)**
----
-
-
-Across these three assignments, I demonstrated:
-
-- Practical application of **engineering management principles**
-- Ability to plan, document, and communicate complex projects
-- Strong understanding of **sustainability and systems thinking**
-- Experience working both **independently and in teams**
-- Professional-level reporting, structure, and version control
-
-These projects reflect how I approach engineering problems in a **structured, analytical, and industry-ready manner**.
-
----
-
-📌 *All reports, diagrams, and supporting materials are included in this folder for reference.*
-
-
-
-
-
----
-
 # Engineering Management – Academic Projects Portfolio
 
 This folder contains **three major Engineering Management assignments** completed as part of my undergraduate engineering studies at Curtin University.  
@@ -129,34 +31,71 @@ Rather than theoretical exercises, these assignments focus on **practical decisi
 - Engineering reasoning & feasibility assessment  
 - Technical writing and research 
 
-
   
-
 - 📄 **[Part 2 – Project Charter & Planning](./Assignment1_PART2_22663281_MGM.pdf)**  
-  Project scope, WBS, schedule, budget, risks, and resource planning
+- Developed a full **project charter** for scaling production
+- Defined project scope, objectives, deliverables, exclusions, and risks
+- Created:
+  - Work Breakdown Structure (WBS)
+  - Indicative schedule and budget
+  - Risk register and mitigation strategies
+  - Milestones and resource allocation
+
+This mirrors how **real engineering projects are approved and executed in industry**.
+
+**Skills demonstrated**
+- Project management fundamentals (scope, cost, time, risk)
+- Systems thinking and production planning
+- Professional engineering documentation
 
 ---
 
-## 📗 Assignment 2 – Engineering Communication
-- Technical video presentation and project diagram  
-- Peer review and constructive engineering feedback  
-📎 *Presentation-based assessment (no written report)*
+## 📗 Assignment 2 – Engineering Communication & Peer Review
+
+It included:
+- A short **technical video presentation** explaining the project concept and production system
+- A **project diagram** illustrating the manufacturing workflow
+- Providing **structured, constructive feedback** on other engineering projects
+
+**Skills demonstrated**
+- Technical communication
+- Visual explanation of complex systems
+- Critical evaluation and professional feedback
+- Stakeholder-focused presentation skills
 
 ---
 
-## 📙 Assignment 3 – Team-Based Engineering Management
-- 📄 **[Group Project Report](./MGMT3000%20Assignment%203%20G7%20ESE-1.pdf)**  
-  Team coordination, role allocation, meeting minutes, scheduling, and document control across the full project lifecycle
+## 📙 **[Assignment 3 – Team-Based Engineering Managemen](./MGMT3000%20Assignment%203%20G7%20ESE-1.pdf)**  
+
+This was a **group-based engineering management project** that simulated working in a professional engineering team.
+
+The assignment required:
+- Forming and managing a project team
+- Assigning roles (Project Manager, Secretary, DTR)
+- Conducting formal meetings with recorded minutes
+- Developing:
+  - Communication management plans
+  - Document control and versioning
+  - Scheduling and progress tracking
+  - Organisational structure and responsibilities
+
+The project followed the **full project lifecycle**, from initiation to close-out.
+
+**Skills demonstrated**
+- Team leadership and collaboration
+- Engineering documentation standards
+- Organisational planning
+- Real-world project coordination
 
 ---
 
-## 📂 Supporting Files
+## 📂 Supporting Materials
 - 🗂 **[Unit Outline – MGMT3000](./MGMT_OUTLINE.pdf)**
 - 🧩 **[Organisation Structure Diagram](./organization_chart.jpg)**
-
 ---
 
-📌 *All files are included for reference and open directly in GitHub.*
+📌 *All reports, diagrams, and supporting materials are included in this folder for reference.*
+
 
 
 
