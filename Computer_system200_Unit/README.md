@@ -29,10 +29,6 @@ This README explains:
 - **cs_computer_diagram.svg** – Network/system diagram
 ## 📂 Project Files
 
-- [📄 Assignment PDF](Computer_system200_Unit/Computer%20System%20assignment.pdf)
-- [🖼️ System Diagram (SVG)](Computer_system200_Unit/cs_computer_diagram.svg)
-- [📘 Unit README](Computer_system200_Unit/README.md)
-
 
 
   
