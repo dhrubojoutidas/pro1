@@ -35,8 +35,9 @@ This mirrors how **real engineering projects are approved and executed in indust
 
 It included:
 - A short **technical video presentation** explaining the project concept and production system
-- A **project diagram** illustrating the manufacturing workflow
+- A **[project diagram](./Engineering_Management _&_Professional_Practice/MGM_assigmnt2_part1.jpg)** illustrating the manufacturing workflow
 - Providing **structured, constructive feedback** on other engineering projects
+
 
 ---
 
@@ -62,6 +63,7 @@ The project followed the **full project lifecycle**, from initiation to close-ou
 ## 📂 Supporting Materials
 - 🗂 **[Unit Outline – MGMT3000](./MGMT_OUTLINE.pdf)**
 - 🧩 **[Organisation Structure Diagram](./organization_chart.jpg)**
+  
 ---
 
 ---
