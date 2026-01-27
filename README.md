@@ -95,11 +95,27 @@ This project includes:
 
 
 
+---
 📂 [Computer System 200 – Unit Folder](./Computer_system200_Unit/README.md) 
 Includes:
+## 🎯 Why This Assignment Matters 
 
+This project shows that I can:
 
----
+- Analyse a business and understand its operational needs  
+- Translate those needs into technical requirements  
+- Design a secure, scalable IT system  
+- Document technical decisions clearly and professionally  
+- Apply system administration concepts in a practical scenario  
+
+It demonstrates readiness for roles involving:
+
+- IT support  
+- System administration  
+- Network administration  
+- Technical operations  
+- Infrastructure support 
+
 ---
 
  🎮 Tank Shooter Game (C)  
