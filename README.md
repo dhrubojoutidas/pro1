@@ -118,6 +118,9 @@ It demonstrates readiness for roles involving:
 
 📂 [Engineering Management & Professional Practice](./Engineering_Management_%26_Professional_Practice/README.md)
 (./Engineering_Management_%26_Professional_Practice/README.md)
+📘 **Engineering Management & Professional Practice**  
+📂 **[View project portfolio](./Engineering_Management_%26_Professional_Practice/README.md)**
+
 
 
 A curated portfolio of projects from the Engineering Management & Professional Practice unit at Curtin University, showcasing the practical application of engineering management principles across sustainable projects, project charters, team-based management, and professional communication.
