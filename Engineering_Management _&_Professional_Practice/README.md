@@ -1,10 +1,6 @@
 
 # Engineering Management – Academic Projects Portfolio
 
-This folder contains selected projects from the **Engineering Management & Professional Practice** unit at **Curtin University**.  
-The unit focuses on applying **engineering management principles** to real-world projects, including **project planning, sustainability, teamwork, and professional documentation**.
-
-
 ---
 
 ## 📘 Assignment 1 – Sustainable Engineering Project
