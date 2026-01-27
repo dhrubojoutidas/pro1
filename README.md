@@ -126,7 +126,6 @@ The unit focuses on applying Engineering management principles to real-world pro
 - Technical and professional communication  
 - Team collaboration and documentation  
 - Structured problem-solving and planning  
-- Professional engineering documentation  
 - Visual explanation of complex systems  
 - Critical evaluation and professional feedback  
 - Stakeholder-focused presentation skills  
