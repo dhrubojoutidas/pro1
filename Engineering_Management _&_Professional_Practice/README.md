@@ -8,15 +8,6 @@ Rather than theoretical exercises, these assignments focus on **practical decisi
 
 ---
 
-## 🧠 Skills Demonstrated
-- Project management (scope, schedule, cost, risk)
-- Sustainable engineering decision-making
-- Technical and professional communication
-- Team collaboration and documentation
-- Structured problem-solving and planning
-
----
-
 ## 📘 Assignment 1 – Sustainable Engineering Project
 **a scalable production system for manufacturing eco-friendly furniture from reclaimed wooden pallet**
 
@@ -25,11 +16,6 @@ Rather than theoretical exercises, these assignments focus on **practical decisi
 - Analysed environmental, social, and economic benefits
 - Explained how waste materials are transformed into a usable product
 - Evaluated market demand and innovation potential
-
-**Skills demonstrated**
-- Sustainability analysis  
-- Engineering reasoning & feasibility assessment  
-- Technical writing and research 
 
 
 📄 **[Part 2 – Project Charter & Planning](./Assignment1_PART2_22663281_MGM.pdf)**  
@@ -43,11 +29,6 @@ Rather than theoretical exercises, these assignments focus on **practical decisi
 
 This mirrors how **real engineering projects are approved and executed in industry**.
 
-**Skills demonstrated**
-- Project management fundamentals (scope, cost, time, risk)
-- Systems thinking and production planning
-- Professional engineering documentation
-
 ---
 
 ## 📗 Assignment 2 – Engineering Communication & Peer Review
@@ -56,12 +37,6 @@ It included:
 - A short **technical video presentation** explaining the project concept and production system
 - A **project diagram** illustrating the manufacturing workflow
 - Providing **structured, constructive feedback** on other engineering projects
-
-**Skills demonstrated**
-- Technical communication
-- Visual explanation of complex systems
-- Critical evaluation and professional feedback
-- Stakeholder-focused presentation skills
 
 ---
 
@@ -81,11 +56,6 @@ The assignment required:
 
 The project followed the **full project lifecycle**, from initiation to close-out.
 
-**Skills demonstrated**
-- Team leadership and collaboration
-- Engineering documentation standards
-- Organisational planning
-- Real-world project coordination
 
 ---
 
@@ -93,6 +63,21 @@ The project followed the **full project lifecycle**, from initiation to close-ou
 - 🗂 **[Unit Outline – MGMT3000](./MGMT_OUTLINE.pdf)**
 - 🧩 **[Organisation Structure Diagram](./organization_chart.jpg)**
 ---
+
+---
+
+## 🧠 Skills Demonstrated
+- Project management (scope, schedule, cost, risk)
+- Sustainable engineering decision-making
+- Technical and professional communication
+- Team collaboration and documentation
+- Structured problem-solving and planning
+- Professional engineering documentation
+- Visual explanation of complex systems
+- Critical evaluation and professional feedback
+- Stakeholder-focused presentation skills
+- Organisational planning
+- Real-world project coordination
 
 📌 *All reports, diagrams, and supporting materials are included in this folder for reference.*
 
