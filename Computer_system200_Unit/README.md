@@ -1,8 +1,6 @@
 
 # COMP2000 – Computer Systems  
-### Curtin University – Semester 2, 2024  
 ### Assignment: IT Infrastructure Design for Menu Butler Pty Ltd  
-### Author: Dhrubo Jouti Das Troyee (90028995)
 
 ---
 
@@ -25,6 +23,14 @@ It is written to help **recruiters, hiring managers, and technical reviewers** u
 
 ---
 
+## 📂 Files Included
+
+- **Computer System assignment.pdf** – Full assignment report  
+- **cs_computer_diagram.svg** – Network/system diagram  
+- **COMP2000 Unit Outline.pdf** – Official unit outline  
+- Additional supporting documents
+
+  
 ## 📘 About the Unit: COMP2000 – Computer Systems
 
 COMP2000 introduces students to the foundations of **system administration** across Linux and Windows environments.  
@@ -115,7 +121,7 @@ This mirrors the work done by:
 
 ---
 
-## 🎯 Why This Assignment Matters (For Recruiters)
+## 🎯 Why This Assignment Matters 
 
 This project shows that I can:
 
@@ -135,12 +141,7 @@ It demonstrates readiness for roles involving:
 
 ---
 
-## 📂 Files Included
 
-- **Computer System assignment.pdf** – Full assignment report  
-- **cs_computer_diagram.svg** – Network/system diagram  
-- **COMP2000 Unit Outline.pdf** – Official unit outline  
-- Additional supporting documents
 
 ---
 
