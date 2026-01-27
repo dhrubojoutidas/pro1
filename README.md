@@ -126,7 +126,6 @@ The unit focuses on applying Engineering management principles to real-world pro
 - Structured problem-solving and planning  
 - Critical evaluation and professional feedback  
 
-- 
 
 
 
