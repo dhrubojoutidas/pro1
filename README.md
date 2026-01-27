@@ -118,6 +118,17 @@ It demonstrates readiness for roles involving:
 
 ---
 
+
+---
+## 📘 Engineering Management & Professional Practice
+
+Project portfolio covering sustainable engineering projects, project charters, team-based management, and professional communication.
+
+📂 **[View Engineering Management Projects](./Engineering_Management_%26_Professional_Practice/)**
+
+---
+
+
  🎮 Tank Shooter Game (C)  
 - 2D shooter  
 - Collision detection  
