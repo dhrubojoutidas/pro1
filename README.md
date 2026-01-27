@@ -117,12 +117,7 @@ It demonstrates readiness for roles involving:
 ---
 
 📂 [Engineering Management & Professional Practice](./Engineering_Management_%26_Professional_Practice/README.md)
-📘 **[Engineering Management & Professional Practice](./Engineering_Management_%26_Professional_Practice/README.md)**
-## 📘 Engineering Management & Professional Practice
-
-A curated portfolio of engineering management projects completed at Curtin University, covering project planning, sustainability, team-based management, and professional communication.
-
-📂 **[View project portfolio](./Engineering_Management_%26_Professional_Practice/README.md)**
+📘 **[Engineering Management & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)**
 
 
 
