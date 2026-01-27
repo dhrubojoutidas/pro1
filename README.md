@@ -98,7 +98,6 @@ This project includes:
 🎯 [Computer System 200 – Unit Folder](./Computer_system200_Unit/README.md) 
 Includes:
 
-
 This project shows that I can:
 
 - Analyse a business and understand its operational needs  
@@ -117,9 +116,9 @@ It demonstrates readiness for roles involving:
 
 ---
 
- 
-
 📂 [Engineering Management & Professional Practice](./Engineering_Management_%26_Professional_Practice/README.md)
+(./Engineering_Management_%26_Professional_Practice/README.md)
+
 
 A curated portfolio of projects from the Engineering Management & Professional Practice unit at Curtin University, showcasing the practical application of engineering management principles across sustainable projects, project charters, team-based management, and professional communication.
 
