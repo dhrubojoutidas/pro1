@@ -122,9 +122,9 @@ The unit focuses on applying Engineering management principles to real-world pro
 
  It demonstrates readiness for roles involving:
  - Sustainable engineering decision-making  
-- Technical and professional communication  -
-- Structured problem-solving and planning  
-- Critical evaluation and professional feedback  
+ - Technical and professional communication  
+ - Structured problem-solving and planning  
+ - Critical evaluation and professional feedback  
 
 
 
