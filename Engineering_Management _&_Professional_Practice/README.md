@@ -36,6 +36,8 @@ This mirrors how **real engineering projects are approved and executed in indust
 It included:
 - A short **technical video presentation** explaining the project concept and production system
 - A **[project diagram](./MGM_assigmnt2_part1.jpg)** illustrating the manufacturing workflow
+-  **[Reclaimed Wood → Furniture Process Diagram](./MGM_proceess_of_reclamed_wood_into_furniture.png)**
+
 
 - Providing **structured, constructive feedback** on other engineering projects
 
