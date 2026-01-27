@@ -27,13 +27,11 @@ This README explains:
 
 - **Computer System assignment.pdf** – Full assignment report  
 - **cs_computer_diagram.svg** – Network/system diagram
-- [📁 Open Computer_system200_Unit Folder](Computer_system200_Unit/)
-- [📄 View COMP2000 README](Computer_system200_Unit/README.md)
+- Computer_system200_Unit/Computer System assignment.pdf
+- 
 
-## 📂 Project Sections
+![System Diagram](Computer_system200_Unit/cs_computer_diagram.svg)
 
-- [📁 Computer_system200_Unit Folder](Computer_system200_Unit/)
-- [📄 View COMP2000 README](Computer_system200_Unit/README.md)
 
   
 ## 📘 About the Unit: COMP2000 – Computer Systems
