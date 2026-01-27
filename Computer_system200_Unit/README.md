@@ -19,7 +19,7 @@ This README explains:
 - What skills I demonstrated through this project  
 - What files are included  
 
-It is written to help **recruiters, hiring managers, and technical reviewers** understand the purpose and relevance of this work.
+
 
 ---
 
@@ -27,9 +27,6 @@ It is written to help **recruiters, hiring managers, and technical reviewers** u
 
 - **Computer System assignment.pdf** – Full assignment report  
 - **cs_computer_diagram.svg** – Network/system diagram  
-- **COMP2000 Unit Outline.pdf** – Official unit outline  
-- Additional supporting documents
-
   
 ## 📘 About the Unit: COMP2000 – Computer Systems
 
