@@ -28,6 +28,7 @@ This README explains:
 - **Computer System assignment.pdf** – Full assignment report  
 - **cs_computer_diagram.svg** – Network/system diagram
 ## 📂 Project Files
+[📄 View Assignment PDF](Computer_system200_Unit/Computer_System_Assignment.pdf)
 
 
 
