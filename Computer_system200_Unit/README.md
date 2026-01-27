@@ -26,6 +26,8 @@ This README explains:
 ## 📂 Files Included
 
 📄 **[Open: Computer System assignment.pdf](./Computer%20System%20assignment.pdf)**
+🧩 **[Open: cs_computer_diagram.svg](./cs_computer_diagram.svg)**
+
 
 
 
