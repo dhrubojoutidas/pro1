@@ -29,7 +29,7 @@ This README explains:
 - **cs_computer_diagram.svg** – Network/system diagram
 ## 📂 Project Files
 [🖼️ Open System Diagram](Computer_system200_Unit/cs_computer_diagram.svg)
-[🖼️ Open System Diagram](Computer_system200_Unit/cs_computer_diagram.svg)
+[🖼️ Open System Diagram](/cs_computer_diagram.svg)
 
 
 
