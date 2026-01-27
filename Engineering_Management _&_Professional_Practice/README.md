@@ -15,32 +15,14 @@ Each document demonstrates practical skills in project planning, sustainability,
 
 ---
 
-## 📄 Assignment Documents (Click to Open)
-
-### Assignment 1 – Sustainable Engineering Project
-- 📘 **[Assignment 1 – Part 1 (Product Concept & Rationale)](./22663281.ASSIGNMNT_Part1_MGM.pdf)**
-- 📙 **[Assignment 1 – Part 2 (Project Charter & Planning)](./Assignment1_PART2_22663281_MGM.pdf)**
-
----
-
-### Assignment 3 – Team-Based Engineering Management
-- 📗 **[Assignment 3 – Group Project Report](./MGMT3000%20Assignment%203%20G7%20ESE-1.pdf)**
-
----
-
-## 📂 Supporting Materials
-- 🗂 **[Unit Outline – MGMT3000](./MGMT_OUTLINE.pdf)**
-- 🧩 **[Organisation Structure Diagram](./organization_chart.jpg)**
-
----
-
 ## 🧠 What These Projects Demonstrate
 - Engineering project management (scope, cost, risk, scheduling)
 - Sustainable engineering decision-making
 - Team collaboration and professional communication
 - Structured technical documentation aligned with industry practice
 
-## 📘 Assignment 1 – Sustainable Product Concept & Project Charter
+## 📘 Assignment 1 – Sustainable Engineering Project
+
 
 ### Overview  
 This assignment focuses on proposing and planning a **sustainable engineering project**:  
@@ -48,7 +30,8 @@ This assignment focuses on proposing and planning a **sustainable engineering pr
 
 The work is split into two parts:
 
-### Part 1 – Product Concept & Rationale  
+
+- 📘 **[Assignment 1 – Part 1 (Product Concept & Rationale)](./22663281.ASSIGNMNT_Part1_MGM.pdf)**
 - Defined a **commercially viable recycled product**
 - Analysed environmental, social, and economic benefits
 - Explained how waste materials are transformed into a usable product
@@ -61,7 +44,8 @@ The work is split into two parts:
 
 ---
 
-### Part 2 – Project Charter & Production System Planning  
+
+- 📙 **[Assignment 1 – Part 2 (Project Charter & Planning)](./Assignment1_PART2_22663281_MGM.pdf)**
 - Developed a full **project charter** for scaling production
 - Defined project scope, objectives, deliverables, exclusions, and risks
 - Created:
@@ -97,8 +81,10 @@ It included:
 
 ---
 
-## 📙 Assignment 3 – Team-Based Engineering Project Management
 
+### Assignment 3 – Team-Based Engineering Management
+- 📗 **[Assignment 3 – Group Project Report](./MGMT3000%20Assignment%203%20G7%20ESE-1.pdf)**
+  
 ### Overview  
 This was a **group-based engineering management project** that simulated working in a professional engineering team.
 
@@ -120,6 +106,10 @@ The project followed the **full project lifecycle**, from initiation to close-ou
 - Organisational planning
 - Real-world project coordination
 
+
+## 📂 Supporting Materials
+- 🗂 **[Unit Outline – MGMT3000](./MGMT_OUTLINE.pdf)**
+- 🧩 **[Organisation Structure Diagram](./organization_chart.jpg)**
 ---
 
 ## 🧠 Key Takeaways for Recruiters
