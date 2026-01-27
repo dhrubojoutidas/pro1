@@ -1,36 +1,4 @@
 
-# Engineering Management – Academic Projects Portfolio
-
-This folder contains **three major Engineering Management assignments** completed as part of my undergraduate engineering studies at Curtin University.  
-Together, these projects demonstrate my ability to apply **engineering management, project planning, sustainability thinking, and organisational analysis** to real-world engineering problems.
-
-Rather than theoretical exercises, these assignments focus on **practical decision-making, structured planning, risk management, and professional documentation**—skills directly transferable to industry roles.
-
-
----
-## 🧠 Skills Demonstrated
-- Project management (scope, cost, schedule, risk)
-- Sustainable engineering decision-making
-- Technical and professional communication
-- Team collaboration and documentation
-- Translating requirements into structured plans
-
-
-## 📘 Assignment 1 – Sustainable Engineering Project
-This assignment focuses on proposing and planning a **sustainable engineering project**:  
-**a scalable production system for manufacturing eco-friendly furniture from reclaimed wooden pallets**.
-
-
- **[ Part 1 (Product Concept & Rationale)](./22663281.ASSIGNMNT_Part1_MGM.pdf)**
-- Defined a **commercially viable recycled product**
-- Analysed environmental, social, and economic benefits
-- Explained how waste materials are transformed into a usable product
-- Evaluated market demand and innovation potential
-
-**Skills demonstrated**
-- Sustainability analysis  
-- Engineering reasoning & feasibility assessment  
-- Technical writing and research 
 
  **[ Part 2 (Project Charter & Planning)](./Assignment1_PART2_22663281_MGM.pdf)**
 - Developed a full **project charter** for scaling production
@@ -126,11 +94,46 @@ These projects reflect how I approach engineering problems in a **structured, an
 
 
 
----
-
 
 ---
 
+# Engineering Management – Academic Projects Portfolio
+
+This folder contains **three major Engineering Management assignments** completed as part of my undergraduate engineering studies at Curtin University.  
+Together, these projects demonstrate my ability to apply **engineering management, project planning, sustainability thinking, and organisational analysis** to real-world engineering problems.
+
+Rather than theoretical exercises, these assignments focus on **practical decision-making, structured planning, risk management, and professional documentation**—skills directly transferable to industry roles.
+
+---
+
+## 🧠 Skills Demonstrated
+- Project management (scope, schedule, cost, risk)
+- Sustainable engineering decision-making
+- Technical and professional communication
+- Team collaboration and documentation
+- Structured problem-solving and planning
+
+---
+
+## 📘 Assignment 1 – Sustainable Engineering Project
+**a scalable production system for manufacturing eco-friendly furniture from reclaimed wooden pallet**
+
+- 📄 **[Part 1 – Product Concept & Rationale](./22663281.ASSIGNMNT_Part1_MGM.pdf)**  
+- Defined a **commercially viable recycled product**
+- Analysed environmental, social, and economic benefits
+- Explained how waste materials are transformed into a usable product
+- Evaluated market demand and innovation potential
+
+**Skills demonstrated**
+- Sustainability analysis  
+- Engineering reasoning & feasibility assessment  
+- Technical writing and research 
+
+
+  
+
+- 📄 **[Part 2 – Project Charter & Planning](./Assignment1_PART2_22663281_MGM.pdf)**  
+  Project scope, WBS, schedule, budget, risks, and resource planning
 
 ---
 
@@ -150,6 +153,12 @@ These projects reflect how I approach engineering problems in a **structured, an
 ## 📂 Supporting Files
 - 🗂 **[Unit Outline – MGMT3000](./MGMT_OUTLINE.pdf)**
 - 🧩 **[Organisation Structure Diagram](./organization_chart.jpg)**
+
+---
+
+📌 *All files are included for reference and open directly in GitHub.*
+
+
 
 
 
