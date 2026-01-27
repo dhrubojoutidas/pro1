@@ -120,17 +120,17 @@ It demonstrates readiness for roles involving:
   
 The unit focuses on applying Engineering management principles to real-world projects, including  project planning, sustainability, teamwork, and professional documentation.
 🧠 Skills Demonstrated
-Project management (scope, schedule, cost, risk)
-Sustainable engineering decision-making
-Technical and professional communication
-Team collaboration and documentation
-Structured problem-solving and planning
-Professional engineering documentation
-Visual explanation of complex systems
-Critical evaluation and professional feedback
-Stakeholder-focused presentation skills
-Organisational planning
-Real-world project coordination
+-Project management (scope, schedule, cost, risk)
+-Sustainable engineering decision-making
+-Technical and professional communication
+-Team collaboration and documentation
+-Structured problem-solving and planning
+-Professional engineering documentation
+-Visual explanation of complex systems
+-Critical evaluation and professional feedback
+-Stakeholder-focused presentation skills
+-Organisational planning
+-Real-world project coordination
 
 
 ---
