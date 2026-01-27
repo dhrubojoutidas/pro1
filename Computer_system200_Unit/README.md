@@ -25,11 +25,6 @@ This README explains:
 
 ## 📂 Files Included
 
-- **Computer System assignment.pdf** – Full assignment report  
-- **cs_computer_diagram.svg** – Network/system diagram
-## 📂 Project Files
-## Computer System Assignment (PDF)
-
 📄 **[Open: Computer System assignment.pdf](./Computer%20System%20assignment.pdf)**
 
 
