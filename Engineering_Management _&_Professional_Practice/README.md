@@ -8,6 +8,38 @@ Rather than theoretical exercises, these assignments focus on **practical decisi
 
 ---
 
+# Engineering Management & Professional Practice
+
+This folder contains key academic projects completed as part of the **MGMT3000 – Engineering Management & Professional Practice** unit.  
+Each document demonstrates practical skills in project planning, sustainability, teamwork, and professional engineering documentation.
+
+---
+
+## 📄 Assignment Documents (Click to Open)
+
+### Assignment 1 – Sustainable Engineering Project
+- 📘 **[Assignment 1 – Part 1 (Product Concept & Rationale)](./22663281.ASSIGNMNT_Part1_MGM.pdf)**
+- 📙 **[Assignment 1 – Part 2 (Project Charter & Planning)](./Assignment1_PART2_22663281_MGM.pdf)**
+
+---
+
+### Assignment 3 – Team-Based Engineering Management
+- 📗 **[Assignment 3 – Group Project Report](./MGMT3000%20Assignment%203%20G7%20ESE-1.pdf)**
+
+---
+
+## 📂 Supporting Materials
+- 🗂 **[Unit Outline – MGMT3000](./MGMT_OUTLINE.pdf)**
+- 🧩 **[Organisation Structure Diagram](./organization_chart.jpg)**
+
+---
+
+## 🧠 What These Projects Demonstrate
+- Engineering project management (scope, cost, risk, scheduling)
+- Sustainable engineering decision-making
+- Team collaboration and professional communication
+- Structured technical documentation aligned with industry practice
+
 ## 📘 Assignment 1 – Sustainable Product Concept & Project Charter
 
 ### Overview  
