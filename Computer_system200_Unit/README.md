@@ -5,6 +5,7 @@
 ---
 
 ## 📌 Overview
+  
 
 This repository contains my major project for **COMP2000 – Computer Systems**, a unit focused on practical system administration, network services, security, and infrastructure design.
 
@@ -19,8 +20,6 @@ This README explains:
 - What skills I demonstrated through this project  
 - What files are included  
 
-
-
 ---
 
 ## 📂 Files Included
@@ -28,19 +27,6 @@ This README explains:
 📄 **[Open: Computer System assignment.pdf](./Computer%20System%20assignment.pdf)**
 🧩 **[Open: cs_computer_diagram.svg](./cs_computer_diagram.svg)**
 
-
-
-
-
-
-
-
-
-  
-## 📘 About the Unit: COMP2000 – Computer Systems
-
-COMP2000 introduces students to the foundations of **system administration** across Linux and Windows environments.  
-The unit focuses on hands‑on skills used in real IT support and system admin roles.
 
 ### Key topics include:
 - Linux system administration (Red Hat RH124 & RH134)
@@ -124,29 +110,6 @@ This mirrors the work done by:
 - System Administrators  
 - Network Administrators  
 - Junior DevOps Engineers  
-
----
-
-## 🎯 Why This Assignment Matters 
-
-This project shows that I can:
-
-- Analyse a business and understand its operational needs  
-- Translate those needs into technical requirements  
-- Design a secure, scalable IT system  
-- Document technical decisions clearly and professionally  
-- Apply system administration concepts in a practical scenario  
-
-It demonstrates readiness for roles involving:
-
-- IT support  
-- System administration  
-- Network administration  
-- Technical operations  
-- Infrastructure support  
-
----
-
 
 
 ---
