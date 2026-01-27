@@ -6,12 +6,6 @@ Together, these projects demonstrate my ability to apply **engineering managemen
 
 Rather than theoretical exercises, these assignments focus on **practical decision-making, structured planning, risk management, and professional documentation**—skills directly transferable to industry roles.
 
----
-
-# Engineering Management & Professional Practice
-
-This folder contains key academic projects completed as part of the **MGMT3000 – Engineering Management & Professional Practice** unit.  
-Each document demonstrates practical skills in project planning, sustainability, teamwork, and professional engineering documentation.
 
 ---
 
