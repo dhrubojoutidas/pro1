@@ -35,7 +35,7 @@ This mirrors how **real engineering projects are approved and executed in indust
 
 It included:
 - A short **technical video presentation** explaining the project concept and production system
--- A **[project diagram](./MGM_assigmnt2_part1.jpg)** illustrating the manufacturing workflow
+- A **[project diagram](./MGM_assigmnt2_part1.jpg)** illustrating the manufacturing workflow
 
 - Providing **structured, constructive feedback** on other engineering projects
 
