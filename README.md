@@ -119,8 +119,8 @@ It demonstrates readiness for roles involving:
 📂 [Engineering Management & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
   
 The unit focuses on applying Engineering management principles to real-world projects, including  project planning, sustainability, teamwork, and professional documentation.
-🧠 Skills Demonstrated
--Project management (scope, schedule, cost, risk)
+
+
 -Sustainable engineering decision-making
 -Technical and professional communication
 -Team collaboration and documentation
@@ -131,6 +131,19 @@ The unit focuses on applying Engineering management principles to real-world pro
 -Stakeholder-focused presentation skills
 -Organisational planning
 -Real-world project coordination
+
+It demonstrates hands-on experience in:
+
+-Project management (scope, schedule, cost, risk)
+- Sustainable engineering decision-making
+- Cybersecurity (CyberOps, SIEM, Threat Detection)
+- Programming (Python, C, SQL, Bash)
+- Embedded Systems & IoT
+- Data Analysis & Automation
+- Circuit designs  
+- IoT implementations  
+- Software assignments  
+-
 
 
 ---
