@@ -1,10 +1,9 @@
 
 # Engineering Management – Academic Projects Portfolio
 
-This folder contains **three major Engineering Management assignments** completed as part of my undergraduate engineering studies at Curtin University.  
-Together, these projects demonstrate my ability to apply **engineering management, project planning, sustainability thinking, and organisational analysis** to real-world engineering problems.
+This folder contains selected projects from the **Engineering Management & Professional Practice** unit at **Curtin University**.  
+The unit focuses on applying **engineering management principles** to real-world projects, including **project planning, sustainability, teamwork, and professional documentation**.
 
-Rather than theoretical exercises, these assignments focus on **practical decision-making, structured planning, risk management, and professional documentation**—skills directly transferable to industry roles.
 
 ---
 
@@ -27,26 +26,17 @@ Rather than theoretical exercises, these assignments focus on **practical decisi
   - Risk register and mitigation strategies
   - Milestones and resource allocation
 
-This mirrors how **real engineering projects are approved and executed in industry**.
-
 ---
 
 ## 📗 Assignment 2 – Engineering Communication & Peer Review
 
-It included:
 - A short **technical video presentation** explaining the project concept and production system
 - A **[project diagram](./MGM_assigmnt2_part1.jpg)** illustrating the manufacturing workflow
 -  **[Reclaimed Wood → Furniture Process Diagram](./MGM_proceess_of_reclamed_wood_into_furniture.png)**
-
-
 - Providing **structured, constructive feedback** on other engineering projects
-
-
 ---
 
 ## 📙 **[Assignment 3 – Team-Based Engineering Managemen](./MGMT3000%20Assignment%203%20G7%20ESE-1.pdf)**  
-
-This was a **group-based engineering management project** that simulated working in a professional engineering team.
 
 The assignment required:
 - Forming and managing a project team
@@ -58,17 +48,12 @@ The assignment required:
   - Scheduling and progress tracking
   - Organisational structure and responsibilities
 
-The project followed the **full project lifecycle**, from initiation to close-out.
-
-
 ---
 
 ## 📂 Supporting Materials
 - 🗂 **[Unit Outline – MGMT3000](./MGMT_OUTLINE.pdf)**
 - 🧩 **[Organisation Structure Diagram](./organization_chart.jpg)**
   
----
-
 ---
 
 ## 🧠 Skills Demonstrated
