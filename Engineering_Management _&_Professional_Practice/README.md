@@ -36,7 +36,7 @@ The unit focuses on applying **engineering management principles** to real-world
 - Providing **structured, constructive feedback** on other engineering projects
 ---
 
-## 📙 **[Assignment 3 – Team-Based Engineering Managemen](./MGMT3000%20Assignment%203%20G7%20ESE-1.pdf)**  
+## 📙 **[Assignment  3: Development of a Sustainable Engineering Product Following Project Charter Approval](./MGMT3000%20Assignment%203%20G7%20ESE-1.pdf)**  
 
 The assignment required:
 - Forming and managing a project team
