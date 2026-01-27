@@ -8,23 +8,20 @@ Rather than theoretical exercises, these assignments focus on **practical decisi
 
 
 ---
-
-## 🧠 What These Projects Demonstrate
-- Engineering project management (scope, cost, risk, scheduling)
+## 🧠 Skills Demonstrated
+- Project management (scope, cost, schedule, risk)
 - Sustainable engineering decision-making
-- Team collaboration and professional communication
-- Structured technical documentation aligned with industry practice
+- Technical and professional communication
+- Team collaboration and documentation
+- Translating requirements into structured plans
+
 
 ## 📘 Assignment 1 – Sustainable Engineering Project
-
-
-### Overview  
 This assignment focuses on proposing and planning a **sustainable engineering project**:  
 **a scalable production system for manufacturing eco-friendly furniture from reclaimed wooden pallets**.
 
-The work is split into two parts:
 
--  **[Assignment 1 – Part 1 (Product Concept & Rationale)](./22663281.ASSIGNMNT_Part1_MGM.pdf)**
+ **[ Part 1 (Product Concept & Rationale)](./22663281.ASSIGNMNT_Part1_MGM.pdf)**
 - Defined a **commercially viable recycled product**
 - Analysed environmental, social, and economic benefits
 - Explained how waste materials are transformed into a usable product
@@ -33,12 +30,9 @@ The work is split into two parts:
 **Skills demonstrated**
 - Sustainability analysis  
 - Engineering reasoning & feasibility assessment  
-- Technical writing and research  
+- Technical writing and research 
 
----
-
-
--  **[Assignment 1 – Part 2 (Project Charter & Planning)](./Assignment1_PART2_22663281_MGM.pdf)**
+ **[ Part 2 (Project Charter & Planning)](./Assignment1_PART2_22663281_MGM.pdf)**
 - Developed a full **project charter** for scaling production
 - Defined project scope, objectives, deliverables, exclusions, and risks
 - Created:
@@ -53,6 +47,15 @@ This mirrors how **real engineering projects are approved and executed in indust
 - Project management fundamentals (scope, cost, time, risk)
 - Systems thinking and production planning
 - Professional engineering documentation
+
+
+
+
+  
+
+---
+
+
 
 ---
 
@@ -119,3 +122,34 @@ These projects reflect how I approach engineering problems in a **structured, an
 ---
 
 📌 *All reports, diagrams, and supporting materials are included in this folder for reference.*
+
+
+
+
+---
+
+
+---
+
+
+---
+
+## 📗 Assignment 2 – Engineering Communication
+- Technical video presentation and project diagram  
+- Peer review and constructive engineering feedback  
+📎 *Presentation-based assessment (no written report)*
+
+---
+
+## 📙 Assignment 3 – Team-Based Engineering Management
+- 📄 **[Group Project Report](./MGMT3000%20Assignment%203%20G7%20ESE-1.pdf)**  
+  Team coordination, role allocation, meeting minutes, scheduling, and document control across the full project lifecycle
+
+---
+
+## 📂 Supporting Files
+- 🗂 **[Unit Outline – MGMT3000](./MGMT_OUTLINE.pdf)**
+- 🧩 **[Organisation Structure Diagram](./organization_chart.jpg)**
+
+
+
