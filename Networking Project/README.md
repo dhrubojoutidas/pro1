@@ -33,6 +33,8 @@ The assignment was completed in **three stages**, progressing from basic concept
   - Static IP addressing with **VLSM**
   - Basic network security considerations
   - Fully simulated and tested using **Cisco Packet Tracer**
+    <img width="904" height="693" alt="image" src="https://github.com/user-attachments/assets/0e1eaa6c-0ee1-4ea5-a724-22cf832a0812" />
+
 
 ---
 
