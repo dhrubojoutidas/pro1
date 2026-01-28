@@ -3,8 +3,6 @@
 
 This repository contains a **group-based networking project** completed for the **CMPE2000 – Data Communications and Network Management** unit at Curtin University.
 
-The project demonstrates practical experience in **network design, routing, VLAN implementation, IP addressing, and network simulation** using **Cisco Packet Tracer**, aligned with real-world enterprise networking concepts.
-
 ---
 
 ## 📡 Project Overview
@@ -34,7 +32,7 @@ The assignment was completed in **three stages**, progressing from basic concept
   - 802.1Q trunking
   - Static IP addressing with **VLSM**
   - Basic network security considerations
-- Fully simulated and tested using **Cisco Packet Tracer**
+  - Fully simulated and tested using **Cisco Packet Tracer**
 
 ---
 
