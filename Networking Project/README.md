@@ -39,12 +39,6 @@ The assignment was completed in **three stages**, progressing from basic concept
 
 ---
 
-## 📂 Project Files (Click to Open)
-
-### 📄 Documentation
-- 📘 **[CMPE2000 Group Assignment Report](./CMPE2000%20Group%20Assignment.pdf)**
-- 📄 **[Project Questions & Requirements](./data_com_Project_question.pdf)**
-- 
 ###  🧪 **[ [Project 3  –   Enterprise LAN Design Network Simulation](./FINAL_LAB3.pkt)**
 - Designed a **hierarchical LAN** for an academic building
 - Supported **~180 users** across multiple departments
@@ -55,8 +49,9 @@ The assignment was completed in **three stages**, progressing from basic concept
   - Static IP addressing with **VLSM**
   - Basic network security considerations
   - Fully simulated and tested using **Cisco Packet Tracer**
+  - 📘 **[CMPE2000 Group Assignment Report](./CMPE2000%20Group%20Assignment.pdf)**
+  - 📄 **[Project Questions & Requirements](./data_com_Project_question.pdf)**
     <img width="904" height="693" alt="image" src="https://github.com/user-attachments/assets/0e1eaa6c-0ee1-4ea5-a724-22cf832a0812" />
-
 
 ---
 
