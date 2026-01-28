@@ -78,14 +78,13 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 ---
 
- 🏅 Olympic Games Database System
+
+ 🏅[Olympic Games Database System](./Olympic_Games_Database_System/README.md)
+ 
 
 A full-stack database project using **MySQL and Python** to model, query, and analyse Olympic Games data, including advanced SQL features and application-level integration.
 The system models real-world data from the Olympic Games, including athletes, teams, events, schedules, coaches, and medal results
 
-📂 **[Explore the database project](./Olympic_Games_Database_System/)**
-
-Olympic_Games_Database_System
 
 
 
