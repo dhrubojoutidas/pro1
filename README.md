@@ -78,10 +78,14 @@ A complete analysis and planning project for an airline reservation and seat-man
 
 ---
 
----
-This project was completed as part of a Database Systems unit at Curtin University and demonstrates the design, implementation, and use of a relational database, integrated with Python for dynamic data access.
+ 🏅 Olympic Games Database System
 
-The system models real-world data from the Olympic Games, including athletes, teams, events, schedules, coaches, and medal results.
+A full-stack database project using **MySQL and Python** to model, query, and analyse Olympic Games data, including advanced SQL features and application-level integration.
+The system models real-world data from the Olympic Games, including athletes, teams, events, schedules, coaches, and medal results
+
+📂 **[Explore the database project](./Olympic_Games_Database/)**
+
+
 
 ---
 
