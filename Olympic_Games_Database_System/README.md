@@ -122,29 +122,7 @@ Advanced queries:
 
 ---
 
-### 5️⃣ Python–MySQL Integration
 
-Install the required connector:
-
-```bash
-pip3 install mysql-connector-python
-```
-
-Run the Python connection script:
-
-```bash
-python3 pythonConnect.py
-```
-
-Insert and manage data using Python:
-
-```bash
-python3 eventdata.py
-python3 scheduleData.py
-python3 insert.py
-```
-
----
 
 📌 *All commands above are provided in detail in `command.txt` for easy execution and reference.*
 
@@ -288,7 +266,7 @@ DROP DATABASE Olympic_Game_2024_22663281;
 
 ---
 
-## 🐍 Python–MySQL Integration
+## 🐍  5️⃣ Python–MySQL Integration
 
 ### Python Files Used
 
@@ -333,10 +311,6 @@ python3 scheduleData.py
 python3 insert.py
 ```
 
+
 ---
-
-📌 *All commands above are required to fully set up, query, and interact with the Olympic Games database system.*
-
-```
-
 
