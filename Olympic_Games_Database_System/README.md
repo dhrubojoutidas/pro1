@@ -1,8 +1,7 @@
-## Database System (SQL & Python)
+# 🏅 Olympic Games Data Project
 
-This project was completed as part of a **Database Systems unit** at Curtin University and demonstrates the **design, implementation, and use of a relational database**, integrated with **Python** for dynamic data access.
-
-The system models real-world data from the **Olympic Games**, including athletes, teams, events, schedules, coaches, and medal results.
+Hi, welcome to my project!  
+Here I demonstrate how I worked with **Olympic Games data** using both **SQL** and **Python**.
 
 ---
 
@@ -19,15 +18,17 @@ An ER diagram is included to illustrate the database structure and relationships
 
 ---
 
-## 🗄️ Technologies Used
+## 🛠️ Technologies Used
 - **MySQL 8.0**
 - **SQL** (DDL, DML, joins, subqueries, views, stored procedures)
 - **Python 3** (MySQL Connector)
-- Linux environment (VMware)
+- Linux environment (VMware/ VScode)
+
 
 ---
 
 ## 📂 Key Files (Click to Open)
+To make the project easy to understand, I have organized everything into three main files:
 
 - 📘 **[Database Report](./report_DBS_22663281.pdf)** – design decisions, schema, queries, and reflection  
 - 📗 **[User Guide – Implement & Use Database](./User_guide_to_implement_and_%20use_olympicGame_database_.pdf)**  
@@ -37,6 +38,34 @@ An ER diagram is included to illustrate the database structure and relationships
 <img width="1716" height="903" alt="SQL_OYLMPIC_GAME_PIC" src="https://github.com/user-attachments/assets/fe7f55cc-5c15-4f4d-82c1-1f020e9524c4" />
 
 ---
+
+## 📂 Project Files
+
+✔️ **Report.pdf**  
+Shows the results with explanations and screenshots of queries and outputs.
+
+✔️ **User_Guide_to_implement**  
+Step-by-step guide for users on how to start, what to do, and how to run SQL & Python queries.
+
+✔️ **dbs_olympic_dataset**  
+Contains both SQL and Python files to run the code and reproduce the analysis.
+
+---
+
+## 🚀 How to Use
+
+1. Start by reading **User_Guide_to_implement** to understand the workflow.  
+2. Explore **dbs_olympic_dataset** for the actual SQL and Python scripts.  
+3. Check **Report.pdf** to see the results and screenshots of the implementation.
+
+---
+
+
+---
+
+
+
+
 
 
  ## 📌 How to Run the Project (MySQL & Python)
@@ -210,6 +239,9 @@ python3 eventdata.py
 python3 scheduleData.py
 python3 insert.py
 ```
+
+## 🙌 Acknowledgments
+Thanks for checking out my project! I hope it helps you understand how SQL and Python can be combined for data analysis.
 
 ---
 
