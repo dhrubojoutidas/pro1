@@ -16,14 +16,36 @@ The assignment was completed in **three stages**, progressing from basic concept
   <img width="1675" height="853" alt="Project 1(Design_of_ Bus,Star_Network)" src="https://github.com/user-attachments/assets/522da9e1-0c6d-46f3-bc19-9cfdcc8476b3" />
 
 
-### 🔹 Stage 2 – Routing Protocol Implementation
-- Configured **RIP (Routing Information Protocol)** across three routers
+###  🧪 **[Project 2 – Routing Protocol Implementation](./Final%20packetTracer_2.pkt)**
+  
+- Configured **RIP (Routing Information Protocol)** across three routers acket Tracer
 - Enabled communication between multiple LANs
 - Analysed routing behaviour and limitations of RIP
   <img width="1056" height="668" alt="image" src="https://github.com/user-attachments/assets/7445a301-3411-4b92-b8f1-2210f0c9e783" />
 
 
-### 🔹 Stage 3 – Enterprise LAN Design (Main Project)
+---
+
+### 📦 Network Simulation Files (Cisco Packet Tracer)
+
+
+---
+
+## 📂 Repository Contents
+- 📄 Assignment report (PDF)
+- 📦 Packet Tracer simulation files (`.pkt`)
+- 🧾 IP addressing plans and device configurations
+- 📑 Supporting documentation
+
+---
+
+## 📂 Project Files (Click to Open)
+
+### 📄 Documentation
+- 📘 **[CMPE2000 Group Assignment Report](./CMPE2000%20Group%20Assignment.pdf)**
+- 📄 **[Project Questions & Requirements](./data_com_Project_question.pdf)**
+- 
+###  🧪 **[ [Project 3  –   Enterprise LAN Design Network Simulation](./FINAL_LAB3.pkt)**
 - Designed a **hierarchical LAN** for an academic building
 - Supported **~180 users** across multiple departments
 - Implemented:
@@ -41,18 +63,10 @@ The assignment was completed in **three stages**, progressing from basic concept
 ## 🛠️ Tools & Technologies
 - Cisco Packet Tracer  
 - VLANs & Trunking (802.1Q)  
-- RIP Routing Protocol  
+- RIP/ static  Routing Protocol  
 - Inter-VLAN Routing  
 - IPv4 Subnetting & VLSM  
-- Hierarchical Network Design  
-
----
-
-## 📂 Repository Contents
-- 📄 Assignment report (PDF)
-- 📦 Packet Tracer simulation files (`.pkt`)
-- 🧾 IP addressing plans and device configurations
-- 📑 Supporting documentation
+- Hierarchical Network Design
 
 ---
 
@@ -68,41 +82,4 @@ The assignment was completed in **three stages**, progressing from basic concept
 
 📌 *This project demonstrates hands-on networking skills relevant to IT support, network technician, and junior network engineer roles.*
 
-
-# Networking Project – CMPE2000
-
-This folder contains a **Data Communications & Networking project** completed for the **CMPE2000** unit at Curtin University.  
-The project demonstrates practical skills in **network topology design, routing, VLANs, and network simulation** using **Cisco Packet Tracer**.
-
----
-
-## 📂 Project Files (Click to Open)
-
-### 📄 Documentation
-- 📘 **[CMPE2000 Group Assignment Report](./CMPE2000%20Group%20Assignment.pdf)**
-- 📄 **[Project Questions & Requirements](./data_com_Project_question.pdf)**
-
----
-
-### 📦 Network Simulation Files (Cisco Packet Tracer)
-- 🧪 **[Final Lab 3 – Network Simulation](./FINAL_LAB3.pkt)**
-- 🧪 **[Final Packet Tracer Project](./Final%20packetTracer_2.pkt)**
-
----
-
-### 🧩 Network Design Diagrams
-- 🖼 **[Bus & Star Network Design Diagram](./Project%201(Design_of_Bus,Star_Network).png)**
-
----
-
-## 🛠️ Tools & Technologies
-- Cisco Packet Tracer
-- VLANs & Trunking
-- Routing (RIP / Static)
-- IPv4 Addressing & Subnetting
-- Network Topology Design
-
----
-
-📌 *All files open directly in GitHub or Cisco Packet Tracer for review.*
 
