@@ -59,7 +59,6 @@ All commands are preserved from `command.txt` and organised for clarity.
 
 
 
-
 ## 1️⃣ MySQL Setup & Database Execution
 
 ### Enable Local File Loading (Required)
@@ -67,7 +66,7 @@ All commands are preserved from `command.txt` and organised for clarity.
 SET GLOBAL local_infile = 1;
 SHOW GLOBAL VARIABLES LIKE 'local_infile';
 
-
+```
 
 
 
