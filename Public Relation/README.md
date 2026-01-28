@@ -9,10 +9,8 @@ These assessments demonstrate my understanding of **media relations, strategic c
 ## 📄 Assignment Files (Click to Open)
 
 ### 📰 Mock Media Conference – Benefit Cosmetics
-📄 **[Mock Media Conference](./Mock%20Media%20Conference%20.pdf)**
- 
-
-- 📄 **[Reflection on the Media Conference](./Reflecting_on_the_Media_Conference.pdf)**
+- [Mock Media Conference](./Mock%20Media%20Conference%20.pdf)
+- [Reflection on the Media Conference](./Reflecting_on_the_Media_Conference.pdf)
   
 
 **Overview:**  
