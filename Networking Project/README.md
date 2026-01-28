@@ -65,3 +65,42 @@ The assignment was completed in **three stages**, progressing from basic concept
 ---
 
 📌 *This project demonstrates hands-on networking skills relevant to IT support, network technician, and junior network engineer roles.*
+
+
+# Networking Project – CMPE2000
+
+This folder contains a **Data Communications & Networking project** completed for the **CMPE2000** unit at Curtin University.  
+The project demonstrates practical skills in **network topology design, routing, VLANs, and network simulation** using **Cisco Packet Tracer**.
+
+---
+
+## 📂 Project Files (Click to Open)
+
+### 📄 Documentation
+- 📘 **[CMPE2000 Group Assignment Report](./CMPE2000%20Group%20Assignment.pdf)**
+- 📄 **[Project Questions & Requirements](./data_com_Project_question.pdf)**
+
+---
+
+### 📦 Network Simulation Files (Cisco Packet Tracer)
+- 🧪 **[Final Lab 3 – Network Simulation](./FINAL_LAB3.pkt)**
+- 🧪 **[Final Packet Tracer Project](./Final%20packetTracer_2.pkt)**
+
+---
+
+### 🧩 Network Design Diagrams
+- 🖼 **[Bus & Star Network Design Diagram](./Project%201(Design_of_Bus,Star_Network).png)**
+
+---
+
+## 🛠️ Tools & Technologies
+- Cisco Packet Tracer
+- VLANs & Trunking
+- Routing (RIP / Static)
+- IPv4 Addressing & Subnetting
+- Network Topology Design
+
+---
+
+📌 *All files open directly in GitHub or Cisco Packet Tracer for review.*
+
