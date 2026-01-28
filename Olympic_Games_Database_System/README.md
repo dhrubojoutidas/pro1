@@ -20,7 +20,7 @@ An ER diagram is included to illustrate the database structure and relationships
 
 ## 🛠️ Technologies Used
 - **MySQL 8.0**
-- **SQL** (DDL, DML, joins, subqueries, views, stored procedures)
+- **SQL** (joins, subqueries, views, stored procedures)
 - **Python 3** (MySQL Connector)
 - Linux environment (VMware/ VScode)
 
@@ -31,15 +31,11 @@ An ER diagram is included to illustrate the database structure and relationships
 To make the project easy to understand, I have organized everything into three main files:
 
 - 📘 **[Database Report](./report_DBS_22663281.pdf)** – Shows the results with explanations and screenshots of queries and outputs.
-- 📗 **[User Guide – Implement & Use Database](./User_guide_to_implement_and_%20use_olympicGame_database_.pdf)**   - Step-by-step guide for users on how to start, what to do, and how to run SQL & Python queries.
-- 
+- 📗 **[User Guide – Implement & Use Database](./User_guide_to_implement_and_%20use_olympicGame_database_.pdf)** - Step-by-step guide for users on how to start, what to do, and how to run SQL & Python queries.
 - 📄 **[Assignment Specification](./assignnmnt_DMS.pdf)** 
 - 📗 **[Full Code File ZIP ](./dbs_olympic_game_22663281.zip)** -Contains both SQL and Python files to run the code and reproduce the analysis.
 - 🧩 **ER Diagram** – visual database model 
 <img width="1716" height="903" alt="SQL_OYLMPIC_GAME_PIC" src="https://github.com/user-attachments/assets/fe7f55cc-5c15-4f4d-82c1-1f020e9524c4" />
-
-
-
 
 
 ---
