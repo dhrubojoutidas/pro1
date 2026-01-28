@@ -27,13 +27,18 @@ It demonstrates hands-on experience in:
 - Networking (Cisco, VLANs, Routing, DHCP, NAT)
 - System Administration (Windows Server, Linux)
 - Cybersecurity (CyberOps, SIEM, Threat Detection)
-- Programming (Python, C, SQL, Bash)
 - Embedded Systems & IoT
 - Data Analysis & Automation
 - Circuit designs  
 - IoT implementations  
 - Software assignments  
-- Technical presentations  
+- Technical presentations
+- Public Relations Projects
+- SQL based Olympic Game  Analysis
+- C programming base Tak Game
+- Bash, scrpit
+- Python programming Projects
+- Engineering Management & Professional Practice
 
 
 ---
