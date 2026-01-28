@@ -50,12 +50,10 @@ An ER diagram is included to illustrate the database structure and relationships
 
 
 
- ✅📌 Command.txt file 
-
- How to Run the Project (MySQL & Python)
+ ✅📌How to Run the Project (MySQL & Python)
 
 This section contains **all commands required to create, load, query, and manage** the Olympic Games database, as well as connect it to Python.  
-All commands are preserved from `command.txt` and organised for clarity.
+All commands are preserved from [`command.txt`](./command.txt) and organised for clarity.
 
 
 
