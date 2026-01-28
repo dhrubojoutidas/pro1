@@ -71,12 +71,12 @@ A complete analysis and planning project for an airline reservation and seat-man
 
  🏅4️⃣[SQL Olympic Games Analysis](./Olympic_Games_Database_System/README.md)
  
-
 - A project using **MySQL and Python** to model, query, and analyse Olympic Games data, including advanced SQL features and application-level integration.
 - The system models real-world data from the Olympic Games, including athletes, teams, events, schedules, coaches, and medal results
+
+ ---
+
  
- 
----
 
   
 📚 5️⃣ [Indigenous Science and STEM – Essay Writing](<Indigenous_Science_&_ STEM/Readme.md>)
@@ -258,5 +258,62 @@ Weekdays – Part-time
 Weekends – Fully Available  
 
 ---
+
+# 👨‍💻 Dhrubo Jouti Das
+
+Graduate IT & Systems Portfolio  
+**Networking | IT Support | SQL & Python | Embedded Systems | Cybersecurity**
+
+📍 Cannington, WA  
+📧 dhrubod513@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
+
+---
+
+## 📂 About This Repository
+
+This repository is a **portfolio of academic projects and practical assignments** completed during my **Diploma of IT (Curtin College)** and **Bachelor of Technology in Computer Systems & Networking (Curtin University)**.
+
+It showcases hands-on experience across **networking, systems administration, databases, programming, embedded systems, and professional practice**, developed through real coursework and projects.
+
+---
+
+## 🚀 Featured Projects
+
+- 🛜 **IoT Accident Detection System**  
+  Arduino-based system with cloud integration and real-time alerts  
+  👉 `CTP_1/`
+
+- 🗄️ **Olympic Games Database System (SQL & Python)**  
+  Relational database design, advanced SQL queries, and Python integration  
+  👉 `Olympic_Games_Database_System/`
+
+- 📡 **Networking Project (Cisco Packet Tracer)**  
+  VLANs, routing, subnetting, and enterprise LAN design  
+  👉 `Networking Project/`
+
+- 🧠 **Engineering Management & Professional Practice**  
+  Project planning, sustainability, teamwork, and documentation  
+  👉 `Engineering_Management_&_Professional_Practice/`
+
+- 📰 **Public Relations Projects**  
+  Media relations, crisis communication, and campaign analysis  
+  👉 `Public Relation/`
+
+---
+
+## 🛠️ Core Skills
+
+- Networking: VLANs, Routing, DHCP, NAT (Cisco)
+- Systems: Windows Server, Linux
+- Databases: SQL, MySQL
+- Programming: Python, C, Bash
+- Embedded & IoT: Arduino, MSP430
+- Documentation & Communication
+
+---
+
+📌 *Each folder contains its own README with project details, files, and setup instructions.*
+
 
 
