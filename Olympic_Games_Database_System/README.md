@@ -1,4 +1,4 @@
-Database System (SQL & Python)
+## Database System (SQL & Python)
 
 This project was completed as part of a **Database Systems unit** at Curtin University and demonstrates the **design, implementation, and use of a relational database**, integrated with **Python** for dynamic data access.
 
@@ -38,19 +38,8 @@ An ER diagram is included to illustrate the database structure and relationships
 
 ---
 
-## 🧠 Skills Demonstrated
-- Relational database design (ER modelling, normalisation)
-- SQL querying and optimisation
-- Advanced database features (views, procedures)
-- Python–MySQL integration
-- Structured problem-solving and documentation
-- Translating real-world requirements into a data model
 
----
-
-
-
- ✅📌How to Run the Project (MySQL & Python)
+ ## 📌 How to Run the Project (MySQL & Python)
 
 This section contains **all commands required to create, load, query, and manage** the Olympic Games database, as well as connect it to Python.  
 All commands are preserved from [`command.txt`](./command.txt) and organised for clarity.
@@ -221,7 +210,6 @@ python3 eventdata.py
 python3 scheduleData.py
 python3 insert.py
 ```
-
 
 ---
 
