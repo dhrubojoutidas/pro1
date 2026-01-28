@@ -29,11 +29,10 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ---
 
-📡 [**Networking Project (Cisco Packet Tracer)** ](./Networking%20Project)
+📡 [**Project  in network design, routing, VLAN implementation, IP addressing, and network simulation using Cisco Packet Tracer, aligned with real-world enterprise networking concepts.** ](./Networking%20Project)
 
 
 
-👉 The project demonstrates practical experience in network design, routing, VLAN implementation, IP addressing, and network simulation using Cisco Packet Tracer, aligned with real-world enterprise networking concepts.
 
 ---
 
