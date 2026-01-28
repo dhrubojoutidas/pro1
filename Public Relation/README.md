@@ -41,6 +41,8 @@ Developed a strategic media relations plan addressing **animal cruelty and brand
 
 ### 📊 PR Campaign Case Study – Dove #KidsOnlineSafety
 - 📄 **[Kids Online Safety Campaign Analysis](./KidsOnlieSafety_Campaign.pdf)**
+
+  
 **Overview:**  
 Analysed Dove’s **#KidsOnlineSafety** campaign, evaluating how public relations strategies and communication theories were used to drive social awareness and public engagement.
 
