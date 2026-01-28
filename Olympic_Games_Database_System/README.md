@@ -153,3 +153,190 @@ python3 insert.py
 
 <img width="1716" height="903" alt="SQL_OYLMPIC_GAME_PIC" src="https://github.com/user-attachments/assets/c449c72b-4c87-4167-972b-bc07a93ab958" />
 
+
+
+
+Yes 👍 — I’ll **keep every command exactly** (nothing removed), but **organise and clean it** so it looks professional and is **ready to paste into a README.md**.
+
+Below is a **well-structured, README-friendly version** of your `command.txt`.
+
+---
+
+````md
+## ▶️ How to Run the Project (MySQL & Python)
+
+This section contains **all commands required to create, load, query, and manage** the Olympic Games database, as well as connect it to Python.  
+All commands are preserved from `command.txt` and organised for clarity.
+
+---
+
+## 🗄️ MySQL Setup & Database Execution
+
+### Enable Local File Loading (Required)
+```sql
+SET GLOBAL local_infile = 1;
+SHOW GLOBAL VARIABLES LIKE 'local_infile';
+````
+
+---
+
+### Step 1: Check MySQL Version
+
+```bash
+mysql -V
+```
+
+---
+
+### Step 2: Connect to MySQL Server
+
+*(Used due to data loading errors without local-infile enabled)*
+
+```bash
+mysql --local-infile=1 -u dsuser -p
+```
+
+**Password:**
+
+```
+userCreateSQL
+```
+
+---
+
+### Step 3: Show Existing Databases
+
+```sql
+SHOW DATABASES;
+```
+
+---
+
+### Step 4: Create Database
+
+```sql
+CREATE DATABASE IF NOT EXISTS Olympic_Game_2024_22663281;
+```
+
+**Password:**
+
+```
+userCreateSQL
+```
+
+---
+
+### Step 5: Verify Database Creation
+
+```sql
+SHOW DATABASES;
+```
+
+---
+
+### Step 6: Use the Database
+
+```sql
+USE Olympic_Game_2024_22663281;
+```
+
+*(Optional – reset database if needed)*
+
+```sql
+DROP DATABASE Olympic_Game_2024_22663281;
+```
+
+---
+
+## 📦 Create Tables & Load Data
+
+### Create All Tables
+
+```sql
+\. CreateTable.sql
+```
+
+### Load Data into Tables
+
+```sql
+\. LoadData.sql
+```
+
+---
+
+## 🔍 Run SQL Queries
+
+### Simple Queries
+
+```sql
+\. Query.sql
+```
+
+### Advanced Queries
+
+```sql
+\. advanceQuery.sql
+```
+
+---
+
+## ❌ Delete All Tables, Procedures & Views
+
+```sql
+\. DeleteTable.sql
+```
+
+---
+
+## 🐍 Python–MySQL Integration
+
+### Python Files Used
+
+```bash
+python3 eventdata.py
+python3 scheduleData.py
+python3 pythonConnect.py
+python3 insert.py
+```
+
+---
+
+### Step 1: Confirm MySQL Installation
+
+```bash
+mysql -V
+```
+
+---
+
+### Step 2: Install MySQL Connector for Python
+
+```bash
+pip3 install mysql-connector-python
+```
+
+---
+
+### Step 3: Connect Python to MySQL
+
+```bash
+python3 pythonConnect.py
+```
+
+---
+
+### Step 4: Insert Data Using Python Scripts
+
+```bash
+python3 eventdata.py
+python3 scheduleData.py
+python3 insert.py
+```
+
+---
+
+📌 *All commands above are required to fully set up, query, and interact with the Olympic Games database system.*
+
+```
+
+
