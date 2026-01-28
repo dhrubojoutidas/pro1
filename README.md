@@ -34,9 +34,9 @@ It demonstrates hands-on experience in:
 - Software assignments  
 - Technical presentations
 - Public Relations Projects
-- SQL based Olympic Game  Analysis
-- C programming base Tak Game
-- Bash, scrpit
+- SQL-based Olympic Games Analysis
+- C-based Tank Game
+- Bash, script
 - Python programming Projects
 - Engineering Management & Professional Practice
 
