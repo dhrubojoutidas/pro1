@@ -1,4 +1,4 @@
-# Olympic Games Database System (SQL & Python)
+<img width="1716" height="903" alt="SQL_OYLMPIC_GAME_PIC" src="https://github.com/user-attachments/assets/326db57c-6552-4043-94f5-3bb274d2e9fb" /># Olympic Games Database System (SQL & Python)
 
 This project was completed as part of a **Database Systems unit** at Curtin University and demonstrates the **design, implementation, and use of a relational database**, integrated with **Python** for dynamic data access.
 
@@ -149,4 +149,5 @@ python3 insert.py
 ```
 
 
+<img width="1716" height="903" alt="SQL_OYLMPIC_GAME_PIC" src="https://github.com/user-attachments/assets/c449c72b-4c87-4167-972b-bc07a93ab958" />
 
