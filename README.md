@@ -23,13 +23,13 @@ It showcases hands-on experience across **networking, systems administration, da
 ---
  ### 🚀 Highlighted Projects
 
-1️⃣  🛜[IOT Arduino-based system Accident Detection System with cloud integration and real-time alerts ](./CTP_1/README.md)
+👉 1️⃣🛜[IOT Arduino-based system Accident Detection System with cloud integration and real-time alerts ](./CTP_1/README.md)
 
 
 
 ---
 
-📡 [**Project  in network design, routing, VLAN implementation, IP addressing, and network simulation using Cisco Packet Tracer, aligned with real-world enterprise networking concepts.** ](./Networking%20Project)
+👉2️⃣📡 [**Project  in network design, routing, VLAN implementation, IP addressing, and network simulation using Cisco Packet Tracer, aligned with real-world enterprise networking concepts.** ](./Networking%20Project)
 
 
 
