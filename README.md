@@ -23,14 +23,9 @@ It showcases hands-on experience across **networking, systems administration, da
 ---
  ### 🚀 Highlighted Projects
 
- 🛜 1️⃣ [IOT Arduino-based system Accident Detection System with cloud integration and real-time alerts ](./CTP_1/README.md)
+1️⃣  🛜[IOT Arduino-based system Accident Detection System with cloud integration and real-time alerts ](./CTP_1/README.md)
 
-👉 Arduino-based system with cloud integration and real-time alerts
 
-Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
-- Firebase Cloud Functions + Twilio API for SMS alerts  
-- Real-time dashboard with Chart.js  
-- Sensor fusion + false-positive reduction logic  
 
 ---
 
