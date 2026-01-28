@@ -18,7 +18,7 @@ Here I demonstrate how I worked with **Olympic Games data** using both **SQL** a
 To make the project easy to understand, I have organized everything into three main files:
 
 - 📘 **[Database Report](./report_DBS_22663281.pdf)** – Shows the results with explanations and screenshots of queries and outputs.
-- 📗 **[User Guide – Implement & Use Database](./User_guide_to_implement_and_%20use_olympicGame_database_.pdf)** - Step-by-step guide for users on how to start, what to do, and how to run SQL & Python queries.
+- 📗 **[User Guide – Implement & Use Database](./User_guide_to_implement_and_%20use_olympicGame_database_.pdf)** -guide for users on how to start, what to do, and how to run SQL & Python queries.
 - 📄 **[Assignment Specification](./assignnmnt_DMS.pdf)** 
 - 📗 **[Full Code File ZIP ](./dbs_olympic_game_22663281.zip)** -Contains both SQL and Python files to run the code and reproduce the analysis.
 - 🧩 **Entity–Relationship (ER) model and relational schema** – visual database model 
