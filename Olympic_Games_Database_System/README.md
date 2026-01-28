@@ -32,7 +32,7 @@ An ER diagram is included to illustrate the database structure and relationships
 - 📘 **[Database Report](./report_DBS_22663281.pdf)** – design decisions, schema, queries, and reflection  
 - 📗 **[User Guide – Implement & Use Database](./User_guide_to_implement_and_%20use_olympicGame_database_.pdf)**  
 - 📄 **[Assignment Specification](./assignnmnt_DMS.pdf)**  
-- 🧩 **ER Diagram** – visual database model (see image above)
+- 🧩 **ER Diagram** – visual database model 
 <img width="1716" height="903" alt="SQL_OYLMPIC_GAME_PIC" src="https://github.com/user-attachments/assets/fe7f55cc-5c15-4f4d-82c1-1f020e9524c4" />
 
 ---
