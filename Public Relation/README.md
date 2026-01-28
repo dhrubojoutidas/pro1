@@ -6,11 +6,11 @@ These assessments demonstrate my understanding of **media relations, strategic c
 
 ---
 
-## 📘 Major Assessments
+## 📄 Assignment Files (Click to Open)
 
 ### 📰 Mock Media Conference – Benefit Cosmetics
 - 📄 **[Media Conference Script & Role Play](./Mock%20Media%20Conference.docx)**
-- 📄 **[Reflection on the Media Conference](./22663281_Reflecting_on_the_Media_Conference.pdf)**
+- 📄 **[Reflection on the Media Conference](./Reflecting_on_the_Media_Conference.pdf)**
 
 **Overview:**  
 Participated in a simulated media conference addressing **animal testing in the beauty industry**, representing an animal rights activist alongside a CEO and moderator.  
@@ -39,8 +39,7 @@ Developed a strategic media relations plan addressing **animal cruelty and brand
 ---
 
 ### 📊 PR Campaign Case Study – Dove #KidsOnlineSafety
-- 📄 **[Campaign Analysis & Case Study](./dovedone.docx)**
-
+- 📄 **[Kids Online Safety Campaign Analysis](./KidsOnlieSafety_Campaign.pdf)**
 **Overview:**  
 Analysed Dove’s **#KidsOnlineSafety** campaign, evaluating how public relations strategies and communication theories were used to drive social awareness and public engagement.
 
@@ -67,21 +66,8 @@ Analysed Dove’s **#KidsOnlineSafety** campaign, evaluating how public relation
 
 ---
 
-## 📄 Assignment Files (Click to Open)
 
-### 📰 Mock Media Conference
-- 📄 **[Mock Media Conference – Script & Role Play](./Mock%20Media%20Conference.pdf)**
-- 📄 **[Reflection on the Media Conference](./Reflecting_on_the_Media_Conference.pdf)**
 
----
-
-### 📢 Media Relations Strategy
-- 📄 **[Benefit Cosmetics & Animal Cruelty – Media Relations Strategy](./Benefit%20Cosmetics%20and%20Animal%20CrueltyMedia%20Relations%20Strategy%20%20A2.pdf)**
-
----
-
-### 👶 Social Campaign Case Study
-- 📄 **[Kids Online Safety Campaign Analysis](./KidsOnlieSafety_Campaign.pdf)**
 
 
 
