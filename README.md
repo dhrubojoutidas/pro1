@@ -13,8 +13,6 @@ IT Support Technician | IT Support Intern | Embeded system | Cyber Security | Wi
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)]( https://github.com/dhrubojoutidas/pro1/blob/master/README.md)
 
 
-
-
 ---
 
 
@@ -24,21 +22,7 @@ This repository contains all  assignments, labs, and projects completed during m
 
 It demonstrates hands-on experience in:
 
-- Networking (Cisco, VLANs, Routing, DHCP, NAT)
-- System Administration (Windows Server, Linux)
-- Cybersecurity (CyberOps, SIEM, Threat Detection)
-- Embedded Systems & IoT
-- Data Analysis & Automation
-- Circuit designs  
-- IoT implementations  
-- Software assignments  
-- Technical presentations
-- Public Relations Projects
-- SQL-based Olympic Games Analysis
-- C-based Tank Game
-- Bash, script
-- Python programming Projects
-- Engineering Management & Professional Practice
+
 
 
 ---
@@ -164,6 +148,17 @@ A selected portfolio of assignments from my **Public Relations unit** at Curtin 
 - Data processing  
 - Calculations  
 
+
+- Networking (Cisco, VLANs, Routing, DHCP, NAT)
+- System Administration (Windows Server, Linux)
+- Cybersecurity (CyberOps, SIEM, Threat Detection)
+- Embedded Systems & IoT
+- Data Analysis & Automation
+- Circuit designs  
+
+- Technical presentations
+
+  
 ---
 ## 🛠️ Skills
 
