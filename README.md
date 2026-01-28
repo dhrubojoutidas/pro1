@@ -33,7 +33,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ---
 
-📡 **Networking Project (Cisco Packet Tracer)**   
+📡 [**Networking Project (Cisco Packet Tracer)** ](./Networking%20Project)
 
 
 
