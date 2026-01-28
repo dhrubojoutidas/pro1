@@ -25,8 +25,9 @@ It showcases hands-on experience across **networking, systems administration, da
 
  🛜 1️⃣ [IOT  Accident Detection System  ](./CTP_1/README.md)
 
- 
-👉 Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
+👉 Arduino-based system with cloud integration and real-time alerts
+
+Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
 - Firebase Cloud Functions + Twilio API for SMS alerts  
 - Real-time dashboard with Chart.js  
 - Sensor fusion + false-positive reduction logic  
