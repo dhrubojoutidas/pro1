@@ -27,14 +27,6 @@ The assignment was completed in **three stages**, progressing from basic concept
 
 ---
 
-## 📂 Repository Contents
-- 📄 Assignment report (PDF)
-- 📦 Packet Tracer simulation files (`.pkt`)
-- 🧾 IP addressing plans and device configurations
-- 📑 Supporting documentation
-
----
-
 ###  🧪 **[ [Project 3  –   Enterprise LAN Design Network Simulation](./FINAL_LAB3.pkt)**
 - Designed a **hierarchical LAN** for an academic building
 - Supported **~180 users** across multiple departments
