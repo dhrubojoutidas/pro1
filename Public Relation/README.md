@@ -62,3 +62,26 @@ Analysed Dove’s **#KidsOnlineSafety** campaign, evaluating how public relation
 ---
 
 📌 *All files are included for reference and open directly in GitHub.*
+
+
+
+---
+
+## 📄 Assignment Files (Click to Open)
+
+### 📰 Mock Media Conference
+- 📄 **[Mock Media Conference – Script & Role Play](./Mock%20Media%20Conference.pdf)**
+- 📄 **[Reflection on the Media Conference](./Reflecting_on_the_Media_Conference.pdf)**
+
+---
+
+### 📢 Media Relations Strategy
+- 📄 **[Benefit Cosmetics & Animal Cruelty – Media Relations Strategy](./Benefit%20Cosmetics%20and%20Animal%20CrueltyMedia%20Relations%20Strategy%20%20A2.pdf)**
+
+---
+
+### 👶 Social Campaign Case Study
+- 📄 **[Kids Online Safety Campaign Analysis](./KidsOnlieSafety_Campaign.pdf)**
+
+
+
