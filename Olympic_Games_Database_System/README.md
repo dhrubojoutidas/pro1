@@ -1,4 +1,4 @@
-<img width="1716" height="903" alt="SQL_OYLMPIC_GAME_PIC" src="https://github.com/user-attachments/assets/326db57c-6552-4043-94f5-3bb274d2e9fb" /># Olympic Games Database System (SQL & Python)
+Database System (SQL & Python)
 
 This project was completed as part of a **Database Systems unit** at Curtin University and demonstrates the **design, implementation, and use of a relational database**, integrated with **Python** for dynamic data access.
 
@@ -33,6 +33,7 @@ An ER diagram is included to illustrate the database structure and relationships
 - 📗 **[User Guide – Implement & Use Database](./User_guide_to_implement_and_%20use_olympicGame_database_.pdf)**  
 - 📄 **[Assignment Specification](./assignnmnt_DMS.pdf)**  
 - 🧩 **ER Diagram** – visual database model (see image above)
+<img width="1716" height="903" alt="SQL_OYLMPIC_GAME_PIC" src="https://github.com/user-attachments/assets/fe7f55cc-5c15-4f4d-82c1-1f020e9524c4" />
 
 ---
 
