@@ -79,17 +79,13 @@ A complete analysis and planning project for an airline reservation and seat-man
 ---
 
 
- 🏅[Olympic Games Database System](./Olympic_Games_Database_System/README.md)
+ 🏅[SQL Olympic Games Analysis](./Olympic_Games_Database_System/README.md)
  
 
 - A full-stack database project using **MySQL and Python** to model, query, and analyse Olympic Games data, including advanced SQL features and application-level integration.
-
-
 - The system models real-world data from the Olympic Games, including athletes, teams, events, schedules, coaches, and medal results
-
-
-
-
+ 
+ 
 ---
 
   
@@ -112,11 +108,10 @@ This project includes:
   - Measured origami squares and collected real-world data
   - Built histograms, box plots, and performed hypothesis testing
   - Confidence intervals and statistical analysis
-
-
+  
 ---
-🎯 [Computer System 200 – Unit Folder](./Computer_system200_Unit/README.md) 
 
+🎯 [Computer System 200 – Unit Folder](./Computer_system200_Unit/README.md) 
 
 Includes:
 
@@ -127,15 +122,6 @@ This project shows that I can:
 - Design a secure, scalable IT system  
 - Document technical decisions clearly and professionally  
 - Apply system administration concepts in a practical scenario  
-
-It demonstrates readiness for roles involving:
-
-- IT support  
-- System administration  
-- Network administration  
-- Technical operations  
-- Infrastructure support 
-
 ---
 
 📂 [Engineering Management & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
@@ -166,15 +152,12 @@ A selected portfolio of assignments from my **Public Relations unit** at Curtin 
 
 
 
- 🎮 Tank Shooter Game (C)  
+ 🎮  📊  Tank Shooter Game (C)  
 - 2D shooter  
 - Collision detection  
 - Game loop logic  
 
- 📊 SQL Olympics Data Analysis  
-- Query optimisation  
-- Reporting  
-- Data modelling  
+
 
  🐍 Python Automation  
 - File handling  
