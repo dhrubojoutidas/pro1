@@ -96,6 +96,8 @@ This project includes:
 
 ---
 🎯 [Computer System 200 – Unit Folder](./Computer_system200_Unit/README.md) 
+
+
 Includes:
 
 This project shows that I can:
@@ -127,9 +129,14 @@ The unit focuses on applying Engineering management principles to real-world pro
  - Critical evaluation and professional feedback  
 
 
-
-
 ---
+
+ 📰 Public Relations
+
+A selected portfolio of assignments from my **Public Relations unit** at Curtin University, demonstrating practical experience in **media relations, strategic communication, ethical PR, and campaign analysis** through real-world case studies and simulations.
+
+ [View Public Relations Projects](./Public%20Relation/)
+
 
 
  🎮 Tank Shooter Game (C)  
