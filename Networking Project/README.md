@@ -23,12 +23,6 @@ The assignment was completed in **three stages**, progressing from basic concept
 - Analysed routing behaviour and limitations of RIP
   <img width="1056" height="668" alt="image" src="https://github.com/user-attachments/assets/7445a301-3411-4b92-b8f1-2210f0c9e783" />
 
-
----
-
-### 📦 Network Simulation Files (Cisco Packet Tracer)
-
-
 ---
 
 ## 📂 Repository Contents
@@ -49,7 +43,7 @@ The assignment was completed in **three stages**, progressing from basic concept
   - Static IP addressing with **VLSM**
   - Basic network security considerations
   - Fully simulated and tested using **Cisco Packet Tracer**
-  - **[Networking Project Group](./CMPE2000%20Group%20Assignment%20.pdf)**  - 
+  - **[Networking Project Group](./CMPE2000%20Group%20Assignment%20.pdf)** 
   - **[Project Questions & Requirements](./data_com_Project_question.pdf)**
     <img width="904" height="693" alt="image" src="https://github.com/user-attachments/assets/0e1eaa6c-0ee1-4ea5-a724-22cf832a0812" />
 
