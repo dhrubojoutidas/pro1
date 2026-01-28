@@ -52,21 +52,13 @@ An ER diagram is included to illustrate the database structure and relationships
 
  ✅📌 Command.txt file 
 
-
-
-<img width="1716" height="903" alt="SQL_OYLMPIC_GAME_PIC" src="https://github.com/user-attachments/assets/c449c72b-4c87-4167-972b-bc07a93ab958" />
-
-
-
-
-
-````md
-## ▶️ How to Run the Project (MySQL & Python)
+ How to Run the Project (MySQL & Python)
 
 This section contains **all commands required to create, load, query, and manage** the Olympic Games database, as well as connect it to Python.  
 All commands are preserved from `command.txt` and organised for clarity.
 
----
+
+
 
 ## 1️⃣ MySQL Setup & Database Execution
 
@@ -74,9 +66,10 @@ All commands are preserved from `command.txt` and organised for clarity.
 ```sql
 SET GLOBAL local_infile = 1;
 SHOW GLOBAL VARIABLES LIKE 'local_infile';
-````
 
----
+
+
+
 
 ### Step 1: Check MySQL Version
 
