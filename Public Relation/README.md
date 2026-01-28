@@ -25,7 +25,7 @@ The task focused on crisis communication, stakeholder messaging, and ethical pub
 ---
 
 ### 📢 Media Relations Strategy – Benefit Cosmetics
-- 📄 **[Media Relations Strategy Report](./Benefit%20Cosmetics%20and%20Animal%20CrueltyMedia%20Relations%20Strategy%20%20A2.pdf)**
+- 📄 **[Benefit Cosmetics and Animal CrueltyMedia Relations Stratege REPORT](./Benefit%20Cosmetics%20and%20Animal%20CrueltyMedia%20Relations%20Strategy%20%20A2.pdf)**
 
 **Overview:**  
 Developed a strategic media relations plan addressing **animal cruelty and brand ethics**, supported by academic public relations frameworks and industry research.
