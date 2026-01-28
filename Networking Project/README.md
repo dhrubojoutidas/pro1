@@ -15,6 +15,8 @@ The assignment was completed in **three stages**, progressing from basic concept
 - Designed and analysed **Star, Bus, and Ring topologies**
 - Compared performance, scalability, cost, and reliability
 - Evaluated real-world use cases for each topology
+  <img width="1675" height="853" alt="Project 1(Design_of_ Bus,Star_Network)" src="https://github.com/user-attachments/assets/522da9e1-0c6d-46f3-bc19-9cfdcc8476b3" />
+
 
 ### 🔹 Stage 2 – Routing Protocol Implementation
 - Configured **RIP (Routing Information Protocol)** across three routers
