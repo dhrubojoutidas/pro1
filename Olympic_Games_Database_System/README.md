@@ -48,85 +48,10 @@ An ER diagram is included to illustrate the database structure and relationships
 
 ---
 
-📌 
-*This project reflects my ability to design and implement a complete database system and integrate it with application-level code.*
 
 
+ ✅📌 Command.txt file 
 
----
-
- ✅  Command.txt file 
-
-````md
-## ▶️ How to Run the Project (SQL & Python)
-
-This project includes a complete set of **MySQL and Python commands** for creating, loading, querying, and interacting with the Olympic Games database.
-
-📄 **[View full command list](./command.txt)**
-
----
-
-### 1️⃣ Connect to MySQL Server
-Enable local file loading (required for data import):
-
-```sql
-SET GLOBAL local_infile = 1;
-SHOW GLOBAL VARIABLES LIKE 'local_infile';
-````
-
-Check MySQL version:
-
-```bash
-mysql -V
-```
-
-Log in to MySQL:
-
-```bash
-mysql --local-infile=1 -u dsuser -p
-```
-
----
-
-### 2️⃣ Create and Select Database
-
-```sql
-CREATE DATABASE IF NOT EXISTS Olympic_Game_2024_22663281;
-USE Olympic_Game_2024_22663281;
-```
-
----
-
-### 3️⃣ Create Tables and Load Data
-
-```sql
-\. CreateTable.sql
-\. LoadData.sql
-```
-
----
-
-### 4️⃣ Run Queries
-
-Simple queries:
-
-```sql
-\. Query.sql
-```
-
-Advanced queries:
-
-```sql
-\. advanceQuery.sql
-```
-
----
-
-
-
-📌 *All commands above are provided in detail in `command.txt` for easy execution and reference.*
-
-```
 
 
 <img width="1716" height="903" alt="SQL_OYLMPIC_GAME_PIC" src="https://github.com/user-attachments/assets/c449c72b-4c87-4167-972b-bc07a93ab958" />
@@ -134,11 +59,6 @@ Advanced queries:
 
 
 
-Yes 👍 — I’ll **keep every command exactly** (nothing removed), but **organise and clean it** so it looks professional and is **ready to paste into a README.md**.
-
-Below is a **well-structured, README-friendly version** of your `command.txt`.
-
----
 
 ````md
 ## ▶️ How to Run the Project (MySQL & Python)
@@ -148,7 +68,7 @@ All commands are preserved from `command.txt` and organised for clarity.
 
 ---
 
-## 🗄️ MySQL Setup & Database Execution
+## 1️⃣ MySQL Setup & Database Execution
 
 ### Enable Local File Loading (Required)
 ```sql
@@ -226,7 +146,7 @@ DROP DATABASE Olympic_Game_2024_22663281;
 
 ---
 
-## 📦 Create Tables & Load Data
+## 3️⃣📦 Create Tables & Load Data
 
 ### Create All Tables
 
@@ -242,7 +162,7 @@ DROP DATABASE Olympic_Game_2024_22663281;
 
 ---
 
-## 🔍 Run SQL Queries
+## 4️⃣🔍 Run SQL Queries
 
 ### Simple Queries
 
@@ -258,6 +178,7 @@ DROP DATABASE Olympic_Game_2024_22663281;
 
 ---
 
+
 ## ❌ Delete All Tables, Procedures & Views
 
 ```sql
@@ -266,7 +187,7 @@ DROP DATABASE Olympic_Game_2024_22663281;
 
 ---
 
-## 🐍  5️⃣ Python–MySQL Integration
+##  5️⃣🐍 Python–MySQL Integration
 
 ### Python Files Used
 
