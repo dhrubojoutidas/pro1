@@ -28,7 +28,7 @@ It demonstrates hands-on experience in:
 ---
  ### 🚀 Highlighted Projects
 
- 🛜 [IOT  Accident Detection System  ](./CTP_1/README.md)
+ 🛜 1️⃣ [IOT  Accident Detection System  ](./CTP_1/README.md)
 
 - Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
 - Firebase Cloud Functions + Twilio API for SMS alerts  
@@ -37,7 +37,13 @@ It demonstrates hands-on experience in:
 
 ---
 
- ✈️ [SkyFly Airline Reservation System – Requirement Analysis & Project Planning ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+The project demonstrates practical experience in network design, routing, VLAN implementation, IP addressing, and network simulation using Cisco Packet Tracer, aligned with real-world enterprise networking concepts.
+
+
+---
+
+
+ ✈️2️⃣ [SkyFly Airline Reservation System – Requirement Analysis & Project Planning ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
 A complete analysis and planning project for an airline reservation and seat-management system, including:
 
@@ -53,7 +59,7 @@ A complete analysis and planning project for an airline reservation and seat-man
   
 ---
 
- 🖥️ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
+ 🖥️3️⃣ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 - ✅ Agile project planning & task breakdown  
 - ✅ Modular Python design  
 - ✅ Unit testing (PyTest)  
@@ -63,7 +69,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 ---
 
 
- 🏅[SQL Olympic Games Analysis](./Olympic_Games_Database_System/README.md)
+ 🏅4️⃣[SQL Olympic Games Analysis](./Olympic_Games_Database_System/README.md)
  
 
 - A project using **MySQL and Python** to model, query, and analyse Olympic Games data, including advanced SQL features and application-level integration.
@@ -73,7 +79,7 @@ A complete analysis and planning project for an airline reservation and seat-man
 ---
 
   
-📚 [Indigenous Science and STEM – Essay Writing](<Indigenous_Science_&_ STEM/Readme.md>)
+📚 5️⃣ [Indigenous Science and STEM – Essay Writing](<Indigenous_Science_&_ STEM/Readme.md>)
 
 This project includes:
 - Essays on **Digital Divide** and its impact on Indigenous communities.
@@ -85,7 +91,7 @@ This project includes:
 ---
 
 
-📘[MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
+📘6️⃣ [MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
 
 - Applied **linear algebra** and **statistics** to solve engineering problems
 - Featured project: **Origami & Statistics**
@@ -95,7 +101,7 @@ This project includes:
   
 ---
 
-🎯 [Computer System 200 – Unit Folder](./Computer_system200_Unit/README.md) 
+🎯7️⃣ [Computer System ](./Computer_system200_Unit/README.md) 
 
 
 Includes:
@@ -109,7 +115,7 @@ This project shows that I can:
 - Apply system administration concepts in a practical scenario  
 ---
 
-📂 [Engineering Management & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
+📂 8️⃣ [Engineering Management & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
   
 The unit focuses on applying Engineering management principles to real-world projects, including  project planning, sustainability, teamwork, and professional documentation.
 
@@ -122,7 +128,7 @@ The unit focuses on applying Engineering management principles to real-world pro
 
 ---
 
- 📰 [Public Relations Projects](./Public%20Relation/)
+ 📰9️⃣ [Public Relations Projects](./Public%20Relation/)
 
 A selected portfolio of  demonstrating practical experience in **media relations, strategic communication, ethical PR, and campaign analysis** through real-world case studies and simulations.
 
@@ -137,7 +143,7 @@ A selected portfolio of  demonstrating practical experience in **media relations
 
 
 
- 🎮  📊  Tank Shooter Game (C)  
+ 🎮 🔟  Tank Shooter Game (C)  
 - 2D shooter  
 - Collision detection  
 - Game loop logic  
@@ -157,6 +163,13 @@ A selected portfolio of  demonstrating practical experience in **media relations
 - Data Analysis & Automation
 - Circuit designs  
 
+
+🔌
+📜
+📚
+📌
+📋
+💻 
 - Technical presentations
 
   
