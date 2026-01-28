@@ -131,11 +131,15 @@ The unit focuses on applying Engineering management principles to real-world pro
 
 ---
 
- 📰 Public Relations
+ 📰 [Public Relations Projects](./Public%20Relation/)
 
 A selected portfolio of assignments from my **Public Relations unit** at Curtin University, demonstrating practical experience in **media relations, strategic communication, ethical PR, and campaign analysis** through real-world case studies and simulations.
+**Key projects include:**
+- *Mock Media Conference* (crisis communication & stakeholder messaging)
+- *Benefit Cosmetics – Animal Cruelty Media Relations Strategy*
+- *Kids Online Safety Campaign Analysis*
 
- [View Public Relations Projects](./Public%20Relation/)
+
 
 
 
