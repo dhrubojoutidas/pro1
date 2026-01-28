@@ -24,6 +24,8 @@ It showcases hands-on experience across **networking, systems administration, da
  ### 🚀 Highlighted Projects
 
  🛜 1️⃣ [IOT  Accident Detection System  ](./CTP_1/README.md)
+
+ 
 👉 Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
 - Firebase Cloud Functions + Twilio API for SMS alerts  
 - Real-time dashboard with Chart.js  
@@ -32,6 +34,8 @@ It showcases hands-on experience across **networking, systems administration, da
 ---
 
 📡 **Networking Project (Cisco Packet Tracer)**   
+
+
 
 👉 The project demonstrates practical experience in network design, routing, VLAN implementation, IP addressing, and network simulation using Cisco Packet Tracer, aligned with real-world enterprise networking concepts.
 
@@ -69,7 +73,6 @@ A complete analysis and planning project for an airline reservation and seat-man
 👉 A project using **MySQL and Python** to model, query, and analyse Olympic Games data, including advanced SQL features and application-level integration.
 - The system models real-world data from the Olympic Games, including athletes, teams, events, schedules, coaches, and medal results
 
-- 🗄️ 
  ---
 
 
@@ -160,8 +163,8 @@ This project shows that I can:
 📜
 📚
 📋
-💻 
-- Technical presentations
+💻  🗄️ 
+
 
   
 ---
