@@ -10,6 +10,7 @@ This repository contains a **group-based networking project** completed for the 
 The assignment was completed in **three stages**, progressing from basic concepts to a full enterprise-style network design.
 
 ### 🔹 Stage 1 – Network Topologies
+[oo](./Project%201(Design_of_%20_Bus,Star_Network).png)
 - Designed and analysed **Star, Bus, and Ring topologies**
 - Compared performance, scalability, cost, and reliability
 - Evaluated real-world use cases for each topology
