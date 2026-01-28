@@ -10,6 +10,8 @@ These assessments demonstrate my understanding of **media relations, strategic c
 
 ### 📰 Mock Media Conference – Benefit Cosmetics
 - 📄 **[Media Conference Script & Role Play](./Mock%20Media%20Conference.docx)**
+- 📄 **[Mock Media Conference – Script & Role Play](./Mock_Media_Conference.pdf)**
+
 - 📄 **[Reflection on the Media Conference](./Reflecting_on_the_Media_Conference.pdf)**
   
 
