@@ -128,7 +128,7 @@ The unit focuses on applying Engineering management principles to real-world pro
 
 ---
 
- 📰9️⃣ [Public Relations Projects](./Public%20Relation/)
+ 📌9️⃣ [Public Relations Projects](./Public%20Relation/)
 
 A selected portfolio of  demonstrating practical experience in **media relations, strategic communication, ethical PR, and campaign analysis** through real-world case studies and simulations.
 
@@ -167,7 +167,6 @@ A selected portfolio of  demonstrating practical experience in **media relations
 🔌
 📜
 📚
-📌
 📋
 💻 
 - Technical presentations
