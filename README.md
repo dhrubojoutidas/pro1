@@ -2,10 +2,9 @@
 
 IT Support Technician | IT Support Intern | Embeded system | Cyber Security | Windows/Linux environments |Cisco | scripting 
 
+
 📍 Cannington, WA 
-
 📞 0481 576 404
-
 ✉️ dhrubod513@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
@@ -15,30 +14,26 @@ IT Support Technician | IT Support Intern | Embeded system | Cyber Security | Wi
 
 ---
 
+##  🎓 About This Repository
 
-### 🎓 About This Portfolio ###
+This repository is a **portfolio of academic projects and practical assignments** completed during my **Diploma of IT (Curtin College)** and **Bachelor of Technology in Computer Systems & Networking (Curtin University)**.
 
-This repository contains all  assignments, labs, and projects completed during my Diploma (Curtin College) and Bachelor of Technology in Computer Systems & Networking (Curtin University).
-
-It demonstrates hands-on experience in:
-
-
-
+It showcases hands-on experience across **networking, systems administration, databases, programming, embedded systems, and professional practice**, developed through real coursework and projects
 
 ---
  ### 🚀 Highlighted Projects
 
  🛜 1️⃣ [IOT  Accident Detection System  ](./CTP_1/README.md)
-
-- Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
+👉 Arduino MKR WiFi 1010 + sensors (MPU6050, GPS, SW-420, MQ-2/3, DHT11)  
 - Firebase Cloud Functions + Twilio API for SMS alerts  
 - Real-time dashboard with Chart.js  
 - Sensor fusion + false-positive reduction logic  
 
 ---
 
-The project demonstrates practical experience in network design, routing, VLAN implementation, IP addressing, and network simulation using Cisco Packet Tracer, aligned with real-world enterprise networking concepts.
+📡 **Networking Project (Cisco Packet Tracer)**   
 
+👉 The project demonstrates practical experience in network design, routing, VLAN implementation, IP addressing, and network simulation using Cisco Packet Tracer, aligned with real-world enterprise networking concepts.
 
 ---
 
@@ -69,14 +64,14 @@ A complete analysis and planning project for an airline reservation and seat-man
 ---
 
 
- 🏅4️⃣[SQL Olympic Games Analysis](./Olympic_Games_Database_System/README.md)
+ 🏅4️⃣[Olympic Games Analysis SQL ](./Olympic_Games_Database_System/README.md)
  
-- A project using **MySQL and Python** to model, query, and analyse Olympic Games data, including advanced SQL features and application-level integration.
+👉 A project using **MySQL and Python** to model, query, and analyse Olympic Games data, including advanced SQL features and application-level integration.
 - The system models real-world data from the Olympic Games, including athletes, teams, events, schedules, coaches, and medal results
 
+- 🗄️ 
  ---
 
- 
 
   
 📚 5️⃣ [Indigenous Science and STEM – Essay Writing](<Indigenous_Science_&_ STEM/Readme.md>)
@@ -117,7 +112,7 @@ This project shows that I can:
 
 📂 8️⃣ [Engineering Management & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
   
-The unit focuses on applying Engineering management principles to real-world projects, including  project planning, sustainability, teamwork, and professional documentation.
+👉The unit focuses on applying Engineering management principles to real-world projects, including  project planning, sustainability, teamwork, and professional documentation.
 
  It demonstrates readiness for roles involving:
  - Sustainable engineering decision-making  
@@ -125,12 +120,11 @@ The unit focuses on applying Engineering management principles to real-world pro
  - Structured problem-solving and planning  
  - Critical evaluation and professional feedback  
 
-
 ---
 
  📌9️⃣ [Public Relations Projects](./Public%20Relation/)
 
-A selected portfolio of  demonstrating practical experience in **media relations, strategic communication, ethical PR, and campaign analysis** through real-world case studies and simulations.
+ 👉A selected portfolio of  demonstrating practical experience in **media relations, strategic communication, ethical PR, and campaign analysis** through real-world case studies and simulations.
 
 
 **Key projects include:**
@@ -139,8 +133,6 @@ A selected portfolio of  demonstrating practical experience in **media relations
 - *Kids Online Safety Campaign Analysis*
 
 ---
-
-
 
 
  🎮 🔟  Tank Shooter Game (C)  
@@ -257,48 +249,6 @@ A selected portfolio of  demonstrating practical experience in **media relations
 Weekdays – Part-time  
 Weekends – Fully Available  
 
----
-
-# 👨‍💻 Dhrubo Jouti Das
-
-Graduate IT & Systems Portfolio  
-**Networking | IT Support | SQL & Python | Embedded Systems | Cybersecurity**
-
-📍 Cannington, WA  
-📧 dhrubod513@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
-
----
-
-## 📂 About This Repository
-
-This repository is a **portfolio of academic projects and practical assignments** completed during my **Diploma of IT (Curtin College)** and **Bachelor of Technology in Computer Systems & Networking (Curtin University)**.
-
-It showcases hands-on experience across **networking, systems administration, databases, programming, embedded systems, and professional practice**, developed through real coursework and projects.
-
----
-
-## 🚀 Featured Projects
-
-- 🛜 **IoT Accident Detection System**  
-  Arduino-based system with cloud integration and real-time alerts  
-  👉 `CTP_1/`
-
-- 🗄️ **Olympic Games Database System (SQL & Python)**  
-  Relational database design, advanced SQL queries, and Python integration  
-  👉 `Olympic_Games_Database_System/`
-
-- 📡 **Networking Project (Cisco Packet Tracer)**  
-  VLANs, routing, subnetting, and enterprise LAN design  
-  👉 `Networking Project/`
-
-- 🧠 **Engineering Management & Professional Practice**  
-  Project planning, sustainability, teamwork, and documentation  
-  👉 `Engineering_Management_&_Professional_Practice/`
-
-- 📰 **Public Relations Projects**  
-  Media relations, crisis communication, and campaign analysis  
-  👉 `Public Relation/`
 
 ---
 
@@ -311,9 +261,7 @@ It showcases hands-on experience across **networking, systems administration, da
 - Embedded & IoT: Arduino, MSP430
 - Documentation & Communication
 
----
 
-📌 *Each folder contains its own README with project details, files, and setup instructions.*
 
 
 
