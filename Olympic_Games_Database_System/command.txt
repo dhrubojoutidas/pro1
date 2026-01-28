@@ -1,0 +1,107 @@
+
+-- command.txt --- this is the file that stores all the comannds to exceture the program
+
+
+
+--  to connect the MYSQL serVER
+
+
+-- SET GLOBAL local_infile =1;
+
+-- SHOW GLOBAL VARIABLES LIKE  'local_infile';
+
+-- setp1 :
+  mysql -V
+
+
+-- step2 :  as i got some error when laoding the data. so using this one
+
+mysql --local-infile=1 -u dsuser -p
+
+-- password : userCreateSQL
+
+
+
+ -- step3 :
+show databases;
+
+
+ -- step 4: 
+ 
+CREATE DATABASE IF NOT EXISTS  Olympic_Game_2024_22663281;
+
+-- password: userCreateSQL
+
+
+-- step 5 :
+
+ 
+show databases; 
+
+-- step 6 :
+ use Olympic_Game_2024_22663281;
+ 
+ 
+ 
+ -- DROP DATABASE Olympic_Game_2024_22663281 ;
+
+
+
+
+   
+ -- to craete the tables    
+\. CreateTable.sql
+
+-- to laod the data
+\. LoadData.sql
+
+-- to perfrm the simple queries
+\. Query.sql
+
+-- to perform the avdbnace queies
+\. advanceQuery.sql
+
+-- to delete ALL table, procesure, VIEWS 
+\. DeleteTable.sql
+
+
+
+
+
+/*
+
+-- files i have for connecting PYTHON to MYSQL SERVER 
+  
+  python3 eventdata.py
+  python3 scheduleData.py  
+  python3  pythonConnect.py
+  python3 insert.py 
+ 
+  
+     
+
+
+      
+ --- to connect python
+-- setp1 :
+ mysql -V
+
+
+ 
+-- setp2 :
+ pip3 install mysql-connector-python
+ 
+
+-- step3 : 
+python3 pythonConnect.py
+
+
+-- step4 : now insert other 2 file eventdata.py and scheduledata.py like this
+
+python3 eventdata.py
+python3 scheduleData.py
+python3 insert.py 
+ 
+ 
+ 
+*/
