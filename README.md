@@ -77,6 +77,14 @@ A complete analysis and planning project for an airline reservation and seat-man
 - ✅ Version control with GitHub
 
 ---
+
+---
+This project was completed as part of a Database Systems unit at Curtin University and demonstrates the design, implementation, and use of a relational database, integrated with Python for dynamic data access.
+
+The system models real-world data from the Olympic Games, including athletes, teams, events, schedules, coaches, and medal results.
+
+---
+
   
 📚 [Indigenous Science and STEM – Essay Writing](<Indigenous_Science_&_ STEM/Readme.md>)
 
