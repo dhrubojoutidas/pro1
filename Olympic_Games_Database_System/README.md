@@ -50,14 +50,10 @@ An ER diagram is included to illustrate the database structure and relationships
 *This project reflects my ability to design and implement a complete database system and integrate it with application-level code.*
 
 
-Perfect — this is exactly what recruiters and markers like 👍
-I’ll turn your **`command.txt`** into a **clean, readable README section**, and also show how to make it **clickable**.
-
-Below is a **short, professional “How to Run / Use” section** you can paste into your **project `README.md`**, plus a link to the command file.
 
 ---
 
-## ✅ Add this to your **project README.md**
+ ✅  Command.txt file 
 
 ````md
 ## ▶️ How to Run the Project (SQL & Python)
@@ -152,28 +148,5 @@ python3 insert.py
 
 ```
 
----
 
-## 🔗 Why this is good for recruiters
-- Clear **step-by-step flow**
-- Shows **SQL + Python integration**
-- Demonstrates you can **document how to run a system**
-- They can click **command.txt** if they want details
-- Not too long, not too technical
-
----
-
-## 📎 About the source of commands
-All steps above are directly taken and cleaned from your `command.txt` file :contentReference[oaicite:0]{index=0}.
-
----
-
-### ⭐ Optional improvements (recommended)
-If you want to make this **even more professional**, I can:
-- rewrite `command.txt` into a **cleaned `SETUP.md`**
-- add a **“Quick Start” (3 commands only)** section
-- tailor wording for **data / backend / IT roles**
-
-Just tell me 👍
-```
 
