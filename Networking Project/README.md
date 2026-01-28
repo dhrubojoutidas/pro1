@@ -22,6 +22,8 @@ The assignment was completed in **three stages**, progressing from basic concept
 - Configured **RIP (Routing Information Protocol)** across three routers
 - Enabled communication between multiple LANs
 - Analysed routing behaviour and limitations of RIP
+  <img width="1056" height="668" alt="image" src="https://github.com/user-attachments/assets/7445a301-3411-4b92-b8f1-2210f0c9e783" />
+
 
 ### 🔹 Stage 3 – Enterprise LAN Design (Main Project)
 - Designed a **hierarchical LAN** for an academic building
