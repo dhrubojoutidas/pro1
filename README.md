@@ -74,7 +74,7 @@ It showcases hands-on experience across **networking, systems administration, da
 ### 📢 Communication & Public Relations
 -  [Projects demonstrating crisis communication, media strategy, ethical PR, and campaign analysis through real-world simulations.](./Public%20Relation/)
 
-s---
+---
 
 
  🎮 🔟  Tank Shooter Game (C)  
