@@ -64,7 +64,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
 
 ### 🧠 Indigenous Science & STEM
-- [Research-based essays that integrate Indigenous knowledge with modern STEM to address healthcare access and digital inequality.](<Indigenous_Science_&_ STEM/Readme.md>)
+ [Research-based essays that integrate Indigenous knowledge with modern STEM to address healthcare access and digital inequality.](<Indigenous_Science_&_ STEM/Readme.md>)
 
 
 
