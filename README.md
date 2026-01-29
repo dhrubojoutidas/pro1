@@ -116,14 +116,6 @@ It showcases hands-on experience across **networking, systems administration, da
 
 
 
-
-🔌
-📜
-📚
-📋
-💻  🗄️ 
-🧩   4️⃣  ✈️ 
-
 ### 📘 Mathematics & Statistics
 - MATH1019 – Linear Algebra & Statistics for Engineers
 
@@ -138,19 +130,17 @@ It showcases hands-on experience across **networking, systems administration, da
 
  
 ### 🧠 Indigenous Science & STEM
-- Indigenous Science & STEM Essays & Research
--  
-📚 5️⃣ [Indigenous Science and STEM – Essays & Research ](<Indigenous_Science_&_ STEM/Readme.md>)
+- [Indigenous Science and STEM – Essays & Research ](<Indigenous_Science_&_ STEM/Readme.md>)
 
-This project includes:
-- Essays on **Digital Divide** and its impact on Indigenous communities.
-- Argument plans on **Indigenous medicinal knowledge** and its integration with modern science.
-- Scientific essays demonstrating structured academic writing and research skills.
 
-**Skills Highlighted:** Academic writing (TEEL), source evaluation (CRAAP), APA 7th referencing, research techniques, and critical thinking.
+📚 5️⃣
 
----
----
+🔌
+📜
+📚
+📋
+💻  🗄️ 
+🧩   4️⃣  ✈️ 
 ## 🛠️ Skills
 
 🌐 Networking  
