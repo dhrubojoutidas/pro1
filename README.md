@@ -147,7 +147,7 @@ This project shows that I can:
 ## 🚀 Highlighted Projects
 
 ### 🛜 IoT & Embedded Systems
-1️⃣ IoT Accident Detection System (Arduino + Cloud)  [view project ]((./CTP_1/README.md)
+1️⃣ IoT Accident Detection System (Arduino + Cloud)  [view project ](./CTP_1/README.md)
 2️⃣ MSP430 Embedded Systems Labs  
 
 ### 📡 Networking & Systems
