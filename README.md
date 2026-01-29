@@ -142,7 +142,40 @@ This project shows that I can:
 💻  🗄️ 
 
 
-  
+
+## 🚀 Key Projects (Selected)
+
+### 🛜 IoT & Embedded Systems
+1️⃣ IoT Accident Detection System (Arduino + Cloud)  
+2️⃣ MSP430 Embedded Systems Labs  
+
+### 📡 Networking & Systems
+3️⃣ Enterprise Network Design (Cisco Packet Tracer)  
+4️⃣ Computer Systems Design & Administration  
+
+### 🧩 Software Engineering
+5️⃣ SkyFly Airline Reservation System  
+6️⃣ Software Engineering Project 2 – Testing & Agile  
+
+---
+
+## 📚 Academic Units & Coursework Projects
+
+### 🏅 Databases & Data Analysis
+- Olympic Games Database System (SQL + Python)
+
+### 📘 Mathematics & Statistics
+- MATH1019 – Linear Algebra & Statistics for Engineers
+
+### 📖 Engineering & Professional Practice
+- Engineering Management & Professional Practice
+
+### 🧠 Indigenous Science & STEM
+- Indigenous Science & STEM Essays & Research
+
+### 📢 Communication & Public Relations
+- Public Relations Projects
+
 ---
 ## 🛠️ Skills
 
