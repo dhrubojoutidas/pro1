@@ -35,7 +35,12 @@ Real-time accident detection using sensors, cloud integration, and alert notific
 Network design featuring routing, VLANimplementation, IP addressing, and enterprise-grade simulation.  
 
 
- ✈️2️⃣ [SkyFly Airline Reservation System – Requirement Analysis & Project Planningincluding (WBS,AON network diagram & task dependencies,* Critical Path Method (CPM) with ES/EF/LS/LF/slack,PERT estimation ,UML use case ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+ ✈️ 3️⃣ [SkyFly Airline Reservation System (Software Engineering)](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+ 
+Requirement analysis and project planning including WBS, CPM, PERT, and UML use cases. 
+Requirement Analysis & Project Planningincluding (WBS,AON network diagram & task dependencies,* Critical Path Method (CPM) with ES/EF/LS/LF/slack,PERT estimation ,UML use case 
+
+
  
 
  🖥️3️⃣ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
