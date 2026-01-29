@@ -67,11 +67,15 @@ It showcases hands-on experience across **networking, systems administration, da
 
 - [Sustainable engineering projects including reclaimed-wood product planning and professional documentation.](./Engineering_Management%20_%26_Professional_Practice/README.md)
 
-### 📢 Communication & Public Relations
--  [Projects demonstrating crisis communication, media strategy, ethical PR, and campaign analysis through real-world simulations.](./Public%20Relation/)
 
 ### 🧠 Indigenous Science & STEM
 - [Research-based essays that integrate Indigenous knowledge with modern STEM to address healthcare access and digital inequality.](<Indigenous_Science_&_ STEM/Readme.md>)
+  
+
+### 📢 Communication & Public Relations
+-  [Projects demonstrating crisis communication, media strategy, ethical PR, and campaign analysis through real-world simulations.](./Public%20Relation/)
+
+
 
 
 ---
