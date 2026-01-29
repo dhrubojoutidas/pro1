@@ -20,31 +20,7 @@ This repository is a **portfolio of academic projects and practical assignments*
 
 It showcases hands-on experience across **networking, systems administration, databases, programming, embedded systems, and professional practice**, developed through real coursework and projects
 
----
-
-📘6️⃣ [MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
-
-- Applied **linear algebra** and **statistics** to solve engineering problems
-- Featured project: **Origami & Statistics**
-  - Measured origami squares and collected real-world data
-  - Built histograms, box plots, and performed hypothesis testing
-  - Confidence intervals and statistical analysis
   
----
-
-  
----
-
-📂 8️⃣ [Engineering Management & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
-  
-👉The unit focuses on applying Engineering management principles to real-world projects, including  project planning, sustainability, teamwork, and professional documentation.
-
- It demonstrates readiness for roles involving:
- - Sustainable engineering decision-making  
- - Technical and professional communication  
- - Structured problem-solving and planning  
- - Critical evaluation and professional feedback  
-
 ---
 
  📌9️⃣ [Public Relations Projects](./Public%20Relation/)
@@ -73,14 +49,6 @@ It showcases hands-on experience across **networking, systems administration, da
 - Calculations  
 
 
-- Networking (Cisco, VLANs, Routing, DHCP, NAT)
-- System Administration (Windows Server, Linux)
-- Cybersecurity (CyberOps, SIEM, Threat Detection)
-- Embedded Systems & IoT
-- Data Analysis & Automation
-- Circuit designs  
-
-
 
 
 ## 🚀 Highlighted Projects
@@ -100,8 +68,6 @@ It showcases hands-on experience across **networking, systems administration, da
 4️⃣ [Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
 
 
-
-
 ###  🖥️ Software Engineering
 5️⃣ [SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
@@ -117,10 +83,16 @@ It showcases hands-on experience across **networking, systems administration, da
 
 
 ### 📘 Mathematics & Statistics
-- MATH1019 – Linear Algebra & Statistics for Engineers
+
+- [MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
+
+
 
 ### 📖 Engineering & Professional Practice
-- Engineering Management & Professional Practice
+
+- [Showcases sustainable engineering projects, including reclaimed-wood product planning and professional project documentation](./Engineering_Management%20_%26_Professional_Practice/README.md)
+
+
 
 
 ### 📢 Communication & Public Relations
@@ -137,9 +109,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
 🔌
 📜
-📚
-📋
-💻  🗄️ 
+📋 🗄️ 
 🧩   4️⃣  ✈️ 
 ## 🛠️ Skills
 
@@ -235,8 +205,11 @@ Weekends – Fully Available
 - Databases: SQL, MySQL
 - Programming: Python, C, Bash
 - Embedded & IoT: Arduino, MSP430
+- Cybersecurity: (CyberOps, SIEM, Threat Detection)
 - Documentation & Communication
-
+- Data Analysis & Automation
+- Circuit designs  
+  
 
 
 
