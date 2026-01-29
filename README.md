@@ -54,11 +54,8 @@ It showcases hands-on experience across **networking, systems administration, da
  
 ---
 
-### 📘 Mathematics & Statistics
+## 📚 Research, Reports & Academic Documentation
 
-- [MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
-
----
 
 ### 📖 Engineering & Professional Practice
 
@@ -75,7 +72,11 @@ It showcases hands-on experience across **networking, systems administration, da
 -  [Projects demonstrating crisis communication, media strategy, ethical PR, and campaign analysis through real-world simulations.](./Public%20Relation/)
 
 ---
+### 📘 Mathematics & Statistics
 
+- [MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
+
+---
 
  🎮 🔟  Tank Shooter Game (C)  
 - 2D shooter  
