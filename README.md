@@ -130,7 +130,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
  
 ### 🧠 Indigenous Science & STEM
-- [Indigenous Science and STEM – Essays & Research ](<Indigenous_Science_&_ STEM/Readme.md>)
+- [S](<Indigenous_Science_&_ STEM/Readme.md>)
 
 
 📚 5️⃣
