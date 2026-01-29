@@ -26,17 +26,17 @@ It showcases hands-on experience across **networking, systems administration, da
 
  🛜  1️⃣ [IOT Arduino-based system Accident Detection System (cloud +Arduino) ](./CTP_1/README.md)
 
-        👉Real-time accident detection using sensors, cloud integration, and alert notifications.
+        Real-time accident detection using sensors, cloud integration, and alert notifications.
 
 
 📡  2️⃣ [Enterprise Network Design & Simulation (Cisco Packet Tracer)](./Networking%20Project)
 
-      👉Network design featuring routing, VLANimplementation, IP addressing, and enterprise-grade simulation.  
+      Network design featuring routing, VLANimplementation, IP addressing, and enterprise-grade simulation.  
 
 
 ✈️  3️⃣ [SkyFly Airline Reservation System (Software Engineering)](./Software_Engineering_Project/Excercise_1_Folder/README.md)
  
-    👉Requirement analysis and project planning including WBS, CPM with ES/EF/LS/LF/slack , AON network, PERT, and UML use cases. 
+    Requirement analysis and project planning including WBS, CPM with ES/EF/LS/LF/slack , AON network, PERT, and UML use cases. 
 
  
 
