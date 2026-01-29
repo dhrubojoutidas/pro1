@@ -22,9 +22,7 @@ It showcases hands-on experience across **networking, systems administration, da
   
 ---
 
-
 ## 🚀 Highlighted Projects
-
 
 ---
 
@@ -37,7 +35,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
 
 ### 📡 Networking & Systems
-3️⃣ [Enterprise Network Design featuring routing, VLANimplementation, IP addressing (Cisco Packet Tracer)](./Networking%20Project)
+3️⃣ [Enterprise Network Design featuring routing, VLAN implementation, IP addressing (Cisco Packet Tracer)](./Networking%20Project)
 
 4️⃣ [Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
 
@@ -57,7 +55,6 @@ It showcases hands-on experience across **networking, systems administration, da
  
 ---
 
-
 ### 📘 Mathematics & Statistics
 
 - [MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
@@ -67,8 +64,6 @@ It showcases hands-on experience across **networking, systems administration, da
 ### 📖 Engineering & Professional Practice
 
 - [Showcases sustainable engineering projects, including reclaimed-wood product planning and professional project documentation](./Engineering_Management%20_%26_Professional_Practice/README.md)
-
-
 
 
 ### 📢 Communication & Public Relations
@@ -97,12 +92,8 @@ It showcases hands-on experience across **networking, systems administration, da
 - Calculations  
 
 
-📚 5️⃣
-📌9️⃣
-🔌
-📜
-📋 🗄️ 
-🧩   4️⃣  ✈️ 
+📚 5️⃣📌9️⃣🔌📜📋 🗄️🧩   4️⃣  ✈️ 
+
 ## 🛠️ Skills
 
 🌐 Networking  
