@@ -21,20 +21,6 @@ This repository is a **portfolio of academic projects and practical assignments*
 It showcases hands-on experience across **networking, systems administration, databases, programming, embedded systems, and professional practice**, developed through real coursework and projects
 
   
----
-
-
- 🎮 🔟  Tank Shooter Game (C)  
-- 2D shooter  
-- Collision detection  
-- Game loop logic  
-
-
-
- 🐍 Python Automation  
-- File handling  
-- Data processing  
-- Calculations  
 
 
 
@@ -96,6 +82,22 @@ It showcases hands-on experience across **networking, systems administration, da
  
 ### 🧠 Indigenous Science & STEM
 - [Research-based essays that integrate Indigenous knowledge with modern STEM to address healthcare access and digital inequality.](<Indigenous_Science_&_ STEM/Readme.md>)
+
+
+---
+
+
+ 🎮 🔟  Tank Shooter Game (C)  
+- 2D shooter  
+- Collision detection  
+- Game loop logic  
+
+
+
+ 🐍 Python Automation  
+- File handling  
+- Data processing  
+- Calculations  
 
 
 📚 5️⃣
