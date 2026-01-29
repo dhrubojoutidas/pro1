@@ -24,9 +24,9 @@ It showcases hands-on experience across **networking, systems administration, da
 
  ### 🚀 Highlighted Projects
 
- 🛜  1️⃣ [IOT Arduino-based system Accident Detection System with cloud integration and real-time alerts ](./CTP_1/README.md)
+ 🛜  1️⃣ [IOT Arduino-based system Accident Detection System (cloud +Arduino) ](./CTP_1/README.md)
 
-
+Real-time accident detection using sensors, cloud integration, and alert notifications.
 
 ---
 
