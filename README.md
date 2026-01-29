@@ -84,16 +84,8 @@ It showcases hands-on experience across **networking, systems administration, da
 
 
 ### 📢 Communication & Public Relations
--  [Projects demonstrating crisis communication, media strategy, ethical decision-making, and campaign analysis through real-world simulations.](./Public%20Relation/)
+-  [Projects demonstrating crisis communication, media strategy, ethical PR, and campaign analysis through real-world simulations.](./Public%20Relation/)
 
- 👉A selected portfolio of  demonstrating practical experience in **media relations, strategic communication, ethical PR, and campaign analysis** through real-world case studies and simulations.
-
-
-**Key projects include:**
-- *Mock Media Conference* (crisis communication & stakeholder messaging),Benefit Cosmetics – Animal Cruelty Media Relations Strategy,Kids Online Safety Campaign Analysis
-
-
----
 
 
  
