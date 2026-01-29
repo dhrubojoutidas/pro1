@@ -36,18 +36,14 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ✈️  3️⃣ [SkyFly Airline Reservation System (Software Engineering)](./Software_Engineering_Project/Excercise_1_Folder/README.md)
  
-    Requirement analysis and project planning including WBS, CPM with ES/EF/LS/LF/slack , AON network, PERT, and UML use cases. 
-
- 
+   Requirement analysis and project planning including WBS, CPM with ES/EF/LS/LF/slack , AON network, PERT, and UML use cases. 
 
  🖥️  4️⃣  [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
  
-      ✅ Includes Agile project planning & task breakdown ,Modular Python design ,Unit testing (PyTest), Documentation & reporting , Version control with GitHub
-
----
+   Includes Agile project planning & task breakdown ,Modular Python design ,Unit testing (PyTest), Documentation & reporting , Version control with GitHub
 
 
- 🏅4️⃣[Olympic Games Analysis SQL ](./Olympic_Games_Database_System/README.md)
+🏅 5️⃣ [Olympic Games Analysis SQL ](./Olympic_Games_Database_System/README.md)
  
 👉 A project using **MySQL and Python** to model, query, and analyse Olympic Games data, including advanced SQL features and application-level integration.
 - The system models real-world data from the Olympic Games, including athletes, teams, events, schedules, coaches, and medal results
