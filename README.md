@@ -131,9 +131,11 @@ This project includes:
 ## 🚀 Highlighted Projects
 
 ### 🛜 IoT & Embedded Systems
-1️⃣ IoT Accident Detection System (Arduino + Cloud)  [view project ](./CTP_1/README.md)
+1️⃣  [view project IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 
 
 2️⃣ MSP430 Embedded Systems Labs  
+
+
 
 ### 📡 Networking & Systems
 3️⃣ Enterprise Network Design featuring routing, VLANimplementation, IP addressing (Cisco Packet Tracer)  [view project ](./Networking%20Project)
