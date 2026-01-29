@@ -24,10 +24,6 @@ It showcases hands-on experience across **networking, systems administration, da
 
 
 
-📡  2️⃣ [Enterprise Network Design & Simulation (Cisco Packet Tracer)](./Networking%20Project)
-
-   Network design featuring routing, VLANimplementation, IP addressing, and enterprise-grade simulation.  
-
 
 ✈️  3️⃣ [SkyFly Airline Reservation System (Software Engineering)](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
@@ -70,18 +66,7 @@ This project includes:
   
 ---
 
-🎯7️⃣ [Computer System ](./Computer_system200_Unit/README.md) 
-
-
-Includes:
-
-This project shows that I can:
-
-- Analyse a business and understand its operational needs  
-- Translate those needs into technical requirements  
-- Design a secure, scalable IT system  
-- Document technical decisions clearly and professionally  
-- Apply system administration concepts in a practical scenario  
+  
 ---
 
 📂 8️⃣ [Engineering Management & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
@@ -140,19 +125,33 @@ This project shows that I can:
 
 
 
- 🛜  1️⃣ [IOT Arduino-based system Accident Detection System (cloud +Arduino) ](./CTP_1/README.md)
 
-   Real-time accident detection using sensors, cloud integration, and alert notifications.
+
 
 ## 🚀 Highlighted Projects
 
 ### 🛜 IoT & Embedded Systems
 1️⃣ IoT Accident Detection System (Arduino + Cloud)  [view project ](./CTP_1/README.md)
+
 2️⃣ MSP430 Embedded Systems Labs  
 
 ### 📡 Networking & Systems
-3️⃣ Enterprise Network Design (Cisco Packet Tracer)  
-4️⃣ Computer Systems Design & Administration  
+3️⃣ Enterprise Network Design featuring routing, VLANimplementation, IP addressing (Cisco Packet Tracer)  [view project ](./Networking%20Project)
+
+4️⃣ Computer Systems Design & Administration   [view project ](./Computer_system200_Unit/README.md)
+
+7️⃣
+
+
+Includes:
+
+This project shows that I can:
+
+- Analyse a business and understand its operational needs  
+- Translate those needs into technical requirements  
+- Design a secure, scalable IT system  
+- Document technical decisions clearly and professionally  
+- Apply system administration concepts in a practical scenario
 
 ### 🧩 Software Engineering
 5️⃣ SkyFly Airline Reservation System  
