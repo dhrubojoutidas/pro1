@@ -33,13 +33,11 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ---
 
-
 ### 📡 Networking & Systems
 
 3️⃣ [Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
 
 4️⃣ [Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
-
 
 ---
 
@@ -49,7 +47,6 @@ It showcases hands-on experience across **networking, systems administration, da
 6️⃣ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
 ---
-
 
 ### 🏅 Databases & Data Analysis
 
@@ -61,24 +58,23 @@ It showcases hands-on experience across **networking, systems administration, da
 
 - [MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
 
-
+---
 
 ### 📖 Engineering & Professional Practice
 
 - [Sustainable engineering projects including reclaimed-wood product planning and professional documentation.](./Engineering_Management%20_%26_Professional_Practice/README.md)
 
+---
 
 ### 🧠 Indigenous Science & STEM
 - [Research-based essays that integrate Indigenous knowledge with modern STEM to address healthcare access and digital inequality.](<Indigenous_Science_&_ STEM/Readme.md>)
-  
+
+---
 
 ### 📢 Communication & Public Relations
 -  [Projects demonstrating crisis communication, media strategy, ethical PR, and campaign analysis through real-world simulations.](./Public%20Relation/)
 
-
-
-
----
+s---
 
 
  🎮 🔟  Tank Shooter Game (C)  
