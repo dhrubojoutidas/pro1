@@ -19,13 +19,12 @@ IT Support Technician | Networking & Systems |  IoT & Embedded Systems  | Cisco 
 This repository is a **portfolio of academic projects and practical assignments** completed during my **Diploma of IT (Curtin College)** and **Bachelor of Technology in Computer Systems & Networking (Curtin University)**.
 
 It showcases hands-on experience across **networking, systems administration, databases, programming, embedded systems, and professional practice**, developed through real coursework and projects
-
   
-
-
+---
 
 
 ## 🚀 Highlighted Projects
+
 
 ---
 
@@ -42,14 +41,12 @@ It showcases hands-on experience across **networking, systems administration, da
 
 4️⃣ [Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
 
-
 ---
 
 ###  🖥️ Software Engineering
 5️⃣ [SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
 6️⃣ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
-
 
 ---
 
@@ -58,7 +55,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
 7️⃣ [Olympic Games Analysisusing  SQLand Python ](./Olympic_Games_Database_System/README.md)
  
-
+---
 
 
 ### 📘 Mathematics & Statistics
