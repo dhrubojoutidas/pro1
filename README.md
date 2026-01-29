@@ -51,7 +51,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ### 🏅 Databases & Data Analysis
 
-7️⃣ [Olympic Games Analysisusing  SQLand Python ](./Olympic_Games_Database_System/README.md)
+7️⃣ [Olympic Games Analysis  using  SQLand Python ](./Olympic_Games_Database_System/README.md)
  
 ---
 
