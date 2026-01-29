@@ -32,12 +32,10 @@ It showcases hands-on experience across **networking, systems administration, da
 
 📡 2️⃣ [**Project  in network design, routing, VLAN implementation, IP addressing, and network simulation using Cisco Packet Tracer, aligned with real-world enterprise networking concepts.** ](./Networking%20Project)
 
----
 
 
  ✈️2️⃣ [SkyFly Airline Reservation System – Requirement Analysis & Project Planningincluding (WBS,AON network diagram & task dependencies,* Critical Path Method (CPM) with ES/EF/LS/LF/slack,PERT estimation ,UML use case ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
  
----
 
  🖥️3️⃣ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 - ✅ Agile project planning & task breakdown  
