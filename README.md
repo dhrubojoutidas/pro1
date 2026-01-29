@@ -56,16 +56,13 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ## 📚 Research, Reports & Academic Documentation
 
-
 ### 📖 Engineering & Professional Practice
 
   [Sustainable engineering projects including reclaimed-wood product planning and professional documentation.](./Engineering_Management%20_%26_Professional_Practice/README.md)
 
 
-
 ### 🧠 Indigenous Science & STEM
   [Research-based essays that integrate Indigenous knowledge with modern STEM to address healthcare access and digital inequality.](<Indigenous_Science_&_ STEM/Readme.md>)
-
 
 
 ### 📢 Communication & Public Relations
@@ -91,7 +88,7 @@ It showcases hands-on experience across **networking, systems administration, da
 - Calculations  
 
 
-📚 5️⃣📌9️⃣🔌📜📋 🗄️🧩   4️⃣  ✈️ 
+ 5️⃣📌9️⃣🔌📜📋 🗄️🧩   4️⃣  ✈️ 
 
 ## 🛠️ Skills
 
