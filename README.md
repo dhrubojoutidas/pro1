@@ -22,11 +22,6 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ---
 
- ### 🚀 Highlighted Projects
-
- 🛜  1️⃣ [IOT Arduino-based system Accident Detection System (cloud +Arduino) ](./CTP_1/README.md)
-
-   Real-time accident detection using sensors, cloud integration, and alert notifications.
 
 
 📡  2️⃣ [Enterprise Network Design & Simulation (Cisco Packet Tracer)](./Networking%20Project)
@@ -142,6 +137,12 @@ This project shows that I can:
 💻  🗄️ 
 
 
+
+ ### 🚀 Highlighted Projects
+
+ 🛜  1️⃣ [IOT Arduino-based system Accident Detection System (cloud +Arduino) ](./CTP_1/README.md)
+
+   Real-time accident detection using sensors, cloud integration, and alert notifications.
 
 ## 🚀 Key Projects (Selected)
 
