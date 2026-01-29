@@ -138,16 +138,16 @@ This project shows that I can:
 
 
 
- ### 🚀 Highlighted Projects
+
 
  🛜  1️⃣ [IOT Arduino-based system Accident Detection System (cloud +Arduino) ](./CTP_1/README.md)
 
    Real-time accident detection using sensors, cloud integration, and alert notifications.
 
-## 🚀 Key Projects (Selected)
+## 🚀 Highlighted Projects
 
 ### 🛜 IoT & Embedded Systems
-1️⃣ IoT Accident Detection System (Arduino + Cloud)  
+1️⃣ IoT Accident Detection System (Arduino + Cloud)  [view project ]((./CTP_1/README.md)
 2️⃣ MSP430 Embedded Systems Labs  
 
 ### 📡 Networking & Systems
