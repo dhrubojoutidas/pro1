@@ -48,6 +48,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
 2️⃣ MSP430 Embedded Systems Labs  
 
+---
 
 
 ### 📡 Networking & Systems
@@ -56,11 +57,15 @@ It showcases hands-on experience across **networking, systems administration, da
 4️⃣ [Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
 
 
+---
+
 ###  🖥️ Software Engineering
 5️⃣ [SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
 6️⃣ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
+
+---
 
 
 ### 🏅 Databases & Data Analysis
