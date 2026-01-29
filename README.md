@@ -129,30 +129,16 @@ This project includes:
 7️⃣
 
 
-Includes:
 
-This project shows that I can:
 
-- Analyse a business and understand its operational needs  
-- Translate those needs into technical requirements  
-- Design a secure, scalable IT system  
-- Document technical decisions clearly and professionally  
-- Apply system administration concepts in a practical scenario
-
-### 🧩 Software Engineering
+###  🖥️ Software Engineering
 5️⃣ [SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+
 6️⃣ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
 
 
- 🖥️  4️⃣  
-
-
-
-
-
-
-✈️ 
+🧩   4️⃣  ✈️ 
 
 ## 📚 Academic Units & Coursework Projects
 
