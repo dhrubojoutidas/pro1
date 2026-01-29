@@ -124,7 +124,8 @@ This project strengthened my skills in:
 - Network services  
 - Disaster recovery planning  
 - IT infrastructure design  
-- Technical writing and documentation  
+- Technical writing and documentation
+
 
 ---
 
