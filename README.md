@@ -181,18 +181,7 @@ Weekends – Fully Available
 
 ---
 
-## 🛠️ Core Skills
 
-- Networking: VLANs, Routing, DHCP, NAT (Cisco)
-- Systems: Windows Server, Linux
-- Databases: SQL, MySQL
-- Programming: Python, C, Bash
-- Embedded & IoT: Arduino, MSP430
-- Cybersecurity: (CyberOps, SIEM, Threat Detection)
-- Documentation & Communication
-- Data Analysis & Automation
-- Circuit designs  
-  
 
 
 
