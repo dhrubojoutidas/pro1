@@ -25,15 +25,6 @@ It showcases hands-on experience across **networking, systems administration, da
 
 
 
-✈️  3️⃣ [SkyFly Airline Reservation System (Software Engineering)](./Software_Engineering_Project/Excercise_1_Folder/README.md)
-
-   Requirement analysis and project planning using WBS, CPM, PERT, AON diagrams, and UML use cases.
-
-
- 🖥️  4️⃣  [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
- 
-   Includes Agile project planning & task breakdown ,Modular Python design ,Unit testing (PyTest), Documentation & reporting , Version control with GitHub
-
 
 🏅 5️⃣ [Olympic Games Analysis SQL ](./Olympic_Games_Database_System/README.md)
  
@@ -121,13 +112,6 @@ This project includes:
 📋
 💻  🗄️ 
 
-
-
-
-
-
-
-
 ## 🚀 Highlighted Projects
 
 ### 🛜 IoT & Embedded Systems
@@ -156,10 +140,19 @@ This project shows that I can:
 - Apply system administration concepts in a practical scenario
 
 ### 🧩 Software Engineering
-5️⃣ SkyFly Airline Reservation System  
-6️⃣ Software Engineering Project 2 – Testing & Agile  
+5️⃣ [SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+6️⃣ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
----
+
+
+ 🖥️  4️⃣  
+
+
+
+
+
+
+✈️ 
 
 ## 📚 Academic Units & Coursework Projects
 
