@@ -21,36 +21,22 @@ This repository is a **portfolio of academic projects and practical assignments*
 It showcases hands-on experience across **networking, systems administration, databases, programming, embedded systems, and professional practice**, developed through real coursework and projects
 
 ---
+
  ### 🚀 Highlighted Projects
 
-👉 1️⃣🛜[IOT Arduino-based system Accident Detection System with cloud integration and real-time alerts ](./CTP_1/README.md)
+ 🛜  1️⃣ [IOT Arduino-based system Accident Detection System with cloud integration and real-time alerts ](./CTP_1/README.md)
 
 
 
 ---
 
-👉2️⃣📡 [**Project  in network design, routing, VLAN implementation, IP addressing, and network simulation using Cisco Packet Tracer, aligned with real-world enterprise networking concepts.** ](./Networking%20Project)
-
-
-
+📡 2️⃣ [**Project  in network design, routing, VLAN implementation, IP addressing, and network simulation using Cisco Packet Tracer, aligned with real-world enterprise networking concepts.** ](./Networking%20Project)
 
 ---
 
 
- ✈️2️⃣ [SkyFly Airline Reservation System – Requirement Analysis & Project Planning ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
-
-A complete analysis and planning project for an airline reservation and seat-management system, including:
-
-* Work Breakdown Structure (WBS)
-* AON network diagram & task dependencies
-* Critical Path Method (CPM) with ES/EF/LS/LF/slack
-* PERT estimation of project duration
-* Identification of key system actors (passenger, admin, crew, database, payment gateway)
-* 10+ user stories & 4 detailed use cases
-* UML use case diagram
-* Non-functional requirements (usability, performance, reliability)
-* Git branching strategy for structured version control
-  
+ ✈️2️⃣ [SkyFly Airline Reservation System – Requirement Analysis & Project Planningincluding (WBS,AON network diagram & task dependencies,* Critical Path Method (CPM) with ES/EF/LS/LF/slack,PERT estimation ,UML use case ](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+ 
 ---
 
  🖥️3️⃣ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
