@@ -22,31 +22,6 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ---
 
-
-
-
-
-🏅 5️⃣ [Olympic Games Analysis SQL ](./Olympic_Games_Database_System/README.md)
- 
-👉 A project using **MySQL and Python** to model, query, and analyse Olympic Games data, including advanced SQL features and application-level integration.
-- The system models real-world data from the Olympic Games, including athletes, teams, events, schedules, coaches, and medal results
-
- ---
-
-
-  
-📚 5️⃣ [Indigenous Science and STEM – Essay Writing](<Indigenous_Science_&_ STEM/Readme.md>)
-
-This project includes:
-- Essays on **Digital Divide** and its impact on Indigenous communities.
-- Argument plans on **Indigenous medicinal knowledge** and its integration with modern science.
-- Scientific essays demonstrating structured academic writing and research skills.
-
-**Skills Highlighted:** Academic writing (TEEL), source evaluation (CRAAP), APA 7th referencing, research techniques, and critical thinking.
-
----
-
-
 📘6️⃣ [MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
 
 - Applied **linear algebra** and **statistics** to solve engineering problems
@@ -106,13 +81,11 @@ This project includes:
 - Circuit designs  
 
 
-🔌
-📜
-📚
-📋
-💻  🗄️ 
+
 
 ## 🚀 Highlighted Projects
+
+---
 
 ### 🛜 IoT & Embedded Systems
 1️⃣ [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 
@@ -126,8 +99,6 @@ This project includes:
 
 4️⃣ [Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
 
-7️⃣
-
 
 
 
@@ -138,12 +109,20 @@ This project includes:
 
 
 
-🧩   4️⃣  ✈️ 
-
-## 📚 Academic Units & Coursework Projects
-
 ### 🏅 Databases & Data Analysis
-- Olympic Games Database System (SQL + Python)
+
+7️⃣ [Olympic Games Analysisusing  SQLand Python ](./Olympic_Games_Database_System/README.md)
+ 
+
+
+
+
+🔌
+📜
+📚
+📋
+💻  🗄️ 
+🧩   4️⃣  ✈️ 
 
 ### 📘 Mathematics & Statistics
 - MATH1019 – Linear Algebra & Statistics for Engineers
@@ -151,12 +130,26 @@ This project includes:
 ### 📖 Engineering & Professional Practice
 - Engineering Management & Professional Practice
 
-### 🧠 Indigenous Science & STEM
-- Indigenous Science & STEM Essays & Research
 
 ### 📢 Communication & Public Relations
 - Public Relations Projects
 
+
+
+ 
+### 🧠 Indigenous Science & STEM
+- Indigenous Science & STEM Essays & Research
+-  
+📚 5️⃣ [Indigenous Science and STEM – Essays & Research ](<Indigenous_Science_&_ STEM/Readme.md>)
+
+This project includes:
+- Essays on **Digital Divide** and its impact on Indigenous communities.
+- Argument plans on **Indigenous medicinal knowledge** and its integration with modern science.
+- Scientific essays demonstrating structured academic writing and research skills.
+
+**Skills Highlighted:** Academic writing (TEEL), source evaluation (CRAAP), APA 7th referencing, research techniques, and critical thinking.
+
+---
 ---
 ## 🛠️ Skills
 
