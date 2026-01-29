@@ -1,6 +1,6 @@
 # 👨‍💻 Dhrubo Jouti Das 
 
-IT Support Technician | IT Support Intern | Embeded system | Cyber Security | Windows/Linux environments |Cisco | scripting 
+IT Support Technician | Networking & Systems |  IoT & Embedded Systems  | Cisco | Windows & Linux | Python Scripting 
 
 
 📍 Cannington, WA 
@@ -35,8 +35,9 @@ It showcases hands-on experience across **networking, systems administration, da
 
 
 ✈️  3️⃣ [SkyFly Airline Reservation System (Software Engineering)](./Software_Engineering_Project/Excercise_1_Folder/README.md)
- 
-   Requirement analysis and project planning including WBS, CPM with ES/EF/LS/LF/slack , AON network, PERT, and UML use cases. 
+
+   Requirement analysis and project planning using WBS, CPM, PERT, AON diagrams, and UML use cases.
+
 
  🖥️  4️⃣  [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
  
