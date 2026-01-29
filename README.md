@@ -38,8 +38,6 @@ Network design featuring routing, VLANimplementation, IP addressing, and enterpr
  ✈️ 3️⃣ [SkyFly Airline Reservation System (Software Engineering)](./Software_Engineering_Project/Excercise_1_Folder/README.md)
  
 Requirement analysis and project planning including WBS, CPM with ES/EF/LS/LF/slack , AON network, PERT, and UML use cases. 
-Requirement Analysis & Project Planning  including WBS,AON network diagram & task dependencies, Critical Path Method (CPM) with ES/EF/LS/LF/slack,PERT estimation ,UML use case 
-
 
  
 
