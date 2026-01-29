@@ -1,6 +1,6 @@
 # 👨‍💻 Dhrubo Jouti Das 
 
-IT Support Technician | Networking & Systems |  IoT & Embedded Systems  | Cisco | Windows & Linux | Python Scripting 
+IT Support Technician | Networking & Systems |  IoT & Embedded Systems  | Cisco | Windows & Linux 
 
 
 📍 Cannington, WA 
@@ -35,9 +35,11 @@ It showcases hands-on experience across **networking, systems administration, da
 
 
 ### 📡 Networking & Systems
-3️⃣ [Enterprise Network Design featuring routing, VLAN implementation, IP addressing (Cisco Packet Tracer)](./Networking%20Project)
+
+3️⃣ [Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
 
 4️⃣ [Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
+
 
 ---
 
@@ -51,7 +53,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ### 🏅 Databases & Data Analysis
 
-7️⃣ [Olympic Games Analysis  using  SQLand Python ](./Olympic_Games_Database_System/README.md)
+7️⃣ [Olympic Games Analysis  using  SQL and Python ](./Olympic_Games_Database_System/README.md)
  
 ---
 
@@ -63,8 +65,12 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ### 📖 Engineering & Professional Practice
 
-- [Showcases sustainable engineering projects, including reclaimed-wood product planning and professional project documentation](./Engineering_Management%20_%26_Professional_Practice/README.md)
+- [ Sustainable engineering projects including reclaimed-wood product planning and professional documentation.](./Engineering_Management%20_%26_Professional_Practice/README.md)
 
+
+### 📖 Engineering & Professional Practice
+- [Engineering Management & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)  
+  Sustainable engineering projects including reclaimed-wood product planning and professional documentation.
 
 ### 📢 Communication & Public Relations
 -  [Projects demonstrating crisis communication, media strategy, ethical PR, and campaign analysis through real-world simulations.](./Public%20Relation/)
