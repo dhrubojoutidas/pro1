@@ -29,6 +29,11 @@
 - https://www.computer.org/publications/tech-news/trends/synchronous-asynchronous-data-transmission
 - https://youtube.com/shorts/QitKWsHBfCY?
 - SERIAL Vs PARREL : https://www.geeksforgeeks.org/difference-between-serial-and-parallel-transmission/
+- 
+- PCIe -- https://www.geeksforgeeks.org/what-is-pcieperipheral-component-interconnect-express/
+- PCIX    https://www.geeksforgeeks.org/what-is-pcixperipheral-component-interconnect-extended/
+- Peripherals device https://www.geeksforgeeks.org/peripherals-devices-in-computer-organization/
+
  
 
 
