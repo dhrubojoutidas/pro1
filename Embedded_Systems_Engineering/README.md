@@ -24,7 +24,7 @@ The objective was to assess **commercial viability and feasibility** using marke
 - SWOT  (Strengths, weaknesses, opportunities, and threats) analysis supported by academic and industry references
 
 
- ### 2) [Embedded Systems Fundamentals – MSP430 (Energia IDE)](./Embedded_Systems_Engineering/Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)
+ ### 2) [Embedded Systems Fundamentals – MSP430 (Energia IDE)](./Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)
 
 This assignment involved implementing a series of **hands-on embedded system tasks** using the **MSP430FR5739 microcontroller**, focusing on the fundamentals of **firmware development and hardware interaction**.
 
