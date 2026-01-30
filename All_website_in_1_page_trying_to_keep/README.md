@@ -13,17 +13,19 @@
   2.	Branch education yt*
   3.	Series yt *  https://youtu.be/ChR7wS94WoY?si=VW31fp6-RxEqlsWW
   4.	CS explanation:https://youtu.be/CxGSnA-RTsA?si=-BQ2Ll6ISA_SYXK3
-  5.How does Com Hardware Work? https://youtu.be/d86ws7mQYIg?si=-F0keMOWIn20guZS
-2.	COM Works - from silicon to apps   https://youtu.be/5f3NJnvnk7k?si=ug6CmH7xgB6b8vQ-
-3.	How Com Work         https://youtu.be/QZwneRb-zqA?si=n75T0eDnWtr-23C_
-4.	CRAFTING A CPU TO RUN PROGRAMS https://youtu.be/GYlNoAMBY6o?si=FFBIQ1AYxn3rlKoB
-5.	HOW TRANSISTORS RUN CODE?   https://youtu.be/HjneAhCy2N4?si=e_03Rxm4lNCZiske
-6.	ClocksTellsCPUtoMoveForward https://youtu.be/PVNAPWUxZ0g?si=titFRBTFa4YQI-Br https://youtu.be/dV_lf1kyV9M?si=f_qpI6PS2pPqPElN
-7.	how com r made in factory https://youtu.be/O9vO_CVNXlg?si=mzE00hNCbElm1OQq
-8.	Comp Basics: Inside a Com https://youtu.be/HB4I2CgkcCo?si=AD3i5huzAwO75yOX
-9.	Motherboards Explained***   https://youtu.be/b2pd3Y6aBag?si=mjVGKclHcg5kB1w8
-10.	Every OS explanation  https://youtu.be/kK7L2ISGucM?si=BXjgYeZt5raCe6g8
-11.	 Simulating 256 Bytes of RAM  https://youtu.be/HGkuRp5HfH8?si=Ui4YyIZyZUb7DrYt
+  5.	How does Com Hardware Work? https://youtu.be/d86ws7mQYIg?si=-F0keMOWIn20guZS
+  6.	COM Works - from silicon to apps   https://youtu.be/5f3NJnvnk7k?si=ug6CmH7xgB6b8vQ-
+  7.	How com r made in factory https://youtu.be/O9vO_CVNXlg?si=mzE00hNCbElm1OQq
+  8. Comp Basics: Inside a Com https://youtu.be/HB4I2CgkcCo?si=AD3i5huzAwO75yOX
+  9. Motherboards Explained***   https://youtu.be/b2pd3Y6aBag?si=mjVGKclHcg5kB1w8
+  10. Every OS explanation  https://youtu.be/kK7L2ISGucM?si=BXjgYeZt5raCe6g8
+  11. Simulating 256 Bytes of RAM  https://youtu.be/HGkuRp5HfH8?si=Ui4YyIZyZUb7DrYt
+  12. How Com Work :https://youtu.be/QZwneRb-zqA?si=n75T0eDnWtr-23C_
+  13. CRAFTING A CPU TO RUN PROGRAMS https://youtu.be/GYlNoAMBY6o?si=FFBIQ1AYxn3rlKoB	
+  14.	ClocksTellsCPUtoMoveForward https://youtu.be/PVNAPWUxZ0g?si=titFRBTFa4YQI-Br https://youtu.be/dV_lf1kyV9M?si=f_qpI6PS2pPqPElN
+  15.	how com r made in factory https://youtu.be/O9vO_CVNXlg?si=mzE00hNCbElm1OQq
+  16.	HOW TRANSISTORS RUN CODE?   https://youtu.be/HjneAhCy2N4?si=e_03Rxm4lNCZiske
+  
 
 
 
