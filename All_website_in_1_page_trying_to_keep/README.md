@@ -20,10 +20,15 @@
 
 ### 💻 Computer Science & Programming
 
- 
- ## TRANSMISSION
 
-###   SOME TOPIC
+## TRANSMISSION
+
+###  SOME TOPIC
+- Details:https://www.electronicshub.org/multiplexerandmultiplexing/
+- for advantage/disadvantage  details:https://www.hackatronic.com/difference-between-multiplexer-and-demultiplexer-with-types/
+- Greek :https://www.geeksforgeeks.org/multiplexers-in-digital-logic/
+- Math solve  https://www.geeksforgeeks.org/solving-multiplexer-circuit/
+-https://gateoffline.blogspot.com/2014/11/previous-gate-questions-on-multiplexers.html
  
 - https://www.geeksforgeeks.org/computer-networks/difference-between-synchronous-and-asynchronous-transmission/
 - https://www.computer.org/publications/tech-news/trends/synchronous-asynchronous-data-transmission
