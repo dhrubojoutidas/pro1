@@ -31,7 +31,8 @@
 
 
 ## 📚 MICRO 
--[Microprocessor vs controller](./https://youtu.be/dcNk0urQsQM?si=n3eLUHMMI2zCXsOQ)
+-[Microprocessor vs controller]
+- yy :https://youtu.be/dcNk0urQsQM?si=n3eLUHMMI2zCXsOQ
 
 -  https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
 
