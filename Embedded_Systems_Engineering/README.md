@@ -1,9 +1,15 @@
+
 # CMPE3001 – Embedded Systems Engineering
 
 ## 📌 Overview
-This folder contains my major assessments for **CMPE3001 (Embedded Systems Engineering)** at Curtin University.  
-Across three assignments, I worked through the embedded systems lifecycle—from **market and feasibility analysis** to **engineering design decisions and implementation planning**.
+This folder contains assessed work for **CMPE3001 (Embedded Systems Engineering)** at Curtin University.
 
+Across three assignments, I applied **embedded systems engineering principles** spanning:
+- market and feasibility analysis,
+- firmware fundamentals on MSP430,
+- and hands-on hardware–software integration.
+
+The work demonstrates skills relevant to **embedded, firmware, and IoT engineering roles**.
 
 ---
 
@@ -11,9 +17,9 @@ Across three assignments, I worked through the embedded systems lifecycle—from
 
 ### 1) [Market Research & Costing Plan – Smart Vending System](./Market_Reserch_Project.pdf)
 
-This report evaluates the **vending machine industry** and develops a feasible business concept for a **smart vending solution** providing **sanitary and personal hygiene products** in high-traffic locations (e.g., universities, workplaces, shopping centres, and transport hubs).
+This report analyses the **vending machine industry** and proposes a **smart vending business concept** focused on sanitary and personal hygiene products in high-traffic environments (universities, workplaces, shopping centres, transport hubs).
 
-The objective was to assess **commercial viability and feasibility** using market evidence and structured business analysis, similar to early-stage product validation prior to engineering implementation.
+The objective was to evaluate **commercial feasibility and viability** using structured market analysis, similar to early-stage validation before embedded system development.
 
 **Key focus areas:**
 - Industry and environmental analysis (PEST & industry trends)
@@ -22,6 +28,7 @@ The objective was to assess **commercial viability and feasibility** using marke
 - Pricing strategy with cost, markup, and profit calculations
 - SWOT  (Strengths, weaknesses, opportunities, and threats) analysis supported by academic and industry references
 
+---
 
  ### 2) [Embedded Systems Fundamentals – MSP430 (Energia IDE)](./LAB1_Getting%20Started%20with%20Energia%20and%20MSP430%20Experimenter%E2%80%99s%20Board%20.pdf)
 
@@ -42,7 +49,7 @@ The project emphasised understanding how software interacts with hardware at a l
 - Hardware–software integration and debugging on physical boards
 - Writing clear technical documentation and structured lab reports
 
-
+---
 
 ### 3) [Embedded Systems Laboratory Project – MSP430 & Arduino (Energiaa](./Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)
 
@@ -71,24 +78,6 @@ Although the final modified source code from the lab sessions was not retained, 
 - Hardware–software integration and debugging
 - Real-time explanation and justification of embedded behaviour during lab demonstrations
 
-
-
-
-## 📂 Repository Files (Click to Open)
-
-### 📄 Reports & Documentation
-1. **[Market Research Project – Smart Vending System](./Market_Reserch_Project.pdf)**  
-   Market and costing analysis proposing a smart vending machine concept focused on sanitary and personal hygiene products.
-
-2. **[Embedded Systems Lab Work (During Lab Sessions)](./Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)**  
-   Documentation of supervised laboratory tasks demonstrating real-time embedded behaviour and hardware interaction.
-
-3. **[LAB 1 – Getting Started with Energia & MSP430 (Brief)](./LAB1_Getting%20Started%20with%20Energia%20and%20MSP430%20Experimenter%E2%80%99s%20Board.pdf)**  
-   Assignment brief outlining embedded system fundamentals using the MSP430 Experimenter Board.
-
-4. **[LAB 1 – Getting Started Project Report](./LAB1_Getting_start_project_REPORT.pdf)**  
-   Formal report documenting implementation, testing, and results for the MSP430 lab tasks.
-
 ---
 
 ### 💻 Embedded Source Code (Energia / MSP430)
@@ -107,6 +96,7 @@ Although the final modified source code from the lab sessions was not retained, 
 9. **[NTC Sensor Source File](./FraunchPad_NTC.cpp)**  
    Sensor logic and data processing implementation.
 
+---
 
 *Academic work for CMPE3001 – Curtin University.*
 
