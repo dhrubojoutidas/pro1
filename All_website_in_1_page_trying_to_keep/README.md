@@ -101,6 +101,12 @@
 - https://www.electricaltechnology.org/2018/05/bcd-to-7-segment-display-decoder.html
 - 7 Segment using logiism banga : https://youtu.be/-81bw6PhRwY?si=AIpJCRqkpInuFNFW
 - HEX 7seg disply using spliter :https://youtu.be/EGj71NkR8bc?si=4rz2WJg8HS-LoRA0
+  
+### ALU:  
+- http://www.csc.villanova.edu/~mdamian/Past/csc2400fa13/assign/ALU.html
+- https://learn.circuitverse.org/docs/comb-lsi/alu.html#introduction
+- http://vlabs.iitkgp.ac.in/coa/exp8/content.html   
+
 
 
 ### 📚 MICRO 
