@@ -1,8 +1,5 @@
 
 # 📘 Learning Resources
-
-
-
 ## WEBSITE THAT HAS ALL IT SUBJECT
 
 - https://www.geeksforgeeks.org/digital-logic/digital-electronics-logic-design-tutorials
@@ -10,9 +7,9 @@
 - https://www.tutorialspoint.com/computer_science_tutorials.htm
 -
 -  https://www.tutorialspoint.com/
-- 1.	Core dump yt  ****
-  2.	Branch education yt  ***
-  3.	Series yt ***  https://youtu.be/ChR7wS94WoY?si=VW31fp6-RxEqlsWW
+- 1.	Core dump yt*
+  2.	Branch education yt*
+  3.	Series yt *  https://youtu.be/ChR7wS94WoY?si=VW31fp6-RxEqlsWW
 
 ## Digital Electronics
 
@@ -55,7 +52,22 @@
 - https://www.electronicsforu.com/technology-trends/learn-electronics/half-adder-full-adder-truth-table-circuit-working-kmap
 - watch from 5 mins for addrer : https://youtu.be/HjneAhCy2N4?si=Tj-t0gPnEui5Gji9 
 
--FILP FLOP: https://www.electronics-tutorial.net/sequential-logic-circuits/d-flip-flop-to-jk-flip-flop/
+### FILP FLOP: 
+- https://www.electronics-tutorial.net/sequential-logic-circuits/d-flip-flop-to-jk-flip-flop/
+- https://www.allaboutelectronics.org/jk-flip-flop-explained-race-around-condition-in-jk-flip-flop-jk-flip-flop-truth-table-excitation-table-and-timing-diagram/ *************
+- https://www.allaboutelectronics.org/t-flip-flop-working-circuit-diagram-excitation-table-and-characteristic-equation-of-t-flip-flop/
+- https://www.allaboutelectronics.org/master-slave-flip-flop-explained/
+- * this yt for fli flop:https://youtu.be/DBTna2ydmC0?si=QyiR3L_4VX31Jj8L
+  
+### SEQUENTIALvs COMBINATON CIRUIT: 
+1.	*https://www.hackatronic.com/difference-between-combinational-and-sequential-circuits/
+2.	combination circuit details   https://www.geeksforgeeks.org/what-is-combinational-circuit/
+3.	sequential details  + math  ** https://www.geeksforgeeks.org/introduction-of-sequential-circuits/
+4.	com,seq  https://www.geeksforgeeks.org/difference-between-combinational-and-sequential-circuit/
+5.	https://www.hackatronic.com/difference-between-synchronous-and-asynchronous-sequential-circuits/
+6.	
+
+
 
 -   https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 
@@ -86,4 +98,4 @@
  
 
 
-> 📝 **Note:** These resources are used for academic revision, concept clarification, and practical learning in digital electronics, logic design, programming, and computer 
+> 📝 **Note:**  
