@@ -29,7 +29,9 @@ It showcases hands-on experience across **networking, systems administration, da
 ### 🛜 IoT & Embedded Systems
 1️⃣ [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 
 
-2️⃣ MSP430 Embedded Systems Labs  
+2️⃣ 🔧 **CMPE2003 – MSP430 Embedded System (CLIC3 Board)**  
+  Interrupt-driven firmware using timers, ISRs, keypad input, LCD, seven-segment displays, and low-power design.  
+  👉 [View project](./CMPE2003/)
 
 ---
 
