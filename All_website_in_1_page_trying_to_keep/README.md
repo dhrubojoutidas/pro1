@@ -9,12 +9,14 @@
 - https://www.guru99.com/
 - https://www.tutorialspoint.com/difference-between-for-loop-and-while-loop-in-python#
 - https://www.tutorialspoint.com/top-categories.htm
+- https://www.tutorialspoint.com/
 - Engineering tutorial
 - CSE sem wise topic
 
 - 
 -
--  https://www.tutorialspoint.com/
+-
+-  https://www.learncomputerscienceonline.com/introduction-to-computer-system/
   > 📝 **Note:** 
   1.	Core dump yt*
   2.	Branch education yt*
