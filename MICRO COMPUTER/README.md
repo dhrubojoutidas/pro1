@@ -70,19 +70,14 @@ The design incorporates **energy-aware embedded principles**, including:
  ## 🖼️ System Demonstration
 
 The images below show the system in operation:
--- The system after setup is highlighted in Figure 1 below. The LCD validates the stored threshold after a threshold value of 20 seconds was entered correctly using the keypad.
-- <img width="968" height="682" alt="image" src="https://github.com/user-attachments/assets/1b3750e1-b01b-4ad8-82ac-1bea28326c0f" />
+- The system after setup is highlighted in Figure 1 below. The LCD validates the stored threshold after a threshold value of 20 seconds was entered correctly using the keypad.
+<img width="968" height="682" alt="image" src="https://github.com/user-attachments/assets/1b3750e1-b01b-4ad8-82ac-1bea28326c0f" />
 
 -  LED indicators reflecting switch state and threshold alarm
-- Seven-segment display showing elapsed ON-time
-
-
-
-
-
 <img width="1232" height="789" alt="image" src="https://github.com/user-attachments/assets/6efcde5c-5f0e-4f80-b17c-26e35676e3d2" />
 
-<img width="1115" height="772" alt="image" src="https://github.com/user-attachments/assets/f3577fca-226b-4048-a013-2d2ab563a626" />
+- Seven-segment display showing elapsed ON-time
+  <img width="1115" height="772" alt="image" src="https://github.com/user-attachments/assets/f3577fca-226b-4048-a013-2d2ab563a626" />
 <img width="1281" height="681" alt="image" src="https://github.com/user-attachments/assets/ebe07e48-9f07-4f2a-a369-d13318c908be" />
 
 
