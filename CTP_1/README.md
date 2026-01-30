@@ -88,6 +88,7 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 
 ---
 
+<img width="1602" height="762" alt="image" src="https://github.com/user-attachments/assets/48c928a9-16e3-4255-a4cb-2b709cb8d252" />
 
 
 ## 📝 Deliverables
