@@ -15,21 +15,16 @@ The focus is on demonstrating practical engineering thinking: **requirements →
 
 ### 1) [Market Research & Costing Plan – Smart Vending System](./Market_Reserch_Project.pdf)
 
-This report evaluates the **vending machine industry** and develops a feasible business concept for a **smart vending solution** that provides **sanitary and personal hygiene products** in high-traffic locations (e.g., universities, workplaces, shopping centres, transport hubs).
+This report evaluates the **vending machine industry** and develops a feasible business concept for a **smart vending solution** providing **sanitary and personal hygiene products** in high-traffic locations (e.g., universities, workplaces, shopping centres, and transport hubs).
 
-
-The goal was to justify the idea using market evidence and structured business analysis—similar to early-stage product validation before engineering build.
+The objective was to assess **commercial viability and feasibility** using market evidence and structured business analysis, similar to early-stage product validation prior to engineering implementation.
 
 **Key focus areas:**
 - Industry and environmental analysis (PEST & industry trends)
 - Competitor analysis and market positioning
-- Competitor analysis (key players, strengths/weaknesses, market positioning)
-- Product/service definition and target customer value
-- Pricing strategy with sales/cost/profit calculations
-- SWOT analysis and documented references
-  
-👉 **[View Assignment 1](./Market_Research_Assignment/README.md)**
-
+- Product/service definition and customer value proposition
+- Pricing strategy with cost, markup, and profit calculations
+- SWOT analysis supported by academic and industry references
 
 
 
