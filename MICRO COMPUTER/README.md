@@ -10,15 +10,14 @@ This project involved designing and implementing an **interrupt-based embedded s
 
 The system measures the **ON duration of a physical switch**, processes user-defined thresholds, and provides **real-time feedback** using LEDs, seven-segment displays, and an LCD.
 
-The implementation reflects embedded systems and firmware development practices aligned with real-world workflows
+The implementation reflects embedded systems and firmware development practices aligned with real-world workflows.
 
 ---
 
 ## 🧩 What Was Built
 
 The objective of this task was to design and implement an embedded system that:
-
-- Measures the ON-duration of a physical input switch/ **S3** using hardware timer  
+- Measures the ON-duration of physical input switch **S3** using hardware timers
 - Displays elapsed time (00–99 seconds) on dual seven-segment displays  
 - Accepts a user-defined threshold via keypad input  
 - Triggers a blinking LED alarm when the threshold is exceeded  
@@ -26,7 +25,8 @@ The objective of this task was to design and implement an embedded system that:
 - Handles repeated switch activations independently  
 - Provides user feedback through an LCD interface
 - Uses interrupts and debouncing for reliable, event-driven operation  
-- Applies low-power and efficiency considerations suitable for embedded systems  
+- Applies low-power and efficiency considerations appropriate for embedded systems  
+
 
 
 
@@ -73,9 +73,9 @@ The design incorporates **energy-aware embedded principles**, including:
  ## 🖼️ System Demonstration
 
 The images below show the system in operation:
-- The system after setup is highlighted in Figure 1 below. The LCD validates the stored threshold after a threshold value of 20 seconds was entered correctly using the keypad.
--  LED indicators reflecting switch state and threshold alarm
-- Seven-segment display showing elapsed ON-time
+- LCD confirming the stored threshold value (20 seconds) entered via keypad  
+- LED indicators reflecting switch state and threshold alarm  
+- Seven-segment display showing elapsed ON-time  
 
   - <img width="968" height="682" alt="image" src="https://github.com/user-attachments/assets/1b3750e1-b01b-4ad8-82ac-1bea28326c0f" />
   - <img width="1232" height="789" alt="image" src="https://github.com/user-attachments/assets/6efcde5c-5f0e-4f80-b17c-26e35676e3d2" />
