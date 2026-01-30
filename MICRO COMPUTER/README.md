@@ -1,1 +1,73 @@
 
+# CMPE2003 – Microcomputers  
+### Interrupt-Driven Embedded System on CLIC3 Board
+
+---
+
+## 📌 Project Summary
+
+This project involved designing and implementing an **interrupt-based embedded system** on the **CLIC3 microcontroller board** as part of the CMPE2003 (Microcomputers) unit at Curtin University.
+
+The system measures the **ON duration of a physical switch**, processes user-defined thresholds, and provides **real-time feedback** using LEDs, seven-segment displays, and an LCD.
+
+The implementation reflects real-world **embedded systems and firmware development** practices.
+
+---
+
+## 🧩 What Was Built
+
+The embedded system performs the following:
+
+- Measures the ON-time of switch **S3** using hardware timers  
+- Displays elapsed time (00–99 seconds) on dual seven-segment displays  
+- Accepts a user-defined threshold via keypad input  
+- Triggers a blinking LED alarm when the threshold is exceeded  
+- Uses LEDs to indicate real-time switch status  
+- Handles repeated switch activations independently  
+- Implements debouncing and interrupt-driven timing  
+- Provides user feedback through an LCD interface  
+
+---
+
+## 🛠️ Technical Approach
+
+- Interrupt-driven design (no polling)  
+- Hardware timers for accurate time measurement  
+- External interrupts for switch state detection  
+- Modular, low-level embedded programming (C / Assembly)  
+- State-based control flow for reliability and clarity  
+
+---
+
+## ⚡ Sustainability & Efficiency
+
+The design incorporates **energy-aware embedded principles**, including:
+
+- Interrupt-based execution to minimise CPU active time  
+- Reduced peripheral usage when idle  
+- Efficient timer configuration for low-power operation  
+
+---
+
+## 📂 Project Contents
+
+- Embedded source code (C / Assembly)  
+- Executable / hex file for flashing the CLIC3 board  
+- Hardware interaction logic (switches, LEDs, displays)  
+- Technical report documenting design, testing, and results  
+
+---
+
+## 🎯 Outcome
+
+This project demonstrates my ability to:
+
+- Design and implement real-time embedded systems  
+- Work with microcontroller peripherals (timers, interrupts, I/O)  
+- Apply low-power and sustainability considerations  
+- Debug and document embedded firmware  
+- Translate hardware requirements into reliable software  
+
+---
+
+*Academic project completed for CMPE2003 – Curtin University.*
