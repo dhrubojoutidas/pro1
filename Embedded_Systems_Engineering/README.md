@@ -24,7 +24,7 @@ The objective was to assess **commercial viability and feasibility** using marke
 - Competitor analysis and market positioning
 - Product/service definition and customer value proposition
 - Pricing strategy with cost, markup, and profit calculations
-- SWOT analysis supported by academic and industry references
+- SWOT  (Strengths, weaknesses, opportunities, and threats) analysis supported by academic and industry references
 
 
 
