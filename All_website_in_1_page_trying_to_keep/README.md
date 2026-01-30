@@ -29,8 +29,9 @@ Curated study links for Digital Electronics, Logic Design, Programming, and Comp
 
 ###  MUX
 - https://gateoffline.blogspot.com/2014/11/previous-gate-questions-on-multiplexers.html
- ### ADDER
+ ### HALF ADDER
 - https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm
+- https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 
  
   
