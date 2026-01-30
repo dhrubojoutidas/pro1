@@ -72,18 +72,15 @@ https://www.geeksforgeeks.org/dsa/introduction-to-dijkstras-shortest-path-algori
 https://www.thedshandbook.com/graphs/
 
  LINUX 
- https://www.geeksforgeeks.org/linux-unix/shell-scripting-shell-variables/
- https://www.geeksforgeeks.org/linux-unix/input-output-redirection-in-linux/
+ - https://www.geeksforgeeks.org/linux-unix/shell-scripting-shell-variables/
+ - https://www.geeksforgeeks.org/linux-unix/input-output-redirection-in-linux/
  https://www.geeksforgeeks.org/linux-unix/linux-directory-structure/
  https://www.technewstoday.com/rmdir-directory-not-empty/
  https://askubuntu.com/questions/793507/rm-cannot-remove-directory-permission-denied
  https://www.geeksforgeeks.org/linux-unix/how-to-delete-multiple-lines-in-vim-editor-in-linux/
- 
- https://www.wikihow.com/Find-Out-Your-IP-Address#:~:text=How%20to%20Find%20out%20your%20IP%20Address%20Windows,adapter.%204%20Look%20at%20the%20.%20See%20More.
+ - https://www.wikihow.com/Find-Out-Your-IP-Address#:~:text=How%20to%20Find%20out%20your%20IP%20Address%20Windows,adapter.%204%20Look%20at%20the%20.%20See%20More.
 
- https://www.wikihow.com/Find-Out-Your-IP-Address#:~:text=How%20to%20Find%20out%20your%20IP%20Address%20Windows,adapter.%204%20Look%20at%20the%20.%20See%20More.
- 
- 
+
  
 
 
