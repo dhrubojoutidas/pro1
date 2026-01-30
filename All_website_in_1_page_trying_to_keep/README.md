@@ -57,7 +57,7 @@
 - https://www.allaboutelectronics.org/jk-flip-flop-explained-race-around-condition-in-jk-flip-flop-jk-flip-flop-truth-table-excitation-table-and-timing-diagram/ *************
 - https://www.allaboutelectronics.org/t-flip-flop-working-circuit-diagram-excitation-table-and-characteristic-equation-of-t-flip-flop/
 - https://www.allaboutelectronics.org/master-slave-flip-flop-explained/
-- * this yt for fli flop:https://youtu.be/DBTna2ydmC0?si=QyiR3L_4VX31Jj8L
+- this yt for flip flop*  :https://youtu.be/DBTna2ydmC0?si=QyiR3L_4VX31Jj8L
   
 ### SEQUENTIALvs COMBINATON CIRUIT: 
 1.	*https://www.hackatronic.com/difference-between-combinational-and-sequential-circuits/
