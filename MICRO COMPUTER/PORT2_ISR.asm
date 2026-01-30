@@ -3,26 +3,26 @@
 ;--------------------------------------------------------
 ; External References for shared variables
 ;--------------------------------------------------------
-        EXTERN  BusAddress
-        EXTERN  BusData
-        EXTERN  BusRead
-        EXTERN  BusWrite
+Â  Â  Â  Â  EXTERNÂ  BusAddress
+        EXTERNÂ  BusData
+Â  Â  Â  Â  EXTERNÂ  BusRead
+        EXTERNÂ  BusWrite
         
-        EXTERN  KeyPadAddr
-        EXTERN  LookupKeys
+        EXTERNÂ  KeyPadAddr
+        EXTERNÂ  LookupKeys
         EXTERN  Count
         
-        EXTERN  DelCount
-        EXTERN  Threshold
+        EXTERNÂ  DelCount
+        EXTERNÂ  Threshold
         EXTERN  ThresholdSet
-        EXTERN  InputState
-        EXTERN  KeyPad
-        EXTERN  LookupSeg
+        EXTERNÂ  InputState
+        EXTERNÂ  KeyPad
+        EXTERNÂ  LookupSeg
         EXTERN  KeyCode
-        EXTERN  segHighAddr
+        EXTERNÂ  segHighAddr
         EXTERN  segLowAddr
-        EXTERN  InputState
-        EXTERN  PORT_THRESHOLD
+        EXTERNÂ  InputState
+        EXTERNÂ  PORT_THRESHOLD
 
 ;--------------------------------------------------------
 ; PORT2 Interrupt Service Routine (Keypad Handler)
@@ -123,69 +123,69 @@ ConvertLoop:                             ; Subtraction-based BCD conversion for 
         JMP     ConvertLoop
         
 BCD_Done:
-        ; R9 now holds the Tens digit (0-9)
-        ; R10 now holds the Units digit (0-9)
-        
-        ; ------------------------------------------------------------------
-        ; --- NEW CODE: Write BCD Digits to LCD Line 2 (INLINED) ---
-        ; ------------------------------------------------------------------
-        
+Â  Â  Â  Â  ; R9 now holds the Tens digit (0-9)
+Â  Â  Â  Â  ; R10 now holds the Units digit (0-9)
+Â  Â  Â  Â Â 
+Â  Â  Â  Â  ; ------------------------------------------------------------------
+Â  Â  Â  Â  ; --- NEW CODE: Write BCD Digits to LCD Line 2 (INLINED) ---
+Â  Â  Â  Â  ; ------------------------------------------------------------------
+Â  Â  Â  Â Â 
         ; 1. Send Command to set DDRAM address to start of Line 2 (0xC0)
-        BIS.B   #UCTXSTT, &UCB1CTL1      ; START condition
+Â  Â  Â  Â  BIS.BÂ  Â #UCTXSTT, &UCB1CTL1Â  Â  Â  ; START condition
 Wait_Cmd1:
-        BIT.B   #UCTXIFG, &UCB1IFG
-        JZ      Wait_Cmd1
-        MOV.B   #00h, &UCB1TXBUF         ; Control byte: command mode
+Â  Â  Â  Â  BIT.BÂ  Â #UCTXIFG, &UCB1IFG
+Â  Â  Â  Â  JZÂ  Â  Â  Wait_Cmd1
+Â  Â  Â  Â  MOV.BÂ  Â #00h, &UCB1TXBUFÂ  Â  Â  Â  Â ; Control byte: command mode
 Wait_Cmd2:
-        BIT.B   #UCTXIFG, &UCB1IFG
-        JZ      Wait_Cmd2
-        MOV.B   #08bh, &UCB1TXBUF        ; COMMAND: Jump to 2nd line (0xC0)
+Â  Â  Â  Â  BIT.BÂ  Â #UCTXIFG, &UCB1IFG
+Â  Â  Â  Â  JZÂ  Â  Â  Wait_Cmd2
+Â  Â  Â  Â  MOV.BÂ  Â #08bh, &UCB1TXBUFÂ  Â  Â  Â  ; COMMAND: Jump to 2nd line (0xC0)
 Wait_Cmd3:
-        BIT.B   #UCTXIFG, &UCB1IFG
-        JZ      Wait_Cmd3
-        BIS.B   #UCTXSTP, &UCB1CTL1      ; STOP condition after command
+Â  Â  Â  Â  BIT.BÂ  Â #UCTXIFG, &UCB1IFG
+Â  Â  Â  Â  JZÂ  Â  Â  Wait_Cmd3
+Â  Â  Â  Â  BIS.BÂ  Â #UCTXSTP, &UCB1CTL1Â  Â  Â  ; STOP condition after command
 Wait_Stop_Cmd:
-        BIT.B   #UCTXSTP, &UCB1CTL1
-        JNZ     Wait_Stop_Cmd
-        BIC.B   #UCTXIFG, &UCB1IFG       ; Clear TX flag
+Â  Â  Â  Â  BIT.BÂ  Â #UCTXSTP, &UCB1CTL1
+Â  Â  Â  Â  JNZÂ  Â  Â Wait_Stop_Cmd
+Â  Â  Â  Â  BIC.BÂ  Â #UCTXIFG, &UCB1IFGÂ  Â  Â  Â ; Clear TX flag
 
-        ; 2. Send Data (The two digits)
-        BIS.B   #UCTXSTT, &UCB1CTL1      ; START condition for data transfer
+Â  Â  Â  Â  ; 2. Send Data (The two digits)
+Â  Â  Â  Â  BIS.BÂ  Â #UCTXSTT, &UCB1CTL1Â  Â  Â  ; START condition for data transfer
 Wait_TX_D1:
-        BIT.B   #UCTXIFG, &UCB1IFG
-        JZ      Wait_TX_D1
-        MOV.B   #040h, &UCB1TXBUF        ; Control byte: data mode
+Â  Â  Â  Â  BIT.BÂ  Â #UCTXIFG, &UCB1IFG
+Â  Â  Â  Â  JZÂ  Â  Â  Wait_TX_D1
+Â  Â  Â  Â  MOV.BÂ  Â #040h, &UCB1TXBUFÂ  Â  Â  Â  ; Control byte: data mode
 
-        ; Send Tens digit (R9) - Convert to ASCII by adding '0' (0x30)
+Â  Â  Â  Â  ; Send Tens digit (R9) - Convert to ASCII by adding '0' (0x30)
 Wait_TX_D2:
-        BIT.B   #UCTXIFG, &UCB1IFG
-        JZ      Wait_TX_D2
-        ADD.B   #0x30, R9                ; Convert digit (0-9) to ASCII ('0'-'9')
-        MOV.B   R9, &UCB1TXBUF           ; Send Tens ASCII
-        
-        ; Send Units digit (R10) - Convert to ASCII by adding '0' (0x30)
+Â  Â  Â  Â  BIT.BÂ  Â #UCTXIFG, &UCB1IFG
+Â  Â  Â  Â  JZÂ  Â  Â  Wait_TX_D2
+Â  Â  Â  Â  ADD.BÂ  Â #0x30, R9Â  Â  Â  Â  Â  Â  Â  Â  ; Convert digit (0-9) to ASCII ('0'-'9')
+Â  Â  Â  Â  MOV.BÂ  Â R9, &UCB1TXBUFÂ  Â  Â  Â  Â  Â ; Send Tens ASCII
+Â  Â  Â  Â Â 
+Â  Â  Â  Â  ; Send Units digit (R10) - Convert to ASCII by adding '0' (0x30)
 Wait_TX_D3:
-        BIT.B   #UCTXIFG, &UCB1IFG
-        JZ      Wait_TX_D3
-        ADD.B   #0x30, R10               ; Convert digit (0-9) to ASCII ('0'-'9')
-        MOV.B   R10, &UCB1TXBUF          ; Send Units ASCII
+Â  Â  Â  Â  BIT.BÂ  Â #UCTXIFG, &UCB1IFG
+Â  Â  Â  Â  JZÂ  Â  Â  Wait_TX_D3
+Â  Â  Â  Â  ADD.BÂ  Â #0x30, R10Â  Â  Â  Â  Â  Â  Â  Â ; Convert digit (0-9) to ASCII ('0'-'9')
+Â  Â  Â  Â  MOV.BÂ  Â R10, &UCB1TXBUFÂ  Â  Â  Â  Â  ; Send Units ASCII
 
-        ; Send STOP condition
+Â  Â  Â  Â  ; Send STOP condition
 Wait_TX_D4:
-        BIT.B   #UCTXIFG, &UCB1IFG
-        JZ      Wait_TX_D4
-        BIS.B   #UCTXSTP, &UCB1CTL1      ; STOP condition
+Â  Â  Â  Â  BIT.BÂ  Â #UCTXIFG, &UCB1IFG
+Â  Â  Â  Â  JZÂ  Â  Â  Wait_TX_D4
+Â  Â  Â  Â  BIS.BÂ  Â #UCTXSTP, &UCB1CTL1Â  Â  Â  ; STOP condition
 Wait_Stop_D:
-        BIT.B   #UCTXSTP, &UCB1CTL1
-        JNZ     Wait_Stop_D
-        BIC.B   #UCTXIFG, &UCB1IFG       ; Clear TX flag
+Â  Â  Â  Â  BIT.BÂ  Â #UCTXSTP, &UCB1CTL1
+Â  Â  Â  Â  JNZÂ  Â  Â Wait_Stop_D
+Â  Â  Â  Â  BIC.BÂ  Â #UCTXIFG, &UCB1IFGÂ  Â  Â  Â ; Clear TX flag
 
-        ; ------------------------------------------------------------------
-        ; --- Revert R9 and R10 from ASCII to BCD for 7-Segment lookup ---
-        ; This is crucial since the next block uses them for lookup!
-        ; ------------------------------------------------------------------
-        SUB.B   #0x30, R9
-        SUB.B   #0x30, R10
+Â  Â  Â  Â  ; ------------------------------------------------------------------
+Â  Â  Â  Â  ; --- Revert R9 and R10 from ASCII to BCD for 7-Segment lookup ---
+Â  Â  Â  Â  ; This is crucial since the next block uses them for lookup!
+Â  Â  Â  Â  ; ------------------------------------------------------------------
+Â  Â  Â  Â  SUB.BÂ  Â #0x30, R9
+Â  Â  Â  Â  SUB.BÂ  Â #0x30, R10
 
 KeyProcessed:                            ; Jump point for non-numerical keys
 
