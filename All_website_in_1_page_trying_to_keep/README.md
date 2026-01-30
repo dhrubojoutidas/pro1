@@ -37,14 +37,9 @@
 - Details of PCIe -- https://www.geeksforgeeks.org/what-is-pcieperipheral-component-interconnect-express/
 - Details of PCIX -- https://www.geeksforgeeks.org/what-is-pcixperipheral-component-interconnect-extended/
 - Peripherals device https://www.geeksforgeeks.org/peripherals-devices-in-computer-organization/
-- 
-- 
 - ROM :https://learn.circuitverse.org/docs/comb-lsi/rom.html
-
 - 741 op amp: https://www.elprocus.com/ic-741-op-amp-tutorial-and-characteristics/
-- https://hackatronic.com/universal-nand-gate-truth-table-logic-circuit-ic-7400-pin-diagram/
-
-- 
+- https://hackatronic.com/universal-nand-gate-truth-table-logic-circuit-ic-7400-pin-diagram/- 
 - HDD :https://www.geeksforgeeks.org/hard-disk-drive-hdd-secondary-memory/
 - SSD:https://www.geeksforgeeks.org/introduction-to-solid-state-drive-ssd/
 - HDD vs SDD:https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
