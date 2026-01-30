@@ -20,6 +20,7 @@
 
 ### 💻 Computer Science & Programming
 
+---
 
 ## TRANSMISSION
 
@@ -49,7 +50,8 @@
 - SSD:https://www.geeksforgeeks.org/introduction-to-solid-state-drive-ssd/
 - HDD vs SDD:https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
 
-- 
+ ---
+  
 
 ## 📚 Hardware
 
