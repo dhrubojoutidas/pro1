@@ -22,6 +22,8 @@
 
 
  ## TRANSMISSION 
+ ### nte sure
+ 
 - https://www.geeksforgeeks.org/computer-networks/difference-between-synchronous-and-asynchronous-transmission/
 - https://www.computer.org/publications/tech-news/trends/synchronous-asynchronous-data-transmission
 - https://youtube.com/shorts/QitKWsHBfCY?
