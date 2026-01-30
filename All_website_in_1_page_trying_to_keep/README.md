@@ -51,6 +51,7 @@
  ### ADDER
 - https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm
 - https://www.electronicsforu.com/technology-trends/learn-electronics/half-adder-full-adder-truth-table-circuit-working-kmap
+- watch from 5 mins for addrer : https://youtu.be/HjneAhCy2N4?si=Tj-t0gPnEui5Gji9 
 - 
 - https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 
