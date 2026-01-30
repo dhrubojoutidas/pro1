@@ -52,7 +52,7 @@ The project emphasised understanding how software interacts with hardware at a l
 
 
 
-### 2) [Embedded Systems Laboratory Project – MSP430 & Arduino (Energia)](./Embedded_Systems_lab_workduring_lab_session.pdf)**
+### 2) [Embedded Systems Laboratory Project – MSP430 & Arduino (Energia)](./Embedded_Systems_Engineering/Embedded%20_Systems%20lab%20workduring%20lab%20session.pdf)
 
 This laboratory project involved completing a series of **supervised, hands-on embedded systems tasks** using the **MSP430FR5739 Experimenter Board** and **Energia IDE**, focusing on practical interaction between software and hardware components.
 
