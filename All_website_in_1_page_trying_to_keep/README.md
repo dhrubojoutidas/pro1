@@ -41,9 +41,6 @@
 -
 
 
-
-
-
 ## 📚 Hardware
 
 ###  MUX
@@ -52,14 +49,19 @@
 - https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm
 - https://www.electronicsforu.com/technology-trends/learn-electronics/half-adder-full-adder-truth-table-circuit-working-kmap
 - watch from 5 mins for addrer : https://youtu.be/HjneAhCy2N4?si=Tj-t0gPnEui5Gji9 
-- 
-- https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
+-
+-   https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 
 - 
 - HDD -- https://www.geeksforgeeks.org/hard-disk-drive-hdd-secondary-memory/
 - SSD    https://www.geeksforgeeks.org/introduction-to-solid-state-drive-ssd/
 - HDD vs SDD https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
 
+ ### 7  SEGMENT
+ - https://github.com/marceloboeira/logisim-7-segment-display-driver
+ - https://www.electricaltechnology.org/2018/05/bcd-to-7-segment-display-decoder.html
+ - 7 Segment using logiism banga : https://youtu.be/-81bw6PhRwY?si=AIpJCRqkpInuFNFW
+ - HEX 7seg disply using spliter :https://youtu.be/EGj71NkR8bc?si=4rz2WJg8HS-LoRA0
 
 
 ## 📚 MICRO 
