@@ -43,6 +43,5 @@ Curated study links for Digital Electronics, Logic Design, Programming, and Comp
 - Programming, hardware, software, database, CPU, CS fundamentals  
  
 
----
 
 > 📝 **Note:** These resources are used for academic revision, concept clarification, and practical learning in digital electronics, logic design, programming, and computer 
