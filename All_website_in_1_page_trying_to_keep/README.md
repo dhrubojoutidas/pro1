@@ -2,8 +2,6 @@
 
 
 
-
-
 # 📘 Learning Resources
 
 Curated study links for Digital Electronics, Logic Design, Programming, and Computer Science.
@@ -11,6 +9,8 @@ Curated study links for Digital Electronics, Logic Design, Programming, and Comp
 ## WEBSITE THAT HAS ALL IT SUBJECT
 
 - https://www.geeksforgeeks.org/digital-logic/digital-electronics-logic-design-tutorials
+- [cs, hardwrae, databssde,CPU all ](./https://www.learncomputerscienceonline.com/introduction-to-computer-system/)
+- 
 
 ## Digital Electronics
 - https://www.tutorialspoint.com/digital-electronics/
