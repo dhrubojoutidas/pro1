@@ -11,6 +11,7 @@ Curated study links for Digital Electronics, Logic Design, Programming, and Comp
 - https://www.geeksforgeeks.org/digital-logic/digital-electronics-logic-design-tutorials
 - [cs, hardwrae, databssde,CPU all ](./https://www.learncomputerscienceonline.com/introduction-to-computer-system/)
 - [p](./https://www.learncomputerscienceonline.com/introduction-to-computer-system/)
+- https://www.learncomputerscienceonline.com/introduction-to-computer-system/
 - 
 
 ## Digital Electronics
