@@ -21,18 +21,19 @@ Curated study links for Digital Electronics, Logic Design, Programming, and Comp
 - https://www.tutorialspoint.com/computer_science_tutorials.htm
 - https://www.tutorialspoint.com/
 
-## Hardware 
-### MUX 
+ 
+
+
+
+## 📚 Hardware
+
+###  MUX
 - https://gateoffline.blogspot.com/2014/11/previous-gate-questions-on-multiplexers.html
  ### ADDER
 - https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm
 
-
-## 📚 Study & Learning Resources
-
-### 🧮 Mathematics
-- Math problem solving and fundamentals  
-  - https://www.tutorialspoint.com/
+ 
+  
 
 ---
 
