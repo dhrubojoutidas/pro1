@@ -232,18 +232,17 @@
  -	
 ##  Python Function
 
-- • Python Object-Oriented Programming *** 
-	• Classes and class attributes 
-	• The Anatomy of a Python:https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/anatomy/anatomy_introduction.html
-	• Function Wrapper:https://www.geeksforgeeks.org/python/function-wrappers-in-python/
-	•  Block structure:https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/anatomy/block_structure_indentation.html
-	 
-	1. Intro pythn :https://nbviewer.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-1-Introduction-to-Python-Programming.ipynb
-	2. Beginner’s guide to Web Scraping in Python using BeautifulSoup :https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/
-	3. Useful modules stander lib:https://python-textbok.readthedocs.io/en/1.0/Useful_Libraries.html
-	4. Scientific Python:https://lectures.scientific-python.org/
-	5. PEP 8  Style Guide for Python Code:https://peps.python.org/pep-0008/#source-file-encoding
- 6.  Package Your Python Code:https://python-packaging.readthedocs.io/en/latest/index.html
+- Python Object-Oriented Programming
+-  Classes and class attributes
+- The Anatomy of a Python:https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/anatomy/anatomy_introduction.html
+- Function Wrapper:https://www.geeksforgeeks.org/python/function-wrappers-in-python/
+- Block structure:https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/anatomy/block_structure_indentation.html
+- Intro pythn :https://nbviewer.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-1-Introduction-to-Python-Programming.ipynb
+- Beginner’s guide to Web Scraping in Python using BeautifulSoup :https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/
+- Useful modules stander lib:https://python-textbok.readthedocs.io/en/1.0/Useful_Libraries.html
+- Scientific Python:https://lectures.scientific-python.org/
+- PEP 8  Style Guide for Python Code:https://peps.python.org/pep-0008/#source-file-encoding
+- Package Your Python Code:https://python-packaging.readthedocs.io/en/latest/index.html
 
 ## LIST
 
