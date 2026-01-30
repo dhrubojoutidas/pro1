@@ -4,7 +4,6 @@
 This folder contains my major assessments for **CMPE3001 (Embedded Systems Engineering)** at Curtin University.  
 Across three assignments, I worked through the embedded systems lifecycle—from **market and feasibility analysis** to **engineering design decisions and implementation planning**.
 
-The focus is on demonstrating practical engineering thinking: **requirements → trade-offs → cost/market feasibility → documented decisions**.
 
 ---
 
@@ -46,7 +45,6 @@ The project emphasised understanding how software interacts with hardware at a l
 
 
 ### 3) [Embedded Systems Laboratory Project – MSP430 & Arduino (Energiaa]((./Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)
-
 
 This laboratory project involved completing a series of **supervised, hands-on embedded systems tasks** using the **MSP430FR5739 Experimenter Board** and **Energia IDE**, focusing on practical interaction between software and hardware components.
 
