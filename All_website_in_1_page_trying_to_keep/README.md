@@ -22,9 +22,6 @@
 - https://www.tutorialspoint.com/computer_science_tutorials.htm
 - https://www.tutorialspoint.com/
 
-
-
-
  ## TRANSMISSION 
  
  ### nte sure
@@ -83,8 +80,8 @@ HDD vs SDD  https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd
 - this yt for flip flop*  :https://youtu.be/DBTna2ydmC0?si=QyiR3L_4VX31Jj8L
   
 ### SEQUENTIALvs COMBINATON CIRUIT: 
-1.	*https://www.hackatronic.com/difference-between-combinational-and-sequential-circuits/
-2.	combination circuit details   https://www.geeksforgeeks.org/what-is-combinational-circuit/
+- *https://www.hackatronic.com/difference-between-combinational-and-sequential-circuits/
+- combination circuit details   https://www.geeksforgeeks.org/what-is-combinational-circuit/
 3.	sequential details  + math  ** https://www.geeksforgeeks.org/introduction-of-sequential-circuits/
 4.	com,seq  https://www.geeksforgeeks.org/difference-between-combinational-and-sequential-circuit/
 5.	https://www.hackatronic.com/difference-between-synchronous-and-asynchronous-sequential-circuits/
