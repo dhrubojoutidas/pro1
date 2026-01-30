@@ -24,7 +24,7 @@ The objective was to assess **commercial viability and feasibility** using marke
 - SWOT  (Strengths, weaknesses, opportunities, and threats) analysis supported by academic and industry references
 
 
- ### 2) [Embedded Systems Fundamentals – MSP430 (Energia IDE)](./Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)
+ ### 2) [Embedded Systems Fundamentals – MSP430 (Energia IDE)]((./LAB1_Getting%20Started%20with%20Energia%20and%20MSP430%20Experimenter%E2%80%99s%20Board%20.pdf)
 
 This assignment involved implementing a series of **hands-on embedded system tasks** using the **MSP430FR5739 microcontroller**, focusing on the fundamentals of **firmware development and hardware interaction**.
 
@@ -45,7 +45,8 @@ The project emphasised understanding how software interacts with hardware at a l
 
 
 
-### 3) [Embedded Systems Laboratory Project – MSP430 & Arduino (Energiaa](./LAB1_Getting%20Started%20with%20Energia%20and%20MSP430%20Experimenter%E2%80%99s%20Board%20.pdf)
+### 3) [Embedded Systems Laboratory Project – MSP430 & Arduino (Energiaa]((./Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)
+
 
 This laboratory project involved completing a series of **supervised, hands-on embedded systems tasks** using the **MSP430FR5739 Experimenter Board** and **Energia IDE**, focusing on practical interaction between software and hardware components.
 
