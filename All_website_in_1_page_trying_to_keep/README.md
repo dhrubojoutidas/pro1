@@ -74,22 +74,19 @@ HDD vs SDD  https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd
 
 ### FILP FLOP: 
 - https://www.electronics-tutorial.net/sequential-logic-circuits/d-flip-flop-to-jk-flip-flop/
-- https://www.allaboutelectronics.org/jk-flip-flop-explained-race-around-condition-in-jk-flip-flop-jk-flip-flop-truth-table-excitation-table-and-timing-diagram/ *************
+- https://www.allaboutelectronics.org/jk-flip-flop-explained-race-around-condition-in-jk-flip-flop-jk-flip-flop-truth-table-excitation-table-and-timing-diagram/ *
 - https://www.allaboutelectronics.org/t-flip-flop-working-circuit-diagram-excitation-table-and-characteristic-equation-of-t-flip-flop/
 - https://www.allaboutelectronics.org/master-slave-flip-flop-explained/
-- this yt for flip flop*  :https://youtu.be/DBTna2ydmC0?si=QyiR3L_4VX31Jj8L
+- this yt for flip flop* :https://youtu.be/DBTna2ydmC0?si=QyiR3L_4VX31Jj8L
   
 ### SEQUENTIALvs COMBINATON CIRUIT: 
 - *https://www.hackatronic.com/difference-between-combinational-and-sequential-circuits/
 - combination circuit details   https://www.geeksforgeeks.org/what-is-combinational-circuit/
-3.	sequential details  + math  ** https://www.geeksforgeeks.org/introduction-of-sequential-circuits/
-4.	com,seq  https://www.geeksforgeeks.org/difference-between-combinational-and-sequential-circuit/
-5.	https://www.hackatronic.com/difference-between-synchronous-and-asynchronous-sequential-circuits/
-6.	
-
+- sequential details  + math  ** https://www.geeksforgeeks.org/introduction-of-sequential-circuits/
+- com,seq  https://www.geeksforgeeks.org/difference-between-combinational-and-sequential-circuit/
+- https://www.hackatronic.com/difference-between-synchronous-and-asynchronous-sequential-circuits/
 
  ### SUBSTRACTOR :
-
 - https://www.electronics-tutorial.net/combinational-logic-circuits/full-subtractor/ *
 - https://www.hackatronic.com/half-subtractor-and-full-subtractor-circuits-truth-table-equation/
 - https://www.elprocus.com/full-subtractor-circuit-using-logic-gates/ ***
@@ -112,7 +109,8 @@ HDD vs SDD  https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd
 - 7 Segment using logiism banga : https://youtu.be/-81bw6PhRwY?si=AIpJCRqkpInuFNFW
 - HEX 7seg disply using spliter :https://youtu.be/EGj71NkR8bc?si=4rz2WJg8HS-LoRA0
 
-## 📚 MICRO 
+
+### 📚 MICRO 
 - Microprocessor vs controller :https://youtu.be/dcNk0urQsQM?si=n3eLUHMMI2zCXsOQ
 - What is a Microcontroller and how does it work? :https://youtu.be/t68MG-kVDCU?si=0yIvFQlt3MMqLidm
 - https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
