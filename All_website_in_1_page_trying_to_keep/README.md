@@ -33,7 +33,6 @@
 - PCIe -- https://www.geeksforgeeks.org/what-is-pcieperipheral-component-interconnect-express/
 - PCIX    https://www.geeksforgeeks.org/what-is-pcixperipheral-component-interconnect-extended/
 - Peripherals device https://www.geeksforgeeks.org/peripherals-devices-in-computer-organization/
-
 - 
 - 741 op amp: https://www.elprocus.com/ic-741-op-amp-tutorial-and-characteristics/
 - https://hackatronic.com/universal-nand-gate-truth-table-logic-circuit-ic-7400-pin-diagram/
@@ -55,7 +54,9 @@
 - https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm
 - https://www.electronicsforu.com/technology-trends/learn-electronics/half-adder-full-adder-truth-table-circuit-working-kmap
 - watch from 5 mins for addrer : https://youtu.be/HjneAhCy2N4?si=Tj-t0gPnEui5Gji9 
--
+
+-FILP FLOP: https://www.electronics-tutorial.net/sequential-logic-circuits/d-flip-flop-to-jk-flip-flop/
+
 -   https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 
 - 
