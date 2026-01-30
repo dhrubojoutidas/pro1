@@ -15,8 +15,7 @@
 
 - 
 -
--
--  https://www.learncomputerscienceonline.com/introduction-to-computer-system/
+
   > 📝 **Note:** 
   1.	Core dump yt*
   2.	Branch education yt*
@@ -44,8 +43,6 @@
 - https://activecalculus.org/multi/S-9-5-Lines-Planes.html#:~:text=A%20plane%20p%20in%20space%20is,n%2C%20as%20shown%20in%20Figure%209.5.7.&text=A%20plane%20p%20in,shown%20in%20Figure%209.5.7.&text=p%20in%20space%20is,n%2C%20as%20shown%20in
   
 
-
-
 ### 💻 CLOUD COMPUTING 
 
 - https://www.tutorialspoint.com/cloud_computing/index.htm
@@ -54,41 +51,17 @@
 ### 💻 OS
 - https://www.guru99.com/os-tutorial.html
  
+
+
+
+
 ### ⚙️ Digital Electronics & Logic Design
 - https://hackatronic.com/electronics-tutorial/digital-electronics/
 - https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
+- https://www.electrical4u.com/full-wave-rectifiers/
+- https://www.electrical4u.com/half-wave-rectifiers/
+- https://www.geeksforgeeks.org/physics/full-wave-rectifier/
 
-### 🐍 C programming 
-
-- https://www.w3schools.com/c/c_macros.php
-- https://www.geeksforgeeks.org/c/macros-and-its-types-in-c-cpp/
-- https://gist.github.com/SanourTomal1/de24a679abc4e81dfeb05e6344ce133f
-- https://www.geeksforgeeks.org/c/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/
-- https://electronicsprojects.in/c_programming/compilation-in-c/
-- https://github.com/anisul-Islam/c-programming-documentation
-- 
-- 
-
- 
-MATH TOPIC  
-
-- https://www.mathsisfun.com/data/data.html
-- https://www.elimuza.com/grade-12/grade-12-study-guides-and-notes/mathematics-notes/item/1078-probability
-- https://tutorial.math.lamar.edu/Extras/AlgebraTrigReview/AlgebraTrig.aspx
-- https://origami.guide/instructions/traditional-origami/
-
-physics
-https://www.electrical4u.com/full-wave-rectifiers/
-https://www.electrical4u.com/half-wave-rectifiers/
-https://www.geeksforgeeks.org/physics/full-wave-rectifier/
-
-
-DSA 
-https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-https://yongdanielliang.github.io/animation/web/24Tree.html
-https://www.udacity.com/blog/2021/10/implementing-dijkstras-algorithm-in-python.html
-https://www.geeksforgeeks.org/dsa/introduction-to-dijkstras-shortest-path-algorithm/
-https://www.thedshandbook.com/graphs/
 
  LINUX 
  - https://www.geeksforgeeks.org/linux-unix/shell-scripting-shell-variables/
@@ -98,10 +71,6 @@ https://www.thedshandbook.com/graphs/
  https://askubuntu.com/questions/793507/rm-cannot-remove-directory-permission-denied
  https://www.geeksforgeeks.org/linux-unix/how-to-delete-multiple-lines-in-vim-editor-in-linux/
  - https://www.wikihow.com/Find-Out-Your-IP-Address#:~:text=How%20to%20Find%20out%20your%20IP%20Address%20Windows,adapter.%204%20Look%20at%20the%20.%20See%20More.
-
-
- 
-
 
 
 
@@ -135,11 +104,22 @@ https://www.thedshandbook.com/graphs/
 - HDD :https://www.geeksforgeeks.org/hard-disk-drive-hdd-secondary-memory/
 - SSD:https://www.geeksforgeeks.org/introduction-to-solid-state-drive-ssd/
 - HDD vs SDD:https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
+DDR3vs DDR4
+- https://www.guru99.com/difference-between-ddr3-and-ddr4.html
+- Digital Logic Circuit:https://www.poriyaan.in/paper/digital-logic-circuits-25
+- Subtractor :https://eee.poriyaan.in/topic/subtractors-11620
+- H/A & F/A :https://www.electronicsforu.com/technology-trends/learn-electronics/half-adder-full-adder-truth-table-circuit-working-kmap
+- Security:https://www.techtarget.com/searchdisasterrecovery/definition/disaster-recovery-plan
+- Introduction to memory and memory units - GeeksforGeeks 
+
+
  ---
   
 
 ## 📚 Hardware
 
+-  https://www.learncomputerscienceonline.com/introduction-to-computer-system/
+-  https://www.tutorialspoint.com/computer_fundamentals/index.htm
 ###  MUX
 
 - Details:https://www.electronicshub.org/multiplexerandmultiplexing/
@@ -178,8 +158,6 @@ https://www.thedshandbook.com/graphs/
 - 7 segmnt using adder/sub _lab3task5 : https://www.instructables.com/Showing-4-Bit-Binary-Addition-Through-a-7-Segment-/
 
 
-
-
 ### 7  SEGMENT:
 - https://github.com/marceloboeira/logisim-7-segment-display-driver
 - https://www.electricaltechnology.org/2018/05/bcd-to-7-segment-display-decoder.html
@@ -205,7 +183,38 @@ https://www.thedshandbook.com/graphs/
 - https://www.ti.com/tool/CCSTUDIO#downloads
 - Getting Started with Code Composer Studio:https://www.youtube.com/watch?v=-D7b5e7iofQ
 - Micro processor: https://www.tutorialspoint.com/microprocessor/index.htm
-	 
+
+
+---
+
+### 🐍 C programming 
+
+- https://www.w3schools.com/c/c_macros.php
+- https://www.geeksforgeeks.org/c/macros-and-its-types-in-c-cpp/
+- https://gist.github.com/SanourTomal1/de24a679abc4e81dfeb05e6344ce133f
+- https://www.geeksforgeeks.org/c/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/
+- https://electronicsprojects.in/c_programming/compilation-in-c/
+- https://github.com/anisul-Islam/c-programming-documentation
+
+
+DSA 
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+https://yongdanielliang.github.io/animation/web/24Tree.html
+https://www.udacity.com/blog/2021/10/implementing-dijkstras-algorithm-in-python.html
+https://www.geeksforgeeks.org/dsa/introduction-to-dijkstras-shortest-path-algorithm/
+https://www.thedshandbook.com/graphs/
+
+---
+
+ 
+MATH TOPIC  
+
+- https://www.mathsisfun.com/data/data.html
+- https://www.elimuza.com/grade-12/grade-12-study-guides-and-notes/mathematics-notes/item/1078-probability
+- https://tutorial.math.lamar.edu/Extras/AlgebraTrigReview/AlgebraTrig.aspx
+- https://origami.guide/instructions/traditional-origami/
+
+---
 📘  SOFTWARE  ENGINEERING NOTES 
   
 -https://www.altexsoft.com/blog/non-functional-requirements
@@ -218,7 +227,7 @@ https://www.thedshandbook.com/graphs/
 - https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-an-airline-management-system.md
 - https://online.visual-paradigm.com/diagrams/templates/use-case-diagram/restaurant-management-use-case-diagram/
 
-
+---
 <img width="532" height="398" alt="image" src="https://github.com/user-attachments/assets/693d42df-379b-4a2d-bf87-5c36edb01af1" />
 
 
