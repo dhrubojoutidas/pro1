@@ -48,8 +48,10 @@
 
 ###  MUX
 - https://gateoffline.blogspot.com/2014/11/previous-gate-questions-on-multiplexers.html
- ### HALF ADDER
+ ### ADDER
 - https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm
+- https://www.electronicsforu.com/technology-trends/learn-electronics/half-adder-full-adder-truth-table-circuit-working-kmap
+- 
 - https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 
 - 
