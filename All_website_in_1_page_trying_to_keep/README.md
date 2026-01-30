@@ -195,6 +195,18 @@ https://www.thedshandbook.com/graphs/
 - https://www.ti.com/tool/CCSTUDIO#downloads
 - Getting Started with Code Composer Studio:https://www.youtube.com/watch?v=-D7b5e7iofQ
 - Micro processor: https://www.tutorialspoint.com/microprocessor/index.htm
+	 
+📘  SOFTWARE  ENGINEERING NOTES 
+  
+- https://www.altexsoft.com/blog/non-functional-requirements/
+- https://www.guru99.com/non-functional-testing.html
+- https://www.pmcalculators.com/critical-path-method-calculator/
+- https://www.geeksforgeeks.org/software-engineering/software-engineering/
+- https://www.tutorialspoint.com/software_engineering/index.htm
+- https://www.slideshare.net/slideshow/airline-management-system/210443393
+- https://www.slideshare.net/SuryaIndira/airline-reservation-system-documentation-56706479
+- https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-an-airline-management-system.md
+- https://online.visual-paradigm.com/diagrams/templates/use-case-diagram/restaurant-management-use-case-diagram/
 
 
 <img width="532" height="398" alt="image" src="https://github.com/user-attachments/assets/693d42df-379b-4a2d-bf87-5c36edb01af1" />
