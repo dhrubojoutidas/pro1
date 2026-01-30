@@ -30,10 +30,10 @@ This unique project combined **origami construction** with **statistical analysi
 📄 [Assignment Question PDF](/Linear_Algebra_and_Statistics_for_Engineers/Statistics%20_Assignment%20_question.pdf)
 
 💻 [Liner_Algebra_Statistics_Assignmnt.pdf](/Linear_Algebra_and_Statistics_for_Engineers/Liner_Algebra_Statistics_Assignmnt.pdf) 
-📄for more details check out top pdf 
+📄for more details check out this pdf 
 <img width="711" height="808" alt="image" src="https://github.com/user-attachments/assets/6a41251c-3eb5-4616-8648-21ebb10a0961" />
 <img width="710" height="800" alt="image" src="https://github.com/user-attachments/assets/299b50a3-7742-41bf-a565-9bf2cb861a75" />
-<img width="989" height="728" alt="image" src="https://github.com/user-attachments/assets/257dde4e-09f0-4f49-9cb4-ba5cb6049409" 
+<img width="989" height="728" alt="image" src="https://github.com/user-attachments/assets/257dde4e-09f0-4f49-9cb4-ba5cb6049409" />
 <img width="626" height="779" alt="image" src="https://github.com/user-attachments/assets/6b8c3340-ac5e-4136-a723-df782be925a2" />
 <img width="700" height="812" alt="image" src="https://github.com/user-attachments/assets/16a6dd6a-f764-400d-9aa6-5bff257a2b05" />
 <img width="638" height="782" alt="image" src="https://github.com/user-attachments/assets/23418df1-d261-41af-8047-cc4ececb8dfb" />
