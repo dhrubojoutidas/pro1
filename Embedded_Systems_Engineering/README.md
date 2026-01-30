@@ -25,15 +25,15 @@ The objective was to assess **commercial viability and feasibility** using marke
 - Product/service definition and customer value proposition
 - Pricing strategy with cost, markup, and profit calculations
 - SWOT  (Strengths, weaknesses, opportunities, and threats) analysis supported by academic and industry references
-- 👉  <img width="642" height="816" alt="image" src="https://github.com/user-attachments/assets/e20e2d0b-04e8-4fd5-b6f8-dab45bc6c27f" />
-
 
 
 
 ### 2) Embedded Systems Fundamentals – MSP430 (Energia IDE)
 
 This assignment involved implementing a series of **hands-on embedded system tasks** using the **MSP430FR5739 microcontroller**, focusing on the fundamentals of **firmware development and hardware interaction**.
+
 The work progressed from basic digital I/O control to more advanced concepts such as **interrupt handling, PWM-based actuator control, and analog sensor interfacing**, reflecting the core building blocks used in real embedded systems.
+
 The project emphasised understanding how software interacts with hardware at a low level, including timing, signal control, and responsiveness to external events.
 
 
