@@ -179,9 +179,6 @@ https://www.thedshandbook.com/graphs/
 - What is a Microcontroller and how does it work? :https://youtu.be/t68MG-kVDCU?si=0yIvFQlt3MMqLidm
 - https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
 - https://www.tutorialspoint.com/microprocessor/index.htm
-
--
-
 - Using C++ and WSL in VS Code:https://code.visualstudio.com/docs/cpp/config-wsl
 - mspgcc - Single Line MSP430 Assembler: https://mspgcc.sourceforge.net/assemble.html
 - CCSTUDIO IDE, configuration, compiler or ebugger::https://www.ti.com/tool/CCSTUDIO#downloads
