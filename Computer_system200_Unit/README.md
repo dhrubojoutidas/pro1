@@ -41,19 +41,6 @@ This README explains:
 
 ---
 
-## 🎯 Unit Learning Outcomes
-
-By completing COMP2000, students are expected to:
-
-1. **Explain** the functions and concepts of network operating systems and real‑time OS.  
-2. **Design** configurations for network services (remote access, directory services, etc.).  
-3. **Evaluate** network operating systems and network architectures.  
-4. **Apply** system administration skills in Linux, Windows, and Bash scripting environments.
-
-These outcomes align directly with industry expectations for **junior system administrators, IT support technicians, and DevOps beginners**.
-
----
-
 ## 📝 About the Assignment
 
 The assignment required designing a complete IT system for a company, including:
