@@ -10,7 +10,7 @@ This project involved designing and implementing an **interrupt-based embedded s
 
 The system measures the **ON duration of a physical switch**, processes user-defined thresholds, and provides **real-time feedback** using LEDs, seven-segment displays, and an LCD.
 
-The implementation reflects real-world **embedded systems and firmware development** practices.
+The implementation reflects embedded systems and firmware development practices aligned with real-world workflows
 
 ---
 
@@ -29,13 +29,15 @@ The embedded system performs the following:
 
 ---
 
-## 🛠️ Technical Approach
 
-- Interrupt-driven design (no polling)  
-- Hardware timers for accurate time measurement  
-- External interrupts for switch state detection  
-- Modular, low-level embedded programming (C / Assembly)  
-- State-based control flow for reliability and clarity  
+  ## 🛠️ Technical Approach
+
+- Interrupt-driven design (no polling)
+- Hardware timers for accurate time measurement
+- External interrupts for switch state detection
+- Modular, low-level embedded programming (primarily Assembly, with C where applicable)
+- State-based control flow for reliability and clarity
+
 
 ---
 
@@ -49,12 +51,7 @@ The design incorporates **energy-aware embedded principles**, including:
 
 ---
 
-## 📂 Project Contents
 
-- Embedded source code (C / Assembly)  
-- Executable / hex file for flashing the CLIC3 board  
-- Hardware interaction logic (switches, LEDs, displays)  
-- Technical report documenting design, testing, and results  
 ## 📂 Project Files
 
 - 📄 [Design Assignment Brief (PDF)](./CMPE2003%20Design%20Assignment%202025%20S2.pdf)
@@ -68,6 +65,15 @@ The design incorporates **energy-aware embedded principles**, including:
 - [Bus Write Routine](./BusWrite2.asm)
 - [Digital Lookup Logic](./DigitalLookup.asm)
 - [Main Assembly File](./asm.s43)
+
+
+ ## 🖼️ System Demonstration
+
+The images below show the system in operation:
+- LCD confirming a user-entered threshold value (20 seconds)
+- Seven-segment display showing elapsed ON-time
+- LED indicators reflecting switch state and threshold alarm
+
 
 - The system after setup is highlighted in Figure 1 below. The LCD validates the stored threshold after a threshold value of 20 seconds was entered correctly using the keypad.
 <img width="968" height="682" alt="image" src="https://github.com/user-attachments/assets/1b3750e1-b01b-4ad8-82ac-1bea28326c0f" />
