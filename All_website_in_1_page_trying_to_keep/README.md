@@ -1,4 +1,4 @@
-
+<img width="503" height="23" alt="image" src="https://github.com/user-attachments/assets/f3d271d3-8232-45c0-a0bc-9c1127ceda4f" />
 # 📘 Learning Resources
 
 ## WEBSITE THAT HAS ALL IT SUBJECT
@@ -31,6 +31,7 @@
 ### 💻 CLOUD COMPUTING 
 
 - https://www.tutorialspoint.com/cloud_computing/index.htm
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOFUm7TmkH1zk5xy75GAxV44
 
 ### 💻 OS
 - https://www.guru99.com/os-tutorial.html
@@ -39,7 +40,17 @@
 - https://hackatronic.com/electronics-tutorial/digital-electronics/
 - https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 
+### 🐍 C programming 
 
+- https://www.w3schools.com/c/c_macros.php
+- https://www.geeksforgeeks.org/c/macros-and-its-types-in-c-cpp/
+- https://gist.github.com/SanourTomal1/de24a679abc4e81dfeb05e6344ce133f
+- https://www.geeksforgeeks.org/c/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/
+- https://electronicsprojects.in/c_programming/compilation-in-c/
+- https://github.com/anisul-Islam/c-programming-documentation
+- 
+- 
+- 
 
 
 
