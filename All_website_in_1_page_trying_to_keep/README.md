@@ -8,7 +8,11 @@
 - https://www.geeksforgeeks.org/digital-logic/digital-electronics-logic-design-tutorials
 - https://www.learncomputerscienceonline.com/introduction-to-computer-system/
 - https://www.tutorialspoint.com/computer_science_tutorials.htm
-- https://www.tutorialspoint.com/
+-
+-  https://www.tutorialspoint.com/
+- 1.	Core dump yt  ****
+  2.	Branch education yt  ***
+  3.	Series yt ***  https://youtu.be/ChR7wS94WoY?si=VW31fp6-RxEqlsWW
 
 ## Digital Electronics
 
