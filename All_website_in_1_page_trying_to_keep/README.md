@@ -30,10 +30,11 @@
 
 ### 💻 CLOUD COMPUTING 
 
--https://www.tutorialspoint.com/cloud_computing/index.htm
+- https://www.tutorialspoint.com/cloud_computing/index.htm
  
 ### ⚙️ Digital Electronics & Logic Design
--https://hackatronic.com/electronics-tutorial/digital-electronics/
+- https://hackatronic.com/electronics-tutorial/digital-electronics/
+- https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 
 ### 💻 Computer Science & Programming
 
@@ -110,7 +111,6 @@
 - 7 segmnt using adder/sub _lab3task5 : https://www.instructables.com/Showing-4-Bit-Binary-Addition-Through-a-7-Segment-/
 
 
--   https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 
 
 ### 7  SEGMENT:
