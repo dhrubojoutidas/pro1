@@ -52,25 +52,35 @@ The project emphasised understanding how software interacts with hardware at a l
 
 
 
+### 2) [Embedded Systems Laboratory Project – MSP430 & Arduino (Energia)](./Embedded_Systems_lab_workduring_lab_session.pdf)**
+
+This laboratory project involved completing a series of **supervised, hands-on embedded systems tasks** using the **MSP430FR5739 Experimenter Board** and **Energia IDE**, focusing on practical interaction between software and hardware components.
+
+Although the final modified source code from the lab sessions was not retained, the tasks were completed, demonstrated, and explained during the laboratory assessments. The work required understanding, implementing, and justifying embedded system behaviour in real time.
+
+**Core tasks completed and demonstrated:**
+- Programming the MSP430 to output data to the serial monitor
+- Interfacing a **servo motor** and controlling its motion based on **temperature thresholds**
+- Reading onboard **temperature sensor data** and reacting to environmental changes
+- Using the onboard **accelerometer** and mapping axis data to LED outputs
+- Implementing **calibration logic** using push buttons to reset sensor baselines
+- Combining multiple functionalities into a **mode-based embedded program**
+- Switching operating modes using hardware buttons with serial feedback
+- Establishing **SPI communication between MSP430 and Arduino**
+- Sending strings and control signals from MSP430 to Arduino and displaying output on an **I2C LCD**
+
+**Technical concepts applied:**
+- Embedded C/C++ programming using Energia
+- GPIO control and digital output mapping
+- Interrupt-driven input handling
+- PWM-based servo control
+- ADC usage for sensor input
+- SPI and I2C communication protocols
+- Hardware–software integration and debugging
+- Real-time explanation and justification of embedded behaviour during lab demonstrations
 
 
 
-
--
-## 📂 Files
-- 📄 [Market Research Report (PDF)](./CMPE3001_Market_Research_Assignment.pdf)
-
-*Group academic work for CMPE3001 – Curtin University.*
-
-
-
-### 2) Assignment 2 – (Add your title here)
-👉 [View](./Assignment_2/)
-
-### 3) Assignment 3 – (Add your title here)
-👉 [View](./Assignment_3/)
-
----
 
 *Academic work for CMPE3001 – Curtin University.*
 
