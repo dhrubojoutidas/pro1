@@ -31,8 +31,6 @@ The objective was to assess **commercial viability and feasibility** using marke
 
 
 
-## 🧩 What I Delivered
-- Industry analysis (political, economic, social, technological and industry forces)
 -
 ## 📂 Files
 - 📄 [Market Research Report (PDF)](./CMPE3001_Market_Research_Assignment.pdf)
