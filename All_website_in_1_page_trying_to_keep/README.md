@@ -13,10 +13,8 @@
 - Engineering tutorial
 - CSE sem wise topic
 
-- 
--
 
-  > 📝 **Note:** 
+  > 📝 **YOU TUBE VIDEOS** 
   1.	Core dump yt*
   2.	Branch education yt*
   3.	Series yt *  https://youtu.be/ChR7wS94WoY?si=VW31fp6-RxEqlsWW
@@ -34,7 +32,8 @@
   15.	how com r made in factory https://youtu.be/O9vO_CVNXlg?si=mzE00hNCbElm1OQq
   16.	HOW TRANSISTORS RUN CODE?   https://youtu.be/HjneAhCy2N4?si=e_03Rxm4lNCZiske
   
-💻visme software
+💻**AI APP /WEBSITE** 
+- visme software
 - https://www.edraw.ai/feature/online-ai-mind-map-maker.html
 - https://app.diagrams.net/#G1jBAbslI8QQAUWY7f3uuWEQCz8vP68FIB  
 - https://convertpdftoword.com/
@@ -42,7 +41,7 @@
 - presentation maker:https://www.slideteam.net/Free-Online-AI-Presentation-Maker- 
 - https://activecalculus.org/multi/S-9-5-Lines-Planes.html#:~:text=A%20plane%20p%20in%20space%20is,n%2C%20as%20shown%20in%20Figure%209.5.7.&text=A%20plane%20p%20in,shown%20in%20Figure%209.5.7.&text=p%20in%20space%20is,n%2C%20as%20shown%20in
   
-
+---
 ### 💻 CLOUD COMPUTING 
 
 - https://www.tutorialspoint.com/cloud_computing/index.htm
@@ -50,10 +49,8 @@
 
 ### 💻 OS
 - https://www.guru99.com/os-tutorial.html
- 
-
-
-
+  
+--- 
 
 ### ⚙️ Digital Electronics & Logic Design
 - https://hackatronic.com/electronics-tutorial/digital-electronics/
@@ -61,19 +58,6 @@
 - https://www.electrical4u.com/full-wave-rectifiers/
 - https://www.electrical4u.com/half-wave-rectifiers/
 - https://www.geeksforgeeks.org/physics/full-wave-rectifier/
-
-
- LINUX 
- - https://www.geeksforgeeks.org/linux-unix/shell-scripting-shell-variables/
- - https://www.geeksforgeeks.org/linux-unix/input-output-redirection-in-linux/
- https://www.geeksforgeeks.org/linux-unix/linux-directory-structure/
- https://www.technewstoday.com/rmdir-directory-not-empty/
- https://askubuntu.com/questions/793507/rm-cannot-remove-directory-permission-denied
- https://www.geeksforgeeks.org/linux-unix/how-to-delete-multiple-lines-in-vim-editor-in-linux/
- - https://www.wikihow.com/Find-Out-Your-IP-Address#:~:text=How%20to%20Find%20out%20your%20IP%20Address%20Windows,adapter.%204%20Look%20at%20the%20.%20See%20More.
-
-
-
 ---
 
 ## TRANSMISSION
@@ -100,13 +84,10 @@
 - ROM :https://learn.circuitverse.org/docs/comb-lsi/rom.html
 - 741 op amp: https://www.elprocus.com/ic-741-op-amp-tutorial-and-characteristics/
 - https://hackatronic.com/universal-nand-gate-truth-table-logic-circuit-ic-7400-pin-diagram/
-  HDD &  SSD
 - HDD :https://www.geeksforgeeks.org/hard-disk-drive-hdd-secondary-memory/
 - SSD:https://www.geeksforgeeks.org/introduction-to-solid-state-drive-ssd/
 - HDD vs SDD:https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
-- 
-DDR3vs DDR4
-- https://www.guru99.com/difference-between-ddr3-and-ddr4.html
+- DDR3vs DDR4: https://www.guru99.com/difference-between-ddr3-and-ddr4.html
 - Digital Logic Circuit:https://www.poriyaan.in/paper/digital-logic-circuits-25
 - Subtractor :https://eee.poriyaan.in/topic/subtractors-11620
 - H/A & F/A :https://www.electronicsforu.com/technology-trends/learn-electronics/half-adder-full-adder-truth-table-circuit-working-kmap
@@ -188,6 +169,16 @@ DDR3vs DDR4
 
 ---
 
+ ### LINUX 
+ - https://www.geeksforgeeks.org/linux-unix/shell-scripting-shell-variables/
+ - https://www.geeksforgeeks.org/linux-unix/input-output-redirection-in-linux/
+ -  https://www.geeksforgeeks.org/linux-unix/linux-directory-structure/
+ -   https://www.technewstoday.com/rmdir-directory-not-empty/
+ - https://askubuntu.com/questions/793507/rm-cannot-remove-directory-permission-denied
+ - https://www.geeksforgeeks.org/linux-unix/how-to-delete-multiple-lines-in-vim-editor-in-linux/
+ - https://www.wikihow.com/Find-Out-Your-IP-Address#:~:text=How%20to%20Find%20out%20your%20IP%20Address%20Windows,adapter.%204%20Look%20at%20the%20.%20See%20More.
+
+
 ### 🐍 C programming 
 
 - https://www.w3schools.com/c/c_macros.php
@@ -198,17 +189,18 @@ DDR3vs DDR4
 - https://github.com/anisul-Islam/c-programming-documentation
 
 
-DSA 
-https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-https://yongdanielliang.github.io/animation/web/24Tree.html
-https://www.udacity.com/blog/2021/10/implementing-dijkstras-algorithm-in-python.html
-https://www.geeksforgeeks.org/dsa/introduction-to-dijkstras-shortest-path-algorithm/
-https://www.thedshandbook.com/graphs/
+### DSA 
+
+- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+- https://yongdanielliang.github.io/animation/web/24Tree.html
+- https://www.udacity.com/blog/2021/10/implementing-dijkstras-algorithm-in-python.html
+- https://www.geeksforgeeks.org/dsa/introduction-to-dijkstras-shortest-path-algorithm/
+- https://www.thedshandbook.com/graphs/
 
 ---
 
  
-MATH TOPIC  
+### MATH TOPIC  
 
 - https://www.mathsisfun.com/data/data.html
 - https://www.elimuza.com/grade-12/grade-12-study-guides-and-notes/mathematics-notes/item/1078-probability
@@ -216,7 +208,7 @@ MATH TOPIC
 - https://origami.guide/instructions/traditional-origami/
 
 ---
-📘  SOFTWARE  ENGINEERING NOTES 
+  ### 📘SOFTWARE  ENGINEERING NOTES 
   
 -https://www.altexsoft.com/blog/non-functional-requirements
 - https://www.guru99.com/non-functional-testing.html 
@@ -229,6 +221,31 @@ MATH TOPIC
 - https://online.visual-paradigm.com/diagrams/templates/use-case-diagram/restaurant-management-use-case-diagram/
 
 ---
+ ### 🐍PYTHON RESOUCES 
+
+ # PLOT RELATED
+ - https://matplotlib.org/stable/plot_types/index.html
+ - https://www.scaler.com/topics/matplotlib/save-a-plot-in-matplotlib/
+ - https://bespokeblog.wordpress.com/2011/07/11/basic-data-plotting-with-matplotlib-part-3-histograms/
+ - pyplot tutorial :https://matplotlib.org/2.0.2/users/pyplot_tutorial.html
+ - PLOT types:https://nbviewer.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
+ - 2d &3D plottign JUPITER :https://datacarpentry.github.io/python-ecology-lesson/08-putting-it-all-together.html
+ - Data Analysis & Visualization in Python for Ecologists:https://datacarpentry.github.io/python-ecology-lesson/08-putting-it-all-together.html
+ - Simple Graphing with IPython and Pandas:https://pbpython.com/simple-graphing-pandas.html
+ - Chart Suggestions—A Thought-Starter:https://pbpython.com/simple-graphing-pandas.html
+ - 
+-
+ - 
+
+
+# FUNTIONS
+ - https://en.wikibooks.org/wiki/Think_Python/Functions
+ - https://scikit-image.org/docs/stable/user_guide/numpy_images.html
+ - https://scipy-lectures.org/intro/numpy/array_object.html#numpy-arrays
+
+
+
+
 <img width="532" height="398" alt="image" src="https://github.com/user-attachments/assets/693d42df-379b-4a2d-bf87-5c36edb01af1" />
 
 
