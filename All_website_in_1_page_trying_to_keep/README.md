@@ -198,8 +198,10 @@ https://www.thedshandbook.com/graphs/
 	 
 📘  SOFTWARE  ENGINEERING NOTES 
   
-- https://www.altexsoft.com/blog/non-functional-requirements/
-- https://www.guru99.com/non-functional-testing.html
+- [Functional VS Non fucntional](./https://www.altexsoft.com/blog/non-functional-requirements/
+https://www.guru99.com/non-functional-testing.html)
+
+- 
 - https://www.pmcalculators.com/critical-path-method-calculator/
 - https://www.geeksforgeeks.org/software-engineering/software-engineering/
 - https://www.tutorialspoint.com/software_engineering/index.htm
