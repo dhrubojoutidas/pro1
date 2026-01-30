@@ -88,7 +88,11 @@ It showcases hands-on experience across **networking, systems administration, da
  🐍 Python Automation  
 - File handling  
 - Data processing  
-- Calculations  
+- Calculations
+- UCP
+- TRANSMIISON
+- ELEN
+- HARWDARE
 
 
  5️⃣📌9️⃣🔌📜📋 🗄️🧩   4️⃣  ✈️ 
