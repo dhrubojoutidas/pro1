@@ -114,3 +114,6 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 - Week 13 – Final Video + Report  
 
 ---
+[micro](./https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electronics/Microwave_and_RF_Design_II_-_Transmission_Lines_(Steer)/02%3A_Transmission_Lines/2.07%3A_Models_of_Transmission_Lines)
+
+
