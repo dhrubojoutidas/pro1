@@ -19,14 +19,11 @@
 -https://hackatronic.com/electronics-tutorial/digital-electronics/
 
 ### 💻 Computer Science & Programming
-- https://www.tutorialspoint.com/computer_science_tutorials.htm
-- https://www.tutorialspoint.com/
 
  ## TRANSMISSION 
  
  ### nte sure
- 
- 
+  
 - https://www.geeksforgeeks.org/computer-networks/difference-between-synchronous-and-asynchronous-transmission/
 - https://www.computer.org/publications/tech-news/trends/synchronous-asynchronous-data-transmission
 - https://youtube.com/shorts/QitKWsHBfCY?
@@ -40,7 +37,6 @@
 - Details of PCIX -- https://www.geeksforgeeks.org/what-is-pcixperipheral-component-interconnect-extended/
 - Peripherals device https://www.geeksforgeeks.org/peripherals-devices-in-computer-organization/
 - 
-
 - 
 - ROM :https://learn.circuitverse.org/docs/comb-lsi/rom.html
 
@@ -49,12 +45,11 @@
 
 
 
+- 
+- HDD :https://www.geeksforgeeks.org/hard-disk-drive-hdd-secondary-memory/
+- SSD:https://www.geeksforgeeks.org/introduction-to-solid-state-drive-ssd/
+- HDD vs SDD:https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
 
-https://www.electronicsforu.com/technology-trends/learn-electronics/flip-flop-rs-jk-t-d 
-https://www.tutorialspoint.com/digital-electronics/digital-electronics-latches.htm
-Details here --- https://www.electronics-tutorial.net/sequential-logic-circuits/d-flip-flop-to-jk-flip-flop/
-
-HDD vs SDD  https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
 
 
 ## 📚 Hardware
@@ -78,6 +73,9 @@ HDD vs SDD  https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd
 - https://www.allaboutelectronics.org/t-flip-flop-working-circuit-diagram-excitation-table-and-characteristic-equation-of-t-flip-flop/
 - https://www.allaboutelectronics.org/master-slave-flip-flop-explained/
 - this yt for flip flop* :https://youtu.be/DBTna2ydmC0?si=QyiR3L_4VX31Jj8L
+- https://www.electronicsforu.com/technology-trends/learn-electronics/flip-flop-rs-jk-t-d
+- Details here --- https://www.electronics-tutorial.net/sequential-logic-circuits/d-flip-flop-to-jk-flip-flop/
+- https://www.tutorialspoint.com/digital-electronics/digital-electronics-latches.htm
   
 ### SEQUENTIALvs COMBINATON CIRUIT: 
 - *https://www.hackatronic.com/difference-between-combinational-and-sequential-circuits/
@@ -94,13 +92,7 @@ HDD vs SDD  https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd
 - 7 segmnt using adder/sub _lab3task5 : https://www.instructables.com/Showing-4-Bit-Binary-Addition-Through-a-7-Segment-/
 
 
-
 -   https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
-
-- 
-- HDD -- https://www.geeksforgeeks.org/hard-disk-drive-hdd-secondary-memory/
-- SSD    https://www.geeksforgeeks.org/introduction-to-solid-state-drive-ssd/
-- HDD vs SDD https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
 
 
 ### 7  SEGMENT:
