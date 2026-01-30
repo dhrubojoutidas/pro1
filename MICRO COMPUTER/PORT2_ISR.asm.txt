@@ -1,0 +1,410 @@
+#include "msp430f5308.h"
+
+;--------------------------------------------------------
+; External References for shared variables
+;--------------------------------------------------------
+        EXTERN  BusAddress
+        EXTERN  BusData
+        EXTERN  BusRead
+        EXTERN  BusWrite
+        
+        EXTERN  KeyPadAddr
+        EXTERN  LookupKeys
+        EXTERN  Count
+        
+        EXTERN  DelCount
+        EXTERN  Threshold
+        EXTERN  ThresholdSet
+        EXTERN  InputState
+        EXTERN  KeyPad
+        EXTERN  LookupSeg
+        EXTERN  KeyCode
+        EXTERN  segHighAddr
+        EXTERN  segLowAddr
+        EXTERN  InputState
+        EXTERN  PORT_THRESHOLD
+
+;--------------------------------------------------------
+; PORT2 Interrupt Service Routine (Keypad Handler)
+;--------------------------------------------------------
+
+        RSEG CODE
+        PUBLIC  PORT2_ISR
+
+PORT2_ISR:
+        ; --- Save used registers (R12, R11, R10, R9 are now used) ---
+        PUSH    R9              ; R15 is now R9
+        PUSH    R10             ; R14 is now R10
+        PUSH    R11             ; R13 is now R11
+        PUSH    R12             ; R12 remains R12
+        
+        ; --- Read keypad ---
+        MOV.W   #KeyPadAddr, BusAddress
+        CALLA   #BusRead
+        MOV.B   BusData, KeyPad
+
+        ; --- Debounce delay ---
+        MOV.W   #5000, DelCount
+DebounceLoop:
+        DEC.W   DelCount
+        JNZ     DebounceLoop
+
+        CLR.B   R12                      ; R12 = index (key value 0-15)
+KeyLoop:
+        CMP.B   #16, R12
+        JGE     ClearFlag_Exit           ; Exit if no match
+
+        MOV.B   R12, R11                 ; R13 -> R11
+        RLA.W   R11                      ; R11 = R12*2 (lookup offset)
+        MOVA    #LookupKeys, R10         ; R14 -> R10
+        ADDA    R11, R10
+        MOV.W   @R10, R11
+        CMP.B   KeyPad, R11
+        JNE     NextKey
+        
+        ; ------------------------------------------------------------------
+        ; --- Key matched ---
+        ; R12 now holds the key value (0-15).
+        ; ------------------------------------------------------------------
+        
+        ; Filter: Only process keys 0-9 (R12 index 0-9)
+        CMP.B   #10, R12
+        JGE     KeyProcessed             ; Skip logic if not a numerical key (A-F)
+        
+        
+        CMP.B   #0, InputState           ; Check InputState (0 = Waiting for 1st digit)
+        JNE     SecondDigit              ; If not 0, jump to SecondDigit logic
+        
+        ; --- FIRST DIGIT (Tens) ---
+        MOV.B   R12, Threshold               ; Set Count = Key Value (e.g., 5)
+        MOV.B   #1, InputState           ; Set state to wait for 2nd digit
+        JMP     UpdateDisplay
+        
+SecondDigit:
+        ; --- SECOND DIGIT (Units) ---
+        ; Final Count = (First Digit * 10) + Second Digit
+        
+        ; Store first digit value (Count) in R11 for multiplication ; R13 -> R11
+        MOV.B   Threshold, R11               
+        
+        ; Multiplication by 10: R11 = Count * 10 (Using shifts/adds: *8 + *2) ; R13 -> R11
+        RLA.W   R11                      ; R11 = Count * 2
+        MOV.W   R11, R10                 ; R14 -> R10 | R10 = Count * 2
+        RLA.W   R10                      ; R10 = Count * 4
+        RLA.W   R10                      ; R10 = Count * 8
+        ADD.B   R11, R10                 ; R10 = Count * 10 (High byte of R10 is zeroed)
+        
+        ; Add the new key value (R12)
+        ADD.B   R12, R10                 ; R10 = (Count * 10) + New Key Value (R12)
+        MOV.B   R10, Threshold               ; Update Count
+        
+        CLR.B   InputState               ; Reset state to wait for a fresh 1st digit
+        
+        ; If 2nd digit is pressed, the input must be <= 99. No wrap check needed here, but the 
+        ; multiplication by 10 ensures 10*9 + 9 = 99 max.
+        
+        MOV.W   #1, ThresholdSet
+                
+UpdateDisplay:  
+        ; ------------------------------------------------------------------
+        ; --- Binary-to-BCD Conversion (for display) and Display Update ---
+        ; This handles the conversion of binary Count (0-99) into two BCD digits.
+        ; ------------------------------------------------------------------
+        
+        MOV.B   Threshold, R10               ; R14 -> R10 | R10 = Count (Binary 0-99)
+        CLR.W   R9                       ; R15 -> R9 | R9 = Tens (init to 0)
+        
+ConvertLoop:                             ; Subtraction-based BCD conversion for 0-99
+        CMP.B   #10, R10                 ; Is Count >= 10?
+        JL      BCD_Done                 ; No, R10 is the Units digit
+        
+        SUB.B   #10, R10                 ; Count = Count - 10
+        INC.W   R9                       ; R9 = Tens + 1
+        JMP     ConvertLoop
+        
+BCD_Done:
+        ; R9 now holds the Tens digit (0-9)
+        ; R10 now holds the Units digit (0-9)
+        
+        ; ------------------------------------------------------------------
+        ; --- NEW CODE: Write BCD Digits to LCD Line 2 (INLINED) ---
+        ; ------------------------------------------------------------------
+        
+        ; 1. Send Command to set DDRAM address to start of Line 2 (0xC0)
+        BIS.B   #UCTXSTT, &UCB1CTL1      ; START condition
+Wait_Cmd1:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_Cmd1
+        MOV.B   #00h, &UCB1TXBUF         ; Control byte: command mode
+Wait_Cmd2:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_Cmd2
+        MOV.B   #08bh, &UCB1TXBUF        ; COMMAND: Jump to 2nd line (0xC0)
+Wait_Cmd3:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_Cmd3
+        BIS.B   #UCTXSTP, &UCB1CTL1      ; STOP condition after command
+Wait_Stop_Cmd:
+        BIT.B   #UCTXSTP, &UCB1CTL1
+        JNZ     Wait_Stop_Cmd
+        BIC.B   #UCTXIFG, &UCB1IFG       ; Clear TX flag
+
+        ; 2. Send Data (The two digits)
+        BIS.B   #UCTXSTT, &UCB1CTL1      ; START condition for data transfer
+Wait_TX_D1:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX_D1
+        MOV.B   #040h, &UCB1TXBUF        ; Control byte: data mode
+
+        ; Send Tens digit (R9) - Convert to ASCII by adding '0' (0x30)
+Wait_TX_D2:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX_D2
+        ADD.B   #0x30, R9                ; Convert digit (0-9) to ASCII ('0'-'9')
+        MOV.B   R9, &UCB1TXBUF           ; Send Tens ASCII
+        
+        ; Send Units digit (R10) - Convert to ASCII by adding '0' (0x30)
+Wait_TX_D3:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX_D3
+        ADD.B   #0x30, R10               ; Convert digit (0-9) to ASCII ('0'-'9')
+        MOV.B   R10, &UCB1TXBUF          ; Send Units ASCII
+
+        ; Send STOP condition
+Wait_TX_D4:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX_D4
+        BIS.B   #UCTXSTP, &UCB1CTL1      ; STOP condition
+Wait_Stop_D:
+        BIT.B   #UCTXSTP, &UCB1CTL1
+        JNZ     Wait_Stop_D
+        BIC.B   #UCTXIFG, &UCB1IFG       ; Clear TX flag
+
+        ; ------------------------------------------------------------------
+        ; --- Revert R9 and R10 from ASCII to BCD for 7-Segment lookup ---
+        ; This is crucial since the next block uses them for lookup!
+        ; ------------------------------------------------------------------
+        SUB.B   #0x30, R9
+        SUB.B   #0x30, R10
+
+KeyProcessed:                            ; Jump point for non-numerical keys
+
+NextKey:
+        INC.B   R12
+        JMP     KeyLoop
+
+ClearFlag_Exit:
+        ; --- Restore registers (R12, R11, R10, R9) ---
+        POP     R12
+        POP     R11
+        POP     R10
+        POP     R9
+        
+        BIC.B   #0x01, &P2IFG
+        RETI
+        
+END#include "msp430f5308.h"
+
+;--------------------------------------------------------
+; External References for shared variables
+;--------------------------------------------------------
+        EXTERN  BusAddress         ; Bus Address register for peripheral access
+        EXTERN  BusData            ; Bus Data register for peripheral R/W
+        EXTERN  BusRead            ; Routine to perform Bus Read
+        EXTERN  BusWrite           ; Routine to perform Bus Write
+        
+        EXTERN  KeyPadAddr         ; Address of the KeyPad peripheral
+        EXTERN  LookupKeys         ; Lookup table for physical keypad matrix codes
+        EXTERN  Count              ; Global counter (unused in this ISR, but included for context)
+        
+        EXTERN  DelCount           ; Variable used for software delay loop
+        EXTERN  Threshold          ; Stores the calculated 2-digit number (0-99)
+        EXTERN  ThresholdSet       ; Flag (1 if Threshold is set, 0 otherwise)
+        EXTERN  InputState         ; State machine for 2-digit input (0=waiting for tens, 1=waiting for units)
+        EXTERN  KeyPad             ; Stores the raw byte read from the KeyPad peripheral
+        EXTERN  LookupSeg          ; 7-Segment display lookup table (not used in display logic here)
+        EXTERN  KeyCode            ; Stores the last successful key index (0-15)
+        EXTERN  segHighAddr        ; Address for high 7-segment display (not used here)
+        EXTERN  segLowAddr         ; Address for low 7-segment display (not used here)
+        EXTERN  PORT_THRESHOLD     ; Not used in this routine, but maintained
+        
+;--------------------------------------------------------
+; PORT2 Interrupt Service Routine (Keypad Handler)
+; This routine debounces a key press, determines the key value (0-15),
+; processes numerical input for a 2-digit threshold (0-99), converts
+; the result to BCD, and updates an I2C-connected LCD display.
+;--------------------------------------------------------
+
+        RSEG CODE
+        PUBLIC  PORT2_ISR
+
+PORT2_ISR:
+        ; --- Save used registers (R9, R10, R11, R12) ---
+        PUSH    R9                 ; Save register R9 (used for Tens digit later)
+        PUSH    R10                ; Save register R10 (used for Units digit, multiplication)
+        PUSH    R11                ; Save register R11 (used for Lookup offset, multiplication)
+        PUSH    R12                ; Save register R12 (used for Key Index)
+        
+        ; --- Read Keypad Hardware Register ---
+        MOV.W   #KeyPadAddr, BusAddress ; Set address pointer to KeyPad peripheral
+        CALLA   #BusRead           ; Execute peripheral read
+        MOV.B   BusData, KeyPad    ; Store the raw keypad value (active low bit mask)
+        
+        ; --- Debounce delay (Busy Wait) ---
+        MOV.W   #5000, DelCount    ; Load delay counter value
+DebounceLoop:
+        DEC.W   DelCount           ; Decrement counter
+        JNZ     DebounceLoop       ; Loop until DelCount is zero (simple debounce delay)
+
+        CLR.B   R12                ; Initialize R12 as the key index (0-15)
+KeyLoop:
+        CMP.B   #16, R12           ; Check if R12 (index) has reached the end of the 4x4 matrix
+        JGE     ClearFlag_Exit     ; If index >= 16, no match was found, exit routine
+        
+        ; --- Calculate LookupKeys Table Offset ---
+        MOV.B   R12, R11           ; R11 = Current Key Index (0-15)
+        RLA.W   R11                ; R11 = R11 * 2 (Word offset for LookupKeys)
+        MOVA    #LookupKeys, R10   ; R10 = Base address of the key map table
+        ADDA    R11, R10           ; R10 = Address of the key map entry for current index
+        MOV.W   @R10, R11          ; R11 = Expected raw KeyPad value for this key (word-sized)
+        CMP.B   KeyPad, R11        ; Compare the read KeyPad value with the expected value
+        JNE     NextKey            ; If no match, try the next key index
+        
+        ; ------------------------------------------------------------------
+        ; --- Key matched: R12 now holds the key value (0-15) ---
+        ; ------------------------------------------------------------------
+        
+        ; Filter: Only numerical keys (R12 index 0-9) are processed for threshold input
+        CMP.B   #10, R12
+        JGE     KeyProcessed       ; If R12 >= 10 (key 'A' or higher), skip input logic
+        
+        
+        CMP.B   #0, InputState     ; Check if InputState is 0 (Waiting for the Tens digit)
+        JNE     SecondDigit        ; If InputState is 1, jump to Unit digit logic
+        
+        ; --- FIRST DIGIT (Tens) Logic ---
+        MOV.B   R12, Threshold     ; Store the key value (0-9) as the temporary Threshold (Tens digit)
+        MOV.B   #1, InputState     ; Set state to 1 (Waiting for the Units digit)
+        JMP     UpdateDisplay      ; Proceed to BCD conversion and display update
+        
+SecondDigit:
+        ; --- SECOND DIGIT (Units) Logic ---
+        ; Final calculation: Threshold = (Existing Threshold * 10) + New Key Value
+        
+        ; 1. Multiply existing Threshold (Tens digit) by 10
+        MOV.B   Threshold, R11     ; R11 = Existing Threshold (Tens digit)
+        
+        RLA.W   R11                ; R11 = Threshold * 2
+        MOV.W   R11, R10           ; R10 = Threshold * 2
+        RLA.W   R10                ; R10 = Threshold * 4
+        RLA.W   R10                ; R10 = Threshold * 8
+        ADD.B   R11, R10           ; R10 = (Threshold * 8) + (Threshold * 2) = Threshold * 10
+        
+        ; 2. Add the Units digit
+        ADD.B   R12, R10           ; R10 = (Threshold * 10) + New Key Value (R12)
+        MOV.B   R10, Threshold     ; Update the global Threshold variable (final value 0-99)
+        
+        CLR.B   InputState         ; Reset state to 0 (Ready for a fresh 2-digit input)
+        
+        MOV.W   #1, ThresholdSet   ; Set the flag indicating a new threshold value is available
+        
+UpdateDisplay: 
+        ; ------------------------------------------------------------------
+        ; --- Binary-to-BCD Conversion (0-99) ---
+        ; ------------------------------------------------------------------
+        
+        MOV.B   Threshold, R10     ; R10 = Current Threshold (Binary 0-99)
+        CLR.W   R9                 ; R9 = Tens digit (Initialized to 0)
+        
+ConvertLoop:                       ; Subtraction-based BCD conversion
+        CMP.B   #10, R10           ; Is Count (R10) >= 10?
+        JL      BCD_Done           ; No, R10 is the Units digit; conversion is done
+        
+        SUB.B   #10, R10           ; R10 = R10 - 10 (Remove a group of ten)
+        INC.W   R9                 ; R9 = R9 + 1 (Increment the Tens digit counter)
+        JMP     ConvertLoop        ; Repeat until R10 < 10
+        
+BCD_Done:
+        ; R9 holds the Tens digit (0-9)
+        ; R10 holds the Units digit (0-9)
+        
+        ; ------------------------------------------------------------------
+        ; --- I2C LCD Display Update (Inlined) ---
+        ; I2C is assumed to be configured on UCB1.
+        ; ------------------------------------------------------------------
+        
+        ; 1. Send Command: Set DDRAM address to Line 2 (0xC0 equivalent)
+        BIS.B   #UCTXSTT, &UCB1CTL1  ; Generate I2C START condition
+Wait_Cmd1:
+        BIT.B   #UCTXIFG, &UCB1IFG ; Wait for TX buffer ready (UCTXIFG is set when Start bit is sent)
+        JZ      Wait_Cmd1
+        MOV.B   #00h, &UCB1TXBUF   ; Send Control byte: Command mode (Co=0, RS=0)
+Wait_Cmd2:
+        BIT.B   #UCTXIFG, &UCB1IFG ; Wait for TX buffer ready
+        JZ      Wait_Cmd2
+        MOV.B   #08bh, &UCB1TXBUF  ; Send Command: Set DDRAM Address to line 2 (using 0x8B instruction)
+Wait_Cmd3:
+        BIT.B   #UCTXIFG, &UCB1IFG ; Wait for TX buffer ready
+        JZ      Wait_Cmd3
+        BIS.B   #UCTXSTP, &UCB1CTL1  ; Generate I2C STOP condition after command
+Wait_Stop_Cmd:
+        BIT.B   #UCTXSTP, &UCB1CTL1  ; Wait until the STOP condition transmission is complete
+        JNZ     Wait_Stop_Cmd
+        BIC.B   #UCTXIFG, &UCB1IFG ; Clear the TX flag (if needed, though I2C status should handle this)
+
+        ; 2. Send Data: The two ASCII digits
+        BIS.B   #UCTXSTT, &UCB1CTL1  ; Generate I2C START condition for data transfer
+Wait_TX_D1:
+        BIT.B   #UCTXIFG, &UCB1IFG ; Wait for TX buffer ready
+        JZ      Wait_TX_D1
+        MOV.B   #040h, &UCB1TXBUF  ; Send Control byte: Data mode (Co=0, RS=1)
+
+        ; Send Tens digit (R9)
+Wait_TX_D2:
+        BIT.B   #UCTXIFG, &UCB1IFG ; Wait for TX buffer ready
+        JZ      Wait_TX_D2
+        ADD.B   #0x30, R9          ; Convert Tens digit (0-9) to ASCII ('0'-'9')
+        MOV.B   R9, &UCB1TXBUF     ; Send Tens digit ASCII to I2C TX buffer
+        
+        ; Send Units digit (R10)
+Wait_TX_D3:
+        BIT.B   #UCTXIFG, &UCB1IFG ; Wait for TX buffer ready
+        JZ      Wait_TX_D3
+        ADD.B   #0x30, R10         ; Convert Units digit (0-9) to ASCII ('0'-'9')
+        MOV.B   R10, &UCB1TXBUF    ; Send Units digit ASCII to I2C TX buffer
+
+        ; Send STOP condition
+Wait_TX_D4:
+        BIT.B   #UCTXIFG, &UCB1IFG ; Wait for TX buffer ready for the final transmission
+        JZ      Wait_TX_D4
+        BIS.B   #UCTXSTP, &UCB1CTL1  ; Generate I2C STOP condition
+Wait_Stop_D:
+        BIT.B   #UCTXSTP, &UCB1CTL1  ; Wait until the STOP condition transmission is complete
+        JNZ     Wait_Stop_D
+        BIC.B   #UCTXIFG, &UCB1IFG ; Clear the TX flag
+
+        ; ------------------------------------------------------------------
+        ; --- RESTORE R9 and R10 from ASCII to BCD (0-9) ---
+        ; This step is necessary if R9/R10 were to be used later for BCD-based
+        ; 7-segment lookups (e.g., using LookupSeg).
+        ; ------------------------------------------------------------------
+        SUB.B   #0x30, R9
+        SUB.B   #0x30, R10
+
+KeyProcessed:                      ; Jump point for non-numerical keys and finished input logic
+
+NextKey:
+        INC.B   R12                ; Increment to check the next key index
+        JMP     KeyLoop            ; Continue scanning the LookupKeys table
+
+ClearFlag_Exit:
+        ; --- Restore used registers (R12, R11, R10, R9) ---
+        POP     R12
+        POP     R11
+        POP     R10
+        POP     R9
+        
+        BIC.B   #0x01, &P2IFG      ; Clear the P2IFG bit for the source of the interrupt (assuming P2.0 triggered it)
+        RETI                       ; Return from Interrupt (restores SR and continues main code execution)
+        
+END

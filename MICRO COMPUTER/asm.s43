@@ -1,0 +1,572 @@
+#include "msp430f5308.h"
+
+;--------------------------------------------------------
+; External References for I/O functions
+;--------------------------------------------------------
+        EXTERN  Initial
+        EXTERN  BusRead
+        EXTERN  BusWrite
+
+        EXTERN  SSG0
+        EXTERN  PORT2_ISR
+
+        PUBLIC  main
+
+;--------------------------------------------------------
+; Define shared bridge variables
+;--------------------------------------------------------
+        RSEG    DATA16_Z
+        PUBLIC  BusAddress
+        PUBLIC  BusData
+        PUBLIC  ThresholdSet
+       
+        PUBLIC KeyPadAddr
+        PUBLIC segHighAddr
+        PUBLIC segLowAddr
+        PUBLIC LookupKeys
+        PUBLIC LookupSeg
+       
+        PUBLIC Count
+
+BusAddress:     DS16 1
+BusData:        DS16 1
+ThresholdSet:   DS8  1             ; 0: Not Set, 1: Set
+Count:          DS8  1
+
+;--------------------------------------------------------
+; Constants (I/O addresses)
+;--------------------------------------------------------
+switchAddress   EQU   0x4000       ; Switch input port
+ledAddress      EQU   0x4002       ; LED output port
+segLowAddr      EQU   0x4004       ; Lower SSD
+segHighAddr     EQU   0x4006       ; Upper SSD
+KeyPadAddr      EQU   0x4008       ; Keypad
+
+LookupKeys:
+        DW 0x0082,0x0011,0x0012,0x0014,0x0021,0x0022,0x0024,0x0041
+        DW 0x0042,0x0044,0x0081,0x0084,0x0088,0x0048,0x0028,0x0018
+       
+LookupSeg:
+        DW 0x0040,0x0079,0x0024,0x0030,0x0019,0x0012,0x0002,0x0078
+        DW 0x0000,0x0018,0x0008,0x0003,0x0046,0x0021,0x0006,0x000E
+
+        RSEG    DATA16_I
+        PUBLIC KeyPad
+        PUBLIC DelCount
+        PUBLIC InputState
+        PUBLIC Threshold
+        PUBLIC KeyCode
+        PUBLIC PORT_THRESHOLD
+       
+        LINE1:      DB  "Threshold:     "
+        LINE2:      DB  "Elapsed:  "
+        LINE_EXCEED: DB "THRESHOLD EXCEED"
+        DelCount:   DS16 1
+        Threshold:  DS8  1              ; Stores the accumulated decimal value (0-99)
+        InputState: DS8  1              ; 0: Waiting for 1st digit, 1: Waiting for 2nd digit
+        KeyPad:     DS8  1
+        KeyCode:    DS16 1    
+        BlinkStatus: DS16 1
+        MaxElapsed: DS16  1
+       
+;--------------------------------------------------------
+; Stack and code section
+;--------------------------------------------------------
+        RSEG    CSTACK
+        RSEG    CODE
+       
+; PORT Masks
+PORT1:    EQU 01h                         ; PJ.0
+PORT2:    EQU 02h                         ; PJ.1
+PORT3:    EQU 04h                         ; PJ.2
+PORT4:    EQU 08h                         ; PJ.3
+PORT5:    EQU 10h                         ; P3.4
+PORT6:    EQU 20h                         ; P3.5
+PORT7:    EQU 40h                         ; P3.6
+PORT8:    EQU 80h                         ; P3.7
+
+PORT_NONE:         EQU 00h
+PORT_THRESHOLD:    EQU 81h                         ; P3.7
+
+RESET:
+         MOV     #SFE(CSTACK), SP     ; Initialize stack pointer
+
+main:
+        CALLA   #Initial              ; Board setup
+        MOV.W   #0, ThresholdSet
+        MOV.W   #0, BlinkStatus
+       
+;================================================================================
+;  I2C setup  (UCB1 on P4.1 = SDA, P4.2 = SCL)
+;================================================================================
+        BIS.B   #UCSWRST, &UCB1CTL1            ; Hold eUSCI_B1 in reset
+        MOV.B   #(UCMST + UCMODE_3 + UCSYNC), &UCB1CTL0  ; I2C master, sync
+        BIS.B   #(UCTR + UCSSEL_2), &UCB1CTL1 ; TX mode, SMCLK
+        MOV.B   #63, &UCB1BR0                 ; Clock divider ~400kHz
+        MOV.B   #0,  &UCB1BR1
+        MOV.W   #03Eh, &UCB1I2CSA             ; Slave address = 0x3E
+
+        BIS.B   #06h, &P4SEL                  ; P4.1/P4.2 = SDA/SCL
+        BIC.B   #UCSWRST, &UCB1CTL1           ; Release reset
+
+;================================================================================
+;  LCD initialization sequence
+;================================================================================
+        BIS.B   #UCTXSTT, &UCB1CTL1           ; START condition
+
+; Send control + command bytes
+        MOV.B   #00h, &UCB1TXBUF              ; Control byte: command mode
+
+Wait_TX1:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX1
+
+        MOV.B   #039h, &UCB1TXBUF             ; Function set
+Wait_TX2:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX2
+
+        MOV.B   #014h, &UCB1TXBUF             ; Internal oscillator freq
+Wait_TX3:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX3
+
+        MOV.B   #074h, &UCB1TXBUF             ; Contrast set
+Wait_TX4:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX4
+
+        MOV.B   #054h, &UCB1TXBUF             ; Power/ICON control
+Wait_TX5:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX5
+
+        MOV.B   #06Fh, &UCB1TXBUF             ; Follower control
+Wait_TX6:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX6
+
+        MOV.B   #00Eh, &UCB1TXBUF             ; Display ON, cursor ON
+Wait_TX7:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX7
+
+        MOV.B   #001h, &UCB1TXBUF             ; Clear display
+Wait_TX8:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX8
+
+        BIS.B   #UCTXSTP, &UCB1CTL1           ; STOP condition
+Wait_Stop1:
+        BIT.B   #UCTXSTP, &UCB1CTL1
+        JNZ     Wait_Stop1
+
+        BIC.B   #UCTXIFG, &UCB1IFG            ; Clear TX flag
+
+; Simple delay
+        MOV.W   #10000, R4
+Delay1: DEC.W   R4
+        JNZ     Delay1
+       
+;================================================================================
+;  Write first line
+;================================================================================
+        BIS.B   #UCTXSTT, &UCB1CTL1           ; START
+        MOV.B   #040h, &UCB1TXBUF             ; Control byte: data mode
+Wait_TX9:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX9
+
+        MOV.W   #LINE1, R7
+        MOV.B   #16, Count
+       
+WriteLine1:
+        MOV.B   @R7+, &UCB1TXBUF
+Wait_TX10:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_TX10
+        DEC.B   Count
+        JNZ     WriteLine1
+
+        BIS.B   #UCTXSTP, &UCB1CTL1           ; STOP
+Wait_Stop2:
+        BIT.B   #UCTXSTP, &UCB1CTL1
+        JNZ     Wait_Stop2
+        BIC.B   #UCTXIFG, &UCB1IFG
+
+; Short delay
+        MOV.W   #200, R4
+Delay2: DEC.W   R4
+        JNZ     Delay2
+
+;================================================================================
+;  Setup for keypad and enable Timer interrupt
+;================================================================================
+       
+        ; --- Initialize Input State and Count ---
+        CLR.B   InputState              ; Start waiting for the first digit (State = 0)
+        CLR.B   Threshold                   ; Start display at 00
+        CLR.B   Count
+
+        ; --- Port 2 Keypad Interrupt Setup (P2.0) ---
+        BIC.B   #0x01, &P2IES           ; Positive edge trigger
+        BIS.B   #0x01, &P2IE            ; Enable interrupt on P2.0
+        BIC.B   #0x01, &P2IFG           ; Clear P2.0 flag
+        CLR.B   &P1IFG                  ; Clear P1 flags (just in case)
+
+        ; --- Enable Timer A1 CCR0 Interrupt ---
+        BIS.W   #CCIE, &TA1CCTL0        ; Enable CCR0 interrupt
+
+        EINT                            ; Enable global interrupts
+
+;================================================================================
+;  Main Loop with Low Power Mode
+;================================================================================
+
+MainLoop:
+        ; --- Read S3 switch ---
+        MOV.W   #switchAddress, BusAddress
+        CALLA   #BusRead
+        MOV.W   BusData, R4
+        BIT.W   #PORT8, R4
+        JZ SwitchOff
+
+SwitchOn:
+        ; --- Enter LPM0 and wait for TimerA1 interrupt ---
+        BIS.W   #LPM0 + GIE, SR         ; Enter LPM0 with interrupts enabled
+        NOP                             ; Required after LPM instruction
+       
+        ; CPU wakes here after Timer interrupt
+       
+        ; --- Increment tick accumulator ---
+        INC.W   R8
+        CMP.W   #300, R8
+        JL SkipIncrement
+        MOV.W   #0, R8                   ; reset accumulator
+        CMP.W   #99, R5
+        JEQ CounterMaxed ; If R5 == 99, skip increment
+        INC.W   R5                        ; increment counter (once every 10 ticks)
+        MOV.W R5, MaxElapsed
+CounterMaxed:
+SkipIncrement:
+
+        ; --- Convert counter to BCD digits ---
+        MOV.W   R5, R6
+        CLR.W   R13                        ; tens
+
+DivideLoop:
+        CMP.W   #10, R6
+        JL DoneDivide
+        SUB.W   #10, R6
+        INC.W R13
+        JMP DivideLoop
+DoneDivide:
+        MOV.W R6, R14        
+
+; ================================================================================
+; --- Write "Elapsed: XX" or "Threshold Excd XX" to LCD Line 2 ---
+; ================================================================================
+        MOV.W R13, R9                          ; R9 = Tens BCD digit
+        MOV.W R14, R10                         ; R10 = Units BCD digit
+
+; 1. Command: Set DDRAM address to start of Line 2 (0xC0)
+        BIS.B   #UCTXSTT, &UCB1CTL1            ; START condition
+Wait_L2_Cmd1:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_L2_Cmd1
+        MOV.B   #00h, &UCB1TXBUF               ; Control byte: command mode
+Wait_L2_Cmd2:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_L2_Cmd2
+        MOV.B   #0C0h, &UCB1TXBUF              ; COMMAND: Jump to 2nd line (0xC0)
+Wait_L2_Cmd3:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_L2_Cmd3
+        BIS.B   #UCTXSTP, &UCB1CTL1            ; STOP condition after command
+Wait_L2_Stop_Cmd:
+        BIT.B   #UCTXSTP, &UCB1CTL1
+        JNZ     Wait_L2_Stop_Cmd
+        BIC.B   #UCTXIFG, &UCB1IFG             ; Clear TX flag
+
+; 2. Send Data: String + XX + spaces
+        BIS.B   #UCTXSTT, &UCB1CTL1            ; START condition for data transfer
+Wait_L2_TX_D1:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_L2_TX_D1
+        MOV.B   #040h, &UCB1TXBUF              ; Control byte: data mode
+
+        ; **Determine which string to write**
+        CMP.B #0, &ThresholdSet
+        JEQ SelectElapsed
+        MOV.B &Threshold, R4
+        CMP.W R4, R5
+        JL SelectElapsed
+        JEQ SelectElapsed
+
+SelectExceed:
+        MOV.W   #LINE_EXCEED, R7
+        MOV.B   #14, Count                     ; LINE_EXCEED string length (14 chars)
+        JMP WriteString
+
+SelectElapsed:
+        MOV.W   #LINE2, R7
+        MOV.B   #9, Count                      ; LINE2 string length (9 chars)
+
+WriteString:
+        MOV.B   @R7+, &UCB1TXBUF
+Wait_L2_TX_Text:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_L2_TX_Text
+        DEC.B   Count
+        JNZ     WriteString
+
+        ; Send Tens digit (R9) - Convert to ASCII
+Wait_L2_TX_Tens:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_L2_TX_Tens
+        ADD.B   #0x30, R9                      ; Convert digit (0-9) to ASCII ('0'-'9')
+        MOV.B   R9, &UCB1TXBUF                 ; Send Tens ASCII
+
+        ; Send Units digit (R10) - Convert to ASCII
+Wait_L2_TX_Units:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_L2_TX_Units
+        ADD.B   #0x30, R10                     ; Convert digit (0-9) to ASCII ('0'-'9')
+        MOV.B   R10, &UCB1TXBUF                ; Send Units ASCII
+
+       
+        MOV.B   #5, Count                      ; **ASSUME 5 SPACES (Default for LINE2)**
+       
+        CMP.B #0, &ThresholdSet                ; Check if Threshold is set
+        JEQ ClearL2Tail_Start                  ; If not set, use default 5 spaces (already in Count)
+       
+        MOV.B &Threshold, R4                   ; Threshold is set, check value
+        CMP.W R4, R5
+        JL ClearL2Tail_Start                   ; If R5 < R4, use LINE2 (default 5 spaces)
+       
+        ; If we reach here, Threshold is set AND R5 >= R4, so LINE_EXCEED was used.
+        MOV.B   #0, Count                      ; **SET 0 SPACES (For LINE_EXCEED)**
+
+ClearL2Tail_Start:                             ; **Start Padding Loop Logic**
+        CMP.B   #0, Count                      ; **Check if Count is 0**
+        JEQ Wait_L2_TX_Stop_Check              ; If 0, skip padding loop
+ClearL2Tail:
+Wait_L2_TX_Pad:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_L2_TX_Pad
+        MOV.B   #' ', &UCB1TXBUF               ; Send Space (0x20)
+        DEC.B   Count
+        JNZ     ClearL2Tail
+
+        ; Send STOP condition
+Wait_L2_TX_Stop_Check:                         ; **New label to skip padding loop**
+Wait_L2_TX_Stop:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_L2_TX_Stop
+        BIS.B   #UCTXSTP, &UCB1CTL1            ; STOP condition
+Wait_L2_Stop_D:
+        BIT.B   #UCTXSTP, &UCB1CTL1
+        JNZ     Wait_L2_Stop_D
+        BIC.B   #UCTXIFG, &UCB1IFG             ; Clear TX flag
+
+; ================================================================================
+
+        ; --- Lookup 7-segment patterns (Calling external routine) ---
+        MOV.W R13, R4
+        ADD.W R4, R4
+        MOV.W SSG0(R4), BusData
+        MOV.W BusData, R13                ; tens pattern
+        MOV.W R14, R4
+        ADD.W R4, R4
+        MOV.W SSG0(R4), BusData
+        MOV.W BusData, R14                ; units pattern
+
+        ; --- Update SSDs ---
+        MOV.W #segLowAddr, BusAddress
+        MOV.W R14, BusData
+        CALLA #BusWrite
+        MOV.W #segHighAddr, BusAddress
+        MOV.W R13, BusData
+        CALLA #BusWrite
+
+       ; --- LEDs on (Conditional Logic with Blinking) ---
+        MOV.W #ledAddress, BusAddress
+       
+        ; 1. Check if ThresholdSet is NOT set (ThresholdSet == 0)
+        CMP.B #0, &ThresholdSet
+        JEQ Set_PORT8_Pattern    ; If ThresholdSet == 0, display PORT8
+       
+        ; --- ThresholdSet IS set (ThresholdSet != 0) ---
+       
+        ; 2. Compare Count (R5) with Threshold variable
+        ; Load 8-bit Threshold value into R4 (0-extended for 16-bit comparison)
+        MOV.B &Threshold, R4      
+        CMP.W R4, R5              ; Compare Counter (R5 - 16bit) vs Threshold (R4 - 16bit zero-extended)
+
+        ; If Counter <= Threshold, use PORT8 pattern (Condition 2)
+        JL Set_PORT8_Pattern    
+        JEQ Set_PORT8_Pattern
+       
+        CMP.W #99, R5
+        JEQ Blink_State1
+
+        ; 3. Condition 3: ThresholdSet == 1 AND Count > Threshold -> Blinking Logic
+        ; Blinking is controlled by R8 (tick accumulator, period is 300 counts)
+        CMP.W #150, R8 ; Check if we are in the first or second half of the R8 cycle
+        JGE Blink_State2 ; Jump if R8 >= 150 (second half of the R8 period)
+       
+        ; Blink State 1 (R8 < 150): Display PORT_THRESHOLD
+Blink_State1:
+        MOV.W #~PORT_THRESHOLD, BusData ; Active low pattern (PORT_THRESHOLD)
+        JMP WriteLED
+       
+Blink_State2:
+        ; Blink State 2 (R8 >= 150): Display PORT8 (This creates the blink effect)
+        MOV.W #~PORT8, BusData          ; Active low pattern (PORT8)
+        JMP WriteLED
+
+Set_PORT8_Pattern:
+        ; Conditions 1 or 2 met (Threshold not set OR Count <= Threshold)
+        MOV.W #~PORT8, BusData          ; Active low pattern (PORT8)
+
+WriteLED:
+        CALLA #BusWrite
+
+AfterLED:
+        JMP     MainLoop
+
+SwitchOff:
+        ; --- Convert MaxElapsed value to BCD digits ---
+        MOV.W   MaxElapsed, R6
+        CLR.W   R9                        ; tens digit in R9
+        CLR.W   R10                       ; units digit in R10
+
+DivideLoop_Off:
+        CMP.W   #10, R6
+        JL DoneDivide_Off
+        SUB.W   #10, R6
+        INC.W R9
+        JMP DivideLoop_Off
+DoneDivide_Off:
+        MOV.W R6, R10        
+       
+        MOV.W #0, R5
+        MOV.W #0, R8                         ; reset tick accumulator
+       
+        ; --- Clear 7-segment displays ---
+        MOV.W #segLowAddr, BusAddress
+        MOV.W SSG0, BusData        ; Use Digit0's address for the pattern
+        CALLA #BusWrite
+        MOV.W #segHighAddr, BusAddress
+        MOV.W SSG0, BusData        ; Use Digit0's address for the pattern
+        CALLA #BusWrite
+       
+        ; --- Turn off LEDs ---
+        MOV.W #ledAddress, BusAddress
+        MOV.W #00FFh, BusData
+        CALLA #BusWrite
+       
+        ; --- Update LCD Line 2 to show "Elapsed: XX" (with last value) ---
+        ; Command: Set DDRAM address to start of Line 2 (0xC0)
+        BIS.B   #UCTXSTT, &UCB1CTL1            ; START condition
+Wait_Off_Cmd1:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_Off_Cmd1
+        MOV.B   #00h, &UCB1TXBUF               ; Control byte: command mode
+Wait_Off_Cmd2:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_Off_Cmd2
+        MOV.B   #0C0h, &UCB1TXBUF              ; COMMAND: Jump to 2nd line (0xC0)
+Wait_Off_Cmd3:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_Off_Cmd3
+        BIS.B   #UCTXSTP, &UCB1CTL1            ; STOP condition after command
+Wait_Off_Stop_Cmd:
+        BIT.B   #UCTXSTP, &UCB1CTL1
+        JNZ     Wait_Off_Stop_Cmd
+        BIC.B   #UCTXIFG, &UCB1IFG             ; Clear TX flag
+
+        ; Send Data: "Elapsed: XX     " (16 chars total)
+        BIS.B   #UCTXSTT, &UCB1CTL1            ; START condition for data transfer
+Wait_Off_TX_D1:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_Off_TX_D1
+        MOV.B   #040h, &UCB1TXBUF              ; Control byte: data mode
+
+        ; Write "Elapsed: " string (9 chars)
+        MOV.W   #LINE2, R7
+        MOV.B   #9, Count
+WriteOff_String:
+Wait_Off_TX_Text:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_Off_TX_Text
+        MOV.B   @R7+, &UCB1TXBUF
+        DEC.B   Count
+        JNZ     WriteOff_String
+
+        ; Send Tens digit (R9) - Convert to ASCII
+Wait_Off_TX_Tens:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_Off_TX_Tens
+        ADD.B   #0x30, R9                      ; Convert digit (0-9) to ASCII ('0'-'9')
+        MOV.B   R9, &UCB1TXBUF                 ; Send Tens ASCII
+       
+        ; Send Units digit (R10) - Convert to ASCII
+Wait_Off_TX_Units:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_Off_TX_Units
+        ADD.B   #0x30, R10                     ; Convert digit (0-9) to ASCII ('0'-'9')
+        MOV.B   R10, &UCB1TXBUF                ; Send Units ASCII
+
+        ; Pad with 5 spaces
+        MOV.B   #5, Count
+ClearOff_Tail:
+Wait_Off_TX_Pad:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_Off_TX_Pad
+        MOV.B   #' ', &UCB1TXBUF               ; Send Space
+        DEC.B   Count
+        JNZ     ClearOff_Tail
+
+        ; Send STOP condition
+Wait_Off_TX_Stop:
+        BIT.B   #UCTXIFG, &UCB1IFG
+        JZ      Wait_Off_TX_Stop
+        BIS.B   #UCTXSTP, &UCB1CTL1            ; STOP condition
+Wait_Off_Stop_D:
+        BIT.B   #UCTXSTP, &UCB1CTL1
+        JNZ     Wait_Off_Stop_D
+        BIC.B   #UCTXIFG, &UCB1IFG             ; Clear TX flag
+       
+        ; --- Enter LPM3 when switch is off (deeper sleep) ---
+        BIS.W   #LPM3 + GIE, SR         ; Enter LPM3 with interrupts enabled
+        NOP                             ; Required after LPM instruction
+       
+        JMP MainLoop
+
+;================================================================================
+; Timer A1 ISR - Wakes CPU from LPM0
+;================================================================================
+        RSEG    CODE
+        PUBLIC  TIMER1_A0_ISR
+
+TIMER1_A0_ISR:
+        BIC.W   #CCIFG, &TA1CCTL0       ; Clear CCR0 interrupt flag
+        BIC.W   #LPM0, 0(SP)            ; Clear LPM0 bits from saved SR on stack
+        RETI                            ; Return from interrupt
+
+;--------------------------------------------------------
+; Interrupt vector table
+;--------------------------------------------------------
+
+        RSEG INTVEC
+        ORG RESET_VECTOR
+        DW RESET
+
+        ORG PORT2_VECTOR
+        DW PORT2_ISR
+
+        ORG TIMER1_A0_VECTOR
+        DW TIMER1_A0_ISR
+
+END
