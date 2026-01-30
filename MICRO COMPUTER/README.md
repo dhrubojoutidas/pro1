@@ -55,6 +55,19 @@ The design incorporates **energy-aware embedded principles**, including:
 - Executable / hex file for flashing the CLIC3 board  
 - Hardware interaction logic (switches, LEDs, displays)  
 - Technical report documenting design, testing, and results  
+## 📂 Project Files
+
+- 📄 [Design Assignment Brief (PDF)](./CMPE2003%20Design%20Assignment%202025%20S2.pdf)
+- 📄 [Final Design Report (PDF)](./CMPE2003%20MICROCOMPUTERS_Design_Report2025.pdf)
+- 🎥 [Demonstration Video](./mico_Ass_demo_Video.mp4)
+
+### 🧠 Assembly Source Files
+- [Initialization Code](./Initial.asm)
+- [PORT2 Interrupt Service Routine](./PORT2_ISR.asm)
+- [Bus Read Routine](./BusRead2.asm)
+- [Bus Write Routine](./BusWrite2.asm)
+- [Digital Lookup Logic](./Digitallookup.asm)
+- [Main Assembly File](./asm.s43)
 
 ---
 
