@@ -28,14 +28,13 @@ The objective was to assess **commercial viability and feasibility** using marke
 
 
 
-### 2) **[Embedded Systems Fundamentals – MSP430 (Energia IDE)](./LAB1_Getting_start_project_REPORT.pdf)**
+**### 2) [Embedded Systems Fundamentals – MSP430 (Energia IDE)](./LAB1_Getting_start_project_REPORT.pdf)**
 
 This assignment involved implementing a series of **hands-on embedded system tasks** using the **MSP430FR5739 microcontroller**, focusing on the fundamentals of **firmware development and hardware interaction**.
 
 The work progressed from basic digital I/O control to more advanced concepts such as **interrupt handling, PWM-based actuator control, and analog sensor interfacing**, reflecting the core building blocks used in real embedded systems.
 
 The project emphasised understanding how software interacts with hardware at a low level, including timing, signal control, and responsiveness to external events.
-
 
 
 **Key skills and concepts demonstrated:**
@@ -48,6 +47,7 @@ The project emphasised understanding how software interacts with hardware at a l
 - Hardware–software integration and debugging on physical boards
 - Writing clear technical documentation and structured lab reports
 
+<img width="987" height="802" alt="image" src="https://github.com/user-attachments/assets/7638e3af-f302-401d-a545-d49577de41c1" />
 
 
 
