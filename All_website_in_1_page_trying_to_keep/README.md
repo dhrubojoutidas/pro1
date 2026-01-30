@@ -21,8 +21,15 @@
 - https://www.tutorialspoint.com/computer_science_tutorials.htm
 - https://www.tutorialspoint.com/
 
- 
 
+
+
+ ## TRANSMISSION 
+- https://www.geeksforgeeks.org/computer-networks/difference-between-synchronous-and-asynchronous-transmission/
+- https://www.computer.org/publications/tech-news/trends/synchronous-asynchronous-data-transmission
+- https://youtube.com/shorts/QitKWsHBfCY?
+- SERIAL Vs PARREL : https://www.geeksforgeeks.org/difference-between-serial-and-parallel-transmission/
+ 
 
 
 ## 📚 Hardware
