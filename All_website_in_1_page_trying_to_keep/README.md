@@ -5,6 +5,14 @@
 - https://www.geeksforgeeks.org/digital-logic/digital-electronics-logic-design-tutorials
 - https://www.learncomputerscienceonline.com/introduction-to-computer-system/
 - https://www.tutorialspoint.com/computer_science_tutorials.htm
+- https://eee.poriyaan.in/
+- https://www.guru99.com/
+- https://www.tutorialspoint.com/difference-between-for-loop-and-while-loop-in-python#
+- https://www.tutorialspoint.com/top-categories.htm
+- Engineering tutorial
+- CSE sem wise topic
+
+- 
 -
 -  https://www.tutorialspoint.com/
   > 📝 **Note:** 
