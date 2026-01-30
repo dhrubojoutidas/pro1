@@ -104,6 +104,7 @@
 - HDD :https://www.geeksforgeeks.org/hard-disk-drive-hdd-secondary-memory/
 - SSD:https://www.geeksforgeeks.org/introduction-to-solid-state-drive-ssd/
 - HDD vs SDD:https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
+- 
 DDR3vs DDR4
 - https://www.guru99.com/difference-between-ddr3-and-ddr4.html
 - Digital Logic Circuit:https://www.poriyaan.in/paper/digital-logic-circuits-25
