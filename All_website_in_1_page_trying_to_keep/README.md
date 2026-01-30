@@ -1,7 +1,4 @@
 
-
-
-
 # 📘 Learning Resources
 
 Curated study links for Digital Electronics, Logic Design, Programming, and Computer Science.
@@ -9,10 +6,9 @@ Curated study links for Digital Electronics, Logic Design, Programming, and Comp
 ## WEBSITE THAT HAS ALL IT SUBJECT
 
 - https://www.geeksforgeeks.org/digital-logic/digital-electronics-logic-design-tutorials
-- [cs, hardwrae, databssde,CPU all ](./https://www.learncomputerscienceonline.com/introduction-to-computer-system/)
-- [p](./https://www.learncomputerscienceonline.com/introduction-to-computer-system/)
 - https://www.learncomputerscienceonline.com/introduction-to-computer-system/
-- 
+- https://www.tutorialspoint.com/computer_science_tutorials.htm
+- https://www.tutorialspoint.com/
 
 ## Digital Electronics
 - https://www.tutorialspoint.com/digital-electronics/
@@ -27,6 +23,8 @@ Curated study links for Digital Electronics, Logic Design, Programming, and Comp
 
 ## Hardware 
 - https://gateoffline.blogspot.com/2014/11/previous-gate-questions-on-multiplexers.html
+  #  ADDER
+- https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm
 
 
 ## 📚 Study & Learning Resources
