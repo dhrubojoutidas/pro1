@@ -1,125 +1,74 @@
-
 # COMP2000 – Computer Systems  
-### Assignment: IT Infrastructure Design for Menu Butler Pty Ltd  
+### IT Infrastructure Design Project
 
 ---
 
-## 📌 Overview
-  
+## 📌 Project Summary
 
-This repository contains my major project for **COMP2000 – Computer Systems**, a unit focused on practical system administration, network services, security, and infrastructure design.
+This project involved designing a **complete IT infrastructure** for a real-world company as part of the COMP2000 (Computer Systems) unit at Curtin University.
 
-The assignment required me to analyse a real-world company and design a complete IT system that supports its operations.  
-I selected **Menu Butler Pty Ltd**, a Perth-based software company that builds self‑service kiosk solutions for restaurants.
+I analysed **Menu Butler Pty Ltd**, a Perth-based software company, and produced a practical IT system design that supports its business operations across multiple departments and locations.
 
-This README explains:
-
-- What the COMP2000 unit teaches  
-- Why this assignment exists  
-- How the assignment connects to real system administration work  
-- What skills I demonstrated through this project  
-- What files are included  
+The outcome reflects the responsibilities of a **junior system administrator / IT support professional** in a real organisation.
 
 ---
-<img width="784" height="835" alt="image" src="https://github.com/user-attachments/assets/84bf0e78-a92d-406f-a212-f9dcc3bcf1c7" />
 
+## 🏢 Client Context
 
-## 📂 Files Included
+**Menu Butler Pty Ltd** develops self-service kiosk software for restaurants and operates from two locations:
+
+- **Perth CBD** – Software development, R&D, design, client relations  
+- **Subiaco** – Sales, marketing, customer support, finance, HR  
+
+---
+
+## 🧩 What Was Delivered
+
+The project produced a documented IT infrastructure design including:
+
+- Organisational and departmental IT requirements  
+- Desktop, server, and software specifications  
+- Network topology and system architecture  
+- User access and permission structure  
+- Backup and disaster recovery strategy  
+- Security considerations and controls  
+- End-to-end technical documentation  
+
+A complete **network and system architecture diagram** was also created.
+
+---
+
+## 📂 Project Files
+
 
 📄 **[Open: Computer System assignment.pdf](./Computer%20System%20assignment.pdf)**
 🧩 **[Open: cs_computer_diagram.svg](./cs_computer_diagram.svg)**
 
-
-### Key topics include:
-- Linux system administration (Red Hat RH124 & RH134)
-- Windows administration fundamentals
-- Network operating systems (NOS)
-- Network services (DNS, FTP, Web, remote access)
-- User and permission management
-- Backup, archiving, and disaster recovery
-- Bash scripting and automation
-- Virtualization and cloud computing
-- Network security fundamentals
-
+<img width="784" height="835" alt="image" src="https://github.com/user-attachments/assets/84bf0e78-a92d-406f-a212-f9dcc3bcf1c7" />
 ---
 
-## 📝 About the Assignment
+## 🛠️ Skills Applied
 
-The assignment required designing a complete IT system for a company, including:
-
-- Staff structure and departmental analysis  
-- IT requirements for each department  
-- Server and desktop requirements  
-- Network topology  
-- Printing and scanning solutions  
-- Backup and disaster recovery plan  
-- Cybersecurity considerations  
-- Documentation of all decisions  
-
-This project simulates the responsibilities of a **junior system administrator** working in a real organisation.
-
----
-
-## 🧩 Assignment: Menu Butler IT System Design
-
-### 📍 Company Summary
-Menu Butler Pty Ltd is a Perth-based software company with two branches:
-
-- **Perth CBD** – Software development, R&D, design, client relations  
-- **Subiaco** – Sales, marketing, customer support, admin, finance, HR  
-
-The company builds self‑service kiosk software for restaurants.
-
-### 🏗️ What I Designed
-This project includes:
-
-- Full organisational structure  
-- IT requirements for every department  
-- Desktop and software requirements  
-- Server and network infrastructure  
-- Printing and scanning solutions  
-- Backup and disaster recovery strategy  
-- Security tools and policies  
-- A complete network topology diagram  
-
-### 🛠️ Skills Demonstrated
-Through this assignment, I applied:
-
-- Linux and Windows system administration knowledge  
-- Understanding of network services and architectures  
-- IT infrastructure planning  
-- Cybersecurity awareness  
+- Linux and Windows system administration  
+- Network services and infrastructure planning  
+- Backup and disaster recovery design  
+- Security-aware system design  
 - Technical documentation  
-- Real-world problem solving  
-- Department‑based IT requirement analysis  
-
-This mirrors the work done by:
-
-- IT Support Technicians  
-- System Administrators  
-- Network Administrators  
-- Junior DevOps Engineers  
-
+- Real-world IT problem analysis  
 
 ---
 
-## 📚 What I Learned
+## 🎯 Outcome
 
-This project strengthened my skills in:
+This project demonstrates my ability to:
 
-- Linux administration  
-- Windows administration  
-- Bash scripting  
-- Network services  
-- Disaster recovery planning  
-- IT infrastructure design  
-- Technical writing and documentation
-
+- Analyse business requirements  
+- Design practical, scalable IT systems  
+- Document infrastructure decisions clearly  
+- Apply system administration knowledge in real-world scenarios  
 
 ---
 
-## ✔️ Notes
+*Academic work completed for COMP2000 – Curtin University.*
 
-This repository is part of my academic work for COMP2000 at Curtin University.  
-It demonstrates my ability to design and document real-world IT systems.
 
