@@ -21,6 +21,8 @@ This README explains:
 - What files are included  
 
 ---
+<img width="784" height="835" alt="image" src="https://github.com/user-attachments/assets/84bf0e78-a92d-406f-a212-f9dcc3bcf1c7" />
+
 
 ## 📂 Files Included
 
