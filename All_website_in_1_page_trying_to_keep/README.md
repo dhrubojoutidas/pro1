@@ -67,13 +67,11 @@
 - for advantage/disadvantage  details:https://www.hackatronic.com/difference-between-multiplexer-and-demultiplexer-with-types/
 - Greek :https://www.geeksforgeeks.org/multiplexers-in-digital-logic/
 - Math solve  https://www.geeksforgeeks.org/solving-multiplexer-circuit/
--https://gateoffline.blogspot.com/2014/11/previous-gate-questions-on-multiplexers.html
- 
+- https://gateoffline.blogspot.com/2014/11/previous-gate-questions-on-multiplexers.html
 - https://www.geeksforgeeks.org/computer-networks/difference-between-synchronous-and-asynchronous-transmission/
 - https://www.computer.org/publications/tech-news/trends/synchronous-asynchronous-data-transmission
 - https://youtube.com/shorts/QitKWsHBfCY?
-- SERIAL Vs PARREL : https://www.geeksforgeeks.org/difference-between-serial-and-parallel-transmission/
-- 
+- SERIAL Vs PARREL : https://www.geeksforgeeks.org/difference-between-serial-and-parallel-transmission/- 
 - PCIe -- https://www.geeksforgeeks.org/what-is-pcieperipheral-component-interconnect-express/
 - PCIX    https://www.geeksforgeeks.org/what-is-pcixperipheral-component-interconnect-extended/
 - Peripherals device  in com organization --- https://www.geeksforgeeks.org/peripherals-devices-in-computer-organization/
