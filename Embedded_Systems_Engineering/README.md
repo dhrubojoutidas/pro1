@@ -74,5 +74,39 @@ Although the final modified source code from the lab sessions was not retained, 
 
 
 
+## 📂 Repository Files (Click to Open)
+
+### 📄 Reports & Documentation
+1. **[Market Research Project – Smart Vending System](./Market_Reserch_Project.pdf)**  
+   Market and costing analysis proposing a smart vending machine concept focused on sanitary and personal hygiene products.
+
+2. **[Embedded Systems Lab Work (During Lab Sessions)](./Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)**  
+   Documentation of supervised laboratory tasks demonstrating real-time embedded behaviour and hardware interaction.
+
+3. **[LAB 1 – Getting Started with Energia & MSP430 (Brief)](./LAB1_Getting%20Started%20with%20Energia%20and%20MSP430%20Experimenter%E2%80%99s%20Board.pdf)**  
+   Assignment brief outlining embedded system fundamentals using the MSP430 Experimenter Board.
+
+4. **[LAB 1 – Getting Started Project Report](./LAB1_Getting_start_project_REPORT.pdf)**  
+   Formal report documenting implementation, testing, and results for the MSP430 lab tasks.
+
+---
+
+### 💻 Embedded Source Code (Energia / MSP430)
+5. **[Round Robin LED Control Example](./Round_Robin_Example.ino)**  
+   GPIO sequencing and timing control using Energia.
+
+6. **[Push Button Interrupt Example](./Push_Button_Example.ino)**  
+   Interrupt-driven input handling with debouncing concepts.
+
+7. **[NTC Temperature Sensor – Energia Sketch](./NTC_FRAM.ino)**  
+   Reading temperature data and reacting to threshold conditions.
+
+8. **[NTC Sensor Header File](./FraunchPad_NTC.h)**  
+   Sensor interface definitions.
+
+9. **[NTC Sensor Source File](./FraunchPad_NTC.cpp)**  
+   Sensor logic and data processing implementation.
+
+
 *Academic work for CMPE3001 – Curtin University.*
 
