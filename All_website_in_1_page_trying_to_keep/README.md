@@ -44,7 +44,13 @@
 ## 📚 Hardware
 
 ###  MUX
+
+- Details:https://www.electronicshub.org/multiplexerandmultiplexing/
+- for advantage/disadvantage  details:https://www.hackatronic.com/difference-between-multiplexer-and-demultiplexer-with-types/
+- Greek :https://www.geeksforgeeks.org/multiplexers-in-digital-logic/
+- Math solve  https://www.geeksforgeeks.org/solving-multiplexer-circuit/
 - https://gateoffline.blogspot.com/2014/11/previous-gate-questions-on-multiplexers.html
+
  ### ADDER
 - https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm
 - https://www.electronicsforu.com/technology-trends/learn-electronics/half-adder-full-adder-truth-table-circuit-working-kmap
