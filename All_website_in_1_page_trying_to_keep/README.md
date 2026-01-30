@@ -25,6 +25,21 @@
   15.	how com r made in factory https://youtu.be/O9vO_CVNXlg?si=mzE00hNCbElm1OQq
   16.	HOW TRANSISTORS RUN CODE?   https://youtu.be/HjneAhCy2N4?si=e_03Rxm4lNCZiske
   
+💻visme software
+- https://www.edraw.ai/feature/online-ai-mind-map-maker.html
+- https://app.diagrams.net/#G1jBAbslI8QQAUWY7f3uuWEQCz8vP68FIB
+- 
+- https://convertpdftoword.com/
+- https://writesonic.com/blog/chatgpt-alternatives
+- 
+- presentation maker:https://www.slideteam.net/Free-Online-AI-Presentation-Maker
+- 
+- https://activecalculus.org/multi/S-9-5-Lines-Planes.html#:~:text=A%20plane%20p%20in%20space%20is,n%2C%20as%20shown%20in%20Figure%209.5.7.&text=A%20plane%20p%20in,shown%20in%20Figure%209.5.7.&text=p%20in%20space%20is,n%2C%20as%20shown%20in
+- 
+- 
+- 
+
+
 
 
 ### 💻 CLOUD COMPUTING 
