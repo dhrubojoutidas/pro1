@@ -16,16 +16,19 @@ The implementation reflects embedded systems and firmware development practices 
 
 ## 🧩 What Was Built
 
-The embedded system performs the following:
+The objective of this task was to design and implement an embedded system that:
 
-- Measures the ON-time of switch **S3** using hardware timers  
+- Measures the ON-duration of a physical input switch/ **S3** using hardware timer  
 - Displays elapsed time (00–99 seconds) on dual seven-segment displays  
 - Accepts a user-defined threshold via keypad input  
 - Triggers a blinking LED alarm when the threshold is exceeded  
 - Uses LEDs to indicate real-time switch status  
 - Handles repeated switch activations independently  
-- Implements debouncing and interrupt-driven timing  
-- Provides user feedback through an LCD interface  
+- Provides user feedback through an LCD interface
+- Uses interrupts and debouncing for reliable, event-driven operation  
+- Applies low-power and efficiency considerations suitable for embedded systems  
+
+
 
 ---
 
