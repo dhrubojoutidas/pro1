@@ -31,12 +31,18 @@
 ### 💻 CLOUD COMPUTING 
 
 - https://www.tutorialspoint.com/cloud_computing/index.htm
+
+### 💻 OS
+- https://www.guru99.com/os-tutorial.html
  
 ### ⚙️ Digital Electronics & Logic Design
 - https://hackatronic.com/electronics-tutorial/digital-electronics/
 - https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 
-### 💻 Computer Science & Programming
+
+
+
+
 
 ---
 
