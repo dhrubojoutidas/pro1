@@ -222,16 +222,13 @@
 
 ---
  
- ### 🐍PYTHON RESOUCES 
-
-
-
+ ## 🐍PYTHON RESOUCES 
  
  
 - https://jupyter.org/try
 - https://trinket.io/features/python3
 
-## FULL CONTENT  LIST 
+### FULL CONTENT  LIST 
 - Python FULL TOPIC *:https://www.tutorialspoint.com/python_technologies_tutorials.htm
 - Python Tutorial *:https://www.tutorialspoint.com/python/index.htm
 - Python List & IT Topic *:https://learnpythonthehardway.org/python3/ex40.html
@@ -243,7 +240,7 @@
 - 30 python scripts examples *https://linuxhint.com/python_scripts_beginners_guide/
 - Scientific-python-lectures:https://nbviewer.org/github/jrjohansson/scientific-python-lectures/tree/master/
 
-##  Python Function
+###  Python Function
 
 - Python Object-Oriented Programming
 -  Classes and class attributes
@@ -258,19 +255,19 @@
 - Package Your Python Code:https://python-packaging.readthedocs.io/en/latest/index.html
 
 
- ## FOR & WHILE LOOP
+ ### FOR & WHILE LOOP
  -	Loop Vs While Loop:https://www.scaler.com/topics/difference-between-for-and-while-loop-in-python/
  -	Loop Vs While Loop:https://www.geeksforgeeks.org/python/difference-between-for-loop-and-while-loop-in-python/
  -	Loop Vs While Loop**:https://www.tutorialspoint.com/difference-between-for-loop-and-while-loop-in-python# 
  -	
 
-## LIST
+### LIST
 
 - Python f-String Tutorial FReeCodeCamp:https://www.freecodecamp.org/news/python-f-strings-tutorial-how-to-use-f-strings-for-string-formatting/
 - Convert String to List in Python:https://www.askpython.com/python/string/convert-string-to-list-in-python
 - List of list in Pythone:https://www.pythonforbeginners.com/basics/list-of-lists-in-python
 
- ## PLOT RELATED
+ ### PLOT RELATED
  - https://matplotlib.org/stable/plot_types/index.html
  - https://www.scaler.com/topics/matplotlib/save-a-plot-in-matplotlib/
  - https://bespokeblog.wordpress.com/2011/07/11/basic-data-plotting-with-matplotlib-part-3-histograms/
@@ -281,7 +278,7 @@
  - Simple Graphing with IPython and Pandas:https://pbpython.com/simple-graphing-pandas.html
  - Chart Suggestions—A Thought-Starter:https://pbpython.com/simple-graphing-pandas.html
 
-## FUNTIONS
+### FUNTIONS
  - https://en.wikibooks.org/wiki/Think_Python/Functions
  - https://scikit-image.org/docs/stable/user_guide/numpy_images.html
  - https://scipy-lectures.org/intro/numpy/array_object.html#numpy-arrays
