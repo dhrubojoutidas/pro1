@@ -43,6 +43,15 @@
 - https://hackatronic.com/universal-nand-gate-truth-table-logic-circuit-ic-7400-pin-diagram/
 
 
+
+
+https://www.electronicsforu.com/technology-trends/learn-electronics/flip-flop-rs-jk-t-d 
+https://www.tutorialspoint.com/digital-electronics/digital-electronics-latches.htm
+Details here --- https://www.electronics-tutorial.net/sequential-logic-circuits/d-flip-flop-to-jk-flip-flop/
+
+HDD vs SDD  https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
+
+
 ## 📚 Hardware
 
 ###  MUX
