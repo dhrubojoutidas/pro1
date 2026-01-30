@@ -29,10 +29,6 @@ The objective was to assess **commercial viability and feasibility** using marke
 
 
  ### 2) [Embedded Systems Fundamentals – MSP430 (Energia IDE)](./Embedded_Systems_Engineering/Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)
- Embedded_Systems_Engineering/Embedded Systems lab workduring lab session.pdf
- 👉 [Open Embedded Systems Lab Work (PDF)](/Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)
-
-
 
 This assignment involved implementing a series of **hands-on embedded system tasks** using the **MSP430FR5739 microcontroller**, focusing on the fundamentals of **firmware development and hardware interaction**.
 
@@ -51,12 +47,15 @@ The project emphasised understanding how software interacts with hardware at a l
 - Hardware–software integration and debugging on physical boards
 - Writing clear technical documentation and structured lab reports
 
-<img width="987" height="802" alt="image" src="https://github.com/user-attachments/assets/7638e3af-f302-401d-a545-d49577de41c1" />
 
 
 
 
 ### 2) [Embedded Systems Laboratory Project – MSP430 & Arduino (Energia)](./Embedded%20_Systems%20lab%20workduring%20lab%20session.pdf)
+👉 [Open Lab 1 Report – MSP430 & Energia](./Embedded_Systems_Engineering/LAB1_Getting%20Started%20with%20Energia%20and%20MSP430%20Experimenter%E2%80%99s%20Board%20.pdf)
+
+ Embedded_Systems_Engineering/Embedded Systems lab workduring lab session.pdf
+ 👉 [Open Embedded Systems Lab Work (PDF)](/Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)
 
 This laboratory project involved completing a series of **supervised, hands-on embedded systems tasks** using the **MSP430FR5739 Experimenter Board** and **Energia IDE**, focusing on practical interaction between software and hardware components.
 
