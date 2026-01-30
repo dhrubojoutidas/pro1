@@ -5,6 +5,17 @@
 - [Hackatronic – Digital Electronics](https://www.hackatronic.com/electronics-tutorial/digital-electronics/)
 - [Quick Learn – Digital Electronics](https://quick-learn.in/)
 
+1.	Math  solve : 
+2.	Digital Electronics and Logic Design Tutorials
+3.	this website has  programming, hardware  ,software ,database ,CS, CPU
+1.	https://www.tutorialspoint.com/computer_science_tutorials.htm
+2.	https://www.tutorialspoint.com/ 
+3.	https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm **** this site shows  all topics 
+4.	https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm **
+5.	https://www.hackatronic.com/electronics-tutorial/digital-electronics/  
+6.	https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
+
+
 # 📘 Learning Resources
 
 Curated study links for Digital Electronics, Logic Design, Programming, and Computer Science.
@@ -20,6 +31,8 @@ Curated study links for Digital Electronics, Logic Design, Programming, and Comp
 - https://www.tutorialspoint.com/computer_science_tutorials.htm
 - https://www.tutorialspoint.com/
 
+## Hardware 
+- https://gateoffline.blogspot.com/2014/11/previous-gate-questions-on-multiplexers.html
 
 
 ## 📚 Study & Learning Resources
@@ -46,10 +59,8 @@ Curated study links for Digital Electronics, Logic Design, Programming, and Comp
 
 ### 💻 Computer Science & Programming
 - Programming, hardware, software, database, CPU, CS fundamentals  
-  - https://www.tutorialspoint.com/computer_science_tutorials.htm
-- General programming & technology tutorials  
-  - https://www.tutorialspoint.com/
+ 
 
 ---
 
-> 📝 **Note:** These resources are used for academic revision, concept clarification, and practical learning in digital electronics, logic design, programming, and computer systems.
+> 📝 **Note:** These resources are used for academic revision, concept clarification, and practical learning in digital electronics, logic design, programming, and computer 
