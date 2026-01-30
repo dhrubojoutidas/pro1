@@ -28,7 +28,9 @@
   
 
 
+### 💻 CLOUD COMPUTING 
 
+-https://www.tutorialspoint.com/cloud_computing/index.htm
  
 ### ⚙️ Digital Electronics & Logic Design
 -https://hackatronic.com/electronics-tutorial/digital-electronics/
