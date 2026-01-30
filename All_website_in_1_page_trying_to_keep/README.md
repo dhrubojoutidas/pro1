@@ -66,6 +66,13 @@
 4.	com,seq  https://www.geeksforgeeks.org/difference-between-combinational-and-sequential-circuit/
 5.	https://www.hackatronic.com/difference-between-synchronous-and-asynchronous-sequential-circuits/
 6.	
+### SUBSTRACTOR :
+
+- https://www.electronics-tutorial.net/combinational-logic-circuits/full-subtractor/ *
+- https://www.hackatronic.com/half-subtractor-and-full-subtractor-circuits-truth-table-equation/
+- https://www.elprocus.com/full-subtractor-circuit-using-logic-gates/ ***
+- for addion/subtactor :https://youtu.be/J7gPUP0aRug?si=QjbkHu1csAu1ya2d
+- 7 segmnt using adder/sub _lab3task5 : https://www.instructables.com/Showing-4-Bit-Binary-Addition-Through-a-7-Segment-/
 
 
 
