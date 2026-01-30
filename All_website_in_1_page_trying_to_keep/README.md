@@ -34,6 +34,14 @@
 - PCIX    https://www.geeksforgeeks.org/what-is-pcixperipheral-component-interconnect-extended/
 - Peripherals device https://www.geeksforgeeks.org/peripherals-devices-in-computer-organization/
 
+- 
+- 741 op amp: https://www.elprocus.com/ic-741-op-amp-tutorial-and-characteristics/
+- https://hackatronic.com/universal-nand-gate-truth-table-logic-circuit-ic-7400-pin-diagram/
+- 
+-
+
+
+
 
 
 ## 📚 Hardware
@@ -43,6 +51,8 @@
  ### HALF ADDER
 - https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm
 - https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
+
+- 
 - HDD -- https://www.geeksforgeeks.org/hard-disk-drive-hdd-secondary-memory/
 - SSD    https://www.geeksforgeeks.org/introduction-to-solid-state-drive-ssd/
 - HDD vs SDD https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
