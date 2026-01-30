@@ -225,16 +225,29 @@
  ### 🐍PYTHON RESOUCES 
 
 
- ## FOR & WHILE LOOP
- -	Loop Vs While Loop:https://www.scaler.com/topics/difference-between-for-and-while-loop-in-python/
- -	Loop Vs While Loop:https://www.geeksforgeeks.org/python/difference-between-for-loop-and-while-loop-in-python/
- -	Loop Vs While Loop**:https://www.tutorialspoint.com/difference-between-for-loop-and-while-loop-in-python# 
- -	
+
+ 
+ 
+- https://jupyter.org/try
+- https://trinket.io/features/python3
+
+## FULL CONTENT  LIST 
+- Python FULL TOPIC *:https://www.tutorialspoint.com/python_technologies_tutorials.htm
+- Python Tutorial *:https://www.tutorialspoint.com/python/index.htm
+- Python List & IT Topic *:https://learnpythonthehardway.org/python3/ex40.html
+- Guru.com python * :https://www.guru99.com/python-tutorials.html
+- Python - Database Access*:https://www.tutorialspoint.com/python/python_database_access.htm
+- The python tutorial * :https://docs.python.org/3.12/tutorial/index.html
+- The Python language *:https://scipy-lectures.org/intro/language/python_language.html
+- getting started with Python *:https://scipy-lectures.org/intro/index.html
+- 30 python scripts examples *https://linuxhint.com/python_scripts_beginners_guide/
+- Scientific-python-lectures:https://nbviewer.org/github/jrjohansson/scientific-python-lectures/tree/master/
+
 ##  Python Function
 
 - Python Object-Oriented Programming
 -  Classes and class attributes
-- The Anatomy of a Python:https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/anatomy/anatomy_introduction.html
+- Anatomy of python:https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/anatomy/anatomy_introduction.html
 - Function Wrapper:https://www.geeksforgeeks.org/python/function-wrappers-in-python/
 - Block structure:https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/anatomy/block_structure_indentation.html
 - Intro pythn :https://nbviewer.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-1-Introduction-to-Python-Programming.ipynb
@@ -243,6 +256,13 @@
 - Scientific Python:https://lectures.scientific-python.org/
 - PEP 8  Style Guide for Python Code:https://peps.python.org/pep-0008/#source-file-encoding
 - Package Your Python Code:https://python-packaging.readthedocs.io/en/latest/index.html
+
+
+ ## FOR & WHILE LOOP
+ -	Loop Vs While Loop:https://www.scaler.com/topics/difference-between-for-and-while-loop-in-python/
+ -	Loop Vs While Loop:https://www.geeksforgeeks.org/python/difference-between-for-loop-and-while-loop-in-python/
+ -	Loop Vs While Loop**:https://www.tutorialspoint.com/difference-between-for-loop-and-while-loop-in-python# 
+ -	
 
 ## LIST
 
