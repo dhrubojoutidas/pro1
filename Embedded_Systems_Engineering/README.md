@@ -13,7 +13,8 @@ The focus is on demonstrating practical engineering thinking: **requirements →
 
 ## 📁 Assessments Overview
 
-### 1) Market Research & Costing Plan – Smart Vending System
+### 1) [Market Research & Costing Plan – Smart Vending System](./Market_Reserch_Project.pdf)
+
 This report evaluates the **vending machine industry** and develops a feasible business concept for a **smart vending solution** that provides **sanitary and personal hygiene products** in high-traffic locations (e.g., universities, workplaces, shopping centres, transport hubs).
 
 
