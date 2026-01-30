@@ -33,7 +33,7 @@
 ## 📚 MICRO 
 - Microprocessor vs controller :https://youtu.be/dcNk0urQsQM?si=n3eLUHMMI2zCXsOQ
 - What is a Microcontroller and how does it work? :https://youtu.be/t68MG-kVDCU?si=0yIvFQlt3MMqLidm
--MUX GATE QUETION  https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
+- https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
 
 ---
 
