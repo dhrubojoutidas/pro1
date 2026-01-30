@@ -1,7 +1,7 @@
 
 # 📘 Learning Resources
 
-Curated study links for Digital Electronics, Logic Design, Programming, and Computer Science.
+
 
 ## WEBSITE THAT HAS ALL IT SUBJECT
 
@@ -11,11 +11,7 @@ Curated study links for Digital Electronics, Logic Design, Programming, and Comp
 - https://www.tutorialspoint.com/
 
 ## Digital Electronics
-- https://www.tutorialspoint.com/digital-electronics/
-- https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm
-- https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
-- https://www.hackatronic.com/electronics-tutorial/digital-electronics/
-- https://quick-learn.in/
+
 
 ## Computer Science & Programming
 - https://www.tutorialspoint.com/computer_science_tutorials.htm
@@ -33,16 +29,19 @@ Curated study links for Digital Electronics, Logic Design, Programming, and Comp
 - https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm
 - https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 
- 
-  
+
+## 📚 MICRO 
+-[Microprocessor vs controller](./https://youtu.be/dcNk0urQsQM?si=n3eLUHMMI2zCXsOQ)
+
+-  https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
 
 ---
 
 ### ⚙️ Digital Electronics & Logic Design
--
+-https://hackatronic.com/electronics-tutorial/digital-electronics/
 
 ### 💻 Computer Science & Programming
-- Programming, hardware, software, database, CPU, CS fundamentals  
+
  
 
 
