@@ -20,12 +20,10 @@
 
 ### 💻 Computer Science & Programming
 
- ## TRANSMISSION 
  
- ### nte sure
-  
-- https://www.geeksforgeeks.org/computer-networks/difference-between-synchronous-and-asynchronous-transmission/
-- https://www.computer.org/publications/tech-news/trends/synchronous-asynchronous-data-transmission
+ 
+
+
 - https://youtube.com/shorts/QitKWsHBfCY?
 - SERIAL Vs PARREL : https://www.geeksforgeeks.org/difference-between-serial-and-parallel-transmission/
 - 
@@ -51,6 +49,16 @@
 - HDD vs SDD:https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
 
 
+
+
+
+## TRANSMISSION
+
+###  MUX 
+ 
+- https://www.geeksforgeeks.org/computer-networks/difference-between-synchronous-and-asynchronous-transmission/
+- https://www.computer.org/publications/tech-news/trends/synchronous-asynchronous-data-transmission
+- 
 
 ## 📚 Hardware
 
