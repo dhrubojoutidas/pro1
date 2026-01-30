@@ -221,24 +221,48 @@
 - https://online.visual-paradigm.com/diagrams/templates/use-case-diagram/restaurant-management-use-case-diagram/
 
 ---
+ 
  ### 🐍PYTHON RESOUCES 
 
- # PLOT RELATED
+
+ ## FOR & WHILE LOOP
+ -	Loop Vs While Loop:https://www.scaler.com/topics/difference-between-for-and-while-loop-in-python/
+ -	Loop Vs While Loop:https://www.geeksforgeeks.org/python/difference-between-for-loop-and-while-loop-in-python/
+ -	Loop Vs While Loop**:https://www.tutorialspoint.com/difference-between-for-loop-and-while-loop-in-python# 
+ -	
+##  Python Function
+
+- • Python Object-Oriented Programming *** 
+	• Classes and class attributes 
+	• The Anatomy of a Python:https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/anatomy/anatomy_introduction.html
+	• Function Wrapper:https://www.geeksforgeeks.org/python/function-wrappers-in-python/
+	•  Block structure:https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/anatomy/block_structure_indentation.html
+	 
+	1. Intro pythn :https://nbviewer.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-1-Introduction-to-Python-Programming.ipynb
+	2. Beginner’s guide to Web Scraping in Python using BeautifulSoup :https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/
+	3. Useful modules stander lib:https://python-textbok.readthedocs.io/en/1.0/Useful_Libraries.html
+	4. Scientific Python:https://lectures.scientific-python.org/
+	5. PEP 8  Style Guide for Python Code:https://peps.python.org/pep-0008/#source-file-encoding
+ 6.  Package Your Python Code:https://python-packaging.readthedocs.io/en/latest/index.html
+
+## LIST
+
+- Python f-String Tutorial FReeCodeCamp:https://www.freecodecamp.org/news/python-f-strings-tutorial-how-to-use-f-strings-for-string-formatting/
+- Convert String to List in Python:https://www.askpython.com/python/string/convert-string-to-list-in-python
+- List of list in Pythone:https://www.pythonforbeginners.com/basics/list-of-lists-in-python
+
+ ## PLOT RELATED
  - https://matplotlib.org/stable/plot_types/index.html
  - https://www.scaler.com/topics/matplotlib/save-a-plot-in-matplotlib/
  - https://bespokeblog.wordpress.com/2011/07/11/basic-data-plotting-with-matplotlib-part-3-histograms/
  - pyplot tutorial :https://matplotlib.org/2.0.2/users/pyplot_tutorial.html
  - PLOT types:https://nbviewer.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
  - 2d &3D plottign JUPITER :https://datacarpentry.github.io/python-ecology-lesson/08-putting-it-all-together.html
- - Data Analysis & Visualization in Python for Ecologists:https://datacarpentry.github.io/python-ecology-lesson/08-putting-it-all-together.html
+ - Data Analysis & Visualization in Python focologists:https://datacarpentry.github.io/python-ecology-lesson/08-putting-it-all-together.html
  - Simple Graphing with IPython and Pandas:https://pbpython.com/simple-graphing-pandas.html
  - Chart Suggestions—A Thought-Starter:https://pbpython.com/simple-graphing-pandas.html
- - 
--
- - 
 
-
-# FUNTIONS
+## FUNTIONS
  - https://en.wikibooks.org/wiki/Think_Python/Functions
  - https://scikit-image.org/docs/stable/user_guide/numpy_images.html
  - https://scipy-lectures.org/intro/numpy/array_object.html#numpy-arrays
