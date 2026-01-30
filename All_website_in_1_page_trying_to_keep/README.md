@@ -1,5 +1,6 @@
 
 # 📘 Learning Resources
+
 ## WEBSITE THAT HAS ALL IT SUBJECT
 
 - https://www.geeksforgeeks.org/digital-logic/digital-electronics-logic-design-tutorials
@@ -7,14 +8,17 @@
 - https://www.tutorialspoint.com/computer_science_tutorials.htm
 -
 -  https://www.tutorialspoint.com/
-- 1.	Core dump yt*
+  > 📝 **Note:** 
+  1.	Core dump yt*
   2.	Branch education yt*
   3.	Series yt *  https://youtu.be/ChR7wS94WoY?si=VW31fp6-RxEqlsWW
 
-## Digital Electronics
 
+ 
+### ⚙️ Digital Electronics & Logic Design
+-https://hackatronic.com/electronics-tutorial/digital-electronics/
 
-## Computer Science & Programming
+### 💻 Computer Science & Programming
 - https://www.tutorialspoint.com/computer_science_tutorials.htm
 - https://www.tutorialspoint.com/
 
@@ -85,7 +89,9 @@ HDD vs SDD  https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd
 4.	com,seq  https://www.geeksforgeeks.org/difference-between-combinational-and-sequential-circuit/
 5.	https://www.hackatronic.com/difference-between-synchronous-and-asynchronous-sequential-circuits/
 6.	
-### SUBSTRACTOR :
+
+
+ ### SUBSTRACTOR :
 
 - https://www.electronics-tutorial.net/combinational-logic-circuits/full-subtractor/ *
 - https://www.hackatronic.com/half-subtractor-and-full-subtractor-circuits-truth-table-equation/
@@ -102,12 +108,12 @@ HDD vs SDD  https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd
 - SSD    https://www.geeksforgeeks.org/introduction-to-solid-state-drive-ssd/
 - HDD vs SDD https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/
 
- ### 7  SEGMENT
- - https://github.com/marceloboeira/logisim-7-segment-display-driver
- - https://www.electricaltechnology.org/2018/05/bcd-to-7-segment-display-decoder.html
- - 7 Segment using logiism banga : https://youtu.be/-81bw6PhRwY?si=AIpJCRqkpInuFNFW
- - HEX 7seg disply using spliter :https://youtu.be/EGj71NkR8bc?si=4rz2WJg8HS-LoRA0
 
+### 7  SEGMENT:
+- https://github.com/marceloboeira/logisim-7-segment-display-driver
+- https://www.electricaltechnology.org/2018/05/bcd-to-7-segment-display-decoder.html
+- 7 Segment using logiism banga : https://youtu.be/-81bw6PhRwY?si=AIpJCRqkpInuFNFW
+- HEX 7seg disply using spliter :https://youtu.be/EGj71NkR8bc?si=4rz2WJg8HS-LoRA0
 
 ## 📚 MICRO 
 - Microprocessor vs controller :https://youtu.be/dcNk0urQsQM?si=n3eLUHMMI2zCXsOQ
@@ -116,12 +122,8 @@ HDD vs SDD  https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd
 
 ---
 
-### ⚙️ Digital Electronics & Logic Design
--https://hackatronic.com/electronics-tutorial/digital-electronics/
-
-### 💻 Computer Science & Programming
 
  
 
 
-> 📝 **Note:**  
+
