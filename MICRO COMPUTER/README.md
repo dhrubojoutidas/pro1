@@ -66,7 +66,7 @@ The design incorporates **energy-aware embedded principles**, including:
 - [PORT2 Interrupt Service Routine](./PORT2_ISR.asm)
 - [Bus Read Routine](./BusRead2.asm)
 - [Bus Write Routine](./BusWrite2.asm)
-- [Digital Lookup Logic](./Digitallookup.asm)
+- [Digital Lookup Logic](./DigitalLookup.asm)
 - [Main Assembly File](./asm.s43)
 
 ---
