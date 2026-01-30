@@ -1,4 +1,3 @@
-<img width="503" height="23" alt="image" src="https://github.com/user-attachments/assets/f3d271d3-8232-45c0-a0bc-9c1127ceda4f" />
 # 📘 Learning Resources
 
 ## WEBSITE THAT HAS ALL IT SUBJECT
@@ -50,7 +49,42 @@
 - https://github.com/anisul-Islam/c-programming-documentation
 - 
 - 
-- 
+
+ 
+MATH TOPIC  
+
+- https://www.mathsisfun.com/data/data.html
+- https://www.elimuza.com/grade-12/grade-12-study-guides-and-notes/mathematics-notes/item/1078-probability
+- https://tutorial.math.lamar.edu/Extras/AlgebraTrigReview/AlgebraTrig.aspx
+- https://origami.guide/instructions/traditional-origami/
+
+physics
+https://www.electrical4u.com/full-wave-rectifiers/
+https://www.electrical4u.com/half-wave-rectifiers/
+https://www.geeksforgeeks.org/physics/full-wave-rectifier/
+
+
+DSA 
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+https://yongdanielliang.github.io/animation/web/24Tree.html
+https://www.udacity.com/blog/2021/10/implementing-dijkstras-algorithm-in-python.html
+https://www.geeksforgeeks.org/dsa/introduction-to-dijkstras-shortest-path-algorithm/
+https://www.thedshandbook.com/graphs/
+
+ LINUX 
+ https://www.geeksforgeeks.org/linux-unix/shell-scripting-shell-variables/
+ https://www.geeksforgeeks.org/linux-unix/input-output-redirection-in-linux/
+ https://www.geeksforgeeks.org/linux-unix/linux-directory-structure/
+ https://www.technewstoday.com/rmdir-directory-not-empty/
+ https://askubuntu.com/questions/793507/rm-cannot-remove-directory-permission-denied
+ https://www.geeksforgeeks.org/linux-unix/how-to-delete-multiple-lines-in-vim-editor-in-linux/
+ 
+ https://www.wikihow.com/Find-Out-Your-IP-Address#:~:text=How%20to%20Find%20out%20your%20IP%20Address%20Windows,adapter.%204%20Look%20at%20the%20.%20See%20More.
+
+ https://www.wikihow.com/Find-Out-Your-IP-Address#:~:text=How%20to%20Find%20out%20your%20IP%20Address%20Windows,adapter.%204%20Look%20at%20the%20.%20See%20More.
+ 
+ 
+ 
 
 
 
@@ -147,6 +181,20 @@
 - Microprocessor vs controller :https://youtu.be/dcNk0urQsQM?si=n3eLUHMMI2zCXsOQ
 - What is a Microcontroller and how does it work? :https://youtu.be/t68MG-kVDCU?si=0yIvFQlt3MMqLidm
 - https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
+- https://www.tutorialspoint.com/microprocessor/index.htm
+
+-
+
+- Using C++ and WSL in VS Code:https://code.visualstudio.com/docs/cpp/config-wsl
+- mspgcc - Single Line MSP430 Assembler: https://mspgcc.sourceforge.net/assemble.html
+- CCSTUDIO IDE, configuration, compiler or ebugger::https://www.ti.com/tool/CCSTUDIO#downloads
+- https://notepad-plus-plus.org/downloads/
+- https://www.ti.com/tool/CCSTUDIO#downloads
+- Getting Started with Code Composer Studio:https://www.youtube.com/watch?v=-D7b5e7iofQ
+- Micro processor: https://www.tutorialspoint.com/microprocessor/index.htm
+
+
+- 
 
 ---
 
