@@ -29,12 +29,18 @@
 - 
 - PCIe -- https://www.geeksforgeeks.org/what-is-pcieperipheral-component-interconnect-express/
 - PCIX    https://www.geeksforgeeks.org/what-is-pcixperipheral-component-interconnect-extended/
+- Peripherals device  in com organization --- https://www.geeksforgeeks.org/peripherals-devices-in-computer-organization/
+- SPI details --- https://www.geeksforgeeks.org/what-is-serial-peripheral-interface-spi/
+- Details of PCIe -- https://www.geeksforgeeks.org/what-is-pcieperipheral-component-interconnect-express/
+- Details of PCIX -- https://www.geeksforgeeks.org/what-is-pcixperipheral-component-interconnect-extended/
 - Peripherals device https://www.geeksforgeeks.org/peripherals-devices-in-computer-organization/
 - 
+
+- 
+- ROM :https://learn.circuitverse.org/docs/comb-lsi/rom.html
+
 - 741 op amp: https://www.elprocus.com/ic-741-op-amp-tutorial-and-characteristics/
 - https://hackatronic.com/universal-nand-gate-truth-table-logic-circuit-ic-7400-pin-diagram/
-- 
--
 
 
 ## 📚 Hardware
