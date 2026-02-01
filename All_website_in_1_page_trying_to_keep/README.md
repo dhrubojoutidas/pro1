@@ -1,6 +1,5 @@
-<img width="540" height="27" alt="image" src="https://github.com/user-attachments/assets/6f4e94ba-5e8a-4625-8cd6-2cd1ff3b58ba" /><img width="331" height="27" alt="image" src="https://github.com/user-attachments/assets/199e0ae1-8a9f-41b8-9f18-71cf88f3be2e" />#
 
-📘 Learning Resources
+#📘 Learning Resources
 
 ## WEBSITE THAT HAS ALL IT SUBJECT
 
