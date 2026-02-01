@@ -18,6 +18,7 @@
   > 📝 **YOU TUBE VIDEOS** 
 - Core dump yt*
 - Branch education yt*
+- https://www.youtube.com/playlist?list=PLx04RqgnResMP5N71qW3ZQW5FSj4XCmkP
 - Series yt *  https://youtu.be/ChR7wS94WoY?si=VW31fp6-RxEqlsWW
 - CS explanation:https://youtu.be/CxGSnA-RTsA?si=-BQ2Ll6ISA_SYXK3
 - How does Com Hardware Work? https://youtu.be/d86ws7mQYIg?si=-F0keMOWIn20guZS
