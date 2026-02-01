@@ -35,26 +35,8 @@
 		foreignsick
 		firewalls 
 		hosting 
-operator system		sameresh hazra
-	77 V	neso acedamy 
-MicroProcessor	73 V	neso academy
-GitHUB playliist	33 V	anisul islam plalist
-		autimaticc ragav 
-computer learnign		pentanci 
-Virtual machiene		pentatic 1 video only
-Microsoft POint		pentanic IT
-Ms word		basic It
-Excel		Basic It
-POWER POINT	15 V playlist	basic IT
-	1 v only	basic zIT
-comp architecture organization(COA) 96 V playlist		cnesco academy
-Comlier design		nesco academy
-designa & analysis algarothm		desneso academy
-cryptocurreceny & security		nesco academy
-Web develpoer 	playlist	pentanic IT
-experimental V		escic bangla
-		
-<img width="795" height="879" alt="image" src="https://github.com/user-attachments/assets/1bfbc4ca-cff2-4bae-a31f-98853f752224" />
+
+
 
   
 💻**AI APP /WEBSITE** 
