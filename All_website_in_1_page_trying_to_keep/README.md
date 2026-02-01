@@ -33,12 +33,11 @@
   15.	how com r made in factory https://youtu.be/O9vO_CVNXlg?si=mzE00hNCbElm1OQq
   16.	HOW TRANSISTORS RUN CODE?   https://youtu.be/HjneAhCy2N4?si=e_03Rxm4lNCZiske
   17. POWER POINT, MS,EXCEL : https://www.youtube.com/playlist?list=PLcXeQakg3C682f-siDn-E7CYfhWVa93uC
-  18. Microsoft Point, Web develpoer ,computer learnign:https://www.youtube.com/playlist?list=PL82D6HIBQ19_1SaVYi9sAURttF_9zkJcv
-  19. Comlier design:https://youtu.be/5ZmFlxrNaN8?si=O831OTCvmTwBlV7l
-  20. Designa & analysis algarothm:https://www.youtube.com/playlist?list=PLBlnK6fEyqRhoF3cPp0mgOZPuXeu84nAd
-  21.cryptocurreceny & security:https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII
-  19.comp architecture organization(COA):https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q
-
+-  Microsoft Point, Web develpoer ,computer learnign:https://www.youtube.com/playlist?list=PL82D6HIBQ19_1SaVYi9sAURttF_9zkJcv
+-  Comlier design:https://youtu.be/5ZmFlxrNaN8?si=O831OTCvmTwBlV7l
+-  Designa & analysis algarothm:https://www.youtube.com/playlist?list=PLBlnK6fEyqRhoF3cPp0mgOZPuXeu84nAd
+- cryptocurreceny & security:https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII
+- comp architecture organization(COA):https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q
 - GITHUB :https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG
   
 
