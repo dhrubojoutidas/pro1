@@ -1,4 +1,6 @@
-<img width="540" height="27" alt="image" src="https://github.com/user-attachments/assets/6f4e94ba-5e8a-4625-8cd6-2cd1ff3b58ba" /><img width="331" height="27" alt="image" src="https://github.com/user-attachments/assets/199e0ae1-8a9f-41b8-9f18-71cf88f3be2e" /># 📘 Learning Resources
+<img width="540" height="27" alt="image" src="https://github.com/user-attachments/assets/6f4e94ba-5e8a-4625-8cd6-2cd1ff3b58ba" /><img width="331" height="27" alt="image" src="https://github.com/user-attachments/assets/199e0ae1-8a9f-41b8-9f18-71cf88f3be2e" />#
+
+📘 Learning Resources
 
 ## WEBSITE THAT HAS ALL IT SUBJECT
 
@@ -31,13 +33,16 @@
   14.	ClocksTellsCPUtoMoveForward https://youtu.be/PVNAPWUxZ0g?si=titFRBTFa4YQI-Br https://youtu.be/dV_lf1kyV9M?si=f_qpI6PS2pPqPElN
   15.	how com r made in factory https://youtu.be/O9vO_CVNXlg?si=mzE00hNCbElm1OQq
   16.	HOW TRANSISTORS RUN CODE?   https://youtu.be/HjneAhCy2N4?si=e_03Rxm4lNCZiske
-  17.
-  18. POWER POINT, MS,EXCEL : https://www.youtube.com/playlist?list=PLcXeQakg3C682f-siDn-E7CYfhWVa93uC
-  19.Microsoft Point, Web develpoer ,computer learnign:https://www.youtube.com/playlist?list=PL82D6HIBQ19_1SaVYi9sAURttF_9zkJcv
-  comp architecture organization(COA):https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q
-  Comlier design:https://youtu.be/5ZmFlxrNaN8?si=O831OTCvmTwBlV7l
-  designa & analysis algarothm:https://www.youtube.com/playlist?list=PLBlnK6fEyqRhoF3cPp0mgOZPuXeu84nAd
-  cryptocurreceny & security:https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII
+  17. POWER POINT, MS,EXCEL : https://www.youtube.com/playlist?list=PLcXeQakg3C682f-siDn-E7CYfhWVa93uC
+  18. Microsoft Point, Web develpoer ,computer learnign:https://www.youtube.com/playlist?list=PL82D6HIBQ19_1SaVYi9sAURttF_9zkJcv
+  19.  Comlier design:https://youtu.be/5ZmFlxrNaN8?si=O831OTCvmTwBlV7l
+  20. designa & analysis algarothm:https://www.youtube.com/playlist?list=PLBlnK6fEyqRhoF3cPp0mgOZPuXeu84nAd
+  21.cryptocurreceny & security:https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII
+  19.comp architecture organization(COA):https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q
+
+
+
+  
 
 
   
