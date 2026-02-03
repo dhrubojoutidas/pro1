@@ -89,7 +89,7 @@ As part of my Software Engineering course, I maintained a separate Git-focused r
 - documenting workshop sheets, lecture notes, and commit logs  
 
 📁 You can view that Git practice repo here:  
-👉 [Git Workshop & Notes Repository](https://github.com/dhrubojyoti2001/git_workshop4_prac)
+👉 [Git Workshop & Notes Repository](https://github.com/dhrubojoutidas/git_workshop4_prac.git)
 
 It includes:
 - a full commit history exported as a `.txt` file  
