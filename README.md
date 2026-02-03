@@ -76,7 +76,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
  [MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
 
-## 🧩 Software Engineering – Git & Version Control Practice
+### 🧩 Software Engineering – Git & Version Control Practice
 
 As part of my Software Engineering coursework, I completed extensive hands‑on practice with Git, including:
 - branching and merging
@@ -85,6 +85,7 @@ As part of my Software Engineering coursework, I completed extensive hands‑on 
 - rewriting commit messages
 - visualising commit history using `git log --decorate --graph --all`
 - maintaining detailed notes and workshop exercises
+- Maze.py file & Commit_visualization
 
 I kept all my Git learning materials, commit logs, and workshop sheets in a separate repository:
 
