@@ -105,8 +105,6 @@ This complements the work in this main repo and shows my hands-on understanding 
 ---
 
 
----
-
  🎮 🔟  Tank Shooter Game (C)  
 - 2D shooter  
 - Collision detection  
