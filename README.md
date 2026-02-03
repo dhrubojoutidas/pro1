@@ -91,10 +91,11 @@ As part of my Software Engineering course, I maintained a separate Git-focused r
 📁 [You can view that Git practice repo here: ](https://github.com/dhrubojoutidas/git_workshop4_prac.git)
 
 It includes:
-- a full commit history exported as a `.txt` file  
+- [full commit history exported as a `.txt` file](. 
 - workshop exercises and lecture notes  
-- a README explaining each Git concept  
+- [README explaining each Git concept ]( 
 - visualised commit logs for evidence and review
+- python file [Maze.py](./git_workshop4_prac/Maze.py )
 
 This complements the work in this main repo and shows my hands-on understanding of version control.
 
