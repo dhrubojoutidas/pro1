@@ -26,7 +26,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ---
 
-### 🛜 IoT & Embedded Systems
+  ### 🛜 IoT & Embedded Systems
    1 [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 
 
 ### 🔧 MSP430 Embedded System (CLIC3 Board) 
@@ -45,15 +45,15 @@ It showcases hands-on experience across **networking, systems administration, da
 ---
 
 ###  🖥️ Software Engineering
-5️⃣ [SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+5️ [SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
-6️⃣ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
+6️ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
 ---
 
 ### 🏅 Databases & Data Analysis
 
-7️⃣ [Olympic Games Analysis  using  SQL and Python ](./Olympic_Games_Database_System/README.md)
+7️ [Olympic Games Analysis  using  SQL and Python ](./Olympic_Games_Database_System/README.md)
  
 ---
 
