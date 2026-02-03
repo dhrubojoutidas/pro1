@@ -27,10 +27,10 @@ It showcases hands-on experience across **networking, systems administration, da
 ---
 
 ### 🛜 IoT & Embedded Systems
-1️⃣ 1 [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 
+ 1 [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 
 
 ### 🔧 MSP430 Embedded System (CLIC3 Board) 
- 2️⃣2 [ Interrupt-driven firmware using timers, ISRs, keypad input, LCD, seven-segment displays, and low-power design.](./MICRO%20COMPUTER/README.md)
+ 2️ [ Interrupt-driven firmware using timers, ISRs, keypad input, LCD, seven-segment displays, and low-power design.](./MICRO%20COMPUTER/README.md)
 
  
 
@@ -38,9 +38,9 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ### 📡 Networking & Systems
 
-3️⃣ [Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
+3️ [Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
 
-4️⃣ [Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
+4️ [Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
 
 ---
 
