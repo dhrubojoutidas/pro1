@@ -57,7 +57,8 @@ This assignment involved implementing a series of **hands-on embedded system tas
 The work progressed from basic digital I/O control to more advanced concepts such as **interrupt handling, PWM-based actuator control, and analog sensor interfacing**, reflecting the core building blocks used in real embedded systems.
 
 The project emphasised understanding how software interacts with hardware at a low level, including timing, signal control, and responsiveness to external events.
-- [Check the REPOR](./Embedded_Systems_Engineering/LAB1_Getting_start_project_REPORT.pdf)
+
+- [Check the REPORT](./LAB1_Getting_start_project_REPORT.pdf)
 
 
 
