@@ -76,7 +76,10 @@ It showcases hands-on experience across **networking, systems administration, da
 
  [MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
 
-### 🧩 Software Engineering – Git & Version Control Practice
+
+
+ ---
+  ## 🧩 Software Engineering – Git & Version Control Practice
 
 As part of my Software Engineering course, I maintained a separate Git-focused repository where I practiced:
 
@@ -97,6 +100,7 @@ It includes:
 This complements the work in this main repo and shows my hands-on understanding of version control.
 
 
+---
 
 
 ---
