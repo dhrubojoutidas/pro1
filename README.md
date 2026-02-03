@@ -91,11 +91,13 @@ As part of my Software Engineering course, I maintained a separate Git-focused r
 📁 [You can view that Git practice repo here: ](https://github.com/dhrubojoutidas/git_workshop4_prac.git)
 
 It includes:
-- [full commit history exported as a `.txt` file](. 
-- workshop exercises and lecture notes  
-- [README explaining each Git concept ]( 
-- visualised commit logs for evidence and review
-- python file [Maze.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze.py)
+- [full commit history exported as a `.txt` file](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Workshop%204_ISEN_2.txt)
+- python file [Maze.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze.py) & [Viwer.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Viewer.py)
+- [Original python file](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze_REAL.py)
+- [workshop exercises PDF](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/ISEN1000%20Workshop%2004%20-%20Version%20Control.pdf) 
+- [README explaining each Git concept ](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/README.md)
+- [Git pdf Note](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/PAGE%201%20Version%20Control%20Notes.pdf)
+
 
 This complements the work in this main repo and shows my hands-on understanding of version control.
 
