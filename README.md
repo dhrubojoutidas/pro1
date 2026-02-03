@@ -78,26 +78,23 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ### 🧩 Software Engineering – Git & Version Control Practice
 
-As part of my Software Engineering coursework, I completed extensive hands‑on practice with Git, including:
-- branching and merging
-- resolving merge conflicts
-- tagging and archiving versions
-- rewriting commit messages
-- visualising commit history using `git log --decorate --graph --all`
-- maintaining detailed notes and workshop exercises
-- Maze.py file & Commit_visualization
+As part of my Software Engineering course, I maintained a separate Git-focused repository where I practiced:
 
-I kept all my Git learning materials, commit logs, and workshop sheets in a separate repository:
+- branching, merging, and conflict resolution  
+- tagging and archiving versions  
+- visualising commit history using `git log --decorate --graph --all`  
+- documenting workshop sheets, lecture notes, and commit logs  
 
-👉 **Git Practice & Notes Repository**  
-[https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+📁 You can view that Git practice repo here:  
+👉 [Git Workshop & Notes Repository](https://github.com/dhrubojyoti2001/git_workshop4_prac)
 
-This repo includes:
-- full commit history exported as a text file  
-- workshop solutions  
-- lecture notes  
-- Git experiments (branches, merges, tags)  
-- a README explaining each exercise  
+It includes:
+- a full commit history exported as a `.txt` file  
+- workshop exercises and lecture notes  
+- a README explaining each Git concept  
+- visualised commit logs for evidence and review
+
+This complements the work in this main repo and shows my hands-on understanding of version control.
 
 
 
