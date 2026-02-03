@@ -118,8 +118,8 @@ Although the final modified source code from the lab sessions was not retained, 
 
 9. **[NTC Sensor Source File](./FraunchPad_NTC.cpp)**  
    Sensor logic and data processing implementation.
-10. [SPI V1 folder](./SPI_V1) [Embedded_Systems_Engineering](./SPI%20V1)
-11. [Embedded_Systems_Engineering/SPI V1](https://github.com/dhrubojoutidas/pro1/tree/master/Embedded_Systems_Engineering/SPI%20V1)
+10. [SPI V1 folder ](./SPI%20V1)
+11. [SPI V2 folder](./SPI%20V2)
 
 12. 
 
