@@ -50,7 +50,7 @@ The document covers the following key aspects:
 ---
 
 
- ### 3) [Embedded Systems Fundamentals – MSP430 (Energia IDE)](./LAB1_Getting%20Started%20with%20Energia%20and%20MSP430%20Experimenter%E2%80%99s%20Board%20.pdf)
+ ### 3) [Getting Started with Energia and MSP430 Experimenter’s Board ](./LAB1_Getting%20Started%20with%20Energia%20and%20MSP430%20Experimenter%E2%80%99s%20Board%20.pdf)
 
 This assignment involved implementing a series of **hands-on embedded system tasks** using the **MSP430FR5739 microcontroller**, focusing on the fundamentals of **firmware development and hardware interaction**.
 
