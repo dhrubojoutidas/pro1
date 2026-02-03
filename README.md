@@ -95,7 +95,7 @@ It includes:
 - workshop exercises and lecture notes  
 - [README explaining each Git concept ]( 
 - visualised commit logs for evidence and review
-- python file [Maze.py](./git_workshop4_prac/Maze.py )
+- python file [Maze.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze.py)
 
 This complements the work in this main repo and shows my hands-on understanding of version control.
 
