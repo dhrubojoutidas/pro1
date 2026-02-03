@@ -88,8 +88,7 @@ As part of my Software Engineering course, I maintained a separate Git-focused r
 - visualising commit history using `git log --decorate --graph --all`  
 - documenting workshop sheets, lecture notes, and commit logs  
 
-📁 You can view that Git practice repo here:  
-👉 [Git Workshop & Notes Repository](https://github.com/dhrubojoutidas/git_workshop4_prac.git)
+📁 [You can view that Git practice repo here: ](https://github.com/dhrubojoutidas/git_workshop4_prac.git)
 
 It includes:
 - a full commit history exported as a `.txt` file  
