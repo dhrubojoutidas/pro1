@@ -121,9 +121,7 @@ Although the final modified source code from the lab sessions was not retained, 
 10. [SPI V1 folder ](./SPI%20V1)
 11. [SPI V2 folder](./SPI%20V2)
 
-12. 
-
----
+ ---
 
 *Academic work for CMPE3001 – Curtin University.*
 
