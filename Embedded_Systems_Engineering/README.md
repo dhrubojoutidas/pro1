@@ -30,7 +30,27 @@ The objective was to evaluate **commercial feasibility and viability** using str
 
 ---
 
- ### 2) [Embedded Systems Fundamentals – MSP430 (Energia IDE)](./LAB1_Getting%20Started%20with%20Energia%20and%20MSP430%20Experimenter%E2%80%99s%20Board%20.pdf)
+ ### 2)  Embedded Systems Design Assignment
+
+This project presents the design and development of an embedded system as part of the Embedded Systems Design course. The aim of this assignment is to demonstrate a structured approach to embedded system design, from problem identification through to implementation and evaluation.
+
+The report explains the overall system concept, design methodology, and technical decisions made throughout the project. It provides clear insight into how both hardware and software components work together to meet the system requirements.
+
+## Contents
+The document covers the following key aspects:
+- Problem statement 
+- General plan for system implementation  
+- Hardware components and design details  
+- Software design and program flow  
+- System constraints (cost, performance, size, and power consumption)  
+- Safety and security considerations  
+- Maintainability and reliability of the system  
+- Future enhancements and stretch goals
+
+---
+
+
+ ### 3) [Embedded Systems Fundamentals – MSP430 (Energia IDE)](./LAB1_Getting%20Started%20with%20Energia%20and%20MSP430%20Experimenter%E2%80%99s%20Board%20.pdf)
 
 This assignment involved implementing a series of **hands-on embedded system tasks** using the **MSP430FR5739 microcontroller**, focusing on the fundamentals of **firmware development and hardware interaction**.
 
@@ -51,7 +71,7 @@ The project emphasised understanding how software interacts with hardware at a l
 
 ---
 
-### 3) [Embedded Systems Laboratory Project – MSP430 & Arduino (Energiaa](./Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)
+### 4) [Embedded Systems Laboratory Project – MSP430 & Arduino (Energiaa](./Embedded%20Systems%20lab%20workduring%20lab%20session.pdf)
 
 This laboratory project involved completing a series of **supervised, hands-on embedded systems tasks** using the **MSP430FR5739 Experimenter Board** and **Energia IDE**, focusing on practical interaction between software and hardware components.
 
