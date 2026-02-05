@@ -84,7 +84,32 @@ It showcases hands-on experience across **networking, systems administration, da
 
 
  ---
-  ## 🧩 Software Engineering – Git & Version Control Practice
+ 
+---
+
+
+ 🎮 🔟  Tank Shooter Game (C)  
+- 2D shooter  
+- Collision detection  
+- Game loop logic  
+
+
+
+ 🐍 Python Automation  
+- File handling  
+- Data processing  
+- Calculations
+- UCP
+- TRANSMIISON
+- ELEN
+- HARWDARE
+
+
+ 5️⃣📌9️⃣🔌📜 🗄️   4️⃣  ✈️ 
+
+
+
+ ## 📋 Software Engineering – Git & Version Control Practice
 
 As part of my Software Engineering course, I maintained a separate Git-focused repository where I practiced:
 
@@ -107,27 +132,6 @@ It includes:
 This complements the work in this main repo and shows my hands-on understanding of version control.
 
 
----
-
-
- 🎮 🔟  Tank Shooter Game (C)  
-- 2D shooter  
-- Collision detection  
-- Game loop logic  
-
-
-
- 🐍 Python Automation  
-- File handling  
-- Data processing  
-- Calculations
-- UCP
-- TRANSMIISON
-- ELEN
-- HARWDARE
-
-
- 5️⃣📌9️⃣🔌📜📋 🗄️   4️⃣  ✈️ 
  ## 🔐 Cybersecurity & Information Security Foundations
 
 The following concepts were studied through **Cisco CyberOps Associate**, **network security coursework**, and **academic labs**, and are applied conceptually across networking, systems, and cloud-based projects in this repository.
