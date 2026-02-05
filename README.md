@@ -31,10 +31,10 @@ It showcases hands-on experience across **networking, systems administration, da
 
 
 ### 🧩 Embedded Systems
-([Smart Vending System Market reserch  Report, Embedded Systems Design and MSP430/Energia Lab Projects](./Embedded_Systems_Engineering/README.md)
+([Smart Vending System Market Research Report, Embedded Systems Design and MSP430/Energia Lab Projects](./Embedded_Systems_Engineering/README.md)
 
 
-### 📌 Micro Computer MSP430 Embedded System (CLIC3 Board) 
+### 📌 Microcomputer MSP430 Embedded System (CLIC3 Board) 
 [Interrupt-driven firmware using timers, ISRs, keypad input, LCD, seven-segment displays, and low-power design.](./MICRO%20COMPUTER/README.md)
 
  
