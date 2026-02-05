@@ -31,7 +31,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
 
 ### 🧩 Embedded Systems
-([em](./Embedded_Systems_Engineering/README.md)
+([Smart Vending System Market reserch  Report, Embedded Systems Design and MSP430/Energia Lab Projects](./Embedded_Systems_Engineering/README.md)
 
 
 ### 📌 Micro Computer MSP430 Embedded System (CLIC3 Board) 
