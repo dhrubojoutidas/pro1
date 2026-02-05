@@ -26,10 +26,14 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ---
 
-### 🛜 IoT & Embedded Systems
+### 🛜 IoT Cloud Integration
  [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 
 
-### 📌 MSP430 Embedded System (CLIC3 Board) 
+
+### 🧩 Embedded Systems
+
+
+### 📌 Micro Computer MSP430 Embedded System (CLIC3 Board) 
 [Interrupt-driven firmware using timers, ISRs, keypad input, LCD, seven-segment displays, and low-power design.](./MICRO%20COMPUTER/README.md)
 
  
@@ -122,7 +126,7 @@ This complements the work in this main repo and shows my hands-on understanding 
 - HARWDARE
 
 
- 5️⃣📌9️⃣🔌📜📋 🗄️🧩   4️⃣  ✈️ 
+ 5️⃣📌9️⃣🔌📜📋 🗄️   4️⃣  ✈️ 
  ## 🔐 Cybersecurity & Information Security Foundations
 
 The following concepts were studied through **Cisco CyberOps Associate**, **network security coursework**, and **academic labs**, and are applied conceptually across networking, systems, and cloud-based projects in this repository.
