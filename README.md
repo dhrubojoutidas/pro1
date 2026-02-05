@@ -107,7 +107,7 @@ It showcases hands-on experience across **networking, systems administration, da
 
  5️⃣📌9️⃣🔌📜 🗄️   4️⃣  ✈️ 
 
-
+---
 
  ## 📋 Software Engineering – Git & Version Control Practice
 
@@ -131,7 +131,7 @@ It includes:
 
 This complements the work in this main repo and shows my hands-on understanding of version control.
 
-
+--- 
  ## 🔐 Cybersecurity & Information Security Foundations
 
 The following concepts were studied through **Cisco CyberOps Associate**, **network security coursework**, and **academic labs**, and are applied conceptually across networking, systems, and cloud-based projects in this repository.
