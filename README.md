@@ -26,11 +26,11 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ---
 
-  ### 🛜 IoT & Embedded Systems
-   1 [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 
+### 🛜 IoT & Embedded Systems
+ [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 
 
-### 🔧 MSP430 Embedded System (CLIC3 Board) 
-  2 [ Interrupt-driven firmware using timers, ISRs, keypad input, LCD, seven-segment displays, and low-power design.](./MICRO%20COMPUTER/README.md)
+### 📌 MSP430 Embedded System (CLIC3 Board) 
+[Interrupt-driven firmware using timers, ISRs, keypad input, LCD, seven-segment displays, and low-power design.](./MICRO%20COMPUTER/README.md)
 
  
 
@@ -38,22 +38,22 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ### 📡 Networking & Systems
 
-3️ [Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
+[Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
 
-4️ [Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
+[Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
 
 ---
 
 ###  🖥️ Software Engineering
-5️ [SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+[SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
-6️ [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
+[Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
 ---
 
 ### 🏅 Databases & Data Analysis
 
-7️ [Olympic Games Analysis  using  SQL and Python ](./Olympic_Games_Database_System/README.md)
+[Olympic Games Analysis  using  SQL and Python ](./Olympic_Games_Database_System/README.md)
  
 ---
 
@@ -127,7 +127,7 @@ This complements the work in this main repo and shows my hands-on understanding 
 
 The following concepts were studied through **Cisco CyberOps Associate**, **network security coursework**, and **academic labs**, and are applied conceptually across networking, systems, and cloud-based projects in this repository.
 
----
+
 
 ### 🧱 Core Security Principles
 - Confidentiality, Integrity, Availability (**CIA Triad**)
@@ -137,7 +137,7 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 - Security Policy vs Security Model
 - Security Awareness & User Training
 
----
+
 
 ### ⚠️ Risk, Threats & Governance
 - Threat, Vulnerability, Risk & Incident lifecycle
@@ -147,7 +147,6 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 - **SLE**, **ARO**, **ALE** (Annualized Loss Expectancy)
 - Change Management & Asset Valuation (Tangible vs Intangible)
 
----
 
 ### 🎯 Common Attacks & Threat Vectors
 - Social Engineering (Phishing, Spear Phishing, Whaling)
@@ -157,7 +156,6 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 - Distributed Denial-of-Service (**DDoS**)
 - Secure Channels: Data in Transit vs Data at Rest
 
----
 
 ### 🛡️ Security Controls & Operations
 - Administrative, Technical & Physical Controls
@@ -166,7 +164,7 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 - Incident Response (**IR**) Planning
 - Network Security Controls (Firewalls, Network Segmentation)
 
----
+
 
 ### 🔐 Data Protection & Privacy
 - Data Classification & Handling
@@ -175,7 +173,6 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 - Data Loss Prevention (**DLP**)
 - Privacy & Personal Information Protection
 
----
 
 ### ♻️ Backup, Recovery & Continuity
 - Full, Incremental & Differential Backups
@@ -186,14 +183,13 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 - **RTO**, **RPO**, **MTD**, **WRT**
 - Offsite Storage (e-Vaulting, Remote Journaling)
 
----
 
 ### 🧹 Secure Data Disposal & Sanitization
 - Secure Data Erasure & Media Sanitization
 - Firmware Secure Erase
 - **NIST SP 800-88** (Clear, Purge, Destroy)
 
----
+
 
 ### ☁️ Cloud Security Concepts
 - Cloud Service Models: **IaaS**, **PaaS**, **SaaS**
@@ -205,20 +201,20 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
   - Disaster recovery
   - IP address reuse risks
 
----
 
 ### 📐 Security Models (Academic Foundations)
 - Bell–LaPadula Model (Confidentiality)
 - Biba Model (Integrity)
 - Clark–Wilson Model (Integrity & well-formed transactions)
 
----
+
 
 ### ⚖️ Ethics & Compliance
 - Professional Ethics (ACS / IEEE)
 - Compliance & Policy Governance
 - Deterrence & Security Awareness
 
+---
 
 ## 🛠️ Skills
 
