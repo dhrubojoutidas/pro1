@@ -53,7 +53,7 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 
 ---
 
-## 🔊 Lab 5 — Bipolar Junction Transistors  
+## 🔊 [Lab 5 — Bipolar Junction Transistors ](./lab_REPORT5_22663281.pdf) 
 **Topics:** BJT as a switch & amplifier, DC biasing, gain with/without bypass capacitor  
 **Skills demonstrated:**  
 - Identifying transistor terminals  
