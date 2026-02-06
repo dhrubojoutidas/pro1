@@ -31,7 +31,6 @@ Key skills developed:
 - Analysed BJT DC bias point & AC gain  
 - Compared gain with/without emitter bypass capacitor  
 
-
 ---
 
 ## 🔧[ **Lab 3 — Digital IC Performance (7404 Inverter)** ](./Lab_report_3.pdf)
@@ -43,10 +42,7 @@ Key skills developed:
 - Observed inverter response to analog inputs  
 
 
-
-
-
----
+--
 
 ## 🎚️[ **Lab 4 — Op‑Amp Amplifiers & Comparators (ELEN2002)**  ](./Lab_report4_TRANSMISSION.pdf)
 **Topics:** Inverting amplifier, comparator behaviour, BJT biasing, emitter bypass capacitor  
@@ -60,7 +56,7 @@ Key skills developed:
 ---
 
 
-## 🔗 **Lab 5 — RS232, I²C & SPI Interfaces**  
+## 🔗 [**Lab 5 — RS232, I²C & SPI Interfaces** ](./transmission-Lab5.pdf)
 **Topics:** Multi‑protocol communication using Arduino (Master/Slave)  
 **Skills demonstrated:**  
 - Implemented I²C single‑slave & multi‑slave communication  
@@ -68,8 +64,6 @@ Key skills developed:
 - Tested SPI at multiple clock speeds (DIV2, DIV8, DIV32)  
 - Analysed data corruption, timing limits & bus behaviour  
 - Used pull‑up resistors, bus wiring & protocol debugging  
-
-📄 **[Open Lab 5 Report](#)**
 
 ---
 
@@ -80,24 +74,8 @@ Key skills developed:
 - Demonstrated bitwise arbitration & collision avoidance  
 - Presented real‑world automotive use cases  
 
-📄 **[Open CAN Presentation](#)**
-
----
-
-# 📝 **What This Portfolio Shows**
-- Strong understanding of **digital communication protocols**  
-- Ability to analyse **timing, signal integrity, and IC behaviour**  
-- Practical experience with **Arduino, oscilloscopes, and serial buses**  
-- Clear documentation and engineering communication  
-- Skills relevant to **embedded systems, electronics, IoT, and hardware support roles**
-  
-
----
 
 
-Perfect — now that I can see your **Arduino folder** in your GitHub tab , I can give you a clean, professional description that explains **exactly what the coding folder is for**, what it contains, and why it matters.
-
-You can paste this directly into your README under the “Arduino Source Code” section.
 
 ---
 
@@ -161,7 +139,18 @@ This coding folder proves your ability to:
 - Work with **three major serial protocols** (I²C, SPI, RS232)  
 - Understand timing, interrupts, and data buffering  
 - Build real microcontroller‑to‑microcontroller communication systems  
-- Analyse and fix data corruption issues at high clock speeds  
+- Analyse and fix data corruption issues at high clock speeds
+
+
+# 📝 **What This Portfolio Shows**
+- Strong understanding of **digital communication protocols**  
+- Ability to analyse **timing, signal integrity, and IC behaviour**  
+- Practical experience with **Arduino, oscilloscopes, and serial buses**  
+- Clear documentation and engineering communication  
+- Skills relevant to **embedded systems, electronics, IoT, and hardware support roles**
+  
+
+---
 
 
 ---
