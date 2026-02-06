@@ -22,7 +22,9 @@ Key skills developed:
 
 ---
 
-## ⚡ **Lab 2 — Amplifiers & Comparators**  
+## ⚡ [**Lab 2 — Amplifiers & Comparators** ](./Lab%20Report%202%20_TRANSMISSION.pdf)
+
+
 **Topics:** Inverting amplifier, comparator behaviour, BJT biasing, emitter bypass capacitor  
 **Skills demonstrated:**  
 - Calculated & measured closed‑loop gain  
@@ -149,7 +151,6 @@ This coding folder proves your ability to:
 - Build real microcontroller‑to‑microcontroller communication systems  
 - Analyse and fix data corruption issues at high clock speeds  
 
-It shows recruiters that you’re not just running labs — you’re actually **building and understanding real embedded communication systems**.
 
 ---
 
