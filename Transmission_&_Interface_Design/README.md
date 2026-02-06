@@ -79,7 +79,7 @@ Key skills developed:
 
 ---
 
-# [💻 Arduino Coding Folder — What It Contains & Why It Matters](./Arduino)
+## [💻 Arduino Coding Folder — What It Contains & Why It Matters](./Arduino)
 
 This folder contains all the **Arduino `.ino` programs** used to implement and test the communication protocols explored in **Lab 5: RS232, I²C, and SPI Interfaces**.  
 These files demonstrate how microcontrollers communicate using different serial standards and how timing, addressing, and data integrity behave in real embedded systems.
@@ -149,9 +149,6 @@ This coding folder proves your ability to:
 - Clear documentation and engineering communication  
 - Skills relevant to **embedded systems, electronics, IoT, and hardware support roles**
   
-
----
-
 
 ---
 
