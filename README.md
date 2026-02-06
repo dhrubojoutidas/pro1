@@ -89,9 +89,11 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ## 📚 Research, Reports & Academic Documentation
 
-### 📖 Engineering & Professional Practice
+### 📖 [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
 
-[Sustainable engineering projects including reclaimed-wood product planning and professional documentation.](./Engineering_Management%20_%26_Professional_Practice/README.md)
+[Sustainable engineering projects including
+- reclaimed-wood product planning
+- professional documentation.
 
 
 ### 🧠 Indigenous Science & STEM
