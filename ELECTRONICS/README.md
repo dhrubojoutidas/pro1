@@ -59,7 +59,9 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 - Identifying transistor terminals  
 - Measuring IB, IC, VBE, VCE  
 - Analysing amplifier gain and bias point  
-- Understanding the role of emitter bypass capacitors  
+- Understanding the role of emitter bypass capacitors
+- <img width="527" height="805" alt="image" src="https://github.com/user-attachments/assets/d5163903-f4bf-4b7f-88d2-3776bea185ac" />
+
 
 
 ---
