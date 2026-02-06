@@ -1,4 +1,3 @@
----
 
 # 🔌 **Transmission & Interface Design (ELEN2002) — Lab Portfolio**  
 A curated collection of laboratory work completed for **ELEN2002: Transmission & Interface Design** at Curtin University.  
