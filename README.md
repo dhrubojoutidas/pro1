@@ -91,14 +91,17 @@ It showcases hands-on experience across **networking, systems administration, da
 
 ### 📖 [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
 
-[Sustainable engineering projects including
+Sustainable engineering projects including
+
 - reclaimed-wood product planning
 - professional documentation.
 
 
-### 🧠 Indigenous Science & STEM
-[Research-based essays integrate Indigenous knowledge with modern STEM  healthcare access and digital inequality.](<Indigenous_Science_&_ STEM/Readme.md>)
+### 🧠 [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>)
 
+Research-based essays 
+- Integrate Indigenous knowledge with modern STEM nature
+- Healthcare access and digital inequality.
 
 ### 📢 Communication & Public Relations
  [Projects demonstrating crisis communication, media strategy, ethical PR, campaign analysis through real-world simulations.](./Public%20Relation/)
