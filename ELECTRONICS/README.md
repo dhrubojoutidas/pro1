@@ -50,7 +50,6 @@ Key skills developed:
 - Measured forward/reverse resistance  
 - Observed ripple reduction with capacitors  
 - Analysed rectifier performance using DSO  
-- <img width="551" height="780" alt="image" src="https://github.com/user-attachments/assets/e7c506ad-9aca-4339-9f9c-6394b6e367e8" />
 
 
 ---
@@ -72,8 +71,6 @@ Key skills developed:
 - Identified transistor terminals  
 - Measured IB, IC, VBE, VCE  
 - Observed gain improvement with bypass capacitor  
-- <img width="527" height="805" alt="image" src="https://github.com/user-attachments/assets/d5163903-f4bf-4b7f-88d2-3776bea185ac" />
-
 
 ---
 
@@ -87,9 +84,7 @@ Key skills developed:
 
 ---
 
-# 📝 **Take‑Home Test — Circuit Analysis & Problem Solving**
-
-📄 **[Open Take‑Home Test](#)**
+# 📝 [**Take‑Home Test — Circuit Analysis & Problem Solving**](./Eten_takeHomeTest.pdf)
 
 **Concepts Demonstrated:**
 
@@ -122,45 +117,6 @@ Applied ideal op‑amp rules to compute output voltage in inverting/non‑invert
 - Clear documentation and engineering communication  
 - Practical skills relevant to **IT support, hardware roles, embedded systems, and electronics‑related positions**
 
-
-  
-
----
-
-
-
-
----
-
-## 📝 Take‑Home Test — Circuit Analysis & Problem Solving  
-A collection of multi‑step circuit analysis problems demonstrating my ability to apply **core electrical engineering methods** to unfamiliar circuits.  
-This test required manual derivations, transformations, and verification of results — showing both theoretical understanding and problem‑solving accuracy.
-
-📄 **[View Take‑Home Test (PDF)](https://github.com/dhrubojoutidas/pro1/blob/master/ELECTRONICS/Eten_takeHomeTest.pdf)**
-
-### **Key Concepts Demonstrated**
-- **Source Transformation**  
-  Converted current sources ↔ voltage sources to simplify networks and compute branch currents (e.g., current through R2).
-
-- **Nodal Analysis**  
-  Set up node‑voltage equations, applied KCL, solved simultaneous equations to determine unknown voltages and currents.
-
-- **Thevenin & Norton Equivalent Circuits**  
-  - Found \( V_{TH} \), \( R_{TH} \), and Norton current  
-  - Re‑drew circuits into simplified equivalents  
-  - Used them to compute load current and voltage
-
-- **Mesh Analysis**  
-  Applied KVL around multiple loops to solve for mesh currents and determine voltage across R2.
-
-- **Diode Modelling**  
-  Used the 0.7 V forward‑bias model to analyse circuits with diodes and compute node voltages and currents.
-
-- **Op‑Amp Analysis**  
-  Applied ideal op‑amp rules ( \( V_+ = V_- \), infinite input impedance ) to compute output voltage in inverting/non‑inverting configurations.
-
-
----
 
 
 ---
