@@ -44,16 +44,9 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 
 
 
-
-
-
-
-
-
-
 ---
 
-## 🎛️ Lab 4 — Operational Amplifier Circuits  
+## 🎛️ [Lab 4 — Operational Amplifier Circuits ](./labReport%204%2022663281.pdf) 
 **Topics:** Buffer, inverting, non‑inverting, weighted adder, non‑linear components  
 **Skills demonstrated:**  
 - Designing op‑amp circuits using LM741  
@@ -61,7 +54,6 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 - Comparing theoretical and measured waveforms  
 - Understanding filtering effects with capacitors  
 
-📄 **`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`**
 
 ---
 
@@ -73,7 +65,6 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 - Analysing amplifier gain and bias point  
 - Understanding the role of emitter bypass capacitors  
 
-📄 **`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`**
 
 ---
 
@@ -84,16 +75,6 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 - Building and testing on breadboard & Vero board  
 - Measuring gain using oscilloscope  
 - Driving a speaker and analysing frequency response  
-
-📄 **`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`**
-
----
-
-## 🎯 What This Portfolio Shows  
-- Strong understanding of **core electronics principles**  
-- Ability to **build, measure, analyse, and troubleshoot circuits**  
-- Experience with **oscilloscopes, DMMs, function generators, and power supplies**  
-- Clear documentation and professional presentation of engineering work  
 
 ---
 
