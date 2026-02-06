@@ -100,9 +100,9 @@ Sustainable engineering projects including
 ### 🧠 [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>)
 
 Research-based essays 
-- Integrate Indigenous knowledge with modern STEM nature
-- Healthcare access and digital inequality.
-
+- Integrate Indigenous knowledge with modern STEM  Healthcare access and digital inequality.
+- How Indigenous knowledge in Bangladesh can complement modern medicine in curing diseases.
+ 
 ### 📢 Communication & Public Relations
  [Projects demonstrating crisis communication, media strategy, ethical PR, campaign analysis through real-world simulations.](./Public%20Relation/)
 
