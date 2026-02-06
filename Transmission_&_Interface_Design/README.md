@@ -87,7 +87,7 @@ You can paste this directly into your README under the “Arduino Source Code”
 
 ---
 
-# 💻 Arduino Coding Folder — What It Contains & Why It Matters
+# [💻 Arduino Coding Folder — What It Contains & Why It Matters](./Arduino)
 
 This folder contains all the **Arduino `.ino` programs** used to implement and test the communication protocols explored in **Lab 5: RS232, I²C, and SPI Interfaces**.  
 These files demonstrate how microcontrollers communicate using different serial standards and how timing, addressing, and data integrity behave in real embedded systems.
