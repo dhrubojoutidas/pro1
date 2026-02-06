@@ -75,6 +75,82 @@ Key skills developed:
 - Ability to analyse **timing, signal integrity, and IC behaviour**  
 - Practical experience with **Arduino, oscilloscopes, and serial buses**  
 - Clear documentation and engineering communication  
-- Skills relevant to **embedded systems, electronics, IoT, and hardware support roles**  
+- Skills relevant to **embedded systems, electronics, IoT, and hardware support roles**
+  
 
 ---
+
+
+Perfect — now that I can see your **Arduino folder** in your GitHub tab , I can give you a clean, professional description that explains **exactly what the coding folder is for**, what it contains, and why it matters.
+
+You can paste this directly into your README under the “Arduino Source Code” section.
+
+---
+
+# 💻 Arduino Coding Folder — What It Contains & Why It Matters
+
+This folder contains all the **Arduino `.ino` programs** used to implement and test the communication protocols explored in **Lab 5: RS232, I²C, and SPI Interfaces**.  
+These files demonstrate how microcontrollers communicate using different serial standards and how timing, addressing, and data integrity behave in real embedded systems.
+
+## **📂 Part 1 — I²C Communication (Master & Slave)**  
+Includes:  
+- `Blink_I2C_Master.ino`  
+- `Blink_I2C_Slave.ino`  
+- `Blink_I2C_Master_2.ino`
+
+**What this part shows:**  
+- How a master sends commands over the I²C bus  
+- How a slave responds using its assigned address  
+- Multi‑slave communication using different addresses  
+- LED control and bus behaviour when SDA/SCL are disconnected  
+
+This demonstrates your understanding of **addressing, pull‑ups, synchronous communication, and multi‑device bus design**.
+
+---
+
+## **📂 Part 2 — RS232 → I²C Bridge (Serial to I²C)**  
+Includes:  
+- `Serial_I2C_Master.ino`  
+- `Serial_I2C_Slave.ino`
+
+**What this part shows:**  
+- Receiving text from a PC via Serial (RS232‑style USB)  
+- Forwarding that data over I²C to another Arduino  
+- Slave printing the received data to Serial Monitor  
+- How software delays affect timing and message flow  
+
+This demonstrates your ability to **bridge two different communication standards** and manage timing between asynchronous and synchronous protocols.
+
+---
+
+## **📂 Part 3 — SPI Communication (High‑Speed Master & Slave)**  
+Includes:  
+- `SPI_Master.ino`  
+- `SPI_Slave.ino`
+
+**What this part shows:**  
+- Full‑duplex SPI communication using MOSI, MISO, SCK, SS  
+- Slave receiving data via SPI interrupt (`SPI_STC_vect`)  
+- Testing different SPI clock speeds:  
+  - `DIV32` → slow & stable  
+  - `DIV8` → fast & reliable  
+  - `DIV2` → very fast, causes corrupted data  
+- How timing limits affect data integrity  
+
+This demonstrates your understanding of **high‑speed serial buses, interrupt‑driven communication, and hardware timing constraints**.
+
+---
+
+## 🧠 Why This Folder Is Important  
+This coding folder proves your ability to:  
+- Write and debug embedded communication code  
+- Work with **three major serial protocols** (I²C, SPI, RS232)  
+- Understand timing, interrupts, and data buffering  
+- Build real microcontroller‑to‑microcontroller communication systems  
+- Analyse and fix data corruption issues at high clock speeds  
+
+It shows recruiters that you’re not just running labs — you’re actually **building and understanding real embedded communication systems**.
+
+---
+
+
