@@ -73,6 +73,14 @@ It showcases hands-on experience across **networking, systems administration, da
 ---
 
 
+### 📁 Transmission & Interface Design 
+
+[Contains all lab reports, Arduino communication code (I²C, RS232→I²C, SPI), and CAN‑bus presentation materials demonstrating practical embedded‑systems interface design.](./Transmission_&_Interface_Design)
+
+
+
+---
+
 ## 📚 Research, Reports & Academic Documentation
 
 ### 📖 Engineering & Professional Practice
