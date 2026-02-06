@@ -57,9 +57,6 @@ It showcases hands-on experience across **networking, systems administration, da
 [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
 
-###  🔌 ELECTRONICS
-[Labs demonstrate hands‑on experience with circuit analysis, measurement tools, diodes, rectifiers, BJTs, op‑amps, and amplifier design.](./ELECTRONICS/README.md)
-
 ---
 
 ### 🏅 Databases & Data Analysis
@@ -67,6 +64,14 @@ It showcases hands-on experience across **networking, systems administration, da
 [Olympic Games Analysis  using  SQL and Python ](./Olympic_Games_Database_System/README.md)
  
 ---
+
+
+
+###  🔌 ELECTRONICS
+[Labs demonstrate hands‑on experience with circuit analysis, measurement tools, diodes, rectifiers, BJTs, op‑amps, and amplifier design.](./ELECTRONICS/README.md)
+
+---
+
 
 ## 📚 Research, Reports & Academic Documentation
 
