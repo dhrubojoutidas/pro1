@@ -67,7 +67,7 @@ Key skills developed:
 
 ---
 
-## 🚗 **CAN Bus Presentation — Priority & Contention**  
+## 🚗[**CAN Bus Presentation — Priority & Contention** ](./CAN_PRESENTATION_PART2_TROYEE.pptx )
 **Topics:** CAN arbitration, message priority, dominant/recessive bits  
 **Skills demonstrated:**  
 - Explained CAN ID‑based priority  
