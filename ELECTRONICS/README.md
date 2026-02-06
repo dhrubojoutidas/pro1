@@ -65,7 +65,7 @@ Key skills developed:
 
 ---
 
-## 🔊 [**Lab 5 — Bipolar Junction Transistors**](./lab_REPORT5_22663281.pdf)  
+##  🎯 [**Lab 5 — Bipolar Junction Transistors**](./lab_REPORT5_22663281.pdf)  
 **Skills:** BJT as switch & amplifier, DC biasing, gain analysis (with/without bypass capacitor) 
 **Highlights:**  
 - Identified transistor terminals  
@@ -109,15 +109,3 @@ Used the 0.7 V forward‑bias model to analyse circuits with diodes.
 Applied ideal op‑amp rules to compute output voltage in inverting/non‑inverting circuits.
 
 ---
-
-# 🎯 **What This Portfolio Shows**
-- Strong understanding of **core electronics theory**  
-- Ability to **analyse, build, and troubleshoot circuits**  
-- Experience with **industry‑standard lab equipment**  
-- Clear documentation and engineering communication  
-- Practical skills relevant to **IT support, hardware roles, embedded systems, and electronics‑related positions**
-
-
-
----
-
