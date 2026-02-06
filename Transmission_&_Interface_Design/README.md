@@ -24,7 +24,6 @@ Key skills developed:
 
 ## ⚡ [**Lab 2 — Amplifiers & Comparators** ](./Lab%20Report%202%20_TRANSMISSION.pdf)
 
-
 **Topics:** Inverting amplifier, comparator behaviour, BJT biasing, emitter bypass capacitor  
 **Skills demonstrated:**  
 - Calculated & measured closed‑loop gain  
@@ -32,7 +31,6 @@ Key skills developed:
 - Analysed BJT DC bias point & AC gain  
 - Compared gain with/without emitter bypass capacitor  
 
-📄 **[Open Lab 2 Report](#)**
 
 ---
 
@@ -44,9 +42,23 @@ Key skills developed:
 - Evaluated dynamic vs static power consumption  
 - Observed inverter response to analog inputs  
 
-📄 **[Open Lab 3 Report](#)**
+
+
+
 
 ---
+
+## 🎚️[ **Lab 4 — Op‑Amp Amplifiers & Comparators (ELEN2002)**  ](./Lab_report4_TRANSMISSION.pdf)
+**Topics:** Inverting amplifier, comparator behaviour, BJT biasing, emitter bypass capacitor  
+**Skills demonstrated:**  
+- Built and analysed an inverting amplifier using LM741  
+- Observed comparator switching behaviour with reference voltage  
+- Measured BJT DC bias values (VBE, VCE, IB, IC)  
+- Compared AC gain with and without emitter bypass capacitor  
+- Interpreted oscilloscope waveforms for gain, phase inversion, and switching  
+
+---
+
 
 ## 🔗 **Lab 5 — RS232, I²C & SPI Interfaces**  
 **Topics:** Multi‑protocol communication using Arduino (Master/Slave)  
