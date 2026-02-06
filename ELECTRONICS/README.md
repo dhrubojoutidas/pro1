@@ -66,7 +66,7 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 
 ---
 
-## 🔈 Lab 6 — Amplifier Design to Drive a Speaker  
+## 🔈 [Lab 6 — Amplifier Design to Drive a Speaker ](./LabREPORT6_22663281.pdf)
 **Topics:** Inverting amplifier design, gain calculation, audio output  
 **Skills demonstrated:**  
 - Designing an op‑amp amplifier to meet gain & impedance specs  
