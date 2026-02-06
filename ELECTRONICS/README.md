@@ -1,4 +1,3 @@
-<img width="851" height="788" alt="image" src="https://github.com/user-attachments/assets/1daa9f4f-db49-4433-8f9d-c20362550b5d" />
 
 # 📡 Electronics (ETEN1000) — Lab Portfolio  
 A collection of laboratory work completed as part of **ETEN1000: Electronics** at Curtin University.  
@@ -39,14 +38,11 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 - Analysing ripple voltage and capacitor effects  
 - Understanding real‑world diode behaviour
 - <img width="551" height="780" alt="image" src="https://github.com/user-attachments/assets/e7c506ad-9aca-4339-9f9c-6394b6e367e8" />
-- <img width="851" height="788" alt="image" src="https://github.com/user-attachments/assets/f1ad56da-1dc5-4b20-a3c8-a6e7a7e4948e" />
-
-
 
 
 ---
 
-## 🎛️ [Lab 4 — Operational Amplifier Circuits ](./labReport%204%2022663281.pdf) 
+## 🎛️ [Lab 4 — Operational Amplifier Circuits ](./labReport_4_22663281.pdf)
 **Topics:** Buffer, inverting, non‑inverting, weighted adder, non‑linear components  
 **Skills demonstrated:**  
 - Designing op‑amp circuits using LM741  
