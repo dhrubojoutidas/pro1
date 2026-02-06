@@ -34,7 +34,7 @@ Key skills developed:
 
 ---
 
-## 🔧 **Lab 3 — Digital IC Performance (7404 Inverter)**  
+## 🔧[ **Lab 3 — Digital IC Performance (7404 Inverter)** ](./Lab_report_3.pdf)
 **Topics:** Voltage transfer characteristics, propagation delay, rise/fall times, power consumption  
 **Skills demonstrated:**  
 - Measured VTC for 1‑load & 5‑load configurations  
