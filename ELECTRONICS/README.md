@@ -20,7 +20,7 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 
 ---
 
-## 🔌 Lab 2 — Basic Electrical Circuits  
+## 🔌 [Lab 2 — Basic Electrical Circuits ](./lab_report2_22663281.pdf)
 **Topics:** Series & parallel resistors, voltage divider, current divider  
 **Skills demonstrated:**  
 - Building and analysing resistor networks  
