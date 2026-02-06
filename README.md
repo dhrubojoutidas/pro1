@@ -73,7 +73,7 @@ It showcases hands-on experience across **networking, systems administration, da
 ---
 
 
-### 📁 [Transmission & Interface Design ](./Transmission%20&%20Interface%20Design)
+### 📁 [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
 
 - Contains lab reprt & Arduino communication code  about
 - (I²C, RS232→I²C, SPI)
