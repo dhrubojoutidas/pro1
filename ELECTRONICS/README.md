@@ -8,7 +8,7 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 
 ---
 
-## 🔧 Lab 1 — Equipment Familiarisation  
+## 🔧 [Lab 1 — Equipment Familiarisation](./ETEN1000 Lab1_22663281.pdf)  
 **Topics:** DMM, DSO, Function Generator, PSU, basic series circuits  
 **Skills demonstrated:**  
 - Measuring DC voltages and currents  
