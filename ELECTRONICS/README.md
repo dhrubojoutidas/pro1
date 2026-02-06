@@ -39,7 +39,10 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 - Analysing ripple voltage and capacitor effects  
 - Understanding real‑world diode behaviour
 - <img width="551" height="780" alt="image" src="https://github.com/user-attachments/assets/e7c506ad-9aca-4339-9f9c-6394b6e367e8" />
-![Uploading image.png…]()
+- ![Uploading image.png…]()
+
+
+
 
 
 
