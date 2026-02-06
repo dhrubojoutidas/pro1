@@ -16,7 +16,7 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 - Understanding measurement error sources  
 - Comparing theoretical vs experimental values  
 
-📄 **`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`**
+
 
 ---
 
@@ -28,19 +28,22 @@ Each lab includes **theoretical calculations, practical measurements, oscillosco
 - Using oscilloscope to verify AC behaviour  
 - High‑accuracy comparison between theory and experiment  
 
-📄 **`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`**
 
 ---
 
-## 🔋 Lab 3 — Diodes & Rectification  
+## 🔋[ Lab 3 — Diodes & Rectification ](./labReport_3_22663281.pdf) 
 **Topics:** Diode characteristics, half‑wave & full‑wave rectifiers, smoothing capacitors  
 **Skills demonstrated:**  
 - Measuring forward & reverse diode resistance  
 - Observing rectified waveforms on DSO  
 - Analysing ripple voltage and capacitor effects  
-- Understanding real‑world diode behaviour  
+- Understanding real‑world diode behaviour
+- <img width="551" height="780" alt="image" src="https://github.com/user-attachments/assets/e7c506ad-9aca-4339-9f9c-6394b6e367e8" />
+![Uploading image.png…]()
 
-📄 **`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`**
+
+
+
 
 ---
 
