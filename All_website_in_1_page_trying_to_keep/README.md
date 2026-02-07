@@ -182,6 +182,11 @@
 
 ---
 
+ ### EMBEBD SYSTEM:
+ 
+- BOOK:https://drive.google.com/file/d/18iNXqDO5RFQC2mL09mw2XuPv668_yOUq/view?usp=drive_link
+-priyaan:https://www.poriyaan.in/paper/embedded-systems-and-iot-87/
+
  ### LINUX 
  - https://www.geeksforgeeks.org/linux-unix/shell-scripting-shell-variables/
  - https://www.geeksforgeeks.org/linux-unix/input-output-redirection-in-linux/
