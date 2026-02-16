@@ -69,6 +69,23 @@
 ### ⚙️ Digital Electronics & Logic Design
 - https://www.geeksforgeeks.org/electrical-engineering/electronic-components/
 - https://hackatronic.com/electronics-tutorial/digital-electronics/
+- https://www.flukenetworks.com/knowledge-base/applicationstandards-articles-copper/mhz-vs-mbits-and-encoding
+-  https://www.elprocus.com/transistor-transistor-logic-ttl/
+
+-  https://www.geeksforgeeks.org/computer-networks/transmission-modes-computer-networks/
+- https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial
+- https://www.circuitbread.com/tutorials/understanding-can-a-beginners-guide-to-the-controller-area-network-protocol
+- https://www.watelectronics.com/controller-area-network-protocol/
+- https://copperhilltech.com/blog/can-bus-tutorial-can-bus-main-characteristics/#:~:text=The%20CAN%20properties%20can%20be%20summarized%20as%3A%20Multi-Master,defined%20format%20frames%20of%20different%20but%20limited%20length
+- https://community.nxp.com/t5/NXP-Tech-Blog/101-Controller-Area-Network-CAN-standard/ba-p/1217054?profile.language=en
+- 
+- https://www.geeksforgeeks.org/computer-organization-architecture/system-bus-design/
+
+- https://www.guru99.com/routing-protocol-types.html
+- 
+- https://www.guru99.com/ethernet-cables-types.html
+- https://cableknowledge.com/cat5-to-cat8-explained/
+- 
 - https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 - https://www.electrical4u.com/full-wave-rectifiers/
 - https://www.electrical4u.com/half-wave-rectifiers/
