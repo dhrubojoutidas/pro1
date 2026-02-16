@@ -1,6 +1,6 @@
 - [ESP8266 tutorials and projects](https://embedded-lab.com/blog/esp8266-tutorials-and-projects/)
 - [Getting Started with Arduino Cloud IoT: Connect ESP8266 to Arduino Cloud IoT](https://circuitdigest.com/microcontroller-projects/getting-started-with-arduino-cloud-iot-connect-esp8266-to-arduino-cloud-iot)
-- ttps://learn.adafruit.com/adafruit-arduino-lesson-6-digital-inputs?view=all
+- https://learn.adafruit.com/adafruit-arduino-lesson-6-digital-inputs?view=all
 - [Light-Emitting Diodes (LEDs) - SparkFun Learn]( https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds)
 - [fade a LED at varying brightness levels](https://energia.nu/guide/tutorials/basics/tutorial_fade/)
 - [Getting Started with MSP430G2 using Energia IDE –Blinking an LED](https://circuitdigest.com/microcontroller-projects/getting-started-with-msp430G2-using-energia-ide-blinking-an-led)
