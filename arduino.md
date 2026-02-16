@@ -3,4 +3,6 @@
 - Arduino Lesson 6. Digital Inputs:https://learn.adafruit.com/adafruit-arduino-lesson-6-digital-inputs?view=all
 - [Arduino-er: Communication betweeen Arduinos using SPI ](https://arduino-er.blogspot.com/2014/09/communication-betweeen-arduinos-using.html#google_vignette)
 - [Getting Started with MSP430G2 using Energia IDE –Blinking an LED](https://circuitdigest.com/microcontroller-projects/getting-started-with-msp430G2-using-energia-ide-blinking-an-led)
-- Pulse Width Modulation, or PWM:https://energia.nu/guide/foundations/micro/tutorial_pwm/
+
+- Pulse Width Modulation, or PWM:https://learn.sparkfun.com/tutorials/pulse-width-modulation
+- :https://energia.nu/guide/foundations/micro/tutorial_pwm/
