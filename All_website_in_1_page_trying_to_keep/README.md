@@ -77,6 +77,10 @@
 
 ## TRANSMISSION
 
+- https://testbook.com/electrical-engineering/transmission-line-model
+- https://www.engineeringa2z.com/transmission-line-classification-modelling/#google_vignette
+-  https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electronics/Microwave_and_RF_Design_II__Transmission_Lines_(Steer)/02%3A_Transmission_Lines/2.07%3A_Models_of_Transmission_Lines
+-  
 ###  SOME TOPIC
 - Details:https://www.electronicshub.org/multiplexerandmultiplexing/
 - for advantage/disadvantage  details:https://www.hackatronic.com/difference-between-multiplexer-and-demultiplexer-with-types/
