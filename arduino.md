@@ -1,3 +1,4 @@
+- https://highlightcode.com/
 - [ESP8266 tutorials and projects](https://embedded-lab.com/blog/esp8266-tutorials-and-projects/)
 - [Getting Started with Arduino Cloud IoT: Connect ESP8266 to Arduino Cloud IoT](https://circuitdigest.com/microcontroller-projects/getting-started-with-arduino-cloud-iot-connect-esp8266-to-arduino-cloud-iot)
 - https://learn.adafruit.com/adafruit-arduino-lesson-6-digital-inputs?view=all
@@ -8,3 +9,4 @@
 
 - https://learn.sparkfun.com/tutorials/pulse-width-modulation
 - :https://energia.nu/guide/foundations/micro/tutorial_pwm/
+- https://energia.nu/guide/#_microcontrollers
