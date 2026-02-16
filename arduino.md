@@ -12,4 +12,7 @@
 - :https://energia.nu/guide/foundations/micro/tutorial_pwm/
 - <img width="363" height="741" alt="image" src="https://github.com/user-attachments/assets/cb381e01-8f64-4a5b-abeb-3cfc76f99c28" />
 
+- [I2C Liquid Crystal Displays](https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615)
+- [How to interface I2C LCD display with Arduino](https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/)
+- 
 
