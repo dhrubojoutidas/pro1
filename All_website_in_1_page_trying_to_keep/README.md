@@ -137,6 +137,8 @@
 - https://www.electronicsforu.com/technology-trends/learn-electronics/flip-flop-rs-jk-t-d
 - Details here --- https://www.electronics-tutorial.net/sequential-logic-circuits/d-flip-flop-to-jk-flip-flop/
 - https://www.tutorialspoint.com/digital-electronics/digital-electronics-latches.htm
+-  https://www.geeksforgeeks.org/digital-logic/sr-flip-flop/
+-  https://www.geeksforgeeks.org/digital-logic/flip-flop-types-their-conversion-and-applications/
   
 ### SEQUENTIALvs COMBINATON CIRUIT: 
 - *https://www.hackatronic.com/difference-between-combinational-and-sequential-circuits/
