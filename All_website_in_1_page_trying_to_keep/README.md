@@ -67,6 +67,7 @@
 --- 
 
 ### ⚙️ Digital Electronics & Logic Design
+- https://www.geeksforgeeks.org/electrical-engineering/electronic-components/
 - https://hackatronic.com/electronics-tutorial/digital-electronics/
 - https://www.tutorialspoint.com/digital-electronics/digital-arithmetic-circuits.htm
 - https://www.electrical4u.com/full-wave-rectifiers/
@@ -282,7 +283,7 @@
  -	Loop Vs While Loop:https://www.scaler.com/topics/difference-between-for-and-while-loop-in-python/
  -	Loop Vs While Loop:https://www.geeksforgeeks.org/python/difference-between-for-loop-and-while-loop-in-python/
  -	Loop Vs While Loop**:https://www.tutorialspoint.com/difference-between-for-loop-and-while-loop-in-python# 
- -	
+
 
 ### LIST
 
