@@ -209,6 +209,7 @@
 - Getting Started with Code Composer Studio:https://www.youtube.com/watch?v=-D7b5e7iofQ
 - Micro processor: https://www.tutorialspoint.com/microprocessor/index.htm
 - YT :https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F
+- https://www.geeksforgeeks.org/computer-organization-architecture/computer-organization-von-neumann-architecture/ 
 
 
 ---
