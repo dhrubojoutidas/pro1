@@ -69,15 +69,16 @@ A series of **supervised, hands-on embedded systems tasks** using the **MSP430FR
 Although the final modified source code from the lab sessions was not retained, the tasks were completed, demonstrated, and explained during the laboratory assessments. The work required understanding, implementing, and justifying embedded system behaviour in real time.
 
 **Core tasks completed and demonstrated:**
-- Programming the MSP430 to output data to the serial monitor
-- Interfacing a **servo motor** and controlling its motion based on **temperature thresholds**
-- Reading onboard **temperature sensor data** and reacting to environmental changes
-- Using the onboard **accelerometer** and mapping axis data to LED outputs
-- Implementing **calibration logic** using push buttons to reset sensor baselines
+
+- Programmed the MSP430 to send readable data to the serial monitor for debugging and system feedback.
+- Interfaced **servo motor** and controlled its motion based on **temperature thresholds**
+- Read **temperature sensor data** and reacted when temperature changes
+- Used the onboard **accelerometer** and mapped X/Y/Z axis movement to LED indicators.
+- Implementied **calibration logic** using push buttons to reset sensor baselines during runtime.
 - Combining multiple functionalities into a **mode-based embedded program**
-- Switching operating modes using hardware buttons with serial feedback
-- Establishing **SPI communication between MSP430 and Arduino**
-- Sending strings and control signals from MSP430 to Arduino and displaying output on an **I2C LCD**
+- Switched modes using hardware buttons, with updates shown on the serial monitor.
+- Set up **SPI communication between MSP430 and Arduino**
+- Sent text and control signals  from MSP430  to the Arduino, which displayed them on an **I2C LCD**.
 
 **Technical concepts applied:**
 - Embedded C/C++  Energia
@@ -104,9 +105,10 @@ Although the final modified source code from the lab sessions was not retained, 
 8. **[NTC Sensor Header File](./FraunchPad_NTC.h)**  
    Sensor interface definitions.
 
-9. **[NTC Sensor Source File](./FraunchPad_NTC.cpp)** :Sensor logic and data processing implementation.
-10. [SPI V1 folder ](./SPI%20V1)
-11. [SPI V2 folder](./SPI%20V2)
+9. **[NTC Sensor Source File](./FraunchPad_NTC.cpp)**
+    Sensor logic and data processing implementation.
+11. [SPI V1 folder ](./SPI%20V1)
+12. [SPI V2 folder](./SPI%20V2)
 
  ---
 
