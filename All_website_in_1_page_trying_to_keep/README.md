@@ -47,6 +47,7 @@
 # netwokring
 
 - how SSH works :1https://www.linkedin.com/posts/hichemdachraoui_understanding-how-ssh-works-secure-activity-7333779158973440000-3eK_?utm_medium=ios_app&rcm=ACoAAFfqsq4BiEIOjlM-DIxdnUlCDaTEnK4dCo4&utm_source=social_share_send&utm_campaign=whatsapp
+- https://www.uninets.com/blog/what-is-bus-topology
 
 
   
