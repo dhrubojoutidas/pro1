@@ -13,6 +13,7 @@
 - https://www.tutorialspoint.com/
 - Engineering tutorial
 - CSE sem wise topic
+- https://www.guru99.com/data-communication-computer-network-tutorial.html
 
 
   > 📝 **YOU TUBE VIDEOS** 
