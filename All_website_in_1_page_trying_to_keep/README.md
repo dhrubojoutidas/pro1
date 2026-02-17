@@ -202,6 +202,7 @@
 ### 📚 MICRO 
 - Microprocessor vs controller :https://youtu.be/dcNk0urQsQM?si=n3eLUHMMI2zCXsOQ
 - What is a Microcontroller and how does it work? :https://youtu.be/t68MG-kVDCU?si=0yIvFQlt3MMqLidm
+- https://www.jaycon.com/microprocessor-vs-microcontroller-vs-microcomputer/
 - https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
 - https://www.tutorialspoint.com/microprocessor/index.htm
 - Using C++ and WSL in VS Code:https://code.visualstudio.com/docs/cpp/config-wsl
