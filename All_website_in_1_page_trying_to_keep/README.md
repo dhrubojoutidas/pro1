@@ -103,6 +103,7 @@
 - https://testbook.com/electrical-engineering/transmission-line-model
 - https://www.engineeringa2z.com/transmission-line-classification-modelling/#google_vignette
 -  https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electronics/Microwave_and_RF_Design_II_-_Transmission_Lines_(Steer)/02%3A_Transmission_Lines/2.07%3A_Models_of_Transmission_Lines
+-  https://www.uninets.com/blog/computer-network-cable-types
   
 ###  SOME TOPIC
 - Details:https://www.electronicshub.org/multiplexerandmultiplexing/
