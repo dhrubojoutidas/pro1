@@ -30,7 +30,7 @@ The objective was to evaluate **commercial feasibility and viability** using str
 
 ---
 
- ### 2)  Embedded Systems Design Assignment
+ ### 2) [ Embedded Systems Design Assignment](Design%20assignment.pdf)
 
 This project presents the design and development of an embedded system as part of the Embedded Systems Design course. The aim of this assignment is to demonstrate a structured approach to embedded system design, from problem identification through to implementation and evaluation.
 
