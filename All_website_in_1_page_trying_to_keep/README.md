@@ -79,7 +79,7 @@
 - https://www.geeksforgeeks.org/electrical-engineering/electronic-components/
 - https://hackatronic.com/electronics-tutorial/digital-electronics/
 - https://www.flukenetworks.com/knowledge-base/applicationstandards-articles-copper/mhz-vs-mbits-and-encoding
--  https://www.elprocus.com/transistor-transistor-logic-ttl/
+- https://www.elprocus.com/transistor-transistor-logic-ttl/
 
 -  https://www.geeksforgeeks.org/computer-networks/transmission-modes-computer-networks/
 - https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial
@@ -268,15 +268,9 @@
 ---
   ### 📘SOFTWARE  ENGINEERING NOTES 
   
--https://www.altexsoft.com/blog/non-functional-requirements
-- https://www.guru99.com/non-functional-testing.html 
 - https://www.pmcalculators.com/critical-path-method-calculator/
 - https://www.geeksforgeeks.org/software-engineering/software-engineering/
 - https://www.tutorialspoint.com/software_engineering/index.htm
-- https://www.slideshare.net/slideshow/airline-management-system/210443393
-- https://www.slideshare.net/SuryaIndira/airline-reservation-system-documentation-56706479
-- https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-an-airline-management-system.md
-- https://online.visual-paradigm.com/diagrams/templates/use-case-diagram/restaurant-management-use-case-diagram/
 
 ---
  
