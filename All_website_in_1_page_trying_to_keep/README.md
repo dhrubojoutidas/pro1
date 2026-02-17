@@ -226,8 +226,8 @@
  ### LINUX 
  - https://www.geeksforgeeks.org/linux-unix/shell-scripting-shell-variables/
  - https://www.geeksforgeeks.org/linux-unix/input-output-redirection-in-linux/
- -  https://www.geeksforgeeks.org/linux-unix/linux-directory-structure/
- -   https://www.technewstoday.com/rmdir-directory-not-empty/
+ - https://www.geeksforgeeks.org/linux-unix/linux-directory-structure/
+ - https://www.technewstoday.com/rmdir-directory-not-empty/
  - https://askubuntu.com/questions/793507/rm-cannot-remove-directory-permission-denied
  - https://www.geeksforgeeks.org/linux-unix/how-to-delete-multiple-lines-in-vim-editor-in-linux/
  - https://www.wikihow.com/Find-Out-Your-IP-Address#:~:text=How%20to%20Find%20out%20your%20IP%20Address%20Windows,adapter.%204%20Look%20at%20the%20.%20See%20More.
@@ -258,10 +258,8 @@
 
 - https://www.mathsisfun.com/data/data.html
 - https://www.elimuza.com/grade-12/grade-12-study-guides-and-notes/mathematics-notes/item/1078-probability
-- https://tutorial.math.lamar.edu/Extras/AlgebraTrigReview/AlgebraTrig.aspx
-- https://origami.guide/instructions/traditional-origami/
-
 ---
+
   ### 📘SOFTWARE  ENGINEERING NOTES 
   
 - https://www.pmcalculators.com/critical-path-method-calculator/
