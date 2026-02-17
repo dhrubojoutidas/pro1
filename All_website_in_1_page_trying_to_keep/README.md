@@ -2,7 +2,6 @@
 #📘 Learning Resources
 
 ## WEBSITE THAT HAS ALL IT SUBJECT
-
 - https://www.geeksforgeeks.org/digital-logic/digital-electronics-logic-design-tutorials
 - https://www.learncomputerscienceonline.com/introduction-to-computer-system/
 - https://www.tutorialspoint.com/computer_science_tutorials.htm
