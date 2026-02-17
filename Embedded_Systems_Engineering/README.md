@@ -40,7 +40,7 @@ A complete embedded system design workflow—from problem definition to implemen
 - Constraints: cost, performance, size, power
 - Safety, security, maintainability, and reliability
 - Future improvements and stretch goals
-- 
+  
 ---
 
 
