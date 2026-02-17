@@ -14,6 +14,7 @@
 - Engineering tutorial
 - CSE sem wise topic
 - https://www.guru99.com/data-communication-computer-network-tutorial.html
+- https://www.geeksforgeeks.org/computer-networks/computer-network-tutorials/
 
 
   > 📝 **YOU TUBE VIDEOS** 
