@@ -59,7 +59,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
  ---
 
  
-## 🏅🐍  Progamming
+## 🏅🐍  Programming
 
 ### 8️⃣  [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
 
@@ -98,14 +98,13 @@ Includes:
 
 ---
 
-
 # 📚🔍 Research, Reports & Academic Documentation
 <br>
 
 ### 1️⃣4️⃣ [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md) 
-### 1️⃣5️⃣  [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>) 
-### 1️⃣6️⃣  [Communication & Public Relations](./Public%20Relation/) 
-### 1️⃣7️⃣ [inear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md) 
+### 1️⃣5️⃣ [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>) 
+### 1️⃣6️⃣ [Communication & Public Relations](./Public%20Relation/) 
+### 1️⃣7️⃣ [Linear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md) 
 <br>
 
 
