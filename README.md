@@ -55,21 +55,20 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 
 
-###  🔌[ ELECTRONICS](./ELECTRONICS/README.md)
+###  🔌[ ELECTRONICS Lab Work](./ELECTRONICS/README.md)
 
-[Labs demonstrate hands‑on experience with
-- circuit analysis, measurement tools,
-- diodes, rectifiers,
--  BJTs, op‑amps, and amplifier design.
 
 ---
 
 
 ### 📁 [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
 
-- Contains lab reprt & Arduino communication code  about
-- (I²C, RS232→I²C, SPI)
-- CAN‑bus presentation materials demonstrating practical embedded‑systems interface design.
+
+- Hands‑on lab work and Arduino communication experiments involving:
+- I²C communication
+- RS232 to I²C protocol conversion
+- SPI interfacing
+- CAN‑bus concepts and embedded‑systems interface design
 
 
 
