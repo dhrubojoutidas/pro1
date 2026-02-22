@@ -20,10 +20,10 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 ---
 
 # 🚀 Highlighted Projects
+<br>
 
 
 ## 🛜 IoT, Embedded Systems & Microcontrollers
-
 
 ### 1️⃣ [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)
 
@@ -84,6 +84,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 
 # 📚🔍 Research, Reports & Academic Documentation
+<br>
 
 ### 9️⃣ [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md) 
 ### 🔟 [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>) 
