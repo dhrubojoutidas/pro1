@@ -70,8 +70,6 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
  
 ---
 
-
-
 ## 🔌💡 Digital Electronics & Interface Design
 
 ### 1️⃣1️⃣ [Electronics Lab Work](./ELECTRONICS/README.md)
@@ -81,6 +79,23 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ---
 
+## 👇 Git & Version Control Practice
+
+A dedicated repository demonstrating hands‑on experience with:
+
+- branching, merging, and conflict resolution  
+- version tagging and release archiving  
+- visualising commit history (`git log --decorate --graph --all`)  
+- documenting workshop tasks and commit logs  
+
+Includes:
+- [full commit history exported export](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Workshop%204_ISEN_2.txt)
+- python file [Maze.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze.py) & [Viwer.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Viewer.py)
+- [Original python file](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze_REAL.py) 
+- [workshop exercises PDF](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/ISEN1000%20Workshop%2004%20-%20Version%20Control.pdf) 
+<br>
+
+---
 
 
 # 📚🔍 Research, Reports & Academic Documentation
@@ -96,28 +111,6 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 ---
 
 
-
-
-## 👇 Git & Version Control Practice
-
-A dedicated repository demonstrating hands‑on experience with:
-
-- branching, merging, and conflict resolution  
-- version tagging and release archiving  
-- visualising commit history (`git log --decorate --graph --all`)  
-- documenting workshop tasks and commit logs  
-
-
-
-Includes:
-- [full commit history exported export](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Workshop%204_ISEN_2.txt)
-- python file [Maze.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze.py) & [Viwer.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Viewer.py)
-- [Original python file](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze_REAL.py) 
-- [workshop exercises PDF](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/ISEN1000%20Workshop%2004%20-%20Version%20Control.pdf) 
-
-
-
---- 
  ## 🔐 Cybersecurity & Information Security Foundations
 
 The following concepts were studied through **Cisco CyberOps Associate**, **network security coursework**, and **academic labs**, and are applied conceptually across networking, systems, and cloud-based projects in this repository.
