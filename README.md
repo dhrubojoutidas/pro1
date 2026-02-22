@@ -112,20 +112,23 @@ Includes:
 
 
  ## 🔐 Cybersecurity & Information Security Foundations
-
-The following concepts were studied through **Cisco CyberOps Associate**, **network security coursework**, and **academic labs**, and are applied conceptually across networking, systems, and cloud-based projects in this repository.
-
-
-
-### 🧱 Core Security Principles
-- Confidentiality, Integrity, Availability (**CIA Triad**)
-- Authentication, Authorization & Access Control
-- Least Privilege & Separation of Duties (**SoD**)
-- Defense-in-Depth
-- Security Policy vs Security Model
-- Security Awareness & User Training
-
-
+Key areas covered:
+- Core security principles (CIA Triad, AAA, Least Privilege, Defense‑in‑Depth,Security Policy vs Security Model,Security Awareness & User Training)
+- Risk, threats & governance (risk assessment, ALE/SLE/ARO, change management)
+- Common attack vectors (social engineering, malware, SQL injection, DDoS)
+- Security controls & operations (preventive/detective/corrective, logging, IR)
+- Data protection (encryption, masking, DLP, privacy handling)
+- Backup, recovery & continuity (BCP, DR, RTO/RPO/MTD/WRT, redundancy)
+- Full, Incremental & Differential Backups,Backup vs Archive
+- Cloud security concepts (IaaS/PaaS/SaaS, Deployment Models: Public, Private, Hybrid & Community Cloud)
+-  Cloud Security Considerations:
+  - Cross-VM traffic
+  - Incident handling
+  - Provider viability
+  - Disaster recovery
+  - IP address reuse risks
+- Security models Bell‑LaPadula(Confidentiality), Biba(Integrity), Clark‑Wilson(Integrity & well-formed transactions)
+- Ethics & compliance (ACS/IEEE, policy governance)
 
 ### ⚠️ Risk, Threats & Governance
 - Threat, Vulnerability, Risk & Incident lifecycle
@@ -135,7 +138,6 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 - **SLE**, **ARO**, **ALE** (Annualized Loss Expectancy)
 - Change Management & Asset Valuation (Tangible vs Intangible)
 
-
 ### 🎯 Common Attacks & Threat Vectors
 - Social Engineering (Phishing, Spear Phishing, Whaling)
 - Malware & Ransomware concepts
@@ -144,15 +146,12 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 - Distributed Denial-of-Service (**DDoS**)
 - Secure Channels: Data in Transit vs Data at Rest
 
-
 ### 🛡️ Security Controls & Operations
 - Administrative, Technical & Physical Controls
 - Preventive, Detective & Corrective Controls
 - Logging, Monitoring & Auditing
 - Incident Response (**IR**) Planning
 - Network Security Controls (Firewalls, Network Segmentation)
-
-
 
 ### 🔐 Data Protection & Privacy
 - Data Classification & Handling
@@ -161,17 +160,6 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 - Data Loss Prevention (**DLP**)
 - Privacy & Personal Information Protection
 
-
-### ♻️ Backup, Recovery & Continuity
-- Full, Incremental & Differential Backups
-- Backup vs Archive
-- Redundancy & High Availability
-- Business Continuity Planning (**BCP**)
-- Disaster Recovery (**DR**)
-- **RTO**, **RPO**, **MTD**, **WRT**
-- Offsite Storage (e-Vaulting, Remote Journaling)
-
-
 ### 🧹 Secure Data Disposal & Sanitization
 - Secure Data Erasure & Media Sanitization
 - Firmware Secure Erase
@@ -179,28 +167,10 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 
 
 
-### ☁️ Cloud Security Concepts
-- Cloud Service Models: **IaaS**, **PaaS**, **SaaS**
-- Deployment Models: Public, Private, Hybrid & Community Cloud
-- Cloud Security Considerations:
-  - Cross-VM traffic
-  - Incident handling
-  - Provider viability
-  - Disaster recovery
-  - IP address reuse risks
-
-
-### 📐 Security Models (Academic Foundations)
-- Bell–LaPadula Model (Confidentiality)
-- Biba Model (Integrity)
-- Clark–Wilson Model (Integrity & well-formed transactions)
 
 
 
-### ⚖️ Ethics & Compliance
-- Professional Ethics (ACS / IEEE)
-- Compliance & Policy Governance
-- Deterrence & Security Awareness
+
 
 ---
 
