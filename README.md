@@ -27,8 +27,9 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ### 3️⃣ 📌 [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
 
-
 ### 4️⃣ 🏅 [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
+
+
 
 ---
 
@@ -46,16 +47,13 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
- 
----
+ ---
 
 ### 7️⃣ 🔌[ ELECTRONICS Lab Work](./ELECTRONICS/README.md)
 
 ---
 
-
 ### 8️⃣ 📁 [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
-
 
 - Hands‑on lab work and Arduino communication experiments involving:
 - I²C communication
@@ -64,6 +62,8 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 - CAN‑bus concepts and embedded‑systems interface design
 
 ---
+
+
 
 ## 📚 Research, Reports & Academic Documentation
 
@@ -85,13 +85,10 @@ Research-based essays
 - Projects demonstrating crisis communication, media strategy,
 - Ethical PR, campaign analysis through real-world simulations.
 
-
-###1️⃣2️⃣ 📘 [inear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
-
-
-
- ---
  
+### 1️⃣2️⃣ 📘 [inear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
+
+
 ---
 
 
