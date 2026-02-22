@@ -19,7 +19,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ---
 
-# 🚀 Highlighted Projects
+# 🚀✏️ Highlighted Projects
 <br>
 
 
@@ -94,27 +94,28 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 
 ---
-📜 🗄️ 
 
- ## 📋 Software Engineering – Git & Version Control Practice
 
-As part of my Software Engineering course, I maintained a separate Git-focused repository where I practiced:
+
+
+## 👇 Git & Version Control Practice
+
+A dedicated repository demonstrating hands‑on experience with:
 
 - branching, merging, and conflict resolution  
-- tagging and archiving versions  
-- visualising commit history using `git log --decorate --graph --all`  
-- documenting workshop sheets, lecture notes, and commit logs  
+- version tagging and release archiving  
+- visualising commit history (`git log --decorate --graph --all`)  
+- documenting workshop tasks and commit logs  
 
 
 
-It includes:
-- [full commit history exported as a `.txt` file](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Workshop%204_ISEN_2.txt)
+Includes:
+- [full commit history exported export](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Workshop%204_ISEN_2.txt)
 - python file [Maze.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze.py) & [Viwer.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Viewer.py)
-- [Original python file](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze_REAL.py)
+- [Original python file](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze_REAL.py) 
 - [workshop exercises PDF](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/ISEN1000%20Workshop%2004%20-%20Version%20Control.pdf) 
 
 
-This complements the work in this main repo and shows my hands-on understanding of version control.
 
 --- 
  ## 🔐 Cybersecurity & Information Security Foundations
