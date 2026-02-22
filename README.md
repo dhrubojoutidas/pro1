@@ -32,20 +32,18 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ---
 
-### 5️⃣  Networking & Systems – Network Design & Administration
+## 🌐📡  Networking & Systems – Network Design & Administration
 
-[📡 Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
-
-[🖥️ Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
+### 5️⃣[ Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
+### 6️⃣[ Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
 
 ---
 
 
-### 6️⃣  Software Engineering
+## ✈️📜  Software Engineering
 
-[✈️ Software Engineering project 1 - SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
-
-[ 📜 Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
+### 6️⃣[✈️ Software Engineering project 1 - SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+### 7️⃣ [ Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
  ---
 
