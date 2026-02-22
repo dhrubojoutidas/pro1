@@ -21,7 +21,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 # 🚀 Highlighted Projects
 
-## 1️⃣ [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 
+## 1️⃣  🛜 [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 🛜 
 
 
 # 1️⃣
