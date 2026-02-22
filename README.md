@@ -23,17 +23,12 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ### 1️⃣ 🛜 [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)
 
-
-
 ### 2️⃣ 🧩 [Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)
-
-
 
 ### 3️⃣ 📌 [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
 
 
 ### 4️⃣ 🏅 [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
- 
 
 ---
 
@@ -44,6 +39,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 [Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
 
 ---
+
 ### 6️⃣ 🖥️ Software Engineering
 
 [SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
@@ -53,15 +49,12 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
  
 ---
 
-
-
-###  🔌[ ELECTRONICS Lab Work](./ELECTRONICS/README.md)
-
+### 7️⃣ 🔌[ ELECTRONICS Lab Work](./ELECTRONICS/README.md)
 
 ---
 
 
-### 📁 [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
+### 8️⃣ 📁 [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
 
 
 - Hands‑on lab work and Arduino communication experiments involving:
@@ -70,13 +63,11 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 - SPI interfacing
 - CAN‑bus concepts and embedded‑systems interface design
 
-
-
 ---
 
 ## 📚 Research, Reports & Academic Documentation
 
-### 📖 [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
+### 9️⃣ 📖 [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
 
 Sustainable engineering projects including
 
@@ -84,18 +75,18 @@ Sustainable engineering projects including
 - professional documentation.
 
 
-### 🧠 [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>)
+### 🔟 🧠 [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>)
 
 Research-based essays 
 - Integrate Indigenous knowledge with modern STEM  Healthcare access and digital inequality.
 - How Indigenous knowledge in Bangladesh can complement modern medicine in curing diseases.
  
-### 📢 [Communication & Public Relations](./Public%20Relation/)
+### 1️⃣1️⃣📢 [Communication & Public Relations](./Public%20Relation/)
 - Projects demonstrating crisis communication, media strategy,
 - Ethical PR, campaign analysis through real-world simulations.
 
 
-### 📘 [inear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
+###1️⃣2️⃣ 📘 [inear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
 
 
 
