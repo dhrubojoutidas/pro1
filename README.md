@@ -43,9 +43,9 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ### 6️⃣ 🖥️ Software Engineering
 
-[Software Engineering project 1 - SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+[✈️ Software Engineering project 1 - SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
-[Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
+[ 📜 Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
  ---
 
@@ -88,7 +88,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 -
 
 
- 5️⃣📌9️⃣📜 🗄️   4️⃣  ✈️ 
+ 5️⃣📌9️⃣📜 🗄️   4️⃣   
 
 ---
 
@@ -208,7 +208,7 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Skills
 
 🌐 Networking  
 ![VLANs](https://img.shields.io/badge/-VLANs-1BA0D7?logo=cisco&logoColor=white)
@@ -249,7 +249,7 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 ---
 
 
-## 🛠️ Tools & Technologies  
+# 🛠️ Tools & Technologies  
 
 
 <!-- Skillicons row 1 -->
@@ -264,7 +264,7 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 
 ---
-## 🎖️ Certifications
+# 🎖️ Certifications
 
 [![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/5bfceb3a-1b9d-4bcd-9fdd-65cd1f0ab715)
 
