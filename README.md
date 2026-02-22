@@ -9,9 +9,7 @@ IT Support Technician | Networking & Systems |  IoT & Embedded Systems  | Cisco 
 
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)]( https://github.com/dhrubojoutidas/pro1/blob/master/README.md)
 
-
 ---
-
 
 ## 🎓 About This Repository
 
@@ -19,13 +17,11 @@ This repository showcases my technical and academic work completed during my Dip
 
 The purpose of this portfolio is to demonstrate practical problem‑solving, system design, and implementation skills developed through coursework, laboratory activities, and project‑based learning.
 
-
 ---
 
 # 🚀 Highlighted Projects
 
-
-
+##1️⃣
 ### 🛜 IoT Cloud Integration
  [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 
 
