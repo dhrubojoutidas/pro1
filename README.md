@@ -13,7 +13,6 @@ IT Support Technician | Networking & Systems |  IoT & Embedded Systems  | Cisco 
 ---
 
 
-
 ## 🎓 About This Repository
 
 This repository showcases my technical and academic work completed during my Diploma of IT (Curtin College) and Bachelor of Technology in Computer Systems & Networking (Curtin University). It includes hands‑on projects in networking, systems administration, databases, programming, embedded systems, IoT development, and professional engineering practice.
@@ -25,7 +24,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ## 🚀 Highlighted Projects
 
----
+
 
 ### 🛜 IoT Cloud Integration
  [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md) 
