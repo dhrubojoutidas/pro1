@@ -119,10 +119,12 @@ Research-based essays
 - File handling  
 - Data processing  
 - Calculations
+
+- 
 - UCP
-- TRANSMIISON
-- ELEN
 - HARWDARE
+- DSA
+- pythom
 
 
  5️⃣📌9️⃣📜 🗄️   4️⃣  ✈️ 
