@@ -26,23 +26,24 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ### 1️⃣ [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)
 
-### 2️⃣  [Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)
+### 2️⃣ [Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)
 
-### 3️⃣  [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
+### 3️⃣ [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
 
 ---
 
 ## 🌐📡  Networking & Systems – Network Design & Administration
 
-### 5️⃣[ Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
-### 6️⃣[ Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
+### 5️⃣ [ Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
+
+### 6️⃣ [ Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
 
 ---
 
 
 ## ✈️📜  Software Engineering
 
-### 6️⃣[✈️ Software Engineering project 1 - SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+### 6️⃣ [ Software Engineering project 1 - SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 ### 7️⃣ [ Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
  ---
