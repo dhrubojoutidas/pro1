@@ -43,13 +43,13 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ### 6️⃣ 🖥️ Software Engineering
 
-[SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
+[Software Engineering project 1 - SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
 [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
  ---
 
-### 7️⃣ 🔌[ ELECTRONICS Lab Work](./ELECTRONICS/README.md)
+### 7️⃣ 🔌[Electronics Lab Work](./ELECTRONICS/README.md)
 
 ### 8️⃣ 📁 [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
 
