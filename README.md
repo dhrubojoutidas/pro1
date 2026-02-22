@@ -32,22 +32,24 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 ### 3️⃣ 📌 [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
 
 
-### 4️⃣ 📡 Networking & Systems – Network Design & Administration
+### 4️⃣ 🏅 [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
+ 
+
+---
+
+### 5️⃣  📡 Networking & Systems – Network Design & Administration
 
 [Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
 
 [Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
 
 ---
-
-### 5️⃣ 🖥️ Software Engineering
+### 6️⃣ 🖥️ Software Engineering
 
 [SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
 
 [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
----
-### 6️⃣ 🏅 [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
  
 ---
 
