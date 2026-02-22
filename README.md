@@ -91,13 +91,12 @@ Research-based essays
 - Integrate Indigenous knowledge with modern STEM  Healthcare access and digital inequality.
 - How Indigenous knowledge in Bangladesh can complement modern medicine in curing diseases.
  
-### 📢 Communication & Public Relations
- [Projects demonstrating crisis communication, media strategy, ethical PR, campaign analysis through real-world simulations.](./Public%20Relation/)
+### 📢 [Communication & Public Relations](./Public%20Relation/)
+- Projects demonstrating crisis communication, media strategy,
+- Ethical PR, campaign analysis through real-world simulations.
 
 
-### 📘 Mathematics & Statistics
-
- [MATH1019 – Linear Algebra & Statistics for Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
+### 📘 [inear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
 
 
 
