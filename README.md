@@ -27,10 +27,6 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ### 3️⃣ 📌 [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
 
-### 4️⃣ 🏅 [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
-
-
-
 ---
 
 ### 5️⃣  Networking & Systems – Network Design & Administration
@@ -41,6 +37,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ---
 
+
 ### 6️⃣  Software Engineering
 
 [✈️ Software Engineering project 1 - SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
@@ -49,11 +46,24 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
  ---
 
+
+ # 📌 Progamming
+
+
+### 4️⃣ 🏅 [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
+🎮 🔟  Tank Shooter Game (C)  
+ 🐍 Python Automation  
+ 
+ 📜 🗄️ 
+
+---
+
 ### 7️⃣ 🔌[Electronics Lab Work](./ELECTRONICS/README.md)
 
 ### 8️⃣ 📁 [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
 
 ---
+
 
 
 # 📚🔍 Research, Reports & Academic Documentation
@@ -63,30 +73,6 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 ### 1️⃣1️⃣  [Communication & Public Relations](./Public%20Relation/) 
 ### 1️⃣2️⃣ [inear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md) 
 
-
-
----
-
-
- 🎮 🔟  Tank Shooter Game (C)  
-- 2D shooter  
-- Collision detection  
-- Game loop logic  
-
-
-
- 🐍 Python Automation  
-- File handling  
-- Data processing  
-- Calculations
-
-- s
-- HARWDARE
-- DSA
--
-
-
- 5️⃣📌9️⃣📜 🗄️   4️⃣   
 
 ---
 
