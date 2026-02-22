@@ -299,22 +299,6 @@ The following concepts were studied through **Cisco CyberOps Associate**, **netw
 [![CCNA ENSA](https://img.shields.io/badge/CCNA-Enterprise_Networking_Security_&_Automation-blue?logo=cisco)](https://www.credly.com/badges/e4db69ac-6695-4e2c-b0f0-9e11c1bb6c81)
 
 
-
----
-
- ## 💼 Work Experience
-- Customer Service – Bentley Spices (2023 – 2025)
-- Kitchen Hand – TGI Fridays (2022 – 2023)
-- Sales Assistant – Shwapno (2020 – 2021)
-
----
- 📩 Contact
-
-**Availability:**  
-Weekdays – Part-time  
-Weekends – Fully Available  
-
-
 ---
 
 
