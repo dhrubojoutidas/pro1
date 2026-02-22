@@ -23,7 +23,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 
 ## 🛜 IoT, Embedded Systems & Microcontrollers
-<br>
+
 
 ### 1️⃣ [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)
 
@@ -37,7 +37,8 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ## 🌐📡  Networking & Systems – Network Design & Administration
 
----
+
+
 ### 4️⃣ [ Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
 
 ### 5️⃣ [ Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
