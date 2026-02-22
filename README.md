@@ -22,7 +22,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ---
 
-## 🚀 Highlighted Projects
+# 🚀 Highlighted Projects
 
 
 
