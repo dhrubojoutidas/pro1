@@ -39,7 +39,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 
 
-### 4️⃣ [ Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
+### 4️⃣ [ Network Design featuring routing, VLAN implementation, IP addressing](./Networking%20Project)
 
 ### 5️⃣ [ Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
 <br>
