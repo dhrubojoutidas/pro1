@@ -47,26 +47,23 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 ### 7️⃣ [ Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
  ---
-
-
- # 📌 Progamming
-
-
-### 4️⃣ 🏅 [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
-🎮 🔟  Tank Shooter Game (C)  
- 🐍 Python Automation  
  
- 📜 🗄️ 
+## 🏅🐍  Progamming
+### 8️⃣  [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
+### 9️⃣  Tank Shooter Game (C)  
+### 🔟  Python Automation  
+ 
+---
+
+## 🔌💡 Digital Electronics & Interface Design
+
+### 1️⃣1️⃣[Electronics Lab Work](./ELECTRONICS/README.md)
+
+### 1️⃣2️⃣[Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
 
 ---
 
-### 7️⃣ 🔌[Electronics Lab Work](./ELECTRONICS/README.md)
-
-### 8️⃣ 📁 [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
-
----
-
-
+📜 🗄️ 
 
 # 📚🔍 Research, Reports & Academic Documentation
 
