@@ -21,11 +21,14 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 # 🚀 Highlighted Projects
 
-### 1️⃣ 🛜 [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)
 
-### 2️⃣ 🧩 [Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)
+## 🛜 IoT, Embedded Systems & Microcontrollers
 
-### 3️⃣ 📌 [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
+### 1️⃣ [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)
+
+### 2️⃣  [Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)
+
+### 3️⃣  [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
 
 ---
 
