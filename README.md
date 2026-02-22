@@ -51,40 +51,18 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ### 7️⃣ 🔌[ ELECTRONICS Lab Work](./ELECTRONICS/README.md)
 
----
-
 ### 8️⃣ 📁 [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
 
-- Hands‑on lab work and Arduino communication experiments involving:
-- I²C communication
-- RS232 to I²C protocol conversion
-- SPI interfacing
-- CAN‑bus concepts and embedded‑systems interface design
-
 ---
-
 
 
 ## 📚 Research, Reports & Academic Documentation
 
 ### 9️⃣ 📖 [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
 
-Sustainable engineering projects including
-
-- reclaimed-wood product planning
-- professional documentation.
-
-
 ### 🔟 🧠 [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>)
 
-Research-based essays 
-- Integrate Indigenous knowledge with modern STEM  Healthcare access and digital inequality.
-- How Indigenous knowledge in Bangladesh can complement modern medicine in curing diseases.
- 
 ### 1️⃣1️⃣📢 [Communication & Public Relations](./Public%20Relation/)
-- Projects demonstrating crisis communication, media strategy,
-- Ethical PR, campaign analysis through real-world simulations.
-
  
 ### 1️⃣2️⃣ 📘 [inear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
 
