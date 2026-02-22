@@ -118,9 +118,15 @@ Key areas covered:
 - Common attack vectors (social engineering, malware, SQL injection, DDoS)
 - Security controls & operations (preventive/detective/corrective, logging, IR)
 - Data protection (encryption, masking, DLP, privacy handling)
-- Backup, recovery & continuity (BCP, DR, RTO/RPO/MTD/WRT, redundancy)
-- Full, Incremental & Differential Backups,Backup vs Archive
-- Cloud security concepts (IaaS/PaaS/SaaS, Deployment Models: Public, Private, Hybrid & Community Cloud)
+
+
+ ### Backup, recovery & continuity 
+   -(BCP, DR, RTO/RPO/MTD/WRT, redundancy)
+   - Full, Incremental & Differential Backups,Backup vs Archive
+
+
+### Cloud security concepts
+- (IaaS/PaaS/SaaS, Deployment Models: Public, Private, Hybrid & Community Cloud)
 -  Cloud Security Considerations:
   - Cross-VM traffic
   - Incident handling
