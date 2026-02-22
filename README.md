@@ -21,19 +21,19 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 # 🚀 Highlighted Projects
 
-### 1️⃣🛜 [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)
+### 1️⃣ 🛜 [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)
 
 ---
 
-### 2️⃣🧩 [Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)
+### 2️⃣ 🧩 [Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)
 
 ---
 
-### 3️⃣📌 [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
+### 3️⃣ 📌 [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
 
  ---
 
-### 4️⃣📡 Networking & Systems – Network Design & Administration
+### 4️⃣ 📡 Networking & Systems – Network Design & Administration
 
 [Network Design featuring routing, VLAN implementation, IP addressing)](./Networking%20Project)
 
@@ -48,7 +48,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 [Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
 
 ---
-### 6️⃣🏅 [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
+### 6️⃣ 🏅 [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
  
 ---
 
