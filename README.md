@@ -56,15 +56,12 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 ---
 
 
-## 📚 Research, Reports & Academic Documentation
+# 📚 Research, Reports & Academic Documentation
 
-### 9️⃣ 📖 [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
-
-### 🔟 🧠 [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>)
-
-### 1️⃣1️⃣ 📢 [Communication & Public Relations](./Public%20Relation/)
- 
-### 1️⃣2️⃣ 📘[inear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
+### 9️⃣ [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)
+### 🔟 [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>)
+### 1️⃣1️⃣  [Communication & Public Relations](./Public%20Relation/)
+### 1️⃣2️⃣ [inear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)
 
 
 ---
