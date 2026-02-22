@@ -3,9 +3,7 @@
 IT Support Technician | Networking & Systems |  IoT & Embedded Systems  | Cisco | Windows & Linux 
 
 
-📍 Cannington, WA 
-📞 0481 576 404
-✉️ dhrubod513@gmail.com  
+📍 Cannington, WA     ✉️ dhrubod513@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
 
@@ -14,12 +12,15 @@ IT Support Technician | Networking & Systems |  IoT & Embedded Systems  | Cisco 
 
 ---
 
-##  🎓 About This Repository
 
-This repository is a **portfolio of academic projects and practical assignments** completed during my **Diploma of IT (Curtin College)** and **Bachelor of Technology in Computer Systems & Networking (Curtin University)**.
 
-It showcases hands-on experience across **networking, systems administration, databases, programming, embedded systems, and professional practice**, developed through real coursework and projects
-  
+## 🎓 About This Repository
+
+This repository showcases my technical and academic work completed during my Diploma of IT (Curtin College) and Bachelor of Technology in Computer Systems & Networking (Curtin University). It includes hands‑on projects in networking, systems administration, databases, programming, embedded systems, IoT development, and professional engineering practice.
+
+The purpose of this portfolio is to demonstrate practical problem‑solving, system design, and implementation skills developed through coursework, laboratory activities, and project‑based learning.
+
+
 ---
 
 ## 🚀 Highlighted Projects
