@@ -117,11 +117,10 @@ Research-based essays
 - Data processing  
 - Calculations
 
-- 
-- UCP
+- s
 - HARWDARE
 - DSA
-- pythom
+-
 
 
  5️⃣📌9️⃣📜 🗄️   4️⃣  ✈️ 
