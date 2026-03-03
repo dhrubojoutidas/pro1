@@ -17,6 +17,8 @@
     1. https://circuitdigest.com/microcontroller-projects/getting-started-with-msp430G2-using-energia-ide-blinking-an-led
     4. Light-Emitting Diodes (LEDs) - SparkFun Learn:https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds
     5. fade a LED at varying brightness levels:https://energia.nu/guide/tutorials/basics/tutorial_fade/
+    6. I2C Liquid Crystal Displays: https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615
+    7. How to interface I2C LCD display with Arduino:https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/
 
 3. Communication Protocols
     1. SPI: https://arduino-er.blogspot.com/2014/09/communication-betweeen-arduinos-using.html
