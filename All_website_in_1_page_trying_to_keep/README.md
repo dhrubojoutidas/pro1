@@ -196,7 +196,6 @@
 ---
 
  ### ARDUINO: https://github.com/dhrubojoutidas/pro1/edit/master/arduino.md
-- 
 
 
  ### LINUX 
