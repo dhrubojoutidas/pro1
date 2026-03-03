@@ -20,8 +20,8 @@
    16) priyaan Embebed:https://www.poriyaan.in/paper/embedded-systems-and-iot-87/
    17) BOOK EMBEDED:https://drive.google.com/file/d/18iNXqDO5RFQC2mL09mw2XuPv668_yOUq/view?usp=drive_link 
    18) YT :https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F
-   19) https://circuitdigest.com/microcontroller-projects/interrupts-in-msp430-writing-gpio-interrupt-program-using-code-composer-studio
-   20) http://www.simplyembedded.org/tutorials/msp430-interrupts/
+   19) Interrupts: https://circuitdigest.com/microcontroller-projects/interrupts-in-msp430-writing-gpio-interrupt-program-using-code-composer-studio
+   20) Interrupst:http://www.simplyembedded.org/tutorials/msp430-interrupts/
    21) BREADBORD:https://www.yamanelectronics.com/breadboard-basics-for-beginners/
    22) JUMPIRE WIRE:https://iotzone.in/blog/jumper-wire-types-uses-pin-configuration-and-complete-guide-for-electronics-projects
    23) https://www.manua.ls/hp/15s/manual?p=33
