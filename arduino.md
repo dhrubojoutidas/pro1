@@ -5,7 +5,6 @@
 - https://learn.adafruit.com/adafruit-arduino-lesson-6-digital-inputs?view=all
 
 
-- <img width="363" height="741" alt="image" src="https://github.com/user-attachments/assets/cb381e01-8f64-4a5b-abeb-3cfc76f99c28" />
 
 
 
@@ -21,8 +20,7 @@
 
 3. Communication Protocols
     1. SPI: https://arduino-er.blogspot.com/2014/09/communication-betweeen-arduinos-using.html
-    2. Arduinos using SPI: https://arduino-er.blogspot.com/2014/09/communication-betweeen-arduinos-using.html#google_vignette
-    3. PWM: https://learn.sparkfun.com/tutorials/pulse-width-modulation 
+    2 PWM: https://learn.sparkfun.com/tutorials/pulse-width-modulation 
     4. PWM (Energia): https://energia.nu/guide/foundations/micro/tutorial_pwm/
     5. 
 
@@ -42,4 +40,5 @@
 
 7. MPU‑6050 Sensor
     1. https://randomnerdtutorials.com/arduino-mpu-6050-accelerometer-gyroscope/
+    2. <img width="363" height="741" alt="image" src="https://github.com/user-attachments/assets/cb381e01-8f64-4a5b-abeb-3cfc76f99c28" />
 
