@@ -1,5 +1,6 @@
 
 - https://energia.nu/guide/#_microcontrollers
+- https://www.manua.ls/hp/15s/manual?p=33
 
 - https://iotzone.in/blog/jumper-wire-types-uses-pin-configuration-and-complete-guide-for-electronics-projects
 - https://www.yamanelectronics.com/breadboard-basics-for-beginners/
@@ -8,6 +9,8 @@
 1) INTERUPPS
     1) https://circuitdigest.com/microcontroller-projects/interrupts-in-msp430-writing-gpio-interrupt-program-using-code-composer-studio
     2) http://www.simplyembedded.org/tutorials/msp430-interrupts/
+
+       
 
 1. ESP8266 & IoT
     1.   https://highlightcode.com/
