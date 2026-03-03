@@ -12,9 +12,9 @@
 
 
 1. ESP8266 & IoT
-    1.- https://highlightcode.com/
-    2. ESP8266 tutorials and projects:https://embedded-lab.com/blog/esp8266-tutorials-and-projects/
-    4. https://circuitdigest.com/microcontroller-projects/getting-started-with-arduino-cloud-iot-connect-esp8266-to-arduino-cloud-iot
+    1.   https://highlightcode.com/
+    2.  ESP8266 tutorials and projects:https://embedded-lab.com/blog/esp8266-tutorials-and-projects/
+    4.   https://circuitdigest.com/microcontroller-projects/getting-started-with-arduino-cloud-iot-connect-esp8266-to-arduino-cloud-iot
 
 2. LEDs & Digital Inputs
     1. https://circuitdigest.com/microcontroller-projects/getting-started-with-msp430G2-using-energia-ide-blinking-an-led
