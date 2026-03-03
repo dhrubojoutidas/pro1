@@ -29,12 +29,6 @@
 
 
 
-
-https://github.com/dhrubojoutidas/pro1/edit/master/arduino.md
-
-
-
-
 1. ESP8266 & IoT
     1.   https://highlightcode.com/
     2.   ESP8266 tutorials and projects:https://embedded-lab.com/blog/esp8266-tutorials-and-projects/
