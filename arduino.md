@@ -15,12 +15,24 @@
    11) https://notepad-plus-plus.org/downloads/
    12) https://www.ti.com/tool/CCSTUDIO#downloads
    13) Getting Started with Code Composer Studio:https://www.youtube.com/watch?v=-D7b5e7iofQ
-   14) YT :https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F
-   15) https://circuitdigest.com/microcontroller-projects/interrupts-in-msp430-writing-gpio-interrupt-program-using-code-composer-studio
-   16) http://www.simplyembedded.org/tutorials/msp430-interrupts/
-   17) BREADBORD:https://www.yamanelectronics.com/breadboard-basics-for-beginners/
-   18) JUMPIRE WIRE:https://iotzone.in/blog/jumper-wire-types-uses-pin-configuration-and-complete-guide-for-electronics-projects
-   19) https://www.manua.ls/hp/15s/manual?p=33
+   14) https://netstorage.iar.com/SuppDB/Public/UPDINFO/011261/arm/doc/infocenter/tutor_mixingcasm.ENU.html#1084208
+   15) http://netstorage.iar.com/SuppDB/Public/UPDINFO/012120/arm/doc/infocenter/LanguageSupport/MixingCandAssemblerModules/MixingCandAssembler.ENU.html
+   16) priyaan Embebed:https://www.poriyaan.in/paper/embedded-systems-and-iot-87/
+   17) BOOK EMBEDED:https://drive.google.com/file/d/18iNXqDO5RFQC2mL09mw2XuPv668_yOUq/view?usp=drive_link 
+   18) YT :https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F
+   19) https://circuitdigest.com/microcontroller-projects/interrupts-in-msp430-writing-gpio-interrupt-program-using-code-composer-studio
+   20) http://www.simplyembedded.org/tutorials/msp430-interrupts/
+   21) BREADBORD:https://www.yamanelectronics.com/breadboard-basics-for-beginners/
+   22) JUMPIRE WIRE:https://iotzone.in/blog/jumper-wire-types-uses-pin-configuration-and-complete-guide-for-electronics-projects
+   23) https://www.manua.ls/hp/15s/manual?p=33
+
+
+
+
+
+https://github.com/dhrubojoutidas/pro1/edit/master/arduino.md
+
+
 
 
 1. ESP8266 & IoT
