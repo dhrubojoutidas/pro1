@@ -193,20 +193,9 @@
 - https://learn.circuitverse.org/docs/comb-lsi/alu.html#introduction
 - http://vlabs.iitkgp.ac.in/coa/exp8/content.html   
 
-
-
-
-
-
 ---
 
- ### EMBEBD SYSTEM:
- 
-- BOOK:https://drive.google.com/file/d/18iNXqDO5RFQC2mL09mw2XuPv668_yOUq/view?usp=drive_link
--priyaan:https://www.poriyaan.in/paper/embedded-systems-and-iot-87/
-- http://netstorage.iar.com/SuppDB/Public/UPDINFO/012120/arm/doc/infocenter/LanguageSupport/MixingCandAssemblerModules/MixingCandAssembler.ENU.html
-- https://netstorage.iar.com/SuppDB/Public/UPDINFO/011261/arm/doc/infocenter/tutor_mixingcasm.ENU.html#1084208
-- https://github.com/dhrubojoutidas/pro1/edit/master/arduino.md
+ ### ARDUINO: https://github.com/dhrubojoutidas/pro1/edit/master/arduino.md
 - 
 
 
