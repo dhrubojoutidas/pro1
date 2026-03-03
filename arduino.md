@@ -18,15 +18,9 @@
    14) YT :https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F
    15) https://circuitdigest.com/microcontroller-projects/interrupts-in-msp430-writing-gpio-interrupt-program-using-code-composer-studio
    16) http://www.simplyembedded.org/tutorials/msp430-interrupts/
-
-       
-
-
-- https://www.manua.ls/hp/15s/manual?p=33
-
-- https://iotzone.in/blog/jumper-wire-types-uses-pin-configuration-and-complete-guide-for-electronics-projects
-- https://www.yamanelectronics.com/breadboard-basics-for-beginners/
-  
+   17) BREADBORD:https://www.yamanelectronics.com/breadboard-basics-for-beginners/
+   18) JUMPIRE WIRE:https://iotzone.in/blog/jumper-wire-types-uses-pin-configuration-and-complete-guide-for-electronics-projects
+   19) https://www.manua.ls/hp/15s/manual?p=33
 
 
 1. ESP8266 & IoT
