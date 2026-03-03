@@ -20,25 +20,26 @@
 
 3. Communication Protocols
     1. SPI: https://arduino-er.blogspot.com/2014/09/communication-betweeen-arduinos-using.html
-    2 PWM: https://learn.sparkfun.com/tutorials/pulse-width-modulation 
-    4. PWM (Energia): https://energia.nu/guide/foundations/micro/tutorial_pwm/
+    2.  PWM: https://learn.sparkfun.com/tutorials/pulse-width-modulation 
+    4.  PWM (Energia): https://energia.nu/guide/foundations/micro/tutorial_pwm/
     5. 
 
 4. I2C LCD Displays
     1.[I2C Liquid Crystal Displays](https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615)
+   
     2.[How to interface I2C LCD display with Arduino](https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/)
 
 
-5. Sending Email with Arduino
+6. Sending Email with Arduino
     1. https://circuitdigest.com/microcontroller-projects/how-to-send-email-notification-using-arduino-circuitdigest-cloud
     2. https://arduinogetstarted.com/tutorials/arduino-temperature-send-email-notification
     3. https://github.com/twilio/twilio-python
     5. 
 
-6. Servo Motor
+7. Servo Motor
     1.  https://arduinogetstarted.com/tutorials/arduino-servo-motor
 
-7. MPU‑6050 Sensor
+8. MPU‑6050 Sensor
     1. https://randomnerdtutorials.com/arduino-mpu-6050-accelerometer-gyroscope/
     2. <img width="363" height="741" alt="image" src="https://github.com/user-attachments/assets/cb381e01-8f64-4a5b-abeb-3cfc76f99c28" />
 
