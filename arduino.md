@@ -8,14 +8,13 @@
    4) Th:https://www.tutorialspoint.com/microprocessor/index.htm
    5) th:https://www.geeksforgeeks.org/computer-organization-architecture/computer-organization-von-neumann-architecture/ 
    6) https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
-   5
    7) https://energia.nu/guide/#_microcontrollers
    8) Using C++ and WSL in VS Code:https://code.visualstudio.com/docs/cpp/config-wsl
-- mspgcc - Single Line MSP430 Assembler: https://mspgcc.sourceforge.net/assemble.html
-- CCSTUDIO IDE, configuration, compiler or ebugger::https://www.ti.com/tool/CCSTUDIO#downloads
-- https://notepad-plus-plus.org/downloads/
-- https://www.ti.com/tool/CCSTUDIO#downloads
-- Getting Started with Code Composer Studio:https://www.youtube.com/watch?v=-D7b5e7iofQ
+   9) mspgcc - Single Line MSP430 Assembler: https://mspgcc.sourceforge.net/assemble.html
+   10) CCSTUDIO IDE, configuration, compiler or ebugger::https://www.ti.com/tool/CCSTUDIO#downloads
+   11) https://notepad-plus-plus.org/downloads/
+   12) https://www.ti.com/tool/CCSTUDIO#downloads
+   13) Getting Started with Code Composer Studio:https://www.youtube.com/watch?v=-D7b5e7iofQ
 
 - YT :https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F
 
