@@ -1,4 +1,4 @@
-- https://highlightcode.com/
+
 - https://energia.nu/guide/#_microcontrollers
 - [ESP8266 tutorials and projects](https://embedded-lab.com/blog/esp8266-tutorials-and-projects/)
 - [Getting Started with Arduino Cloud IoT: Connect ESP8266 to Arduino Cloud IoT](https://circuitdigest.com/microcontroller-projects/getting-started-with-arduino-cloud-iot-connect-esp8266-to-arduino-cloud-iot)
@@ -11,21 +11,14 @@
 - :https://energia.nu/guide/foundations/micro/tutorial_pwm/
 - <img width="363" height="741" alt="image" src="https://github.com/user-attachments/assets/cb381e01-8f64-4a5b-abeb-3cfc76f99c28" />
 
-- [I2C Liquid Crystal Displays](https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615)
-- [How to interface I2C LCD display with Arduino](https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/)
-
-- 
-- [SENDING_EMAIL](https://circuitdigest.com/microcontroller-projects/how-to-send-email-notification-using-arduino-circuitdigest-cloud)
-- [2](https://arduinogetstarted.com/tutorials/arduino-temperature-send-email-notification)
-- 
 - 
 
 
-- [SERVO MOTOR](https://arduinogetstarted.com/tutorials/arduino-servo-motor)
 
 1. ESP8266 & IoT
-    1. https://embedded-lab.com/blog/esp8266-tutorials-and-projects
-    2. https://circuitdigest.com/microcontroller-projects/getting-started-with-arduino-cloud-iot-connect-esp8266-to-arduino-cloud-iot
+    1.- https://highlightcode.com/
+    2. https://embedded-lab.com/blog/esp8266-tutorials-and-projects
+    3. https://circuitdigest.com/microcontroller-projects/getting-started-with-arduino-cloud-iot-connect-esp8266-to-arduino-cloud-iot
 
 2. LEDs & Digital Inputs
     1. https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds
@@ -40,14 +33,19 @@
 4. I2C LCD Displays
     1. https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615
     2. https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/
+  
+       - [I2C Liquid Crystal Displays](https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615)
+- [How to interface I2C LCD display with Arduino](https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/)
+
 
 5. Sending Email with Arduino
     1. https://circuitdigest.com/microcontroller-projects/how-to-send-email-notification-using-arduino-circuitdigest-cloud
     2. https://arduinogetstarted.com/tutorials/arduino-temperature-send-email-notification
     3. https://github.com/twilio/twilio-python
+    5. 
 
 6. Servo Motor
-    1. https://arduinogetstarted.com/tutorials/arduino-servo-motor
+    1.  https://arduinogetstarted.com/tutorials/arduino-servo-motor
 
 7. MPU‑6050 Sensor
     1. https://randomnerdtutorials.com/arduino-mpu-6050-accelerometer-gyroscope/
