@@ -12,8 +12,8 @@
    8) Using C++ and WSL in VS Code:https://code.visualstudio.com/docs/cpp/config-wsl
    9) mspgcc - Single Line MSP430 Assembler: https://mspgcc.sourceforge.net/assemble.html
    10) CCSTUDIO IDE, configuration, compiler or ebugger::https://www.ti.com/tool/CCSTUDIO#downloads
-   11) https://notepad-plus-plus.org/downloads/
-   12) https://www.ti.com/tool/CCSTUDIO#downloads
+   11) notepad download: https://notepad-plus-plus.org/downloads/
+   12) CCStuidio downlaod:https://www.ti.com/tool/CCSTUDIO#downloads
    13) Getting Started with Code Composer Studio:https://www.youtube.com/watch?v=-D7b5e7iofQ
    14) https://netstorage.iar.com/SuppDB/Public/UPDINFO/011261/arm/doc/infocenter/tutor_mixingcasm.ENU.html#1084208
    15) http://netstorage.iar.com/SuppDB/Public/UPDINFO/012120/arm/doc/infocenter/LanguageSupport/MixingCandAssemblerModules/MixingCandAssembler.ENU.html
