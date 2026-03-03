@@ -25,6 +25,7 @@
     5. 
 
 4. I2C LCD Displays
+   
     1.[I2C Liquid Crystal Displays](https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615)
    
     2.[How to interface I2C LCD display with Arduino](https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/)
