@@ -21,6 +21,7 @@
 
 
 
+
 - https://www.manua.ls/hp/15s/manual?p=33
 
 - https://iotzone.in/blog/jumper-wire-types-uses-pin-configuration-and-complete-guide-for-electronics-projects
