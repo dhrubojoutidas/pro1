@@ -23,3 +23,32 @@
 
 - [SERVO MOTOR](https://arduinogetstarted.com/tutorials/arduino-servo-motor)
 
+1. ESP8266 & IoT
+    1. https://embedded-lab.com/blog/esp8266-tutorials-and-projects
+    2. https://circuitdigest.com/microcontroller-projects/getting-started-with-arduino-cloud-iot-connect-esp8266-to-arduino-cloud-iot
+
+2. LEDs & Digital Inputs
+    1. https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds
+    2. https://energia.nu/guide/tutorials/basics/tutorial_fade
+    3. https://circuitdigest.com/microcontroller-projects/getting-started-with-msp430G2-using-energia-ide-blinking-an-led
+
+3. Communication Protocols
+    1. SPI: https://arduino-er.blogspot.com/2014/09/communication-betweeen-arduinos-using.html
+    2. PWM: https://learn.sparkfun.com/tutorials/pulse-width-modulation
+    3. PWM (Energia): https://energia.nu/guide/foundations/micro/tutorial_pwm/
+
+4. I2C LCD Displays
+    1. https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615
+    2. https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/
+
+5. Sending Email with Arduino
+    1. https://circuitdigest.com/microcontroller-projects/how-to-send-email-notification-using-arduino-circuitdigest-cloud
+    2. https://arduinogetstarted.com/tutorials/arduino-temperature-send-email-notification
+    3. https://github.com/twilio/twilio-python
+
+6. Servo Motor
+    1. https://arduinogetstarted.com/tutorials/arduino-servo-motor
+
+7. MPU‑6050 Sensor
+    1. https://randomnerdtutorials.com/arduino-mpu-6050-accelerometer-gyroscope/
+
