@@ -1,29 +1,25 @@
 
 - https://energia.nu/guide/#_microcontrollers
-- [ESP8266 tutorials and projects](https://embedded-lab.com/blog/esp8266-tutorials-and-projects/)
+
 - [Getting Started with Arduino Cloud IoT: Connect ESP8266 to Arduino Cloud IoT](https://circuitdigest.com/microcontroller-projects/getting-started-with-arduino-cloud-iot-connect-esp8266-to-arduino-cloud-iot)
 - https://learn.adafruit.com/adafruit-arduino-lesson-6-digital-inputs?view=all
-- [Light-Emitting Diodes (LEDs) - SparkFun Learn]( https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds)
-- [fade a LED at varying brightness levels](https://energia.nu/guide/tutorials/basics/tutorial_fade/)
-- [Getting Started with MSP430G2 using Energia IDE –Blinking an LED](https://circuitdigest.com/microcontroller-projects/getting-started-with-msp430G2-using-energia-ide-blinking-an-led)
+
 - [Arduino-er: Communication betweeen Arduinos using SPI ](https://arduino-er.blogspot.com/2014/09/communication-betweeen-arduinos-using.html#google_vignette)
 - https://learn.sparkfun.com/tutorials/pulse-width-modulation
 - :https://energia.nu/guide/foundations/micro/tutorial_pwm/
 - <img width="363" height="741" alt="image" src="https://github.com/user-attachments/assets/cb381e01-8f64-4a5b-abeb-3cfc76f99c28" />
 
-- 
-
 
 
 1. ESP8266 & IoT
     1.- https://highlightcode.com/
-    2. https://embedded-lab.com/blog/esp8266-tutorials-and-projects
-    3. https://circuitdigest.com/microcontroller-projects/getting-started-with-arduino-cloud-iot-connect-esp8266-to-arduino-cloud-iot
+    2. ESP8266 tutorials and projects:https://embedded-lab.com/blog/esp8266-tutorials-and-projects/
+    4. https://circuitdigest.com/microcontroller-projects/getting-started-with-arduino-cloud-iot-connect-esp8266-to-arduino-cloud-iot
 
 2. LEDs & Digital Inputs
-    1. https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds
-    2. https://energia.nu/guide/tutorials/basics/tutorial_fade
-    3. https://circuitdigest.com/microcontroller-projects/getting-started-with-msp430G2-using-energia-ide-blinking-an-led
+    1. https://circuitdigest.com/microcontroller-projects/getting-started-with-msp430G2-using-energia-ide-blinking-an-led
+    4. Light-Emitting Diodes (LEDs) - SparkFun Learn:https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds
+    5. fade a LED at varying brightness levels:https://energia.nu/guide/tutorials/basics/tutorial_fade/
 
 3. Communication Protocols
     1. SPI: https://arduino-er.blogspot.com/2014/09/communication-betweeen-arduinos-using.html
@@ -31,11 +27,8 @@
     3. PWM (Energia): https://energia.nu/guide/foundations/micro/tutorial_pwm/
 
 4. I2C LCD Displays
-    1. https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615
-    2. https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/
-  
-       - [I2C Liquid Crystal Displays](https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615)
-- [How to interface I2C LCD display with Arduino](https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/)
+    1.[I2C Liquid Crystal Displays](https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615)
+    2.[How to interface I2C LCD display with Arduino](https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/)
 
 
 5. Sending Email with Arduino
