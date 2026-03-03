@@ -4,12 +4,13 @@
 1)  Microprocessor vs controller
    1) https://youtu.be/dcNk0urQsQM?si=n3eLUHMMI2zCXsOQ
    2) What is a Microcontroller and how does it work?:https://youtu.be/t68MG-kVDCU?si=0yIvFQlt3MMqLidm
-   3) th:https://www.jaycon.com/microprocessor-vs-microcontroller-vs-microcomputer/
+   3) Th:https://www.jaycon.com/microprocessor-vs-microcontroller-vs-microcomputer/
    4) Th:https://www.tutorialspoint.com/microprocessor/index.htm
-   5) https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
+   5) th:https://www.geeksforgeeks.org/computer-organization-architecture/computer-organization-von-neumann-architecture/ 
+   6) https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
    5
-   6) https://energia.nu/guide/#_microcontrollers
-   7) 
+   7) https://energia.nu/guide/#_microcontrollers
+   8) 
 - Using C++ and WSL in VS Code:https://code.visualstudio.com/docs/cpp/config-wsl
 - mspgcc - Single Line MSP430 Assembler: https://mspgcc.sourceforge.net/assemble.html
 - CCSTUDIO IDE, configuration, compiler or ebugger::https://www.ti.com/tool/CCSTUDIO#downloads
@@ -18,7 +19,7 @@
 - Getting Started with Code Composer Studio:https://www.youtube.com/watch?v=-D7b5e7iofQ
 - Micro processor: https://www.tutorialspoint.com/microprocessor/index.htm
 - YT :https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F
-- https://www.geeksforgeeks.org/computer-organization-architecture/computer-organization-von-neumann-architecture/ 
+
 
 
 
