@@ -15,11 +15,11 @@
    11) https://notepad-plus-plus.org/downloads/
    12) https://www.ti.com/tool/CCSTUDIO#downloads
    13) Getting Started with Code Composer Studio:https://www.youtube.com/watch?v=-D7b5e7iofQ
+   14) YT :https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F
+   15) https://circuitdigest.com/microcontroller-projects/interrupts-in-msp430-writing-gpio-interrupt-program-using-code-composer-studio
+   16) http://www.simplyembedded.org/tutorials/msp430-interrupts/
 
-- YT :https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F
-
-
-
+       
 
 
 - https://www.manua.ls/hp/15s/manual?p=33
@@ -28,11 +28,6 @@
 - https://www.yamanelectronics.com/breadboard-basics-for-beginners/
   
 
-1) INTERUPPS
-    1) https://circuitdigest.com/microcontroller-projects/interrupts-in-msp430-writing-gpio-interrupt-program-using-code-composer-studio
-    2) http://www.simplyembedded.org/tutorials/msp430-interrupts/
-
-       
 
 1. ESP8266 & IoT
     1.   https://highlightcode.com/
@@ -44,7 +39,7 @@
     4. Light-Emitting Diodes (LEDs) - SparkFun Learn:https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds
     5. fade a LED at varying brightness levels:https://energia.nu/guide/tutorials/basics/tutorial_fade/
     6. I2C Liquid Crystal Displays: https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615
-    7. interface I2C LCD display with Arduino:https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/
+    7. https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/
     8. https://learn.adafruit.com/adafruit-arduino-lesson-6-digital-inputs?view=all
 
 3.  COMMUNICATION PROTOCOLS
