@@ -1,6 +1,11 @@
 
 - https://energia.nu/guide/#_microcontrollers
 
+- https://iotzone.in/blog/jumper-wire-types-uses-pin-configuration-and-complete-guide-for-electronics-projects
+
+1) INTERUPPS
+    1) https://circuitdigest.com/microcontroller-projects/interrupts-in-msp430-writing-gpio-interrupt-program-using-code-composer-studio
+    2) http://www.simplyembedded.org/tutorials/msp430-interrupts/
 
 1. ESP8266 & IoT
     1.   https://highlightcode.com/
@@ -21,10 +26,17 @@
     4.  PWM (Energia): https://energia.nu/guide/foundations/micro/tutorial_pwm/
     5. 
 
-4. I2C LCD Displays
+4. PUSH BUTTON
    
-    1.
-    2. https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/
+    1. push button: https://arduinogetstarted.com/tutorials/arduino-button
+    2. https://www.electronics360.org/interfacing-piezo-buzzer-with-arduino/
+    3. https://deepbluembedded.com/arduino-active-passive-buzzer/
+    4. https://www.instructables.com/How-to-use-a-Push-Button-Arduino-Tutorial/
+    5. https://roboticsbackend.com/arduino-push-button-tutorial/
+   
+   
+   
+    6. https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/
    
 
 
@@ -38,5 +50,6 @@
 
 8. MPU‑6050 Sensor
     1. https://randomnerdtutorials.com/arduino-mpu-6050-accelerometer-gyroscope/
-    2. <img width="363" height="741" alt="image" src="https://github.com/user-attachments/assets/cb381e01-8f64-4a5b-abeb-3cfc76f99c28" />
+    2. Embeded VANDING MACHINE: https://www.geeksforgeeks.org/system-design/vending-machine-high-level-system-design/
+    3. <img width="363" height="741" alt="image" src="https://github.com/user-attachments/assets/cb381e01-8f64-4a5b-abeb-3cfc76f99c28" />
 
