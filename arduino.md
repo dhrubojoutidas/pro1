@@ -33,10 +33,12 @@
     3. https://deepbluembedded.com/arduino-active-passive-buzzer/
     4. https://www.instructables.com/How-to-use-a-Push-Button-Arduino-Tutorial/
     5. https://roboticsbackend.com/arduino-push-button-tutorial/
+    6. https://newbiely.com/tutorials/arduino-mkr/arduino-mkr-wifi-1010-button
+    7. https://www.ardumotive.com/how-to-use-a-buzzer-en.html
    
    
    
-    6. https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/
+    8. https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/
    
 
 
