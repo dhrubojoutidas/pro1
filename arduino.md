@@ -5,8 +5,9 @@
    1) https://youtu.be/dcNk0urQsQM?si=n3eLUHMMI2zCXsOQ
    2) What is a Microcontroller and how does it work?:https://youtu.be/t68MG-kVDCU?si=0yIvFQlt3MMqLidm
    3) https://www.jaycon.com/microprocessor-vs-microcontroller-vs-microcomputer/
-   4) https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
-   5) Th:https://www.tutorialspoint.com/microprocessor/index.htm
+   4) Th:https://www.tutorialspoint.com/microprocessor/index.htm
+   5) https://quick-learn.in/multiple-choice-questions-mcq/8051-microcontroller-multiple-choice-questions-mcq/
+   5
    6) https://energia.nu/guide/#_microcontrollers
    7) 
 - Using C++ and WSL in VS Code:https://code.visualstudio.com/docs/cpp/config-wsl
