@@ -14,6 +14,7 @@
 - CSE sem wise topic
 - https://www.guru99.com/data-communication-computer-network-tutorial.html
 - https://www.geeksforgeeks.org/computer-networks/computer-network-tutorials/
+- 
 
 
   > 📝 **YOU TUBE VIDEOS** 
@@ -49,6 +50,8 @@
 - https://www.uninets.com/blog/what-is-bus-topology
 - how VPN works:https://www.linkedin.com/feed/update/urn:li:activity:7328947553884966912/?utm_source=share&utm_medium=member_ios&rcm=ACoAAFfqsq4BiEIOjlM-DIxdnUlCDaTEnK4dCo4
 - top 8 atacld:https://www.linkedin.com/posts/cyberpress-org_cybersecurity-cyberattacks-phishing-activity-7333303521020182528-mh0j/?utm_medium=ios_app&rcm=ACoAAFfqsq4BiEIOjlM-DIxdnUlCDaTEnK4dCo4&utm_source=social_share_send&utm_campaign=copy_link
+- ITEXAM-https://itexamanswers.net/network-security-1-0-final-pt-skills-assessment-ptsa-exam.html
+- https://infraexam.com/network-security-1-0/network-security-version-1-network-security-final-pt-skills-assessment-ptsa-answers/?utm_source=chatgpt.com
 
 
   
@@ -65,7 +68,8 @@
 - https://www.youtube.com/playlist?list=PL9ooVrP1hQOFUm7TmkH1zk5xy75GAxV44
 
 ### 💻 OS
-- https://www.guru99.com/os-tutorial.html
+- https://itexamanswers.net/it-essentials-ite-version-6-0-v7-0-exam-answers-full-100
+-  https://www.guru99.com/os-tutorial.html
 - https://www.youtube.com/playlist?list=PLbST2gvEJITpdvxffigS2OKv9P5JrUXeJ
 - https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
   
