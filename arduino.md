@@ -64,17 +64,20 @@
 
 4. seatbelt detection
    - https://forum.arduino.cc/t/seatbelt-detection/127689
+   - 
 
+5. 3 axixs one
+- https://randomnerdtutorials.com/esp8266-nodemcu-mpu-6050-accelerometer-gyroscope-arduino/
 
-6.  SENDING EMAIL WITH ARDUINO
+7.  SENDING EMAIL WITH ARDUINO
     1. https://circuitdigest.com/microcontroller-projects/how-to-send-email-notification-using-arduino-circuitdigest-cloud
     2. https://arduinogetstarted.com/tutorials/arduino-temperature-send-email-notification
     3. https://github.com/twilio/twilio-python
        
-7. Servo Motor
+8. Servo Motor
     1.  https://arduinogetstarted.com/tutorials/arduino-servo-motor
 
-8. MPU‑6050 Sensor
+9. MPU‑6050 Sensor
     1. https://randomnerdtutorials.com/arduino-mpu-6050-accelerometer-gyroscope/
     2. Embeded VANDING MACHINE: https://www.geeksforgeeks.org/system-design/vending-machine-high-level-system-design/
     3. <img width="363" height="741" alt="image" src="https://github.com/user-attachments/assets/cb381e01-8f64-4a5b-abeb-3cfc76f99c28" />
