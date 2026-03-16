@@ -52,6 +52,7 @@
 - top 8 atacld:https://www.linkedin.com/posts/cyberpress-org_cybersecurity-cyberattacks-phishing-activity-7333303521020182528-mh0j/?utm_medium=ios_app&rcm=ACoAAFfqsq4BiEIOjlM-DIxdnUlCDaTEnK4dCo4&utm_source=social_share_send&utm_campaign=copy_link
 - ITEXAM-https://itexamanswers.net/network-security-1-0-final-pt-skills-assessment-ptsa-exam.html
 - https://infraexam.com/network-security-1-0/network-security-version-1-network-security-final-pt-skills-assessment-ptsa-answers/?utm_source=chatgpt.com
+- security +OS_LINUS : https://itexamanswers.net/it-essentials-ite-version-6-0-v7-0-exam-answers-full-100
 
 
   
