@@ -25,6 +25,7 @@
    21) BREADBORD:https://www.yamanelectronics.com/breadboard-basics-for-beginners/
    22) JUMPIRE WIRE:https://iotzone.in/blog/jumper-wire-types-uses-pin-configuration-and-complete-guide-for-electronics-projects
    23) https://www.manua.ls/hp/15s/manual?p=33
+   24) 
 
 
 
