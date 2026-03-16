@@ -41,6 +41,7 @@
     6. I2C Liquid Crystal Displays: https://projecthub.arduino.cc/arduino_uno_guy/i2c-liquid-crystal-displays-5eb615
     7. https://www.geeksforgeeks.org/electronics-engineering/how-to-interface-i2c-lcd-display-with-arduino/
     8. https://learn.adafruit.com/adafruit-arduino-lesson-6-digital-inputs?view=all
+    9. https://makeradvisor.com/esp32-development-boards-review-comparison/
 
 3.  COMMUNICATION PROTOCOLS
     1. SPI: https://arduino-er.blogspot.com/2014/09/communication-betweeen-arduinos-using.html
@@ -64,10 +65,14 @@
 
 4. seatbelt detection
    - https://forum.arduino.cc/t/seatbelt-detection/127689
-   - 
+   - https://matthewtechub.com/2024/07/01/driver-seat-belt-detection-system/
 
 5. 3 axixs one
 - https://randomnerdtutorials.com/esp8266-nodemcu-mpu-6050-accelerometer-gyroscope-arduino/
+- https://randomnerdtutorials.com/arduino-mpu-6050-accelerometer-gyroscope/
+
+  6. DHT 111
+     - https://www.electrothinks.com/2023/08/dht11-sensor-module.html
 
 7.  SENDING EMAIL WITH ARDUINO
     1. https://circuitdigest.com/microcontroller-projects/how-to-send-email-notification-using-arduino-circuitdigest-cloud
