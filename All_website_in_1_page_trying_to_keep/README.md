@@ -53,6 +53,7 @@
 - ITEXAM-https://itexamanswers.net/network-security-1-0-final-pt-skills-assessment-ptsa-exam.html
 - https://infraexam.com/network-security-1-0/network-security-version-1-network-security-final-pt-skills-assessment-ptsa-answers/?utm_source=chatgpt.com
 - security +OS_LINUS : https://itexamanswers.net/it-essentials-ite-version-6-0-v7-0-exam-answers-full-100
+- 
 
 
   
