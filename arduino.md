@@ -61,7 +61,9 @@
    
    
     8. https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/
-   
+
+4. seatbelt detection
+   - https://forum.arduino.cc/t/seatbelt-detection/127689
 
 
 6.  SENDING EMAIL WITH ARDUINO
