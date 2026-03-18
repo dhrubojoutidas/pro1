@@ -1,17 +1,4 @@
 
-#📘 Learning Resources
-
-## WEBSITE THAT HAS ALL IT SUBJECT
-
-- 
--
-- 
--
--
-- 
--
-- 
-- 
 
 
   > 📝 **YOU TUBE VIDEOS** 
@@ -41,17 +28,6 @@
 - GITHUB :https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG
   
 
-# netwokring
-
-- how SSH works :1https://www.linkedin.com/posts/hichemdachraoui_understanding-how-ssh-works-secure-activity-7333779158973440000-3eK_?utm_medium=ios_app&rcm=ACoAAFfqsq4BiEIOjlM-DIxdnUlCDaTEnK4dCo4&utm_source=social_share_send&utm_campaign=whatsapp
-- https://www.uninets.com/blog/what-is-bus-topology
-- how VPN works:https://www.linkedin.com/feed/update/urn:li:activity:7328947553884966912/?utm_source=share&utm_medium=member_ios&rcm=ACoAAFfqsq4BiEIOjlM-DIxdnUlCDaTEnK4dCo4
-- top 8 atacld:https://www.linkedin.com/posts/cyberpress-org_cybersecurity-cyberattacks-phishing-activity-7333303521020182528-mh0j/?utm_medium=ios_app&rcm=ACoAAFfqsq4BiEIOjlM-DIxdnUlCDaTEnK4dCo4&utm_source=social_share_send&utm_campaign=copy_link
-- ITEXAM-https://itexamanswers.net/network-security-1-0-final-pt-skills-assessment-ptsa-exam.html
-- https://infraexam.com/network-security-1-0/network-security-version-1-network-security-final-pt-skills-assessment-ptsa-answers/?utm_source=chatgpt.com
-- security +OS_LINUS : https://itexamanswers.net/it-essentials-ite-version-6-0-v7-0-exam-answers-full-100
--https://itexamanswers.net/networking-essentials-v2-0-exam-answers-labs-instruction.html  
-
 
   
 💻**AI APP /WEBSITE** 
@@ -61,17 +37,7 @@
 - https://convertpdftoword.com/
 - https://writesonic.com/blog/chatgpt-alternatives  
 ---
-### 💻 CLOUD COMPUTING 
 
-- https://www.tutorialspoint.com/cloud_computing/index.htm
-- https://www.youtube.com/playlist?list=PL9ooVrP1hQOFUm7TmkH1zk5xy75GAxV44
-
-### 💻 OS
-- https://itexamanswers.net/it-essentials-ite-version-6-0-v7-0-exam-answers-full-100
--  https://www.guru99.com/os-tutorial.html
-- https://www.youtube.com/playlist?list=PLbST2gvEJITpdvxffigS2OKv9P5JrUXeJ
-- https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
-  
 --- 
 
 ### ⚙️ Digital Electronics & Logic Design
