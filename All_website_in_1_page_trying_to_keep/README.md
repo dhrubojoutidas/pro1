@@ -2,18 +2,15 @@
 #📘 Learning Resources
 
 ## WEBSITE THAT HAS ALL IT SUBJECT
-- https://www.geeksforgeeks.org/digital-logic/digital-electronics-logic-design-tutorials
-- https://www.learncomputerscienceonline.com/introduction-to-computer-system/
-- https://www.tutorialspoint.com/computer_science_tutorials.htm
-- https://eee.poriyaan.in/
-- https://www.guru99.com/
-- https://www.tutorialspoint.com/difference-between-for-loop-and-while-loop-in-python#
-- https://www.tutorialspoint.com/top-categories.htm
-- https://www.tutorialspoint.com/
-- Engineering tutorial
-- CSE sem wise topic
-- https://www.guru99.com/data-communication-computer-network-tutorial.html
-- https://www.geeksforgeeks.org/computer-networks/computer-network-tutorials/
+
+- 
+-
+- 
+-
+-
+- 
+-
+- 
 - 
 
 
