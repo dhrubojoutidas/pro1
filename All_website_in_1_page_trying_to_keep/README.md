@@ -168,27 +168,6 @@
  ### ARDUINO: https://github.com/dhrubojoutidas/pro1/edit/master/arduino.md
 
 
- ### LINUX 
- - https://www.geeksforgeeks.org/linux-unix/shell-scripting-shell-variables/
- - https://www.geeksforgeeks.org/linux-unix/input-output-redirection-in-linux/
- - https://www.geeksforgeeks.org/linux-unix/linux-directory-structure/
- - https://www.technewstoday.com/rmdir-directory-not-empty/
- - https://askubuntu.com/questions/793507/rm-cannot-remove-directory-permission-denied
- - https://www.geeksforgeeks.org/linux-unix/how-to-delete-multiple-lines-in-vim-editor-in-linux/
- - https://www.wikihow.com/Find-Out-Your-IP-Address#:~:text=How%20to%20Find%20out%20your%20IP%20Address%20Windows,adapter.%204%20Look%20at%20the%20.%20See%20More.
-
-
-### 🐍 C programming 
-
-- https://www.w3schools.com/c/c_macros.php
-- https://www.geeksforgeeks.org/c/macros-and-its-types-in-c-cpp/
-- https://gist.github.com/SanourTomal1/de24a679abc4e81dfeb05e6344ce133f
-- https://www.geeksforgeeks.org/c/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/
-- https://electronicsprojects.in/c_programming/compilation-in-c/
-- https://github.com/anisul-Islam/c-programming-documentation---
-
-
-
 
 
 <img width="532" height="398" alt="image" src="https://github.com/user-attachments/assets/693d42df-379b-4a2d-bf87-5c36edb01af1" />
