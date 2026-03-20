@@ -105,80 +105,10 @@
 
 
  ---
-  
-
-## 📚 Hardware
-
--  https://www.learncomputerscienceonline.com/introduction-to-computer-system/
--  https://www.tutorialspoint.com/computer_fundamentals/index.htm
-###  MUX
-
-- Details:https://www.electronicshub.org/multiplexerandmultiplexing/
-- for advantage/disadvantage  details:https://www.hackatronic.com/difference-between-multiplexer-and-demultiplexer-with-types/
-- Greek :https://www.geeksforgeeks.org/multiplexers-in-digital-logic/
-- Math solve  https://www.geeksforgeeks.org/solving-multiplexer-circuit/
-- https://gateoffline.blogspot.com/2014/11/previous-gate-questions-on-multiplexers.html
-
- ### ADDER
-- https://www.tutorialspoint.com/digital-electronics/half-adder-with-nand-gates.htm
-- https://www.electronicsforu.com/technology-trends/learn-electronics/half-adder-full-adder-truth-table-circuit-working-kmap
-- watch from 5 mins for addrer : https://youtu.be/HjneAhCy2N4?si=Tj-t0gPnEui5Gji9 
-
-### FILP FLOP: 
-- https://www.electronics-tutorial.net/sequential-logic-circuits/d-flip-flop-to-jk-flip-flop/
-- https://www.allaboutelectronics.org/jk-flip-flop-explained-race-around-condition-in-jk-flip-flop-jk-flip-flop-truth-table-excitation-table-and-timing-diagram/ *
-- https://www.allaboutelectronics.org/t-flip-flop-working-circuit-diagram-excitation-table-and-characteristic-equation-of-t-flip-flop/
-- https://www.allaboutelectronics.org/master-slave-flip-flop-explained/
-- this yt for flip flop* :https://youtu.be/DBTna2ydmC0?si=QyiR3L_4VX31Jj8L
-- https://www.electronicsforu.com/technology-trends/learn-electronics/flip-flop-rs-jk-t-d
-- Details here --- https://www.electronics-tutorial.net/sequential-logic-circuits/d-flip-flop-to-jk-flip-flop/
-- https://www.tutorialspoint.com/digital-electronics/digital-electronics-latches.htm
--  https://www.geeksforgeeks.org/digital-logic/sr-flip-flop/
--  https://www.geeksforgeeks.org/digital-logic/flip-flop-types-their-conversion-and-applications/
-  
-### SEQUENTIALvs COMBINATON CIRUIT: 
-- *https://www.hackatronic.com/difference-between-combinational-and-sequential-circuits/
-- combination circuit details   https://www.geeksforgeeks.org/what-is-combinational-circuit/
-- sequential details  + math  ** https://www.geeksforgeeks.org/introduction-of-sequential-circuits/
-- com,seq  https://www.geeksforgeeks.org/difference-between-combinational-and-sequential-circuit/
-- https://www.hackatronic.com/difference-between-synchronous-and-asynchronous-sequential-circuits/
-
- ### SUBSTRACTOR :
-- https://www.electronics-tutorial.net/combinational-logic-circuits/full-subtractor/ *
-- https://www.hackatronic.com/half-subtractor-and-full-subtractor-circuits-truth-table-equation/
-- https://www.elprocus.com/full-subtractor-circuit-using-logic-gates/ ***
-- for addion/subtactor :https://youtu.be/J7gPUP0aRug?si=QjbkHu1csAu1ya2d
-- 7 segmnt using adder/sub _lab3task5 : https://www.instructables.com/Showing-4-Bit-Binary-Addition-Through-a-7-Segment-/
-
-
-### 7  SEGMENT:
-- https://github.com/marceloboeira/logisim-7-segment-display-driver
-- https://www.electricaltechnology.org/2018/05/bcd-to-7-segment-display-decoder.html
-- 7 Segment using logiism banga : https://youtu.be/-81bw6PhRwY?si=AIpJCRqkpInuFNFW
-- HEX 7seg disply using spliter :https://youtu.be/EGj71NkR8bc?si=4rz2WJg8HS-LoRA0
-  
-### ALU:  
-- http://www.csc.villanova.edu/~mdamian/Past/csc2400fa13/assign/ALU.html
-- https://learn.circuitverse.org/docs/comb-lsi/alu.html#introduction
-- http://vlabs.iitkgp.ac.in/coa/exp8/content.html   
-
-
----
 
  ### ARDUINO: https://github.com/dhrubojoutidas/pro1/edit/master/arduino.md
 
-
-
-
 <img width="532" height="398" alt="image" src="https://github.com/user-attachments/assets/693d42df-379b-4a2d-bf87-5c36edb01af1" />
 
-
-
-
 ---
-
-
- 
-
-
 
