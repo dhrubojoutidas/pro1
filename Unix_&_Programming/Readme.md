@@ -150,5 +150,7 @@ make
 make
 ./laserTank data.txt
 ```
+## ▶️ Game Interface
+<img width="229" height="288" alt="image" src="https://github.com/user-attachments/assets/eaea06ad-18db-4cfb-b460-d87e3fc61836" />
 
 ---
