@@ -1,0 +1,150 @@
+
+#
+#
+#testharness_traffic.py ----- this is a testcode for traffic.py file
+#
+
+from trafic_info  import *
+
+def print_menu():
+    print("\nMenu:")
+    print("1. Display Adjacency List")
+    print("2. Find Route using BFS")
+    print("3. Find Route using DFS")
+    print("4. Add New Location")
+    print("5. Add New Path")
+    print("6. Update Traffic Data")
+    print("7.Compare Data Structures Efficiency")
+    print("8 Add new interaction")
+    print("9. Modify traffic flow")
+    print("10.Search Road")
+    print("11.Road  Remove")
+    print("12 Road  Intersection")
+    print("13. Insert Edge with Traffic Data")
+    print("14. Find Edge with Highest Congestion Level")
+    print("15. Find Route using Dijkstra's Algorithm")
+    print("16. Exit")
+
+def interactive_menu(graph, traffic_data_structure):
+
+
+
+    while True:
+        print_menu()
+        choice = input("Enter your choice: ")
+
+        if choice == '1':
+            graph.display_adj_list()
+        elif choice == '2':
+            start = input("Enter the start location: ")
+            end = input("Enter the end location: ")
+            bfs_path = graph.bfs(start, end)
+            #print_route("BFS", bfs_path, traffic_graph)
+            #graph.display_traffic_data(bfs_path))
+            graph.print_bfs_route(start, end)
+
+        elif choice == '3':
+            start = input("Enter the start location: ")
+            end = input("Enter the end location: ")
+            dfs_path = graph.dfs(start, end)
+            #print_route("DFS", dfs_path, traffic_graph)
+            graph.print_dfs_route(start, end)
+
+        elif choice == '4':
+            new_location = input("Enter the new location: ")
+            graph.location_add(new_location)
+            print(f"Location '{new_location}' added successfully.")
+
+        elif choice == '5':
+            start = input("Enter the start location: ")
+            end = input("Enter the end location: ")
+            distance = input("Enter the distance: ")
+            graph.add_path(start, end, int(distance))
+            print(f"Path between '{start}' and '{end}' added successfully.")
+        elif choice == '6':
+            start = input("Enter the start location: ")
+            end = input("Enter the end location: ")
+            traffic_vol = input("Enter the new traffic volume: ")
+            road_capacity = input("Enter the new road capacity: ")
+            congestion_level = input("Enter the new congestion level: ")
+            success = graph.update_edge(start, end, int(traffic_vol), int(road_capacity), congestion_level)
+            if success:
+                print(f"Traffic data for path '{start}' to '{end}' updated successfully.")
+            else:
+                print(f"Path '{start}' to '{end}' not found.")
+        elif choice == '7':
+            efficiency_comparison(graph, traffic_data_structure)
+        elif choice == '8':
+            graph.new_intersection_add()
+        elif choice == '9':
+            graph.traffic_flow_modify()
+        elif choice == '10':
+            graph. specific_route_search()
+
+        elif choice == '11':
+            graph.road_remove()
+        elif choice == '12':
+            graph.remove_intersection()
+        elif choice == '13':
+            road_segment = input("Enter the road segment: ")
+            traffic_vol = int(input("Enter the traffic volume: "))
+            traffic_priority_queue.insert_edge(road_segment, traffic_vol)
+            print("Edge inserted successfully.")
+        elif choice == '14':
+            congestion_edge_highest = traffic_priority_queue.find_highest_congestion_edge()
+            if congestion_edge_highest:
+                print(f"Highest Congestion Edge: {congestion_edge_highest}")
+            else:
+                print("Priority queue is empty.")
+        elif choice == '15':
+            start = input("Enter the start location: ")
+            end = input("Enter the end location: ")
+            try :
+                shortest_path = graph.dijkstra(start, end)
+                print("Shortest Path:", shortest_path)
+                # graph.display_traffic_data(dijkstra_path)
+
+            except KeyError:
+                 print("Invalid start or end location. Please check the locations and try again.")
+
+        elif choice == '16':
+            print("Exiting the program. Goodbye!")
+            break
+        else:
+            print("Invalid choice. Please enter a valid option.")
+        #choice = input("Enter your choice: ")
+
+if __name__ == "__main__":
+   
+
+
+
+
+   
+    file_path = "traffic_network.txt"
+    #traffic_file_path = "traffic_data.txt"
+    traffic_data_structure = TrafficHashTable()
+    graph = Graph()
+
+
+    # Construct graph from road network file
+    network_graph_file(file_path, graph, traffic_data_structure)
+
+    # Add traffic data to the graph
+    traffic_data_file_path = "traffic_data.txt"
+    read_traffic_data(traffic_data_file_path, traffic_data_structure)
+
+
+    # Run the interactive menu
+    interactive_menu(graph, traffic_data_structure)
+
+    #traffic_priority_queue =TrafficPriorityQueue()
+    #interactive_menu (traffic_priority_queue)
+
+
+
+
+
+
+
+
