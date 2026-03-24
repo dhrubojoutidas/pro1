@@ -1,0 +1,16 @@
+Action: Initial Phrase
+Player: (2, 2), Direction: e
+Enemy: (4, 4), Direction: w
+**********************
+*                    *
+*                    *
+*  >             \   *
+*                    *
+*    <               *
+*       \            *
+*                    *
+*                    *
+*          /         *
+*                    *
+**********************
+
