@@ -18,10 +18,7 @@ It applies core **Data Structures and Algorithms (DSA)** concepts such as Graphs
 ### 📄 1. Project Report
 
 * [DSA Assignment Report](DSA_assinm,et_report_90028995.pdf)
-* [Assignment Specification](DSA1002_Assignment_1_202303.pdf)
-* ## 📄 Assignment Specification
-
-* [DSA1002 Assignment Details](DSA1002_Assignment_1_202303.pdf)
+* [Assignment Specification](DSA1002%20Assignment%201%20(202303)%202.pdf)
 
 
 ---
