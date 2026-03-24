@@ -89,7 +89,7 @@ python Animation.py
   * Water (+50 health)
   * Garlic (+100 health)
 
-(From your implementation )
+
 
 ---
 
