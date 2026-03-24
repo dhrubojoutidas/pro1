@@ -143,3 +143,61 @@ From your program:
 * Student ID: 90028995
 
 ---
+
+
+### 🧠 Core Logic
+- [traffic_info.py](trafic_info.py)
+
+### 📊 Data Files
+- [traffic_network.txt](traffic_network.txt)
+- [traffic_data.txt](traffic_data.txt)
+
+### ⚙️ Data Structures
+- [DSAHeapM.py](DSAHeapM.py)
+- [DSAHeapEntryM.py](DSAHeapEntryM.py)
+
+### ▶️ Runner
+- [testharness.py](testharness)
+
+
+## 📂 Files Overview
+
+* 📄 [testharness.py](testharness)
+  → Interactive test harness for running the traffic system
+
+* 📄 [traffic_info.py](trafic_info.py)
+  → Core implementation of Graph, BFS, DFS, Dijkstra, and traffic logic
+
+* 📄 [traffic_network.txt](traffic_network.txt)
+  → Input file containing road network structure (nodes & edges)
+
+* 📄 [traffic_data.txt](traffic_data.txt)
+  → Contains traffic volume, capacity, and congestion levels
+
+* 📄 [DSAHeapM.py](DSAHeapM.py)
+  → Custom heap (priority queue) implementation
+
+* 📄 [DSAHeapEntryM.py](DSAHeapEntryM.py)
+  → Heap entry structure (priority + value)
+
+
+
+## 📂 Files
+
+* 🔧 [testharness.py](testharness)
+  → Interactive test harness for the traffic network
+
+* 📄 [traffic_info.py](trafic_info.py)
+  → Core implementation of the Graph class and algorithms (BFS, DFS, Dijkstra)
+
+* 🗺️ [traffic_network.txt](traffic_network.txt)
+  → Contains road network data (nodes and distances)
+
+* 🚗 [traffic_data.txt](traffic_data.txt)
+  → Stores traffic volume, capacity, and congestion levels
+
+* 🧠 [DSAHeapM.py](DSAHeapM.py)
+  → Custom heap (priority queue) implementation
+
+* ⚙️ [DSAHeapEntryM.py](DSAHeapEntryM.py)
+  → Heap entry structure for priority queue
