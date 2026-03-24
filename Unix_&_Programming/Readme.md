@@ -1,7 +1,3 @@
-
-
-## 📝 Project Files
-
 # 🚀 Laser Tank Game (C)
 
 ## 📌 Overview
