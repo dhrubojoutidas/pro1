@@ -64,11 +64,9 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 ### 8️⃣  [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
 
 ### 9️⃣ [ Tank Shooter Game (C)](./Unix_&_Programming/Readme.md)
-
-
-
 ### 🔟  Python Automation  
-### 1️⃣1️⃣ Data Structures & Algorithms (DSA)
+### 1️⃣1️⃣ [Traffic Optimization System using Data Structures & Algorithms (DSA)](./DSA/Readme.md)
+
 <br>
  
 ---
