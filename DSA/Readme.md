@@ -18,6 +18,7 @@ It applies core **Data Structures and Algorithms (DSA)** concepts such as Graphs
 ### 📄 1. Project Report
 
 * [DSA Assignment Report](DSA_assinm,et_report_90028995.pdf)
+* [DSA Question paper ](DSA_assinm,et_report_90028995.pdf)
 
 ---
 
@@ -81,7 +82,6 @@ python testharness.py
 
 ## 🎮 Menu Options
 
-From your program:
 
 ```
 1. Display Adjacency List  
