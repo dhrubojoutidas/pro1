@@ -37,6 +37,10 @@ The player navigates a grid-based map, fires lasers, and attempts to destroy the
 └── Makefile           # Build configuration
 └── instruction.h      # instruction logic 
 
+
+ - [main.c](main.c) – Main game loop
+
+[DisplayBoard.c](DisplayBoard.c) – Board display [PlayerMove.c](PlayerMove.c) – Player movement [UserInput.c](UserInput.c) – Input handling [UpdateGame.c](UpdateGame.c) – Game updates [LinkedList.c](LinkedList.c) – Linked list logic [mirror.c](mirror.c) – Mirror reflection [EnemyLaser.c](EnemyLaser.c) – Enemy laser logic [printmap.c](printmap.c) – Map rendering [screenclear.c](screenclear.c) – Clear terminal [ucpSleep.c](ucpSleep.c) – Animation delay [data.txt](data.txt) – Input configuration [log.txt](log.txt) – Game output log [makefile](makefile) – Compilation file
 ```
 
 ---
