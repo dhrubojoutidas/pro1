@@ -109,3 +109,86 @@ make
 * Developed as part of UCP (Unix & C Programming) coursework
 
 ---
+---
+
+## 🖼️ Game Preview
+
+<img width="800" alt="Laser Tank Game" src="https://via.placeholder.com/800x400.png?text=Laser+Tank+Game" />
+
+---
+
+## 📝 Project Files
+
+### 1. 🔧 Core Files
+
+* [main.c](main.c)
+* [game.c](game.c)
+* [game.h](game.h)
+* [UpdateGame.c](UpdateGame.c)
+* [UpdateGame.h](UpdateGame.h)
+
+---
+
+### 2. 🎮 Gameplay Modules
+
+* [PlayerMove.c](PlayerMove.c)
+* [PlayerMove.h](PlayerMove.h)
+* [UserInput.c](UserInput.c)
+* [UserInput.h](UserInput.h)
+* [condition.c](condition.c)
+* [condition.h](condition.h)
+
+---
+
+### 3. 🧠 Game Logic & Features
+
+* [mirror.c](mirror.c)
+* [mirror.h](mirror.h)
+* [EnemyLaser.c](EnemyLaser.c)
+* [EnemyLaser.h](EnemyLaser.h)
+
+---
+
+### 4. 🖥️ Display & Interface
+
+* [DisplayBoard.c](DisplayBoard.c)
+* [DisplayBoard.h](DisplayBoard.h)
+* [printmap.c](printmap.c)
+* [printmap.h](printmap.h)
+* [instruction.c](instruction.c)
+* [instruction.h](instruction.h)
+* [screenclear.c](screenclear.c)
+* [screenclear.h](screenclear.h)
+
+---
+
+### 5. 📂 Data Structures & Utilities
+
+* [LinkedList.c](LinkedList.c)
+* [LinkedList.h](LinkedList.h)
+* [ucpSleep.c](ucpSleep.c)
+* [ucpSleep.h](ucpSleep.h)
+
+---
+
+### 6. 📄 Input & Output Files
+
+* [data.txt](data.txt)
+* [log.txt](log.txt)
+
+---
+
+### 7. ⚙️ Build File
+
+* [makefile](makefile)
+
+---
+
+## ▶️ Run the Project
+
+```bash
+make
+./laserTank data.txt
+```
+
+---
