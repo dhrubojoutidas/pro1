@@ -1,3 +1,7 @@
+
+
+## 📝 Project Files
+
 # 🚀 Laser Tank Game (C)
 
 ## 📌 Overview
@@ -19,49 +23,7 @@ The player navigates a grid-based map, fires lasers, and attempts to destroy the
 
 ---
 
-## 🗂️ Project Structure
 
-```
-.
-├── main.c              # Main game loop
-├── PlayerMove.c       # Player movement logic
-├── UserInput.c        # Input handling
-├── UpdateGame.c       # Game state updates (laser, logic)
-├── LinkedList.c       # Linked list implementation
-├── mirror.c           # Mirror reflection logic
-├── printmap.c         # Map rendering
-├── screenclear.c      # Terminal screen clearing
-├── ucpSleep.c         # Animation timing
-├── data.txt           # Input configuration file
-├── log.txt            # Game log output
-└── Makefile           # Build configuration
-└── instruction.h      # instruction logic 
-
-
- - [main.c](main.c) – Main game loop
-
-[DisplayBoard.c](DisplayBoard.c) – Board display [PlayerMove.c](PlayerMove.c) – Player movement [UserInput.c](UserInput.c) – Input handling [UpdateGame.c](UpdateGame.c) – Game updates [LinkedList.c](LinkedList.c) – Linked list logic [mirror.c](mirror.c) – Mirror reflection [EnemyLaser.c](EnemyLaser.c) – Enemy laser logic [printmap.c](printmap.c) – Map rendering [screenclear.c](screenclear.c) – Clear terminal [ucpSleep.c](ucpSleep.c) – Animation delay [data.txt](data.txt) – Input configuration [log.txt](log.txt) – Game output log [makefile](makefile) – Compilation file
-```
-
----
-
-## ⚙️ Compilation
-
-Make sure you are in the project directory, then run:
-
-```bash
-make
-```
-
----
-
-## ▶️ How to Run
-
-```bash
-./laserTank data.txt
-```
-
----
 
 ## 🎮 Controls
 
@@ -76,6 +38,11 @@ make
 
 ---
 
+## 👨‍💻 Author
+
+* Developed as part of UCP (Unix & C Programming) coursework
+
+ ---
 ## 🧠 Game Logic
 
 * The player shoots lasers in the direction they are facing.
@@ -101,23 +68,6 @@ make
 * All allocated memory is freed at program termination
 * Designed following modular programming principles
 * Built according to academic assignment constraints (C89 standard)
-
----
-
-## 👨‍💻 Author
-
-* Developed as part of UCP (Unix & C Programming) coursework
-
----
----
-
-## 🖼️ Game Preview
-
-<img width="800" alt="Laser Tank Game" src="https://via.placeholder.com/800x400.png?text=Laser+Tank+Game" />
-
----
-
-## 📝 Project Files
 
 ### 1. 🔧 Core Files
 
@@ -184,6 +134,16 @@ make
 
 ---
 
+
+## ⚙️ Compilation
+
+Make sure you are in the project directory, then run:
+
+```bash
+make
+```
+
+---
 ## ▶️ Run the Project
 
 ```bash
