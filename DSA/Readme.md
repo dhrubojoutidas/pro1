@@ -5,11 +5,7 @@
 This project is a **Traffic Management and Optimization System** developed using **Python**.
 It applies core **Data Structures and Algorithms (DSA)** concepts such as Graphs, BFS, DFS, Hash Tables, Heaps, and Dijkstra’s Algorithm to improve urban traffic flow.
 
----
 
-## 🖼️ Project Preview
-
-<img width="800" alt="Traffic System" src="https://via.placeholder.com/800x400.png?text=Traffic+Optimization+System" />
 
 ---
 
