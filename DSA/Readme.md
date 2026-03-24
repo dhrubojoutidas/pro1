@@ -21,19 +21,22 @@ It applies core **Data Structures and Algorithms (DSA)** concepts such as Graphs
 
 ---
 
-### 💻 2. Source Code Files
 
-* [traffic_info.py](trafic_info.py)
-* [DSAHeapM.py](DSAHeapM.py)
-* [DSAHeapEntryM.py](DSAHeapEntryM.py)
-* [testharness.py](testharness)
 
----
+### 🧠 Core Logic
+- [traffic_info.py](trafic_info.py)  → Core implementation of Graph, BFS, DFS, Dijkstra, and traffic l
 
-### 📂 3. Input Data Files
+### 📊 Data Files
+- [traffic_network.txt](traffic_network.txt)  → Input file containing road network structure (nodes & edges)
+- [traffic_data.txt](traffic_data.txt)  → Contains traffic volume, capacity, and congestion levels
 
-* [traffic_network.txt](traffic_network.txt)
-* [traffic_data.txt](traffic_data.txt)
+### ⚙️ Data Structures
+- [DSAHeapM.py](DSAHeapM.py)   → Custom heap (priority queue) implementation
+- [DSAHeapEntryM.py](DSAHeapEntryM.py)  → Heap entry structure (priority + value)
+
+### ▶️ Runner
+- [testharness.py](testharness)  → Interactive test harness for running the traffic system
+
 
 ---
 
@@ -145,39 +148,9 @@ From your program:
 ---
 
 
-### 🧠 Core Logic
-- [traffic_info.py](trafic_info.py)
-
-### 📊 Data Files
-- [traffic_network.txt](traffic_network.txt)
-- [traffic_data.txt](traffic_data.txt)
-
-### ⚙️ Data Structures
-- [DSAHeapM.py](DSAHeapM.py)
-- [DSAHeapEntryM.py](DSAHeapEntryM.py)
-
-### ▶️ Runner
-- [testharness.py](testharness)   → Interactive test harness for running the traffic system
 
 
-## 📂 Files Overview
 
-* 📄 [testharness.py](testharness)
-  → Interactive test harness for running the traffic system
 
-* 📄 [traffic_info.py](trafic_info.py)
-  → Core implementation of Graph, BFS, DFS, Dijkstra, and traffic logic
-
-* 📄 [traffic_network.txt](traffic_network.txt)
-  → Input file containing road network structure (nodes & edges)
-
-* 📄 [traffic_data.txt](traffic_data.txt)
-  → Contains traffic volume, capacity, and congestion levels
-
-* 📄 [DSAHeapM.py](DSAHeapM.py)
-  → Custom heap (priority queue) implementation
-
-* 📄 [DSAHeapEntryM.py](DSAHeapEntryM.py)
-  → Heap entry structure (priority + value)
 
 
