@@ -93,7 +93,7 @@ From your program:
 16. Exit  
 ```
 
-(From your implementation )
+
 
 ---
 
@@ -112,7 +112,7 @@ From your program:
 * Dijkstra → O((V + E) log V)
 * Heap operations → O(log N)
 
-(From your complexity analysis )
+
 
 ---
 
@@ -122,7 +122,7 @@ From your program:
 * Heap for congestion prioritization
 * Hash table for traffic data
 
-UML diagrams included in report (page 14) 
+
 
 ---
 
