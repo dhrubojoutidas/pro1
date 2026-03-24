@@ -17,7 +17,7 @@
 ### 📑 2. Documentation
 
 * [User Documentation](Document%20_ASSIGNMENT_02.pdf)
-* [Documentation Plan](Documentation%20Plan.pdf)
+
 
 ### 📜 3. Declaration
 
@@ -106,6 +106,7 @@ python Animation.py
 * CSV file with:
 
   * Initial & final human/vampire counts
+<img width="1159" height="724" alt="image" src="https://github.com/user-attachments/assets/4e47926a-9476-40de-8b2c-cf02426e6f4b" />
 
 ---
 
