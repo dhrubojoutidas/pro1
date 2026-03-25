@@ -106,4 +106,132 @@ Example:
 
 
 
+## 1. Project Title
+
+```
+# Digital Logic Design using Logisim
+```
+
+---
+
+## 2. Short Description (VERY IMPORTANT)
+
+```
+This repository contains a collection of digital logic circuits designed and simulated using Logisim. 
+The project covers fundamental to intermediate concepts including multiplexers, encoders, arithmetic circuits, and a 4-bit ALU.
+
+The goal of this work is to demonstrate understanding of combinational logic design, modular circuit construction, and hardware abstraction.
+```
+
+---
+
+## 3. Key Features / What You Built
+
+Break your screenshot into structured sections:
+
+```
+## 🔧 Implemented Circuits
+
+### Multiplexers (MUX)
+- 2:1 Multiplexer
+- 4:1 Multiplexer (using K-map & SOP design)
+- 8:1 Multiplexer
+- 8:1 MUX using:
+  - 4:1 MUX
+  - 2:1 MUX
+  - OR gates
+
+### Encoders
+- 4:2 Encoder
+- 4:2 Encoder with 7-segment display output
+- 16:4 Encoder
+- 16:4 Encoder with 7-segment display
+
+### Arithmetic Circuits
+- Full Adder (1-bit)
+- 4-bit Adder using 1-bit full adders
+- Subtractor design (using 2’s complement logic)
+- Combined Adder/Subtractor circuit
+
+### ALU (Arithmetic Logic Unit)
+- 1-bit ALU (using MUX)
+- 4-bit ALU (modular design)
+- Supports:
+  - Addition
+  - Subtraction
+  - Logical operations
+- Includes test cases and simulation outputs
+```
+
+---
+
+## 4. Design Approach (this is what makes you stand out)
+
+```
+## 🧠 Design Approach
+
+- Used modular design (built small circuits → combined into larger systems)
+- Applied K-map simplification for optimized logic
+- Implemented SOP (Sum of Products) expressions
+- Used hierarchical circuit design in Logisim
+- Integrated multiple subcircuits to build a functional 4-bit ALU
+```
+
+---
+
+## 5. Tools & Technologies
+
+```
+## 🛠 Tools Used
+- Logisim Evolution
+- Digital Logic Design principles
+- Boolean Algebra
+- Karnaugh Maps (K-map)
+```
+
+---
+
+## 6. Folder Structure (important for GitHub clarity)
+
+```
+## 📁 Project Structure
+/mux
+/encoder
+/adder_subtractor
+/alu
+/screenshots
+```
+
+---
+
+## 7. Screenshots (VERY important for recruiters)
+
+Add images of your circuits:
+
+```
+## 📸 Screenshots
+
+### 4-bit ALU
+![ALU](screenshots/alu.png)
+
+### 8:1 Multiplexer
+![MUX](screenshots/mux.png)
+```
+
+---
+
+## 8. Learning Outcomes (this is GOLD for recruiters)
+
+```
+## 📚 Learning Outcomes
+
+- Strong understanding of combinational logic circuits
+- Experience in hierarchical hardware design
+- Ability to design and simulate ALU systems
+- Practical knowledge of digital system implementation
+```
+
+---
+
+
 
