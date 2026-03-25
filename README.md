@@ -74,10 +74,11 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ## 🔌💡 Digital Electronics & Interface Design
 
-### 1️⃣2️⃣  [Computer HardWare Digital Logic Design using Logisim](./HardWare/Readme.md)
-[Electronics Lab Work](./ELECTRONICS/README.md)
+### 1️⃣2️⃣ [Computer HardWare Digital Logic Design using Logisim](./HardWare/Readme.md)
 
-### 1️⃣3️⃣ [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
+### 1️⃣3️⃣ [Electronics Lab Work](./ELECTRONICS/README.md)
+
+### 1️⃣4️⃣ [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
 <br>
 
 ---
@@ -103,10 +104,10 @@ Includes:
 # 📚🔍 Research, Reports & Academic Documentation
 <br>
 
-### 1️⃣4️⃣ [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md) 
-### 1️⃣5️⃣ [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>) 
-### 1️⃣6️⃣ [Communication & Public Relations](./Public%20Relation/) 
-### 1️⃣7️⃣ [Linear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md) 
+### 1️⃣5️⃣ [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md) 
+### 1️⃣6️⃣ [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>) 
+### 1️⃣7️⃣ [Communication & Public Relations](./Public%20Relation/) 
+### 1️⃣8️⃣ [Linear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md) 
 <br>
 
 
