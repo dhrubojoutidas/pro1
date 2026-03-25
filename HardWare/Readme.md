@@ -80,8 +80,12 @@ It reflects hands-on experience with core computer engineering concepts such as 
 
 ## 7. 📸 Screenshots
 
-### 4-bit ALU
-![ALU](screenshots/alu.png)
+### The 16:4 encoder compresses input signals into a 4-bit representation, which is then expanded using a 4:16 decoder.
+<img width="872" height="769" alt="image" src="https://github.com/user-attachments/assets/2ab76f7c-6ea3-4ee8-83c9-bad68f3477d6" />
+
+- The design uses a combination of encoding and decoding stages.
+-  The decoder output is selectively connected to a 7-segment display to represent decimal digits.
+-  This approach demonstrates hierarchical circuit design and signal transformation between different logic stages.
 
 ### 8:1 Multiplexer
 ![MUX](screenshots/mux.png)
