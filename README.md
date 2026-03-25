@@ -131,57 +131,37 @@ MSP430, Arduino, IoT Development, Sensor Integration, Firestore
 
 ---
 
-# 🛠️ Tools & Technologies  
-
-<img src="https://skillicons.dev/icons?i=vscode,linux,windows,arduino,git,github" />
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
-![Logisim](https://img.shields.io/badge/Logisim-4B0082?style=for-the-badge)
-![Code Composer Studio](https://img.shields.io/badge/Code_Composer_Studio-TI-blue?style=for-the-badge)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VMware Horizon](https://img.shields.io/badge/VMware_Horizon_VDI-0A6ED1?style=for-the-badge&logo=vmware&logoColor=white)
-
 
 # 🛠 Tools & Technologies
-
 
 
 ### 💻 Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 <img src="https://skillicons.dev/icons?i=vscode" />
-
 ---
 
 ### 🌐 Networking
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
-
 ---
 
 ### 🔧 Embedded Systems
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Code Composer Studio](https://img.shields.io/badge/Code_Composer_Studio-TI-blue?style=for-the-badge)
-
 ---
-
 ### 🖥 Virtualization
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VMware Horizon](https://img.shields.io/badge/VMware_Horizon_VDI-0A6ED1?style=for-the-badge&logo=vmware&logoColor=white)
-
 ---
-
 ### 🖥 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<img src="https://skillicons.dev/icons?i=windows" />
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=linux,windows" />
 ---
-
 ### 🧪 Simulation & Design
 ![Logisim](https://img.shields.io/badge/Logisim-4B0082?style=for-the-badge)
 ---
+
+
 # 🎖️ Certifications
 
 [![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/5bfceb3a-1b9d-4bcd-9fdd-65cd1f0ab715)
