@@ -93,13 +93,13 @@ Example:
 ```
 
 
-
+---
 # 1. Project Title
 
 
 ## Digital Logic Design using Logisim
 
-
+---
 
 ## 📌 Overview
 This repository showcases a collection of digital logic circuits designed and simulated using Logisim.  
