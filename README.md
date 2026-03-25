@@ -74,7 +74,7 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ## 🔌💡 Digital Electronics & Interface Design
 
-### 1️⃣2️⃣  [Computer HardWare Digital Logic Design using Logisim](./Hardware/Readme.md)
+### 1️⃣2️⃣  [Computer HardWare Digital Logic Design using Logisim](./HardWare/Readme.md)
 [Electronics Lab Work](./ELECTRONICS/README.md)
 
 ### 1️⃣3️⃣ [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
