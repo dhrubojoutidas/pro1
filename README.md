@@ -169,7 +169,8 @@ Includes:
 ![Cisco Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
 ![Circuit Design & Simulation (Logisim)](https://img.shields.io/badge/-Logisim-4B0082?logo=circuit&logoColor=white)
 ![Code Composer Studio](https://img.shields.io/badge/Code_Composer_Studio-TI-blue?style=for-the-badge)
-![VMware](https://img.shields.io/badge/-VMware-Horizon-607078?logo=vmware&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VMware Horizon](https://img.shields.io/badge/VMware-Horizon%20VDI-0A6ED1?style=for-the-badge&logo=vmware&logoColor=white)
 
 
 
