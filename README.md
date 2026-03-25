@@ -137,7 +137,6 @@ Includes:
 
 💻 Programming & Scripting  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
@@ -145,7 +144,6 @@ Includes:
 ![AWK](https://img.shields.io/badge/-AWK-000000?logo=terminal&logoColor=white)
 ![SED](https://img.shields.io/badge/-SED-333333?logo=terminal&logoColor=white)
 ![GREP](https://img.shields.io/badge/-GREP-555555?logo=terminal&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logo=code&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-Language-grey?style=for-the-badge)
 
 🛜 Embedded & IoT  
@@ -170,23 +168,10 @@ Includes:
 ![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00979D?logo=arduino&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
 ![Circuit Design & Simulation (Logisim)](https://img.shields.io/badge/-Logisim-4B0082?logo=circuit&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
-
-
-
-## 🛠 Tools & Technologies
-
-![VMware](https://img.shields.io/badge/VMware-Horizon-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Code Composer Studio](https://img.shields.io/badge/Code_Composer_Studio-TI-blue?style=for-the-badge)
-![C](https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus)
-)
+![VMware](https://img.shields.io/badge/-VMware-Horizon-607078?logo=vmware&logoColor=white)
 
 
-![Arduino](https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino)
-![Logisim](https://img.shields.io/badge/Logisim-Evolution-blue?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark)
-![VMware](https://img.shields.io/badge/VMware-Horizon-607078?style=for-the-badge&logo=vmware)
 
 ---
 # 🎖️ Certifications
