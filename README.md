@@ -215,6 +215,12 @@ MSP430, Arduino, IoT Development, Sensor Integration, Firestore
 
 ---
 
+### 🖥 Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+---
+
 ### 🧪 Simulation & Design
 ![Logisim](https://img.shields.io/badge/Logisim-4B0082?style=for-the-badge)
 ---
