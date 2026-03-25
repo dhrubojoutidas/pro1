@@ -156,9 +156,11 @@ MSP430, Arduino, IoT Development, Sensor Integration, Firestore
 ---
 ### 🖥 Operating Systems
 <img src="https://skillicons.dev/icons?i=linux,windows" />
+
 ---
 ### 🧪 Simulation & Design
 ![Logisim](https://img.shields.io/badge/Logisim-4B0082?style=for-the-badge)
+
 ---
 
 
