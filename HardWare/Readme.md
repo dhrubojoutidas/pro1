@@ -72,7 +72,7 @@ It reflects hands-on experience with core computer engineering concepts such as 
 
 ---
 
-## 6. Folder Structure (important for GitHub clarity)
+## 6. Folder Structure 
 
 
 ## 📁 Project Structure
