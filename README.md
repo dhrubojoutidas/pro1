@@ -2,9 +2,7 @@
 
 IT Support Technician | Networking & Systems |  IoT & Embedded Systems  | Cisco | Windows & Linux 
 
-- ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows)
-
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows)
 📍 Cannington, WA     ✉️ dhrubod513@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
