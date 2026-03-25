@@ -162,7 +162,7 @@ Includes:
 <!-- Skillicons row 1 -->
 <img src="https://skillicons.dev/icons?i=vscode,linux,windows,arduino,git" />
 
-
+<img src="https://skillicons.dev/icons?i=vscode,linux,windows,arduino,git,github" />
 
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
