@@ -169,6 +169,15 @@ Includes:
 ![Circuit Design & Simulation (Logisim)](https://img.shields.io/badge/-Logisim-4B0082?logo=circuit&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 
+
+
+## 🛠 Tools & Technologies
+
+![VMware](https://img.shields.io/badge/VMware-Horizon-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Code Composer Studio](https://img.shields.io/badge/Code_Composer_Studio-TI-blue?style=for-the-badge)
+![C](https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus)
+![Assembly](https://img.shields.io/badge/Assembly-Language-grey?style=for-the-badge)
 ---
 # 🎖️ Certifications
 
