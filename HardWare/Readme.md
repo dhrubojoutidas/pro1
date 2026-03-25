@@ -108,10 +108,8 @@ Example:
 
 ## 1. Project Title
 
-```
-# Digital Logic Design using Logisim
-```
 
+# Digital Logic Design using Logisim
 ---
 
 ## 2. Short Description (VERY IMPORTANT)
