@@ -178,6 +178,15 @@ Includes:
 ![C](https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus)
 ![Assembly](https://img.shields.io/badge/Assembly-Language-grey?style=for-the-badge)
+
+
+![Arduino](https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino)
+![Logisim](https://img.shields.io/badge/Logisim-Evolution-blue?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark)
+![VMware](https://img.shields.io/badge/VMware-Horizon-607078?style=for-the-badge&logo=vmware)
+![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ---
 # 🎖️ Certifications
 
