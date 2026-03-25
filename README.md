@@ -2,6 +2,8 @@
 
 IT Support Technician | Networking & Systems |  IoT & Embedded Systems  | Cisco | Windows & Linux 
 
+- ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows)
 
 📍 Cannington, WA     ✉️ dhrubod513@gmail.com  
 
