@@ -155,33 +155,6 @@ Includes:
 
 ---
 
-
-# 🛠️ Tools & Technologies  
-
-
-<!-- Skillicons row 1 -->
-<img src="https://skillicons.dev/icons?i=vscode,linux,windows,arduino,git" />
-
-<img src="https://skillicons.dev/icons?i=vscode,linux,windows,arduino,git,github" />
-
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
-![Logisim](https://img.shields.io/badge/Logisim-4B0082?style=for-the-badge)
-![Code Composer Studio](https://img.shields.io/badge/Code_Composer_Studio-TI-blue?style=for-the-badge)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VMware Horizon](https://img.shields.io/badge/VMware_Horizon_VDI-0A6ED1?style=for-the-badge&logo=vmware&logoColor=white)
-
-
-
-
 # 🛠️ Tools & Technologies  
 
 <img src="https://skillicons.dev/icons?i=vscode,linux,windows,arduino,git,github" />
