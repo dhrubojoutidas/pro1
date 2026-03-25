@@ -153,6 +153,25 @@ Includes:
 ![Sensor Integration](https://img.shields.io/badge/-Sensor_Integration-6A5ACD?logo=sensor&logoColor=white)
 ![Firestore Cloud Platform](https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=black)
 
+
+
+# 🛠️ Skills
+
+### 🌐 Networking
+VLANs, Routing, Subnetting, DHCP, NAT, Network Security
+
+### 🖥️ System Administration
+Windows Server, Linux, Active Directory, LDAP, SMB, FTP
+
+### 🔐 Security
+CyberOps Associate, SIEM, Threat Detection
+
+### 💻 Programming & Scripting
+Python, C, C++, SQL, Bash, AWK, SED, GREP, Assembly
+
+### 🛜 Embedded & IoT
+MSP430, Arduino, IoT Development, Sensor Integration, Firestore
+
 ---
 
 # 🛠️ Tools & Technologies  
