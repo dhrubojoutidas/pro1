@@ -1,15 +1,5 @@
 
 
-```markdown
-# Digital Logic Design using Logisim
-
-## 📌 Overview
-This repository showcases a collection of digital logic circuits designed and simulated using Logisim.  
-The project demonstrates practical implementation of combinational logic, modular circuit design, and construction of a functional 4-bit ALU.
-
-It reflects hands-on experience with core computer engineering concepts such as multiplexing, encoding, and arithmetic logic design.
-
----
 
 ## 🔧 Implemented Circuits
 
@@ -102,24 +92,21 @@ Example:
 - Integrate timing analysis and optimization
 ```
 
----
+
+
+# 1. Project Title
+
+
+## Digital Logic Design using Logisim
 
 
 
-## 1. Project Title
+## 📌 Overview
+This repository showcases a collection of digital logic circuits designed and simulated using Logisim.  
+The project demonstrates practical implementation of combinational logic, modular circuit design, and construction of a functional 4-bit ALU.
 
+It reflects hands-on experience with core computer engineering concepts such as multiplexing, encoding, and arithmetic logic design.
 
-# Digital Logic Design using Logisim
----
-
-## 2. Short Description (VERY IMPORTANT)
-
-```
-This repository contains a collection of digital logic circuits designed and simulated using Logisim. 
-The project covers fundamental to intermediate concepts including multiplexers, encoders, arithmetic circuits, and a 4-bit ALU.
-
-The goal of this work is to demonstrate understanding of combinational logic design, modular circuit construction, and hardware abstraction.
-```
 
 ---
 
