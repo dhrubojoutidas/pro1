@@ -14,9 +14,9 @@ It reflects hands-on experience with core computer engineering concepts such as 
 
 ---
 
-## 3. Key Features
 
-## 🔧 Implemented Circuits
+
+## 3 .🔧 Implemented Circuits
 
 ### Multiplexers (MUX)
 - 2:1 Multiplexer
@@ -50,7 +50,7 @@ It reflects hands-on experience with core computer engineering concepts such as 
 
 ---
 
-## 4. 🧠Design Approach
+## 4. 🧠 Design Approach
 
 - Applied **Karnaugh Map (K-map)** simplification to optimize logic circuits
 - Implemented **Sum of Products (SOP)** expressions
@@ -61,9 +61,8 @@ It reflects hands-on experience with core computer engineering concepts such as 
 
 ---
 
-## 5. Tools & Technologies
+## 5. 🛠  Tools & Technologies
 
-## 🛠 Tools Used
 - Logisim Evolution
 - Digital Logic Design principles
 - Boolean Algebra
@@ -72,15 +71,8 @@ It reflects hands-on experience with core computer engineering concepts such as 
 
 ---
 
-## 6. Folder Structure 
 
-
-## 📁 Project Structure
-/mux
-/encoder
-/adder_subtractor
-/alu
-/screenshots
+## 6. 📁 Project Structure
 
 
 ---
@@ -95,7 +87,7 @@ It reflects hands-on experience with core computer engineering concepts such as 
 ![MUX](screenshots/mux.png)
 
 
-##  8 📚 Learning Outcomes
+##  8. 📚 Learning Outcomes
 
 - Developed strong understanding of combinational logic design
 - Gained experience in building modular hardware systems
@@ -104,12 +96,10 @@ It reflects hands-on experience with core computer engineering concepts such as 
 
 ---
 
-##  9 🚀 Future Improvements
+##  9.  🚀 Future Improvements
 - Extend ALU to support more operations (AND, OR, XOR, NOT)
 - Implement sequential circuits (flip-flops, registers)
 - Integrate timing analysis and optimization
-
-
 
 ---
 
