@@ -82,6 +82,20 @@ The purpose of this portfolio is to demonstrate practical problem‑solving, sys
 
 ---
 
+
+# 📚🔍 Research, Reports & Academic Documentation
+<br>
+
+### 1️⃣5️⃣ [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md) 
+### 1️⃣6️⃣ [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>) 
+### 1️⃣7️⃣ [Communication & Public Relations](./Public%20Relation/) 
+### 1️⃣8️⃣ [Linear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md) 
+<br>
+
+
+---
+
+
 ## 👇 Git & Version Control Practice
 
 A dedicated repository demonstrating hands‑on experience with:
@@ -97,18 +111,6 @@ Includes:
 - [Original python file](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze_REAL.py) 
 - [workshop exercises PDF](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/ISEN1000%20Workshop%2004%20-%20Version%20Control.pdf) 
 <br>
-
----
-
-# 📚🔍 Research, Reports & Academic Documentation
-<br>
-
-### 1️⃣5️⃣ [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md) 
-### 1️⃣6️⃣ [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>) 
-### 1️⃣7️⃣ [Communication & Public Relations](./Public%20Relation/) 
-### 1️⃣8️⃣ [Linear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md) 
-<br>
-
 
 ---
 
