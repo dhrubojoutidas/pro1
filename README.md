@@ -46,7 +46,7 @@ Every main topic below is **clickable** – opening a folder with detailed docum
 
 ## ✈️📜 **Software Engineering Projects**
 6. **[ Software Engineering project 1 - SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)**
-7. **[ Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) **
+7. **[ Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md)**
 
 ---
 
