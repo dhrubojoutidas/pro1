@@ -96,14 +96,9 @@ This project is a real-time **IoT Accident Detection & Emergency Alert System** 
 
 
 ### 2. Presentation Slides
-- [Proposal Presentation_1](presentations/CTP1_Project_IDEA_1st_pptx)
+- [Proposal Presentation_1](presentations/CTP1_Project_IDEA_1st_pptx.pdf)
 - [Design & Progress Presentation_2](/CTP_1/CTP1_Equipment_List_2nd_pptx.pdf )
 - [Final Results Presentation_3](CTP1_Project_Logic_3rd_PPTX.pdf)
-
-### 3. Progress Videos
-- [Video 1](https://www.youtube.com/watch?v=J7sw8ByrYvY)
-- [Video 2](https://youtu.be/AZTAg46qQPI)
-- [Video 3](https://youtu.be/5J_tcFpxorA)
 
 ---
 
