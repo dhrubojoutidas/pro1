@@ -67,10 +67,10 @@ Every main topic below is **clickable** – opening a folder with detailed docum
 ---
 
 ## 📚🔍 **Research, Reports & Academic Writings**
-15. **[Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md) **  
-16. **[Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>) **  
-17. **[Communication & Public Relations](./Public%20Relation/) **  
-18. **[Linear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md) **
+15. **[Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md)**  
+16. **[Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>)**  
+17. **[Communication & Public Relations](./Public%20Relation/)**  
+18. **[Linear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md)**
 
 ---
 
