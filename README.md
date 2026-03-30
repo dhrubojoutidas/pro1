@@ -122,8 +122,8 @@ Every main topic below is **clickable** – opening a folder with detailed docum
 
 
 
- 4️⃣ **[ Network Design featuring routing, VLAN implementation, IP addressing](./Networking%20Project)**
- 5️⃣ **[ Computer Systems Design & Administration](./Computer_system200_Unit/README.md)**s
+ - 4️⃣ **[ Network Design featuring routing, VLAN implementation, IP addressing](./Networking%20Project)**
+ - 5️⃣ **[ Computer Systems Design & Administration](./Computer_system200_Unit/README.md)**
 ---
 
 ## ✈️📜 **Software Engineering Projects**
