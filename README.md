@@ -51,8 +51,7 @@ Every main topic below is **clickable** – opening a folder with detailed docum
 ---
 
 ## 🐍🏅 **Programming**
-8. **[Olympic Games SQL & Python Analysis](./Olympic_Games_Database_System/)**
-9. **[Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)**
+8.  **[Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)**
 10. **[Tank Shooter Game (C)](./Unix_&_Programming/Readme.md)**
 11. **[Human-Vampire-Interaction-Model  python ](./Python/Python_Project_1_Folder/Readme.md)**
 12. **[Traffic Optimization System using Data Structures & Algorithms (DSA)](./DSA/Readme.md)**
