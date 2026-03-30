@@ -185,4 +185,122 @@ MSP430, Arduino, IoT Development, Sensor Integration, Firestore
 
 
 
+# 👨‍💻 Dhrubo Jouti Das (Troyee)
+**IT Support Technician | Networking & Systems | IoT & Embedded Systems  
+Cisco | Windows | Linux | Python | Arduino | MSP430**
+
+📍 Cannington, WA  
+✉️ **dhrubod513@gmail.com**  
+🔗 [LinkedIn](#) • [GitHub](#)
+
+---
+
+# 🚀 About This Repository
+This repository showcases my technical and academic work from:
+
+✅ **Diploma of IT – Curtin College**  
+✅ **Bachelor of Technology – Computer Systems & Networking – Curtin University**
+
+It contains hands‑on projects in:
+
+- Networking & Systems Administration  
+- Embedded Systems & IoT  
+- Database Design & SQL  
+- Python, C, C++  
+- Digital Electronics & Microcontrollers  
+- Professional Engineering Practice  
+
+Every main topic below is **clickable** – opening a folder with detailed documentation, images, and full project files.
+
+---
+
+# 📂 **Highlighted Project Categories**
+
+## 🛜 **IoT, Embedded Systems & Microcontrollers**
+1. **[IoT Accident Detection System (Arduino + Cloud)](./IoT_Accident_Detection_System/)**  
+2. **[Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/)**
+3. **[Microcomputer MSP430 (CLIC3 Board)](./MICRO_COMPUTER/)**
+
+---
+
+## 🌐📡 **Networking & System Administration**
+4. **[Network Design – Routing, VLANs, IP Addressing](./Networking_Project/)**  
+5. **[Computer Systems – Windows & Linux Administration](./Computer_system200_Unit/)**
+
+---
+
+## ✈️📜 **Software Engineering Projects**
+6. **[SkyFly Airline Reservation System](./Software_Engineering_Project_1/)**
+7. **[Software Engineering – Modularity, Agile, Testing](./Software_Engineering_Project_2/)**
+
+---
+
+## 🐍🏅 **Programming**
+8. **[Olympic Games SQL & Python Analysis](./Olympic_Games_Database_System/)**  
+9. **[Tank Shooter Game (C)](./C_Projects/)**  
+10. **[Human–Vampire Interaction Model (Python)](./Python_Python_Project_1_Folder/)**  
+11. **[Traffic Optimization System using DSA](./DSA/)**
+
+---
+
+## 🔌💡 **Digital Electronics & Interface Design**
+12. **[Computer Hardware Digital Logic (Logisim)](./HardWare/)**  
+13. **[Electronics Lab Work](./ELECTRONICS/)**  
+14. **[Transmission & Interface Design](./Transmission_&_Interface_Design/)**
+
+---
+
+## 📚🔍 **Research, Reports & Academic Writings**
+15. **[Engineering & Professional Practice](./Engineering_Management_&_Professional_Practice/)**  
+16. **[Indigenous Science & STEM](./Indigenous_Science_&_STEM/)**  
+17. **[Communication & Public Relations](./Public_Relation/)**  
+18. **[Linear Algebra & Statistics for Engineers](./Linear_Algebra_and_Statistics_for_Engineers/)**
+
+---
+
+# 🧰 Git & Version Control Practice
+Includes:
+
+- Branching, merging, and conflict resolution exercises  
+- Version tagging & release documentation  
+- `git log --decorate --graph --all` commit history visualisation  
+- Maze solver Python scripts (`Maze.py`, `Viewer.py`)  
+- Workshop PDFs & commit logs  
+
+---
+
+# 🛠️ Skills Overview
+
+### 🌐 **Networking**
+VLANs • Routing • Subnetting • DHCP • NAT • Network Security
+
+### 🖥️ **System Administration**
+Windows Server • Linux • AD • LDAP • SMB • FTP
+
+### 🔐 **Security**
+CyberOps • SIEM • Threat Detection
+
+### 💻 **Programming**
+Python • C • C++ • SQL • Bash • AWK • SED • GREP • Assembly
+
+### 🛜 **Embedded & IoT**
+Arduino • MSP430 • Sensor Integration • Firestore
+
+### 🧪 **Tools**
+Git • GitHub • VS Code • Wireshark • Packet Tracer  
+Arduino IDE • Code Composer Studio  
+VMware • Logisim
+
+---
+
+# 🎖️ Certifications
+- Cisco CyberOps Associate  
+- Cisco Network Security  
+- CCNA ITN • CCNA SRWE • CCNA ENSA  
+
+---
+
+# 📌 About
+A curated portfolio of my academic, engineering, networking, and software development work.
+
 
