@@ -1,26 +1,7 @@
 
 
----
-
-## 🎓 About This Repository
-
-This repository showcases my technical and academic work completed during my Diploma of IT (Curtin College) and Bachelor of Technology in Computer Systems & Networking (Curtin University). It includes hands‑on projects in networking, systems administration, databases, programming, embedded systems, IoT development, and professional engineering practice.
-
-The purpose of this portfolio is to demonstrate practical problem‑solving, system design, and implementation skills developed through coursework, laboratory activities, and project‑based learning.
-
----
-
-# 🚀✏️ Highlighted Projects
-<br>
 
 
-## 🛜 IoT, Embedded Systems & Microcontrollers
-
-### 1️⃣ [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)
-
-### 2️⃣ [Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)
-
-### 3️⃣ [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
 <br>
 
 
@@ -104,72 +85,6 @@ Includes:
 - [workshop exercises PDF](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/ISEN1000%20Workshop%2004%20-%20Version%20Control.pdf) 
 <br>
 
----
-
-# 🛠️ Skills
-
-### 🌐 Networking
-VLANs, Routing, Subnetting, DHCP, NAT, Network Security
-
-### 🖥️ System Administration
-Windows Server, Linux, Active Directory, LDAP, SMB, FTP
-
-### 🔐 Security
-CyberOps Associate, SIEM, Threat Detection
-
-### 💻 Programming & Scripting
-Python, C, C++, SQL, Bash, AWK, SED, GREP, Assembly
-
-### 🛜 Embedded & IoT
-MSP430, Arduino, IoT Development, Sensor Integration, Firestore
-
----
-
-
-# 🛠 Tools & Technologies
-
-
-### 💻 Development
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
----
-
-### 🌐 Networking
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
----
-
-### 🔧 Embedded Systems
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Code Composer Studio](https://img.shields.io/badge/Code_Composer_Studio-TI-blue?style=for-the-badge)
----
-### 🖥 Virtualization
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VMware Horizon](https://img.shields.io/badge/VMware_Horizon_VDI-0A6ED1?style=for-the-badge&logo=vmware&logoColor=white)
----
-### 🖥 Operating Systems
-<img src="https://skillicons.dev/icons?i=linux,windows" />
-
----
-### 🧪 Simulation & Design
-![Logisim](https://img.shields.io/badge/Logisim-4B0082?style=for-the-badge)
-
----
-
-
-# 🎖️ Certifications
-
-[![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/5bfceb3a-1b9d-4bcd-9fdd-65cd1f0ab715)
-
-[![Cisco Network Security](https://img.shields.io/badge/Cisco-Network_Security_Associate-blue?logo=cisco)](https://www.credly.com/badges/92e91958-82d5-4ba9-add3-e48b7a2d0882)
-
-[![CCNA ITN](https://img.shields.io/badge/CCNA-Introduction_to_Networks-blue?logo=cisco)](https://www.credly.com/badges/b6763194-3e84-493c-a942-77f5ebe55488)
-
-[![CCNA SRWE](https://img.shields.io/badge/CCNA-Switching_Routing_&_Wireless_Essentials-blue?logo=cisco)](https://www.credly.com/badges/787c3102-9786-45ce-b478-a0e71efb8ea8)
-
-[![CCNA ENSA](https://img.shields.io/badge/CCNA-Enterprise_Networking_Security_&_Automation-blue?logo=cisco)](https://www.credly.com/badges/e4db69ac-6695-4e2c-b0f0-9e11c1bb6c81)
-
 
 ---
 
@@ -183,15 +98,12 @@ Cisco | Windows | Linux | Python | Arduino | MSP430**
 
 📍 Cannington, WA  
 ✉️ **dhrubod513@gmail.com**  
-🔗 [LinkedIn](#) • [GitHub](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
 [![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)]( https://github.com/dhrubojoutidas/pro1/blob/master/README.md)
 
-
-
 ---
 
-# 🚀 About This Repository
+# 🎓 About This Repository
 This repository showcases my technical and academic work from:
 
 ✅ **Diploma of IT – Curtin College**  
@@ -210,13 +122,23 @@ Every main topic below is **clickable** – opening a folder with detailed docum
 
 ---
 
-# 📂 **Highlighted Project Categories**
+# 📂🚀 **Highlighted Project Categories**
 
 ## 🛜 **IoT, Embedded Systems & Microcontrollers**
 1. **[IoT Accident Detection System (Arduino + Cloud)](./IoT_Accident_Detection_System/)**  
 2. **[Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/)**
 3. **[Microcomputer MSP430 (CLIC3 Board)](./MICRO_COMPUTER/)**
 
+
+# 🚀✏️ Highlighted Projects
+<br>
+
+
+## 🛜 IoT, Embedded Systems & Microcontrollers
+
+### 1️⃣ [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)
+### 2️⃣ [Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)
+### 3️⃣ [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
 ---
 
 ## 🌐📡 **Networking & System Administration**
@@ -274,7 +196,7 @@ VLANs • Routing • Subnetting • DHCP • NAT • Network Security
 Windows Server • Linux • AD • LDAP • SMB • FTP
 
 ### 🔐 **Security**
-CyberOps • SIEM • Threat Detection
+CyberOps Associate • SIEM • Threat Detection
 
 ### 💻 **Programming**
 Python • C • C++ • SQL • Bash • AWK • SED • GREP • Assembly
@@ -282,18 +204,57 @@ Python • C • C++ • SQL • Bash • AWK • SED • GREP • Assembly
 ### 🛜 **Embedded & IoT**
 Arduino • MSP430 • Sensor Integration • Firestore
 
+
+
+
 ### 🧪 **Tools**
 Git • GitHub • VS Code • Wireshark • Packet Tracer  
 Arduino IDE • Code Composer Studio  
 VMware • Logisim
+
+
+
+### 🛠 ** Tools & Technologies**
+
+
+#### 💻 Development
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+---
+
+### 🌐 Networking
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
+---
+
+### 🔧 Embedded Systems
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Code Composer Studio](https://img.shields.io/badge/Code_Composer_Studio-TI-blue?style=for-the-badge)
+---
+### 🖥 Virtualization
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VMware Horizon](https://img.shields.io/badge/VMware_Horizon_VDI-0A6ED1?style=for-the-badge&logo=vmware&logoColor=white)
+---
+### 🖥 Operating Systems
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+
+---
+### 🧪 Simulation & Design
+![Logisim](https://img.shields.io/badge/Logisim-4B0082?style=for-the-badge)
+
 
 ---
 
 # 🎖️ Certifications
 - Cisco CyberOps Associate  
 - Cisco Network Security  
-- CCNA ITN • CCNA SRWE • CCNA ENSA  
-
+- [![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco-CyberOps_Associate-blue?logo=cisco)](https://www.credly.com/badges/5bfceb3a-1b9d-4bcd-9fdd-65cd1f0ab715)
+- [![Cisco Network Security](https://img.shields.io/badge/Cisco-Network_Security_Associate-blue?logo=cisco)](https://www.credly.com/badges/92e91958-82d5-4ba9-add3-e48b7a2d0882)
+- [![CCNA ITN](https://img.shields.io/badge/CCNA-Introduction_to_Networks-blue?logo=cisco)](https://www.credly.com/badges/b6763194-3e84-493c-a942-77f5ebe55488)
+- [![CCNA SRWE](https://img.shields.io/badge/CCNA-Switching_Routing_&_Wireless_Essentials-blue?logo=cisco)](https://www.credly.com/badges/787c3102-9786-45ce-b478-a0e71efb8ea8)
+- [![CCNA ENSA](https://img.shields.io/badge/CCNA-Enterprise_Networking_Security_&_Automation-blue?logo=cisco)](https://www.credly.com/badges/e4db69ac-6695-4e2c-b0f0-9e11c1bb6c81)
+  
 ---
 
 # 📌 About
