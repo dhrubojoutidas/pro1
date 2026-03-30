@@ -1,25 +1,4 @@
 
-
-
-
-<br>
-
-
----
-
-## 🌐📡  Networking & Systems – Network Design & Administration
-
-
-
-### 4️⃣ [ Network Design featuring routing, VLAN implementation, IP addressing](./Networking%20Project)
-
-### 5️⃣ [ Computer Systems Design & Administration](./Computer_system200_Unit/README.md)
-<br>
-
----
-
-
-
 ## ✈️📜  Software Engineering
 
 
@@ -126,25 +105,25 @@ Every main topic below is **clickable** – opening a folder with detailed docum
 
 ## 🛜 **IoT, Embedded Systems & Microcontrollers**
 1. **[IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)**  
-2. ** [Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)**
+2. **[Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)**
 3. **[Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)**
 
 
-# 🚀✏️ Highlighted Projects
-<br>
 
 
-## 🛜 IoT, Embedded Systems & Microcontrollers
-
-### 1️⃣ [IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)
-### 2️⃣ [Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)
-### 3️⃣ [Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)
 ---
 
 ## 🌐📡 **Networking & System Administration**
 4. **[Network Design – Routing, VLANs, IP Addressing](./Networking_Project/)**  
 5. **[Computer Systems – Windows & Linux Administration](./Computer_system200_Unit/)**
 
+
+## 🌐📡  Networking & Systems – Network Design & Administration
+
+
+
+ 4️⃣ **[ Network Design featuring routing, VLAN implementation, IP addressing](./Networking%20Project)**
+ 5️⃣ **[ Computer Systems Design & Administration](./Computer_system200_Unit/README.md)**s
 ---
 
 ## ✈️📜 **Software Engineering Projects**
