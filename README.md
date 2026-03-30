@@ -125,9 +125,9 @@ Every main topic below is **clickable** – opening a folder with detailed docum
 # 📂🚀 **Highlighted Project Categories**
 
 ## 🛜 **IoT, Embedded Systems & Microcontrollers**
-1. **[IoT Accident Detection System (Arduino + Cloud)](./IoT_Accident_Detection_System/)**  
-2. **[Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/)**
-3. **[Microcomputer MSP430 (CLIC3 Board)](./MICRO_COMPUTER/)**
+1. **[IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)**  
+2. ** [Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)**
+3. **[Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)**
 
 
 # 🚀✏️ Highlighted Projects
@@ -207,7 +207,7 @@ Arduino • MSP430 • Sensor Integration • Firestore
 ---
 
 
-### 🧪 **Tools**
+# 🧪 **Tools**
 #### 💻 Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
