@@ -1,76 +1,4 @@
 
-## ✈️📜  Software Engineering
-
-
-### 6️⃣ [ Software Engineering project 1 - SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)
-
-### 7️⃣ [ Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) 
-<br>
-
- ---
-
- 
-## 🏅🐍  Programming
-
-### 8️⃣  [Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)
-
-### 9️⃣ [ Tank Shooter Game (C)](./Unix_&_Programming/Readme.md)
-### 🔟 [Human-Vampire-Interaction-Model using python ](./Python/Python_Project_1_Folder/Readme.md)
-
-### 1️⃣1️⃣ [Traffic Optimization System using Data Structures & Algorithms (DSA)](./DSA/Readme.md)
-
-<br>
- 
----
-
-## 🔌💡 Digital Electronics & Interface Design
-
-### 1️⃣2️⃣ [Computer HardWare Digital Logic Design using Logisim](./HardWare/Readme.md)
-
-### 1️⃣3️⃣ [Electronics Lab Work](./ELECTRONICS/README.md)
-
-### 1️⃣4️⃣ [Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)
-<br>
-
----
-
-
-# 📚🔍 Research, Reports & Academic Documentation
-<br>
-
-### 1️⃣5️⃣ [Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md) 
-### 1️⃣6️⃣ [Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>) 
-### 1️⃣7️⃣ [Communication & Public Relations](./Public%20Relation/) 
-### 1️⃣8️⃣ [Linear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md) 
-<br>
-
-
----
-
-
-## 👇 Git & Version Control Practice
-
-A dedicated repository demonstrating hands‑on experience with:
-
-- branching, merging, and conflict resolution  
-- version tagging and release archiving  
-- visualising commit history (`git log --decorate --graph --all`)  
-- documenting workshop tasks and commit logs  
-
-Includes:
-- [full commit history exported export](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Workshop%204_ISEN_2.txt)
-- python file [Maze.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze.py) & [Viwer.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Viewer.py)
-- [Original python file](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze_REAL.py) 
-- [workshop exercises PDF](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/ISEN1000%20Workshop%2004%20-%20Version%20Control.pdf) 
-<br>
-
-
----
-
-
-
-
-
 # 👨‍💻 Dhrubo Jouti Das (Troyee)
 **IT Support Technician | Networking & Systems | IoT & Embedded Systems  
 Cisco | Windows | Linux | Python | Arduino | MSP430**
@@ -107,55 +35,46 @@ Every main topic below is **clickable** – opening a folder with detailed docum
 1. **[IoT Accident Detection System (Arduino + Cloud)  ](./CTP_1/README.md)**  
 2. **[Embedded Systems – MSP430 Microcomputer Project](./Embedded_Systems_Engineering/README.md)**
 3. **[Microcomputer MSP430 Embedded System (CLIC3 Board)](./MICRO%20COMPUTER/README.md)**
-
-
-
-
 ---
 
 ## 🌐📡 **Networking & System Administration**
-4. **[Network Design – Routing, VLANs, IP Addressing](./Networking_Project/)**  
-5. **[Computer Systems – Windows & Linux Administration](./Computer_system200_Unit/)**
-
-
-## 🌐📡  Networking & Systems – Network Design & Administration
-
-
-
- - 4️⃣ **[ Network Design featuring routing, VLAN implementation, IP addressing](./Networking%20Project)**
- - 5️⃣ **[ Computer Systems Design & Administration](./Computer_system200_Unit/README.md)**
+4. **[ Network Design -Routing,VLAN , IP addressing](./Networking%20Project)**
+5. **[ Computer Systems Design & Administration](./Computer_system200_Unit/README.md)**
+   
 ---
 
+
 ## ✈️📜 **Software Engineering Projects**
-6. **[SkyFly Airline Reservation System](./Software_Engineering_Project_1/)**
-7. **[Software Engineering – Modularity, Agile, Testing](./Software_Engineering_Project_2/)**
+6. **[ Software Engineering project 1 - SkyFly Airline Reservation System](./Software_Engineering_Project/Excercise_1_Folder/README.md)**
+7. **[ Software Engineering Project 2 -Testing, Modularity & Agile](./Software_Engineering_Project/Excercise_2_Folder/README.md) **
 
 ---
 
 ## 🐍🏅 **Programming**
-8. **[Olympic Games SQL & Python Analysis](./Olympic_Games_Database_System/)**  
-9. **[Tank Shooter Game (C)](./C_Projects/)**  
-10. **[Human–Vampire Interaction Model (Python)](./Python_Python_Project_1_Folder/)**  
-11. **[Traffic Optimization System using DSA](./DSA/)**
+8. **[Olympic Games SQL & Python Analysis](./Olympic_Games_Database_System/)**
+9. **[Olympic Games SQL & Python Data Analysis](./Olympic_Games_Database_System/README.md)**
+10. **[Tank Shooter Game (C)](./Unix_&_Programming/Readme.md)**
+11. **[Human-Vampire-Interaction-Model  python ](./Python/Python_Project_1_Folder/Readme.md)**
+12. **[Traffic Optimization System using Data Structures & Algorithms (DSA)](./DSA/Readme.md)**
 
 ---
 
 ## 🔌💡 **Digital Electronics & Interface Design**
-12. **[Computer Hardware Digital Logic (Logisim)](./HardWare/)**  
-13. **[Electronics Lab Work](./ELECTRONICS/)**  
-14. **[Transmission & Interface Design](./Transmission_&_Interface_Design/)**
+12. **[Computer HardWare Digital Logic Design using Logisim](./HardWare/Readme.md)**  
+13. **[Electronics Lab Work](./ELECTRONICS/README.md)**  
+14. **[Transmission & Interface Design ](./Transmission_&_Interface_Design/README.md)**
 
 ---
 
 ## 📚🔍 **Research, Reports & Academic Writings**
-15. **[Engineering & Professional Practice](./Engineering_Management_&_Professional_Practice/)**  
-16. **[Indigenous Science & STEM](./Indigenous_Science_&_STEM/)**  
-17. **[Communication & Public Relations](./Public_Relation/)**  
-18. **[Linear Algebra & Statistics for Engineers](./Linear_Algebra_and_Statistics_for_Engineers/)**
+15. **[Engineering & Professional Practice](./Engineering_Management%20_%26_Professional_Practice/README.md) **  
+16. **[Indigenous Science & STEM](<Indigenous_Science_&_ STEM/Readme.md>) **  
+17. **[Communication & Public Relations](./Public%20Relation/) **  
+18. **[Linear_Algebra_and_Statistics_for_Engineers](/Linear_Algebra_and_Statistics_for_Engineers/Readme.md) **
 
 ---
 
-# 🧰 Git & Version Control Practice
+# 👇 Git & Version Control Practice
 Includes:
 
 - Branching, merging, and conflict resolution exercises  
@@ -164,6 +83,12 @@ Includes:
 - Maze solver Python scripts (`Maze.py`, `Viewer.py`)  
 - Workshop PDFs & commit logs  
 
+
+Includes:
+- [full commit history exported export](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Workshop%204_ISEN_2.txt)
+- python file [Maze.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze.py) & [Viwer.py](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Viewer.py)
+- [Original python file](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/Maze_REAL.py) 
+- [workshop exercises PDF](https://github.com/dhrubojoutidas/git_workshop4_prac/blob/master/ISEN1000%20Workshop%2004%20-%20Version%20Control.pdf) 
 ---
 
 # 🛠️ Skills Overview
