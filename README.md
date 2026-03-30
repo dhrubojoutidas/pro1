@@ -1,12 +1,4 @@
-# 👨‍💻 Dhrubo Jouti Das 
 
-IT Support Technician | Networking & Systems |  IoT & Embedded Systems  | Cisco | Windows & Linux 
-
-📍 Cannington, WA     ✉️ dhrubod513@gmail.com  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
-
-[![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)]( https://github.com/dhrubojoutidas/pro1/blob/master/README.md)
 
 ---
 
@@ -192,6 +184,10 @@ Cisco | Windows | Linux | Python | Arduino | MSP430**
 📍 Cannington, WA  
 ✉️ **dhrubod513@gmail.com**  
 🔗 [LinkedIn](#) • [GitHub](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrubo_Jouti_Das-blue?logo=linkedin)](https://www.linkedin.com/in/dhrubo-jouti-das-troyee-43ab83351)
+[![GitHub](https://img.shields.io/badge/GitHub-dhrubojoutidas-black?logo=github)]( https://github.com/dhrubojoutidas/pro1/blob/master/README.md)
+
+
 
 ---
 
