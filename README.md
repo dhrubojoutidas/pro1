@@ -208,15 +208,6 @@ Arduino • MSP430 • Sensor Integration • Firestore
 
 
 ### 🧪 **Tools**
-Git • GitHub • VS Code • Wireshark • Packet Tracer  
-Arduino IDE • Code Composer Studio  
-VMware • Logisim
-
-
-
-### 🛠 **Tools & Technologies**
-
-
 #### 💻 Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -234,9 +225,9 @@ VMware • Logisim
 ![VMware Horizon](https://img.shields.io/badge/VMware_Horizon_VDI-0A6ED1?style=for-the-badge&logo=vmware&logoColor=white)
 ### 🖥 Operating Systems
 <img src="https://skillicons.dev/icons?i=linux,windows" />
+
 ### 🧪 Simulation & Design
 ![Logisim](https://img.shields.io/badge/Logisim-4B0082?style=for-the-badge)
-
 
 ---
 
